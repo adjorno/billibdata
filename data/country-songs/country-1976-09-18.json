@@ -1,0 +1,542 @@
+{
+  "name": "Country",
+  "chart_date": "1976-09-18",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "I Don't Want To Have To Marry You",
+      "artist": "Jim Ed Brown And Helen Cornelius",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 2,
+      "title": "If You've Got The Money I've Got The Time",
+      "artist": "Willie Nelson",
+      "cover": "http://www.billboard.com/images/pref_images/q35964lfjxb.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Here's Some Love",
+      "artist": "Tanya Tucker",
+      "cover": "http://www.billboard.com/images/pref_images/p18935d0o2l.jpg",
+      "spotify": "http://open.spotify.com/track/4tHSU8MkTmIp0oFM0iEKGP?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 4,
+      "title": "I Wonder If I Ever Said Goodbye",
+      "artist": "Johnny Rodriguez",
+      "cover": "http://www.billboard.com/images/pref_images/p16108d457b.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Can't You See/i'll Go Back To Her",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 4,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 6,
+      "title": "The Games That Daddies Play",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 7,
+      "title": "All I Can Do",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 8,
+      "title": "You And Me",
+      "artist": "Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27879imrhm.jpg",
+      "spotify": "http://open.spotify.com/track/2lfRJDaKF33W7kNA1gEezv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Let's Put It Back Together Again",
+      "artist": "Jerry Lee Lewis",
+      "cover": "http://www.billboard.com/images/pref_images/p14318ix562.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 10,
+      "title": "After The Storm",
+      "artist": "Wynn Stewart",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 11,
+      "title": "(i'm A) Stand By My Woman Man",
+      "artist": "Ronnie Milsap",
+      "cover": "http://www.billboard.com/images/pref_images/p64915ixv56.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Afternoon Delight",
+      "artist": "Johnny Carver",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Here I Am Drunk Again",
+      "artist": "Moe Bandy",
+      "cover": "http://www.billboard.com/images/pref_images/p10901ruw7x.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Misty Blue",
+      "artist": "Billie Jo Spears",
+      "cover": "http://www.billboard.com/images/pref_images/p08594ts05k.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 15,
+      "title": "My Prayer",
+      "artist": "Narvel Felts",
+      "cover": "http://www.billboard.com/images/pref_images/p13035lrgy1.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 14,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 16,
+      "title": "The Night Time And My Baby",
+      "artist": "Joe Stampley",
+      "cover": "http://www.billboard.com/images/pref_images/p16557xwp6y.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 16,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 17,
+      "title": "The End Is Not In Sight (the Cowboy Tune)",
+      "artist": "Amazing Rhythm Aces",
+      "spotify": "http://open.spotify.com/track/0GF7wIsDshecZaFc2i22SQ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 12,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Don't Stop Believin'",
+      "artist": "Olivia Newton-John",
+      "cover": "http://www.billboard.com/images/pref_images/q33925ccwag.jpg",
+      "spotify": "http://open.spotify.com/track/4IFpOAdAF2Rh2ulMw91gpd?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 14,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 19,
+      "title": "I've Loved You All The Way",
+      "artist": "Donna Fargo",
+      "cover": "http://www.billboard.com/images/pref_images/p13015w6eau.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Honey Hungry",
+      "artist": "Mike Lunsford",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 16,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Peanuts And Diamonds",
+      "artist": "Bill Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/q13686h7qps.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Teardrops In My Heart",
+      "artist": "Rex Allen Jr.",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 18,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Sad Country Love Song",
+      "artist": "Tom Bresh",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 17,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Whiskey Talkin'",
+      "artist": "Joe Stampley",
+      "cover": "http://www.billboard.com/images/pref_images/p16557xwp6y.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 18,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Half As Much",
+      "artist": "Sheila Tiltin",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Red Sails In The Sunset",
+      "artist": "Johnny Lee",
+      "cover": "http://www.billboard.com/images/pref_images/q28510fbm26.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 22,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Honky Tonk Waltz",
+      "artist": "Ray Stevens",
+      "cover": "http://www.billboard.com/images/pref_images/q17292j8u2e.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 27,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 28,
+      "title": "A Whole Lotta Things To Sing About",
+      "artist": "Charley Pride",
+      "cover": "http://www.billboard.com/images/pref_images/p14590oax26.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Among My Souvenirs",
+      "artist": "Marty Robbins",
+      "cover": "http://www.billboard.com/images/pref_images/p2246418kv3.jpg",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 30,
+      "title": "That Look In Her Eyes",
+      "artist": "Freddie Hart",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 11,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Come On In",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Sunday Afternoon Boatride In The Park On The Lake",
+      "artist": "R.W.Blackwood",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 32,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Love Is Thin Ice",
+      "artist": "Barbara Mandrell",
+      "cover": "http://www.billboard.com/images/pref_images/p14987e704s.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 24,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 34,
+      "title": "They Don't Make 'em Like That Anymore",
+      "artist": "Bobby Borchers",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 32,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 35,
+      "title": "You Rubbed It In All Wrong",
+      "artist": "Billy \"Crash\" Craddock",
+      "cover": "http://www.billboard.com/images/pref_images/p04850wk396.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 36,
+      "title": "One More Time (karneval)",
+      "artist": "Crystal Gayle",
+      "cover": "http://www.billboard.com/images/pref_images/q00098ngkyq.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 31,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 37,
+      "title": "I Don't Wanna Talk It Over Anymore",
+      "artist": "Connie Smith",
+      "cover": "http://www.billboard.com/images/pref_images/p85285q666r.jpg",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Cherokee Maiden/what Have You Got Planned Tonight",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Her Name Is",
+      "artist": "George Jones",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Take Me As I Am (or Let Me Go)",
+      "artist": "Mack White",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 34,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Bring It On Home To Me",
+      "artist": "Mickey Gilley",
+      "cover": "http://www.billboard.com/images/pref_images/p02761l7p22.jpg",
+      "spotify": "http://open.spotify.com/track/6pdVSY3bGhcBY4dSHdLY6D?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Teardrops Will Kiss The Morning Dew",
+      "artist": "Del Reeves And Billie Jo Spears",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 42,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Somebody Somewhere (Don't Know What He's Missin' Tonight)",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 44,
+      "title": "That's What I Get (for Doin' My Own Thinkin')",
+      "artist": "Ray Griff",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 24,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 45,
+      "title": "One Of These Days",
+      "artist": "Emmylou Harris",
+      "cover": "http://www.billboard.com/images/pref_images/q30586nn412.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Mississippi",
+      "artist": "Barbara Fairchild",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Kiss And Say Goodbye",
+      "artist": "Billy Larkin",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 36,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Try A Little Tenderness",
+      "artist": "Billy Thunderkloud & The Chieftones",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 47,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 49,
+      "title": "11 Months And 29 Days",
+      "artist": "Johnny Paycheck",
+      "cover": "http://www.billboard.com/images/pref_images/p254763h3u3.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 34,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Put A Little Lovin' On Me",
+      "artist": "Bobby Bare",
+      "cover": "http://www.billboard.com/images/pref_images/p10912s9s7h.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 23,
+        "Wks on Chart": 11
+      }
+    }
+  ]
+}

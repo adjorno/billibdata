@@ -1,0 +1,446 @@
+{
+  "name": "Alternative",
+  "chart_date": "1998-04-25",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "The Way",
+      "artist": "Fastball",
+      "cover": "http://charts-static.billboard.com/img/2017/06/fastball.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Closing Time",
+      "artist": "Semisonic",
+      "cover": "http://charts-static.billboard.com/img/1996/06/semisonic-9fa.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 3,
+      "title": "I Will Buy You A New Life",
+      "artist": "Everclear",
+      "cover": "http://charts-static.billboard.com/img/1995/06/everclear-ekx.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Sex And Candy",
+      "artist": "Marcy Playground",
+      "cover": "http://charts-static.billboard.com/img/1997/11/marcy-playground-ftu.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 34
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Don't Drink The Water",
+      "artist": "Dave Matthews Band",
+      "cover": "http://charts-static.billboard.com/img/1840/12/dave-matthews-band-tbp.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Push It",
+      "artist": "Garbage",
+      "cover": "http://charts-static.billboard.com/img/1995/06/garbage-xzw.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Wishlist",
+      "artist": "Pearl Jam",
+      "cover": "http://charts-static.billboard.com/img/2017/05/pearl-jam.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 6,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 8,
+      "title": "My Own Prison",
+      "artist": "Creed",
+      "cover": "http://charts-static.billboard.com/img/1840/12/creed-442.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 9,
+      "title": "My Hero",
+      "artist": "Foo Fighters",
+      "cover": "http://charts-static.billboard.com/img/2017/06/foo-fighters.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 6,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Shimmer",
+      "artist": "Fuel",
+      "cover": "http://charts-static.billboard.com/img/1998/03/fuel-zep.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 2,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Time Of Your Life (Good Riddance)",
+      "artist": "Green Day",
+      "cover": "http://charts-static.billboard.com/img/2016/12/green-day.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 2,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Clumsy",
+      "artist": "Our Lady Peace",
+      "cover": "http://charts-static.billboard.com/img/1995/03/our-lady-peace-79l.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 5,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Torn",
+      "artist": "Natalie Imbruglia",
+      "cover": "http://charts-static.billboard.com/img/1840/12/natalie-imbruglia-ghj.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 12,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Iris",
+      "artist": "Goo Goo Dolls",
+      "cover": "http://charts-static.billboard.com/img/2017/07/goo-goo-dolls.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 1,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Losing A Whole Year",
+      "artist": "Third Eye Blind",
+      "cover": "http://charts-static.billboard.com/img/1840/12/third-eye-blind-1z1.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Bitter Sweet Symphony",
+      "artist": "The Verve",
+      "cover": "http://charts-static.billboard.com/img/1995/05/the-verve-cen.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 4,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Cut You In",
+      "artist": "Jerry Cantrell",
+      "cover": "http://charts-static.billboard.com/img/1996/05/jerry-cantrell-tcr.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 15,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Zoot Suit Riot",
+      "artist": "Cherry Poppin' Daddies",
+      "cover": "http://charts-static.billboard.com/img/1998/01/cherry-poppin-daddies-531.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 15,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Real World",
+      "artist": "matchbox 20",
+      "cover": "http://charts-static.billboard.com/img/1840/12/matchbox-twenty-33c.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 13,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Given To Fly",
+      "artist": "Pearl Jam",
+      "cover": "http://charts-static.billboard.com/img/2017/05/pearl-jam.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 3,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 21,
+      "title": "From Your Mouth",
+      "artist": "God Lives Underwater",
+      "cover": "http://charts-static.billboard.com/img/1996/03/god-lives-underwater-5f4.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 17,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 22,
+      "title": "How's It Going To Be",
+      "artist": "Third Eye Blind",
+      "cover": "http://charts-static.billboard.com/img/1840/12/third-eye-blind-1z1.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 5,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Shelf In The Room",
+      "artist": "Days Of The New",
+      "cover": "http://charts-static.billboard.com/img/1997/07/days-of-the-new-p5l.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 22,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Mungo City",
+      "artist": "Spacehog",
+      "cover": "http://charts-static.billboard.com/img/1995/12/spacehog-osc.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 21,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Jump Right In",
+      "artist": "The Urge",
+      "cover": "http://charts-static.billboard.com/img/1996/09/the-urge-tyo.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 10,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Flagpole Sitta",
+      "artist": "Harvey Danger",
+      "cover": "http://charts-static.billboard.com/img/1998/04/harvey-danger-9b9.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 3,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Save Yourself",
+      "artist": "Stabbing Westward",
+      "cover": "http://charts-static.billboard.com/img/1996/02/stabbing-westward-4f4.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 20,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Karma Police",
+      "artist": "Radiohead",
+      "cover": "http://charts-static.billboard.com/img/2017/07/radiohead.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 14,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Spark",
+      "artist": "Tori Amos",
+      "cover": "http://charts-static.billboard.com/img/2016/12/tori-amos.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 13,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Sunshower",
+      "artist": "Chris Cornell",
+      "cover": "http://charts-static.billboard.com/img/2017/06/chris-cornell.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 12,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Uninvited",
+      "artist": "Alanis Morissette",
+      "cover": "http://charts-static.billboard.com/img/1840/12/alanis-morissette-pgt.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 26,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Brick",
+      "artist": "Ben Folds Five",
+      "cover": "http://charts-static.billboard.com/img/1997/03/ben-folds-five-j5c.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 6,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Redundant",
+      "artist": "Green Day",
+      "cover": "http://charts-static.billboard.com/img/2016/12/green-day.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 16,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 34,
+      "title": "It's You",
+      "artist": "The Specials",
+      "cover": "http://charts-static.billboard.com/img/1980/01/the-specials-cvz.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 29,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 35,
+      "title": "What I Didn't Know",
+      "artist": "Athenaeum",
+      "cover": "http://charts-static.billboard.com/img/1998/04/athenaeum-yb8.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 14,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Life In Mono",
+      "artist": "Mono",
+      "cover": "http://charts-static.billboard.com/img/2016/11/mono.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 28,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Come On (Let Your Blood Come Alive)",
+      "artist": "Agents Of Good Roots",
+      "cover": "http://charts-static.billboard.com/img/1998/02/agents-of-good-roots-26j.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 37,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Beautiful Disaster",
+      "artist": "311",
+      "cover": "http://charts-static.billboard.com/img/2017/07/311.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 21,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Brian Wilson",
+      "artist": "Barenaked Ladies",
+      "cover": "http://charts-static.billboard.com/img/2017/05/barenaked-ladies.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 23,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Time Ago",
+      "artist": "Black Lab",
+      "cover": "http://charts-static.billboard.com/img/1997/10/black-lab-o9c.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 28,
+        "Wks on Chart": 10
+      }
+    }
+  ]
+}

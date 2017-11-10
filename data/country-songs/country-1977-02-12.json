@@ -1,0 +1,542 @@
+{
+  "name": "Country",
+  "chart_date": "1977-02-12",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Near You",
+      "artist": "George Jones And Tammy Wynette",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Saying Hello, Saying I Love You, Saying Goodbye",
+      "artist": "Jim Ed Brown And Helen Cornelius",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Moody Blue/she Thinks I Still Care",
+      "artist": "Elvis Presley",
+      "cover": "http://www.billboard.com/images/pref_images/q45257y36kp.jpg",
+      "spotify": "http://open.spotify.com/track/7BdxraAY6N2zeTcfRp0gqU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Uncloudy Day",
+      "artist": "Willie Nelson",
+      "cover": "http://www.billboard.com/images/pref_images/q35964lfjxb.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Let My Love Be Your Pillow",
+      "artist": "Ronnie Milsap",
+      "cover": "http://www.billboard.com/images/pref_images/p64915ixv56.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Liars One, Believers Zero",
+      "artist": "Bill Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/q13686h7qps.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Crazy",
+      "artist": "Linda Ronstadt",
+      "cover": "http://www.billboard.com/images/pref_images/q37805wrnbl.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Why Lovers Turn To Strangers",
+      "artist": "Freddie Hart",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Say You'll Stay Until Tomorrow",
+      "artist": "Tom Jones",
+      "cover": "http://www.billboard.com/images/pref_images/p95541yt0ea.jpg",
+      "spotify": "http://open.spotify.com/track/2WbCBrUB1C9H5cWdN5PN6F?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Two Less Lonely People",
+      "artist": "Rex Allen Jr.",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 8,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Heart Healer",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Ridin' Rainbows",
+      "artist": "Tanya Tucker",
+      "cover": "http://www.billboard.com/images/pref_images/p18935d0o2l.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 12,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Whispers",
+      "artist": "Bobby Borchers",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 12,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Don't Be Angry",
+      "artist": "Donna Fargo",
+      "cover": "http://www.billboard.com/images/pref_images/p13015w6eau.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 15,
+      "title": "A Mansion On The Hill",
+      "artist": "Ray Price",
+      "cover": "http://www.billboard.com/images/pref_images/q19116tvh88.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 14,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Midnight Angel",
+      "artist": "Barbara Mandrell",
+      "cover": "http://www.billboard.com/images/pref_images/p14987e704s.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 16,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 17,
+      "title": "There She Goes Again",
+      "artist": "Joe Stampley",
+      "cover": "http://www.billboard.com/images/pref_images/p16557xwp6y.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Twenty Four Hours From Tulsa",
+      "artist": "Randy Barlow",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 18,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 19,
+      "title": "If Love Was A Bottle Of Wine",
+      "artist": "Tommy Overstreet",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Desperado",
+      "artist": "Johnny Rodriguez",
+      "cover": "http://www.billboard.com/images/pref_images/p16108d457b.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 5,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Torn Between Two Lovers",
+      "artist": "Mary Macgregor",
+      "spotify": "http://open.spotify.com/track/6mPXHCKVEWZNXjfQewzb9M?utm_campaign=billboard",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Baby You Look Good To Me Tonight",
+      "artist": "John Denver",
+      "cover": "http://www.billboard.com/images/pref_images/q05672uic4u.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 23,
+      "title": "The Movies",
+      "artist": "The Statler Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/p24114v60jy.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 10,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 24,
+      "title": "I Can't Believe She Gives It All To Me",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Are You Ready For The Country",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 7,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 26,
+      "title": "I Have A Dream, I Have A Dream",
+      "artist": "Roy Clark",
+      "cover": "http://www.billboard.com/images/pref_images/p25356bg9ta.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 26,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 27,
+      "title": "The Last Of The Winfield Amateurs/you Put The Boun",
+      "artist": "Ray Griff",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 27,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 28,
+      "title": "She's Just An Old Love Turned Memory",
+      "artist": "Charley Pride",
+      "cover": "http://www.billboard.com/images/pref_images/p14590oax26.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 29,
+      "title": "My Mountain Dew",
+      "artist": "Charlie Rich",
+      "cover": "http://www.billboard.com/images/pref_images/p16046hvjwg.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 24,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Vegas",
+      "artist": "Bobby & Jeannie Bare",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 30,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 31,
+      "title": "I'm Gonna Love You Right Out Of This World",
+      "artist": "David Rogers",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 21,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 32,
+      "title": "The Son Of Hickory Holler's Tramp",
+      "artist": "Johnny Russell",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 32,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 33,
+      "title": "I Just Came Home To Count The Memories",
+      "artist": "Cal Smith",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 15,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Wrap Your Love All Around Your Man",
+      "artist": "Lynn Anderson",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 12,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 35,
+      "title": "You're Free To Go",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 9,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Southern Nights",
+      "artist": "Glen Campbell",
+      "cover": "http://www.billboard.com/images/pref_images/p99857on5ga.jpg",
+      "spotify": "http://open.spotify.com/track/4c68Z9wLdHc36y3CNjwQKM?utm_campaign=billboard",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Lucille",
+      "artist": "Kenny Rogers",
+      "cover": "http://www.billboard.com/images/pref_images/q40062jmnf1.jpg",
+      "spotify": "http://open.spotify.com/track/42lAZKaWTWOC2pJe7eQDGw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Good 'n' Country",
+      "artist": "Kathy Barnes",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 37,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Your Pretty Roses Came Too Late",
+      "artist": "Lois Johnson",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 20,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Every Beat Of My Heart",
+      "artist": "Peggy Sue",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 34,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Two Dollars In The Jukebox",
+      "artist": "Eddie Rabbitt",
+      "cover": "http://www.billboard.com/images/pref_images/p15953cykua.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 42,
+      "title": "If Not You",
+      "artist": "Dr. Hook",
+      "cover": "http://www.billboard.com/images/pref_images/q00029li17t.jpg",
+      "spotify": "http://open.spotify.com/track/4cf1fhztzhErR4kkd7IKaK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 26,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 43,
+      "title": "I'm Not Easy",
+      "artist": "Billie Jo Spears",
+      "cover": "http://www.billboard.com/images/pref_images/p08594ts05k.jpg",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 44,
+      "title": "After The Lovin'",
+      "artist": "Engelbert Humperdinck",
+      "spotify": "http://open.spotify.com/track/329zbuJUWBCZLWQXdVAc2U?utm_campaign=billboard",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 40,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 45,
+      "title": "The Closest Thing To You",
+      "artist": "Jerry Lee Lewis",
+      "cover": "http://www.billboard.com/images/pref_images/p14318ix562.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 27,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 46,
+      "title": "When The New Wears Off Our Love",
+      "artist": "Jody Miller",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 25,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 47,
+      "title": "He'll Play The Music (but You Can't Make Him Dance",
+      "artist": "Little David Wilkins",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 21,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 48,
+      "title": "New Kid In Town",
+      "artist": "Eagles",
+      "cover": "http://www.billboard.com/images/pref_images/q09210j1yja.jpg",
+      "spotify": "http://open.spotify.com/track/6hvQYmHTt0PqQa9iETYIlB?utm_campaign=billboard",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 43,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 49,
+      "title": "In The Mood",
+      "artist": "Henhouse Five Plus Too",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 39,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Adios Amigo",
+      "artist": "Marty Robbins",
+      "cover": "http://www.billboard.com/images/pref_images/p2246418kv3.jpg",
+      "position": {
+        "Last Week": "78",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    }
+  ]
+}

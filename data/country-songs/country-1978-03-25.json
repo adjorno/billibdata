@@ -1,0 +1,538 @@
+{
+  "name": "Country",
+  "chart_date": "1978-03-25",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Mamas Don't Let Your Babies Grow Up To Be Cowboys/",
+      "artist": "Waylon & Willie",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Ready For The Times To Get Better",
+      "artist": "Crystal Gayle",
+      "cover": "http://www.billboard.com/images/pref_images/q00098ngkyq.jpg",
+      "spotify": "http://open.spotify.com/track/4sf54lshcOkpVYWRYb5jr7?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Someone Loves You Honey",
+      "artist": "Charley Pride",
+      "cover": "http://www.billboard.com/images/pref_images/p14590oax26.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Walk Right Back",
+      "artist": "Anne Murray",
+      "cover": "http://www.billboard.com/images/pref_images/p17487bo9ca.jpg",
+      "spotify": "http://open.spotify.com/track/15Y5X255SzFYMwg5WpCS5t?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 5,
+      "title": "A Lover's Question",
+      "artist": "Jacky Ward",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Return To Me",
+      "artist": "Marty Robbins",
+      "cover": "http://www.billboard.com/images/pref_images/p2246418kv3.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 7,
+      "title": "It Don't Feel Like Sinnin' To Me",
+      "artist": "The Kendalls",
+      "cover": "http://www.billboard.com/images/pref_images/p14005t2axu.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 8,
+      "title": "I Cheated On A Good Woman's Love",
+      "artist": "Billy \"Crash\" Craddock",
+      "cover": "http://www.billboard.com/images/pref_images/p04850wk396.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 4,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Hearts On Fire",
+      "artist": "Eddie Rabbitt",
+      "cover": "http://www.billboard.com/images/pref_images/p15953cykua.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 10,
+      "title": "I've Got A Winner In You",
+      "artist": "Don Williams",
+      "cover": "http://www.billboard.com/images/pref_images/p99491b31tl.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 7,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Every Time Two Fools Collide",
+      "artist": "Kenny Rogers And Dottie West",
+      "spotify": "http://open.spotify.com/track/15w6fI45mPUP06NHpVlryP?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 12,
+      "title": "If I Had A Cheating Heart",
+      "artist": "Mel Street",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 9,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Soft Lights And Hard Country Music",
+      "artist": "Moe Bandy",
+      "cover": "http://www.billboard.com/images/pref_images/p10901ruw7x.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 14,
+      "title": "I Would Like To See You Again",
+      "artist": "Johnny Cash",
+      "cover": "http://www.billboard.com/images/pref_images/p17121eolkl.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 12,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Yes Ma'am",
+      "artist": "Tommy Overstreet",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Sweet Sweet Smile",
+      "artist": "Carpenters",
+      "cover": "http://www.billboard.com/images/pref_images/q43081lh1qv.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Red Hot Memory",
+      "artist": "Kenny Dale",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 18,
+      "title": "We Believe In Happy Endings",
+      "artist": "Johnny Rodriguez",
+      "cover": "http://www.billboard.com/images/pref_images/p16108d457b.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 7,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Bucket To The South",
+      "artist": "Ava Barber",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 14,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 20,
+      "title": "The Grandest Lady Of Them All",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 16,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Don't Ever Say Goodbye",
+      "artist": "T.G. Sheppard",
+      "cover": "http://www.billboard.com/images/pref_images/p58023clds0.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 13,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Starting All Over Again",
+      "artist": "Don Gibson",
+      "cover": "http://www.billboard.com/images/pref_images/p01350b8647.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 16,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Do I Love You (yes In Every Way)",
+      "artist": "Donna Fargo",
+      "cover": "http://www.billboard.com/images/pref_images/p13015w6eau.jpg",
+      "spotify": "http://open.spotify.com/track/7IJYocjIMdpgumiOi8LewM?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Here In Love",
+      "artist": "Dottsy",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 20,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Everybody Loves A Rain Song",
+      "artist": "B.J. Thomas",
+      "cover": "http://www.billboard.com/images/pref_images/q09081kih7s.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 25,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Maybe Baby",
+      "artist": "Susie Allanson",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 7,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Love Is A Word",
+      "artist": "Dickey Lee",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 27,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 28,
+      "title": "It's All Wrong,but It's Alright/Two Doors Down",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 29,
+      "title": "She Can Put Her Shoes Under My Bed(anytime)",
+      "artist": "Johnny Duncan",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 30,
+      "title": "At The End Of A Rainbow",
+      "artist": "Jerry Wallace",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 24,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 31,
+      "title": "I'll Never Be Free",
+      "artist": "Jim Ed Brown And Helen Cornelius",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Two Doors Down",
+      "artist": "Zella Lehr",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 33,
+      "title": "I Love You,i Love You,i Love You",
+      "artist": "Ronnie McDowell",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 34,
+      "title": "I'm Always On A Mountain When I Fall",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 35,
+      "title": "You're The Only Good Thing(that's Happened To Me)",
+      "artist": "Jim Reeves",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 29,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 36,
+      "title": "You Are The Sunshine Of My Life",
+      "artist": "Marty Mitchell",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 34,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Lovin' You Baby",
+      "artist": "Connie Smith",
+      "cover": "http://www.billboard.com/images/pref_images/p85285q666r.jpg",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 34,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Cry Cry Darling",
+      "artist": "Con Hunley",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 34,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Don't Break The Heart That Loves You",
+      "artist": "Margo Smith",
+      "spotify": "http://open.spotify.com/track/6h8mCHgBIYCbZt6vJSW1UE?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 40,
+      "title": "I'll Be There(when You Get Lonely)",
+      "artist": "David Rogers",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 22,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Baby It's You",
+      "artist": "Janie Frickie",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 21,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Come On In",
+      "artist": "Jerry Lee Lewis",
+      "cover": "http://www.billboard.com/images/pref_images/p14318ix562.jpg",
+      "position": {
+        "Last Week": "63",
+        "Peak Position": 10,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Loving Here And Living There And Lying In Between",
+      "artist": "Faron Young",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 38,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Bartender Blues",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Bedroom Eyes",
+      "artist": "Don Drumm",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 18,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Poor Poor Pitiful Me",
+      "artist": "Linda Ronstadt",
+      "cover": "http://www.billboard.com/images/pref_images/q37805wrnbl.jpg",
+      "spotify": "http://open.spotify.com/track/6GXnW8Dd8zWsXoPrElcTGr?utm_campaign=billboard",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 46,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Right Or Wrong",
+      "artist": "Mary K Miller",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 41,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 48,
+      "title": "This Time",
+      "artist": "Johnny Lee",
+      "cover": "http://www.billboard.com/images/pref_images/q28510fbm26.jpg",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 43,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 49,
+      "title": "The Power Of Positive Drinking",
+      "artist": "Mickey Gilley",
+      "cover": "http://www.billboard.com/images/pref_images/p02761l7p22.jpg",
+      "position": {
+        "Last Week": "65",
+        "Peak Position": 8,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Colorado Cool-aid",
+      "artist": "Johnny Paycheck",
+      "cover": "http://www.billboard.com/images/pref_images/p254763h3u3.jpg",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 50,
+        "Wks on Chart": 6
+      }
+    }
+  ]
+}

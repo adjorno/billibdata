@@ -1,0 +1,550 @@
+{
+  "name": "Country",
+  "chart_date": "1976-04-17",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Drinking My Baby (off My Mind)",
+      "artist": "Eddie Rabbitt",
+      "cover": "http://www.billboard.com/images/pref_images/p15953cykua.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 2,
+      "title": "'til I Can Make It On My Own",
+      "artist": "Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27879imrhm.jpg",
+      "spotify": "http://open.spotify.com/track/3VGlhhVUTHk0OVyOmAYOoU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Together Again",
+      "artist": "Emmylou Harris",
+      "cover": "http://www.billboard.com/images/pref_images/q30586nn412.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Don't The Girls All Get Prettier At Closing Time",
+      "artist": "Mickey Gilley",
+      "cover": "http://www.billboard.com/images/pref_images/p02761l7p22.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 5,
+      "title": "I Couldn't Be Me Without You",
+      "artist": "Johnny Rodriguez",
+      "cover": "http://www.billboard.com/images/pref_images/p16108d457b.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 6,
+      "title": "You'll Lose A Good Thing",
+      "artist": "Freddy Fender",
+      "cover": "http://www.billboard.com/images/pref_images/p02648g80gy.jpg",
+      "spotify": "http://open.spotify.com/track/5msgDqJLEADAnU98s48ULJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 7,
+      "title": "My Eyes Can Only See As Far As You",
+      "artist": "Charley Pride",
+      "cover": "http://www.billboard.com/images/pref_images/p14590oax26.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 8,
+      "title": "If I Had It To Do All Over Again",
+      "artist": "Roy Clark",
+      "cover": "http://www.billboard.com/images/pref_images/p25356bg9ta.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Come On Over",
+      "artist": "Olivia Newton-John",
+      "cover": "http://www.billboard.com/images/pref_images/q33925ccwag.jpg",
+      "spotify": "http://open.spotify.com/track/1NgMIqJEh312RgzXd5bVvH?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 5,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Till The Rivers All Run Dry",
+      "artist": "Don Williams",
+      "cover": "http://www.billboard.com/images/pref_images/p99491b31tl.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 11,
+      "title": "You Could Know As Much About A Stranger",
+      "artist": "Gene Watson",
+      "cover": "http://www.billboard.com/images/pref_images/p71339bw5t3.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 10,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 12,
+      "title": "What I've Got In Mind",
+      "artist": "Billie Jo Spears",
+      "cover": "http://www.billboard.com/images/pref_images/p08594ts05k.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Without Your Love (mr. Jordan)",
+      "artist": "Charlie Ross",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 13,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Sun Coming Up",
+      "artist": "Nat Stuckey",
+      "cover": "http://www.billboard.com/images/pref_images/p02378kygm5.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 13,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 15,
+      "title": "What Goes On When The Sun Goes Down",
+      "artist": "Ronnie Milsap",
+      "cover": "http://www.billboard.com/images/pref_images/p64915ixv56.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Lone Star Beer And Bob Wills Music",
+      "artist": "Red Steagall",
+      "cover": "http://www.billboard.com/images/pref_images/p21936p3x46.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Till I Kissed You",
+      "artist": "Connie Smith",
+      "cover": "http://www.billboard.com/images/pref_images/p85285q666r.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Broken Lady",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 5,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Hey Lucky Lady",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 20,
+      "title": "All The King's Horses",
+      "artist": "Lynn Anderson",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 20,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Mental Revenge",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 15,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 22,
+      "title": "That's What Made Me Love You",
+      "artist": "Bill Anderson & Mary Lou Turner",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 7,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 23,
+      "title": "If I Let Her Come In",
+      "artist": "Ray Griff",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 24,
+      "title": "After All The Good Is Gone",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 25,
+      "title": "The Goodnight Special",
+      "artist": "Little David Wilkins",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 18,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Angels, Roses, And Rain",
+      "artist": "Dickey Lee",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Tonight I'll Face The Man (who Made It Happen)",
+      "artist": "Kenny Starr",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 26,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 28,
+      "title": "The Winner",
+      "artist": "Bobby Bare",
+      "cover": "http://www.billboard.com/images/pref_images/p10912s9s7h.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Someone's With Your Wife Tonight, Mister",
+      "artist": "Bobby Borchers",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 29,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Let Your Love Flow",
+      "artist": "The Bellamy Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/q17321e2zrb.jpg",
+      "spotify": "http://open.spotify.com/track/3P6qzYAUphEvPYhzKDpMNP?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 21,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 31,
+      "title": "There Won't Be No Country Music (there Won't Be No",
+      "artist": "C.W. McCall",
+      "cover": "http://www.billboard.com/images/pref_images/p14430k2875.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 19,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Looking For Space",
+      "artist": "John Denver",
+      "cover": "http://www.billboard.com/images/pref_images/q05672uic4u.jpg",
+      "spotify": "http://open.spotify.com/track/6BlNLhp7rpgNoKDdX4yaiM?utm_campaign=billboard",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 30,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 33,
+      "title": "The Call",
+      "artist": "Anne Murray",
+      "cover": "http://www.billboard.com/images/pref_images/p17487bo9ca.jpg",
+      "spotify": "http://open.spotify.com/track/1nyh7u4XsIl19QBWfelC4d?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 19,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 34,
+      "title": "I'll Get Over You",
+      "artist": "Crystal Gayle",
+      "cover": "http://www.billboard.com/images/pref_images/q00098ngkyq.jpg",
+      "spotify": "http://open.spotify.com/track/5cc4xKRM4dHZ6aVYbGKmdc?utm_campaign=billboard",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 35,
+      "title": "The Prisoner's Song/Back In The Saddle Again",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 14,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Faster Horses (the Cowboy And The Poet)",
+      "artist": "Tom T. Hall",
+      "cover": "http://www.billboard.com/images/pref_images/p79752rjipk.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 37,
+      "title": "I'm So Lonesome I Could Cry",
+      "artist": "Terry Bradshaw",
+      "cover": "http://www.billboard.com/images/pref_images/p17252im34g.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 17,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Walk Softly",
+      "artist": "Billy \"Crash\" Craddock",
+      "cover": "http://www.billboard.com/images/pref_images/p04850wk396.jpg",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 7,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 39,
+      "title": "The Battle",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 16,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Let Me Be Your Friend",
+      "artist": "Mack White",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 35,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 41,
+      "title": "The Littlest Cowboy Rides Again",
+      "artist": "Ed Bruce",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 32,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Rocking In Rosalee's Boat",
+      "artist": "Nick Nixon",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 28,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Sheik Of Chicago",
+      "artist": "Joe Stampley",
+      "cover": "http://www.billboard.com/images/pref_images/p16557xwp6y.jpg",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 43,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 44,
+      "title": "That's All She Wrote",
+      "artist": "Ray Price",
+      "cover": "http://www.billboard.com/images/pref_images/q19116tvh88.jpg",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 34,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 45,
+      "title": "For The Heart/hurt",
+      "artist": "Elvis Presley",
+      "cover": "http://www.billboard.com/images/pref_images/q45257y36kp.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Forever Lovers",
+      "artist": "Mac Davis",
+      "cover": "http://www.billboard.com/images/pref_images/p11850p6116.jpg",
+      "spotify": "http://open.spotify.com/track/5jsDEUau5fHgA3PNMFbLKa?utm_campaign=billboard",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 17,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Ask Any Old Cheater Who Knows",
+      "artist": "Freddy Weller",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 42,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Mr. Doodles",
+      "artist": "Donna Fargo",
+      "cover": "http://www.billboard.com/images/pref_images/p13015w6eau.jpg",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 20,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Just Want To Taste Your Wine",
+      "artist": "Billy Swan",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 45,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Don't Pull Your Love/then You Can Tell Me Goodbye",
+      "artist": "Glen Campbell",
+      "cover": "http://www.billboard.com/images/pref_images/p99857on5ga.jpg",
+      "spotify": "http://open.spotify.com/track/66OwBVkKIL032lNcaXJnYy?utm_campaign=billboard",
+      "position": {
+        "Last Week": "71",
+        "Peak Position": 4,
+        "Wks on Chart": 12
+      }
+    }
+  ]
+}

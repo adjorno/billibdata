@@ -1,0 +1,533 @@
+{
+  "name": "Country",
+  "chart_date": "1972-07-29",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "It's Gonna Take A Little Bit Longer",
+      "artist": "Charley Pride",
+      "cover": "http://www.billboard.com/images/pref_images/p14590oax26.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Reach Out Your Hand",
+      "artist": "Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27879imrhm.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Loving You Could Never Be Better",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Listen To A Country Song",
+      "artist": "Lynn Anderson",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Bless Your Heart",
+      "artist": "Freddie Hart",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Woman (Sensuous Woman)",
+      "artist": "Don Gibson",
+      "cover": "http://www.billboard.com/images/pref_images/p01350b8647.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Delta Dawn",
+      "artist": "Tanya Tucker",
+      "cover": "http://www.billboard.com/images/pref_images/p18935d0o2l.jpg",
+      "spotify": "http://open.spotify.com/track/7GH8qNOm2gEKryVUyVzkmt?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Sweet Dream Woman",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 7,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Soft, Sweet And Warm",
+      "artist": "David Houston",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 8,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 10,
+      "title": "My Heart Has A Mind Of Its Own",
+      "artist": "Susan Raye",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Borrowed Angel",
+      "artist": "Mel Street",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 7,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Lonely Weekends",
+      "artist": "Jerry Lee Lewis",
+      "cover": "http://www.billboard.com/images/pref_images/p14318ix562.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 11,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Love Is A Good Thing",
+      "artist": "Johnny Paycheck",
+      "cover": "http://www.billboard.com/images/pref_images/p254763h3u3.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 12,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 14,
+      "title": "I've Found Someone Of My Own",
+      "artist": "Cal Smith",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 15,
+      "title": "There's A Party Goin' On",
+      "artist": "Jody Miller",
+      "spotify": "http://open.spotify.com/track/3KFqmwUAUNEFLtfxfHDzqy?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 16,
+      "title": "I've Got To Have You",
+      "artist": "Sammi Smith",
+      "spotify": "http://open.spotify.com/track/6vFbjPyJDoBSY3IebRoQFa?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 13,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 17,
+      "title": "A Seed Before The Rose",
+      "artist": "Tommy Overstreet",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 16,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Here I Am Again",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Made In Japan",
+      "artist": "Buck Owens",
+      "cover": "http://www.billboard.com/images/pref_images/p15648l4g42.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Ashes Of Love",
+      "artist": "Dickey Lee",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 15,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 21,
+      "title": "The Happiest Girl In The Whole Usa",
+      "artist": "Donna Fargo",
+      "cover": "http://www.billboard.com/images/pref_images/p13015w6eau.jpg",
+      "spotify": "http://open.spotify.com/track/2yCuJFaDNcA57aN3l5JkzH?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 1,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 22,
+      "title": "I'm Gonna Knock On Your Door",
+      "artist": "Billy \"Crash\" Craddock",
+      "cover": "http://www.billboard.com/images/pref_images/p04850wk396.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 23,
+      "title": "The Roadmaster",
+      "artist": "Freddy Weller",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 17,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Gone (Our Endless Love)",
+      "artist": "Billy Walker",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Eleven Roses",
+      "artist": "Hank Williams Jr.",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 26,
+      "title": "If You Touch Me (You've Got To Love Me)",
+      "artist": "Joe Stampley",
+      "cover": "http://www.billboard.com/images/pref_images/p16557xwp6y.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 9,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Ain't It All Worth Living For",
+      "artist": "The Glaser Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/q02257xk6kz.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 15,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 28,
+      "title": "The Ceremony",
+      "artist": "Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27879imrhm.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 29,
+      "title": "The Monkey That Became President",
+      "artist": "Tom T. Hall",
+      "cover": "http://www.billboard.com/images/pref_images/p79752rjipk.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 11,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Let's All Go Down To The River",
+      "artist": "Jody Miller",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 13,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 31,
+      "title": "In The Spring (The Roses Always Turn Red)",
+      "artist": "Dorsey Burnette",
+      "cover": "http://www.billboard.com/images/pref_images/p11252pahoa.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 32,
+      "title": "If You Leave Me Tonight I'll Cry",
+      "artist": "Jerry Wallace",
+      "spotify": "http://open.spotify.com/track/6BrZpgl8DJ6XCkfJBvmTGE?utm_campaign=billboard",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 33,
+      "title": "A Whole Lot Of Somethin'",
+      "artist": "Tony Booth",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 18,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 34,
+      "title": "If I Had A Hammer",
+      "artist": "Johnny Cash & June Carter Cash",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 29,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 35,
+      "title": "It Takes You",
+      "artist": "Bob Luman",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 21,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 36,
+      "title": "When The Snow Is On The Roses",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Stonin' Around",
+      "artist": "Dick Curless",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 31,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 38,
+      "title": "That Certain One",
+      "artist": "Tommy Cash",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 22,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 39,
+      "title": "This Little Girl Of Mine",
+      "artist": "Faron Young",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 40,
+      "title": "I'm So Lonesome I Could Cry",
+      "artist": "Charlie Mccoy",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 23,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Big Blue Diamond",
+      "artist": "Jacky Ward",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 39,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 42,
+      "title": "I Want You",
+      "artist": "Johnny Carver",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 35,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Rain Falling On Me",
+      "artist": "Johnny Russell",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 36,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Good Morning Country Rain",
+      "artist": "Jeannie C. Riley",
+      "cover": "http://www.billboard.com/images/pref_images/p16067hm9ue.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 45,
+      "title": "I Can't Stop Loving You",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 46,
+      "title": "One Woman's Trash (Another Woman's Treasure)",
+      "artist": "Bobbie Roy",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 32,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Alabama Wild Man",
+      "artist": "Jerry Reed",
+      "cover": "http://www.billboard.com/images/pref_images/p16000j9d6d.jpg",
+      "spotify": "http://open.spotify.com/track/3P2YpigD4WivGQCVX18S4V?utm_campaign=billboard",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 22,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Looking Back To See",
+      "artist": "Buck Owens",
+      "cover": "http://www.billboard.com/images/pref_images/p15648l4g42.jpg",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Pride",
+      "artist": "Jeannie Seely",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 47,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 50,
+      "title": "I'm In Love",
+      "artist": "Buddy Alan",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 47,
+        "Wks on Chart": 10
+      }
+    }
+  ]
+}

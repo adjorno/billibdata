@@ -1,0 +1,560 @@
+{
+  "name": "Club",
+  "chart_date": "1988-11-19",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Just Wanna Dance/Weekend",
+      "artist": "Todd Terry Project",
+      "cover": "http://www.billboard.com/images/pref_images/q09462xd3s4.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Break 4 Love",
+      "artist": "Raze",
+      "spotify": "http://open.spotify.com/track/5dUSAtt7MeYAVicCgoDzZJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Superfly Guy",
+      "artist": "S-Express",
+      "cover": "http://www.billboard.com/images/pref_images/p00178ycb2v.jpg",
+      "spotify": "http://open.spotify.com/track/4KVRb2q7qB2JJg0AaqvWkd?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 4,
+      "title": "The Only Way Is Up",
+      "artist": "Yazz And The Plastic Population",
+      "spotify": "http://open.spotify.com/track/7CBdPDCK00xqTk5NiqyEyw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 2,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Out Of Time",
+      "artist": "Noel",
+      "cover": "http://www.billboard.com/images/pref_images/p06412mpo1j.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 6,
+      "title": "I Don t Want Your Love",
+      "artist": "Duran Duran",
+      "cover": "http://www.billboard.com/images/pref_images/p97235qmz26.jpg",
+      "spotify": "http://open.spotify.com/track/76giqW6WVGLpp4aFu6iXbl?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 7,
+      "title": "The Way You Love Me",
+      "artist": "Karyn White",
+      "cover": "http://www.billboard.com/images/pref_images/p06663sq5v2.jpg",
+      "spotify": "http://open.spotify.com/track/1TtJkmAW9Rc55iVOPgZ33z?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 8,
+      "title": "My Prerogative",
+      "artist": "Bobby Brown",
+      "cover": "http://www.billboard.com/images/pref_images/p92861wevvx.jpg",
+      "spotify": "http://open.spotify.com/track/1qT8Evm2p2jfVIq52G3wVs?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 9,
+      "title": "When The Time Is Right",
+      "artist": "Sassa",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 6,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 10,
+      "title": "I Owe You Nothing",
+      "artist": "Bros",
+      "cover": "http://www.billboard.com/images/pref_images/p11198jg97d.jpg",
+      "spotify": "http://open.spotify.com/track/74uRJVMLXLGaC8HSXW5VjM?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 10,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 11,
+      "title": "The Great Commandment",
+      "artist": "Camouflage",
+      "cover": "http://www.billboard.com/images/pref_images/q27587sodyx.jpg",
+      "spotify": "http://open.spotify.com/track/6As51KsSXmA7SUmM32t8UZ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Hustle! (To The Music)",
+      "artist": "The Funky Worm",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Coming Back For More",
+      "artist": "Jellybean Feat. Richard Darbyshire",
+      "cover": "http://www.billboard.com/images/pref_images/p05401vtjr7.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 9,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Don t Blame It On That Girl/Wap Bam Boogie",
+      "artist": "Matt Bianco",
+      "cover": "http://www.billboard.com/images/pref_images/q06057d62uy.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Domino Dancing",
+      "artist": "Pet Shop Boys",
+      "cover": "http://www.billboard.com/images/pref_images/p09885wj4sx.jpg",
+      "spotify": "http://open.spotify.com/track/6M0HMy7UhtlPYTlpaW4qRk?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 5,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Doctorin The Tardis",
+      "artist": "The Timelords",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 17,
+      "title": "So Many Ways (Do It Properly Part II)",
+      "artist": "The Brat Pack",
+      "cover": "http://www.billboard.com/images/pref_images/p76516mdyad.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 7,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Searchin For",
+      "artist": "C.C. Diva",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Young Love (Remix)",
+      "artist": "Tony Terry",
+      "cover": "http://www.billboard.com/images/pref_images/p09499orwq8.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Ye Ke Ye Ke",
+      "artist": "Mory Kante",
+      "cover": "http://www.billboard.com/images/pref_images/p13985m9xf8.jpg",
+      "spotify": "http://open.spotify.com/track/3r63X755ZQL47XScWUNaAV?utm_campaign=billboard",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 19,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 21,
+      "title": "The Different Story",
+      "artist": "Schilling",
+      "spotify": "http://open.spotify.com/track/7uQl0wAbWe0YTqX05xL0K7?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 16,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Live It Up",
+      "artist": "Gardner Cole",
+      "cover": "http://www.billboard.com/images/pref_images/p04756a4512.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 13,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Tears Run Rings",
+      "artist": "Marc Almond",
+      "cover": "http://www.billboard.com/images/pref_images/q27978gzebv.jpg",
+      "spotify": "http://open.spotify.com/track/7jEQ43V8AA7UQ6NcG4x1ki?utm_campaign=billboard",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 9,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Boy, I ve Been Told",
+      "artist": "SaFire",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 25,
+      "title": "A Love Supreme",
+      "artist": "Will Downing",
+      "cover": "http://www.billboard.com/images/pref_images/p36668d6i1l.jpg",
+      "spotify": "http://open.spotify.com/track/1cKi3DdGX0ohLFOaBO6wy2?utm_campaign=billboard",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 4,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Since I Fell For You",
+      "artist": "Apollonia",
+      "cover": "http://www.billboard.com/images/pref_images/p10784ul1uj.jpg",
+      "spotify": "http://open.spotify.com/track/6xeoTd1cRWI6Jo1mbPZo2S?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 6,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 27,
+      "title": "(It s Just) The Way That You Love Me",
+      "artist": "Paula Abdul",
+      "cover": "http://www.billboard.com/images/pref_images/q10470bxjoy.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 18,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 28,
+      "title": "In The Name Of Love 88",
+      "artist": "Thompson Twins",
+      "cover": "http://www.billboard.com/images/pref_images/p18631ucw4a.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Took My Love Away",
+      "artist": "Ellis D",
+      "spotify": "http://open.spotify.com/track/2swizWuUzZUsYa0QKWRdPP?utm_campaign=billboard",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 19,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Don t Let Me Be Misunderstood/Life s Too Short",
+      "artist": "Latin Rascals",
+      "cover": "http://www.billboard.com/images/pref_images/p08139q50tr.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Useless",
+      "artist": "Kym Mazelle",
+      "spotify": "http://open.spotify.com/track/6l4AvILTEvWoLzBzLWwzLp?utm_campaign=billboard",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 13,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 32,
+      "title": "You Came",
+      "artist": "Kim Wilde",
+      "cover": "http://www.billboard.com/images/pref_images/q08564w4v37.jpg",
+      "spotify": "http://open.spotify.com/track/5ngyHuTvBybDCKZ36X8UuU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 10,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Talkin All That Jazz",
+      "artist": "Stetsasonic",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 22,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Don t Talk Dirty To Me",
+      "artist": "Jermaine Stewart",
+      "cover": "http://www.billboard.com/images/pref_images/p08619f19f2.jpg",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 13,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Dance Little Sister",
+      "artist": "Terence Trent D Arby",
+      "cover": "http://www.billboard.com/images/pref_images/p11840l670w.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 7,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Tumblin Down",
+      "artist": "Ziggy Marley",
+      "cover": "http://www.billboard.com/images/pref_images/p62724h8js6.jpg",
+      "spotify": "http://open.spotify.com/track/5DZtpuHw2QexVfpkuqPp5M?utm_campaign=billboard",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 28,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Into You",
+      "artist": "Giant Steps",
+      "cover": "http://www.billboard.com/images/pref_images/p05181ys5q3.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 33,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Headhunter",
+      "artist": "Front 242",
+      "cover": "http://www.billboard.com/images/pref_images/p06960iw735.jpg",
+      "spotify": "http://open.spotify.com/track/71OeleUvvObLd3jnN8DhwU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 13,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 39,
+      "title": "I m Your Pusher/L.G.B.N.A.F.",
+      "artist": "Ice-T",
+      "cover": "http://www.billboard.com/images/pref_images/p17212k0630.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 21,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Don t Rush Me",
+      "artist": "Taylor Dayne",
+      "cover": "http://www.billboard.com/images/pref_images/q15353mpk16.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 6,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Im Nin Alu/Galbi",
+      "artist": "Ofra Haza",
+      "cover": "http://www.billboard.com/images/pref_images/p55483md567.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 15,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Hangin On The Boulevard",
+      "artist": "Voyeur",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 36,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Spy In The House Of Love",
+      "artist": "Was (Not Was)",
+      "cover": "http://www.billboard.com/images/pref_images/p10115vo494.jpg",
+      "spotify": "http://open.spotify.com/track/4Yx1nJOOSkhy3WDiEh98YY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Security",
+      "artist": "The Beat Club",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 14,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 45,
+      "title": "You Make Me Work",
+      "artist": "Cameo",
+      "cover": "http://www.billboard.com/images/pref_images/p09435vafk4.jpg",
+      "spotify": "http://open.spotify.com/track/5Pxmu93VTSPYP815dKkjVv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 45,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Dancing Under A Latin Moon",
+      "artist": "Candi",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Make Noise",
+      "artist": "Only In The Dark",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 41,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Back To Basics (EP)",
+      "artist": "Back To Basics",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 48,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Heat It Up",
+      "artist": "Wee Papa Girl Rappers",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 6,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 50,
+      "title": "If You Feel It",
+      "artist": "Denise Lopez",
+      "cover": "http://www.billboard.com/images/pref_images/p05535v42hn.jpg",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 22,
+        "Wks on Chart": 8
+      }
+    }
+  ]
+}

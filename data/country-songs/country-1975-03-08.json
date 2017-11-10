@@ -1,0 +1,551 @@
+{
+  "name": "Country",
+  "chart_date": "1975-03-08",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Linda On My Mind",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "spotify": "http://open.spotify.com/track/2WSg4ZMJyG5NRlDb93vXJg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Before The Next Teardrop Falls",
+      "artist": "Freddy Fender",
+      "cover": "http://www.billboard.com/images/pref_images/p02648g80gy.jpg",
+      "spotify": "http://open.spotify.com/track/6ZE78qf8LT08O3pKT7cYZn?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 3,
+      "title": "I Can't Help It (If I'm Still In Love With You)",
+      "artist": "Linda Ronstadt",
+      "cover": "http://www.billboard.com/images/pref_images/q37805wrnbl.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 2,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Rainy Day Woman/Let's All Help The Cowboys (Sing The Blues)",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 5,
+      "title": "The Bargain Store",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "spotify": "http://open.spotify.com/track/5hmeKUFQBgtfmpm464tarz?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 6,
+      "title": "It's Time To Pay The Fiddler",
+      "artist": "Cal Smith",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Loving You Will Never Grow Old",
+      "artist": "Lois Johnson",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 8,
+      "title": "My Elusive Dreams",
+      "artist": "Charlie Rich",
+      "cover": "http://www.billboard.com/images/pref_images/p16046hvjwg.jpg",
+      "spotify": "http://open.spotify.com/track/3WziO3x5pQRrwgs3SbrayN?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 3,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 9,
+      "title": "The Ties That Bind",
+      "artist": "Don Williams",
+      "cover": "http://www.billboard.com/images/pref_images/p99491b31tl.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Penny",
+      "artist": "Joe Stampley",
+      "cover": "http://www.billboard.com/images/pref_images/p16557xwp6y.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 8,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 11,
+      "title": "A Little Bit South Of Saskatoon",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 6,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Write Me A Letter",
+      "artist": "Bobby G. Rice",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Have You Never Been Mellow",
+      "artist": "Olivia Newton-John",
+      "cover": "http://www.billboard.com/images/pref_images/q33925ccwag.jpg",
+      "spotify": "http://open.spotify.com/track/5ehVOC0zSdwWqyZlhomJSi?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 14,
+      "title": "You Are The One",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 14,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Roses And Love Songs",
+      "artist": "Ray Price",
+      "cover": "http://www.billboard.com/images/pref_images/q19116tvh88.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Whoever Turned You On, Forgot To Turn You Off",
+      "artist": "Little David Wilkins",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 14,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Sweet Surrender",
+      "artist": "John Denver",
+      "cover": "http://www.billboard.com/images/pref_images/q05672uic4u.jpg",
+      "spotify": "http://open.spotify.com/track/1BRylE9J4QTy80aaqU9XpT?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 18,
+      "title": "I Just Can't Get Her Out Of My Mind",
+      "artist": "Johnny Rodriguez",
+      "cover": "http://www.billboard.com/images/pref_images/p16108d457b.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 19,
+      "title": "It Do Feel Good",
+      "artist": "Donna Fargo",
+      "cover": "http://www.billboard.com/images/pref_images/p13015w6eau.jpg",
+      "spotify": "http://open.spotify.com/track/7n8KtFJHCoxAjivittDNNu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 7,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 20,
+      "title": "My Boy",
+      "artist": "Elvis Presley",
+      "cover": "http://www.billboard.com/images/pref_images/q45257y36kp.jpg",
+      "spotify": "http://open.spotify.com/track/2NlJtjC3UffyQIpWetc1r3?utm_campaign=billboard",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 14,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Wolf Creek Pass",
+      "artist": "C.W. McCall",
+      "cover": "http://www.billboard.com/images/pref_images/p14430k2875.jpg",
+      "spotify": "http://open.spotify.com/track/74sHkHnsPChaelwMtdLxtF?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 22,
+      "title": "I'll Still Love You",
+      "artist": "Jim Weatherly",
+      "spotify": "http://open.spotify.com/track/4oI7QvcSyh1XSoONyyuh3k?utm_campaign=billboard",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 9,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Life",
+      "artist": "Marty Robbins",
+      "cover": "http://www.billboard.com/images/pref_images/p2246418kv3.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 23,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Oh Boy",
+      "artist": "Diana Trask",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 21,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Soulful Woman",
+      "artist": "Kenny O'Dell",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 18,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Leave It Up To Me",
+      "artist": "Billy Larkin",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 22,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Always Wanting You",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Just Like Your Daddy",
+      "artist": "Jeanne Pruett",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 25,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Best Way I Know How",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 7,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 30,
+      "title": "The Pill",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "spotify": "http://open.spotify.com/track/3smWuYSirQQTaCSqJI4efJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Mama Don't 'Low",
+      "artist": "Hank Thompson",
+      "cover": "http://www.billboard.com/images/pref_images/q02016v668k.jpg",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 29,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Don't Let The Good Times Fool You",
+      "artist": "Melba Montgomery",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 15,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 33,
+      "title": "I Care/Sneaky Snake",
+      "artist": "Tom T. Hall",
+      "cover": "http://www.billboard.com/images/pref_images/p79752rjipk.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 34,
+      "title": "I'm A Believer",
+      "artist": "Tommy Overstreet",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 35,
+      "title": "I Still Feel The Same About You",
+      "artist": "Bill Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/q13686h7qps.jpg",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 14,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 36,
+      "title": "I'll Sing For You",
+      "artist": "Don Gibson",
+      "cover": "http://www.billboard.com/images/pref_images/p01350b8647.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 27,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 37,
+      "title": "(You Make Me Want To Be) A Mother",
+      "artist": "Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27879imrhm.jpg",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 4,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 38,
+      "title": "He Took Me For A Ride",
+      "artist": "La Costa",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 10,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Lonely Men, Lonely Women",
+      "artist": "Connie",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 23,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Cover Me",
+      "artist": "Sammi Smith",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 33,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Blanket On The Ground",
+      "artist": "Billie Jo Spears",
+      "cover": "http://www.billboard.com/images/pref_images/p08594ts05k.jpg",
+      "spotify": "http://open.spotify.com/track/2RUfBdNsNnwpzneNk6GoMv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Still Thinkin' 'Bout You",
+      "artist": "Billy \"Crash\" Craddock",
+      "cover": "http://www.billboard.com/images/pref_images/p04850wk396.jpg",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 43,
+      "title": "January Jones",
+      "artist": "Johnny Carver",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 39,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Wrong Road Again",
+      "artist": "Crystal Gayle",
+      "cover": "http://www.billboard.com/images/pref_images/q00098ngkyq.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 6,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Hoppy, Gene And Me",
+      "artist": "Roy Rogers",
+      "cover": "http://www.billboard.com/images/pref_images/p16115y4854.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 15,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Is This All There Is To A Honky Tonk?",
+      "artist": "Jerry Naylor",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 27,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 47,
+      "title": "I Believe The South Is Gonna Rise Again",
+      "artist": "Tanya Tucker",
+      "cover": "http://www.billboard.com/images/pref_images/p18935d0o2l.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 18,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Proud Of You Baby",
+      "artist": "Bob Luman",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 22,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Uproar",
+      "artist": "Anne Murray",
+      "cover": "http://www.billboard.com/images/pref_images/p17487bo9ca.jpg",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 28,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 50,
+      "title": "It's A Sin When You Love Somebody",
+      "artist": "Glen Campbell",
+      "cover": "http://www.billboard.com/images/pref_images/p99857on5ga.jpg",
+      "spotify": "http://open.spotify.com/track/6A29eEOREu6PXsSXYL9uTS?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 16,
+        "Wks on Chart": 13
+      }
+    }
+  ]
+}

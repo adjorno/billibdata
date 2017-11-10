@@ -1,0 +1,537 @@
+{
+  "name": "Country",
+  "chart_date": "1976-07-03",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "All These Things",
+      "artist": "Joe Stampley",
+      "cover": "http://charts-static.billboard.com/img/1971/02/joe-stampley-h8k.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Suspicious Minds",
+      "artist": "Waylon Jennings And Jessi Colter",
+      "cover": "http://charts-static.billboard.com/img/1840/12/waylon-jennings-adt.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 3,
+      "title": "The Door Is Always Open",
+      "artist": "Dave Rowland And Sugar",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 4,
+      "title": "El Paso City",
+      "artist": "Marty Robbins",
+      "cover": "http://charts-static.billboard.com/img/1840/12/marty-robbins-8zg.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Stranger",
+      "artist": "Johnny Duncan",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 4,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Home Made Love",
+      "artist": "Thom Bresh",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 6,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 7,
+      "title": "When Something Is Wrong With My Baby",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 8,
+      "title": "I'll Get Over You",
+      "artist": "Crystal Gayle",
+      "cover": "http://charts-static.billboard.com/img/1840/12/crystal-gayle-kdc.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Vaya Con Dios",
+      "artist": "Freddy Fender",
+      "cover": "http://charts-static.billboard.com/img/1975/01/freddy-fender-uph.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 7,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Here Comes The Freedom Train",
+      "artist": "Merle Haggard",
+      "cover": "http://charts-static.billboard.com/img/1840/12/merle-haggard-p3s.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 10,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Is Forever Longer Than Always",
+      "artist": "Porter Wagoner And Dolly Parton",
+      "cover": "http://charts-static.billboard.com/img/1840/12/porter-wagoner-bzt.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Golden Ring",
+      "artist": "George Jones And Tammy Wynette",
+      "cover": "http://charts-static.billboard.com/img/1840/12/george-jones-p8u.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Love Revival",
+      "artist": "Mel Tillis",
+      "cover": "http://charts-static.billboard.com/img/1840/12/mel-tillis-k61.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Say It Again",
+      "artist": "Don Williams",
+      "cover": "http://charts-static.billboard.com/img/1840/12/don-williams-ru0.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Save Your Kisses For Me",
+      "artist": "Margo Smith",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 16,
+      "title": "That's What Friends Are For",
+      "artist": "Barbara Mandrell",
+      "cover": "http://charts-static.billboard.com/img/1840/12/barbara-mandrell-esj.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 16,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Solitary Man",
+      "artist": "T.G. Sheppard",
+      "cover": "http://charts-static.billboard.com/img/1840/12/tg-sheppard-rn9.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 14,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 18,
+      "title": "You Are So Beautiful",
+      "artist": "Ray Stevens",
+      "cover": "http://charts-static.billboard.com/img/1961/08/ray-stevens-u9h.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Teddy Bear",
+      "artist": "Red Sovine",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 20,
+      "title": "In Some Room Above The Street",
+      "artist": "Gary Stewart",
+      "cover": "http://charts-static.billboard.com/img/1973/11/gary-stewart-qzm.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 15,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Rocky Mountain Music/Do You Right Tonight",
+      "artist": "Eddie Rabbitt",
+      "cover": "http://charts-static.billboard.com/img/2016/11/eddie-rabbitt.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 5,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 22,
+      "title": "One Of These Days",
+      "artist": "Emmylou Harris",
+      "cover": "http://charts-static.billboard.com/img/1840/12/emmylou-harris-arf.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Lovin' Somebody On A Rainy Night",
+      "artist": "La Costa",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 23,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 24,
+      "title": "A Butterfly For Bucky",
+      "artist": "Bobby Goldsboro",
+      "cover": "http://charts-static.billboard.com/img/1962/12/bobby-goldsboro-m3z.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 22,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 25,
+      "title": "The Letter",
+      "artist": "Loretta Lynn & Conway Twitty",
+      "cover": "http://charts-static.billboard.com/img/1840/12/loretta-lynn-6wj.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 3,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Flash Of Fire",
+      "artist": "Hoyt Axton",
+      "cover": "http://charts-static.billboard.com/img/1974/03/hoyt-axton-kkm.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 18,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 27,
+      "title": "You've Got Me To Hold On To",
+      "artist": "Tanya Tucker",
+      "cover": "http://charts-static.billboard.com/img/1840/12/tanya-tucker-nxq.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 28,
+      "title": "I'd Have To Be Crazy",
+      "artist": "Willie Nelson",
+      "cover": "http://charts-static.billboard.com/img/2017/07/willie-nelson.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 29,
+      "title": "I Really Had A Ball Last Night",
+      "artist": "Carmol Taylor",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Think Summer",
+      "artist": "Roy Clark",
+      "cover": "http://charts-static.billboard.com/img/1963/06/roy-clark-z3d.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 21,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Negatory Romance",
+      "artist": "Tom T. Hall",
+      "cover": "http://charts-static.billboard.com/img/1840/12/tom-t-hall-ggb.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Lonely Teardrops",
+      "artist": "Narvel Felts",
+      "cover": "http://charts-static.billboard.com/img/1960/02/narvel-felts-r7q.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Heart Don't Fail Me Now",
+      "artist": "Randy Cornor",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 34,
+      "title": "So Sad (to Watch Good Love Go Bad)",
+      "artist": "Connie Smith",
+      "cover": "http://charts-static.billboard.com/img/1840/12/connie-smith-8uq.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 31,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Can You Hear Those Pioneers",
+      "artist": "Rex Allen Jr.",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 36,
+      "title": "One Piece At A Time",
+      "artist": "Johnny Cash",
+      "cover": "http://charts-static.billboard.com/img/2017/05/johnny-cash.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 37,
+      "title": "You Always Look Your Best (here In My Arms)",
+      "artist": "George Jones",
+      "cover": "http://charts-static.billboard.com/img/1840/12/george-jones-p8u.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 37,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Here Comes That Girl Again",
+      "artist": "Tommy Overstreet",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 15,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 39,
+      "title": "I Met A Friend Of Yours Today",
+      "artist": "Mel Street",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 40,
+      "title": "I Love The Way That You Love Me",
+      "artist": "Ray Griff",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 40,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Makin' Love Don't Always Make Love Grow",
+      "artist": "Dickey Lee",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 35,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Hey Shirley (This Is Squirrely)",
+      "artist": "Shirley & Squirrely",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 28,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Because You Believed In Me",
+      "artist": "Gene Watson",
+      "cover": "http://charts-static.billboard.com/img/1975/01/gene-watson-jye.jpg",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 20,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Doing My Time",
+      "artist": "Don Gibson",
+      "cover": "http://charts-static.billboard.com/img/1958/08/don-gibson-mit.jpg",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 39,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Rodeo Cowboy",
+      "artist": "Lynn Anderson",
+      "cover": "http://charts-static.billboard.com/img/1840/12/lynn-anderson-pot.jpg",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 44,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 46,
+      "title": "It's Different With You",
+      "artist": "Mary Lou Turner",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 25,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Mac Arthur's Hand",
+      "artist": "Cal Smith",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 43,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 48,
+      "title": "I Don't Want It",
+      "artist": "Chuck Price",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 48,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Bring It On Home To Me",
+      "artist": "Mickey Gilley",
+      "cover": "http://charts-static.billboard.com/img/1840/12/mickey-gilley-6ni.jpg",
+      "position": {
+        "Last Week": "68",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Bridge For Crawling Back",
+      "artist": "Roy Head",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 50,
+        "Wks on Chart": 8
+      }
+    }
+  ]
+}

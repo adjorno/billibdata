@@ -1,0 +1,528 @@
+{
+  "name": "Country",
+  "chart_date": "1971-01-23",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Rose Garden",
+      "artist": "Lynn Anderson",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Flesh And Blood",
+      "artist": "Johnny Cash",
+      "cover": "http://www.billboard.com/images/pref_images/p17121eolkl.jpg",
+      "spotify": "http://open.spotify.com/track/5CVpnBNbVaVuXjokrfO4qB?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Joshua",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Rainin' In My Heart",
+      "artist": "Hank Williams, Jr. w/ The Mike Curb Congregation",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Padre",
+      "artist": "Marty Robbins",
+      "cover": "http://www.billboard.com/images/pref_images/p2246418kv3.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Help Me Make It Through The Night",
+      "artist": "Sammi Smith",
+      "spotify": "http://open.spotify.com/track/3DlrvYMG2VRxjX0tQIzv2b?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Guess Who",
+      "artist": "Slim Whitman",
+      "cover": "http://www.billboard.com/images/pref_images/p17991n8enw.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 7,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 8,
+      "title": "A Good Year For The Roses",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Morning",
+      "artist": "Jim Ed Brown",
+      "spotify": "http://open.spotify.com/track/178cURJmIeWpUIFsjJ82IC?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Bed Of Roses",
+      "artist": "The Statler Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/p24114v60jy.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 9,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 11,
+      "title": "The Promised Land",
+      "artist": "Freddy Weller",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 3,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 12,
+      "title": "The Wonders You Perform",
+      "artist": "Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27879imrhm.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Fancy Satin Pillows",
+      "artist": "Wanda Jackson",
+      "cover": "http://www.billboard.com/images/pref_images/q00488hhgza.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 13,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 14,
+      "title": "The Sheriff Of Boone County",
+      "artist": "Kenny Price",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Coal Miner's Daughter",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "spotify": "http://open.spotify.com/track/1hduQpHYPZaDQClL1XsIgQ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 16,
+      "title": "(Don't Let The Sun Set On You) Tulsa",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 17,
+      "title": "She Wakes Me With A Kiss Every Morning (And She Loves Me To Sleep Every Nig",
+      "artist": "Nat Stuckey",
+      "cover": "http://www.billboard.com/images/pref_images/p02378kygm5.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Come Sundown",
+      "artist": "Bobby Bare",
+      "cover": "http://www.billboard.com/images/pref_images/p10912s9s7h.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 7,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 19,
+      "title": "One Hundred Children",
+      "artist": "Tom T. Hall",
+      "cover": "http://www.billboard.com/images/pref_images/p79752rjipk.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 14,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Listen Betty (I'm Singing Your Song)",
+      "artist": "Dave Dudley",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 15,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Where Is My Castle",
+      "artist": "Connie Smith",
+      "cover": "http://www.billboard.com/images/pref_images/p85285q666r.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 11,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 22,
+      "title": "The Last One To Touch Me",
+      "artist": "Porter Wagoner",
+      "cover": "http://www.billboard.com/images/pref_images/p15682u239j.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 18,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Waiting For A Train (All Around The Watertank)",
+      "artist": "Jerry Lee Lewis",
+      "cover": "http://www.billboard.com/images/pref_images/p14318ix562.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 11,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 24,
+      "title": "A Woman Always Knows",
+      "artist": "David Houston",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Sweet Misery",
+      "artist": "Ferlin Husky",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 14,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 26,
+      "title": "If You Think I Love You Now (I've Just Started)",
+      "artist": "Jody Miller",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 19,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Endlessly",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Fifteen Years Ago",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "spotify": "http://open.spotify.com/track/1attLrjcfUV3XJt4M9dSDg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Mary's Vineyard",
+      "artist": "Claude King",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 17,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Willy Jones",
+      "artist": "Susan Raye",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 10,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Commercial Affection",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 8,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 33,
+      "title": "I Wouldn't Live In New York City (If They Gave Me The Whole Dang Town)",
+      "artist": "Buck Owens",
+      "cover": "http://www.billboard.com/images/pref_images/p15648l4g42.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 9,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Portrait Of My Woman",
+      "artist": "Eddy Arnold",
+      "cover": "http://www.billboard.com/images/pref_images/p08903vh77v.jpg",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 26,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Watching Scotty Grow",
+      "artist": "Bobby Goldsboro",
+      "cover": "http://www.billboard.com/images/pref_images/p02774exqi4.jpg",
+      "spotify": "http://open.spotify.com/track/6UWyHvsLmA1sRv1wwJORM2?utm_campaign=billboard",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 36,
+      "title": "I Really Don't Want To Know/There Goes My Everything",
+      "artist": "Elvis Presley",
+      "cover": "http://www.billboard.com/images/pref_images/q45257y36kp.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 23,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 37,
+      "title": "I Can't Be Myself/Sidewalks Of Chicago",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Day Drinkin'",
+      "artist": "Dave Dudley",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 23,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Heavenly",
+      "artist": "Wynn Stewart",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 32,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Judy",
+      "artist": "Ray Sanders",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 38,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Let Me Go (Set Me Free)",
+      "artist": "Johnny Duncan",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 27,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Amos Moses/The Preacher And The Bear",
+      "artist": "Jerry Reed",
+      "cover": "http://www.billboard.com/images/pref_images/p16000j9d6d.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 16,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 43,
+      "title": "(Loving You Is) Sunshine",
+      "artist": "Barbara Fairchild",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 33,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 44,
+      "title": "She Goes Walking Through My Mind",
+      "artist": "Billy Walker",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Something Unseen/What's The Use",
+      "artist": "Jack Greene",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 15,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 46,
+      "title": "I Stayed Long Enough",
+      "artist": "Billie Jo Spears",
+      "cover": "http://www.billboard.com/images/pref_images/p08594ts05k.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 30,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Cowboy Convention",
+      "artist": "Buddy Alan & Don Rich",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 19,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Where Have All Our Heroes Gone",
+      "artist": "Bill Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/q13686h7qps.jpg",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Something To Brag About",
+      "artist": "Charlie Louvin & Melba Montgomery",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 18,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Lookin' Out My Back Door",
+      "artist": "Buddy Alan",
+      "position": {
+        "Last Week": "63",
+        "Peak Position": 37,
+        "Wks on Chart": 9
+      }
+    }
+  ]
+}

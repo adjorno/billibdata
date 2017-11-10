@@ -1,0 +1,541 @@
+{
+  "name": "Country",
+  "chart_date": "1969-08-23",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "A Boy Named Sue",
+      "artist": "Johnny Cash",
+      "cover": "http://www.billboard.com/images/pref_images/p17121eolkl.jpg",
+      "spotify": "http://open.spotify.com/track/1MBauuEABYOaDSnUdYOGdM?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 2,
+      "title": "But You Know I Love You",
+      "artist": "Bill Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/q13686h7qps.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Workin' Man Blues",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 4,
+      "title": "I'm Down To My Last \"I Love You\"",
+      "artist": "David Houston",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Wine Me Up",
+      "artist": "Faron Young",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 6,
+      "title": "To Make A Man (Feel Like A Man)",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 7,
+      "title": "All I Have To Offer You (Is Me)",
+      "artist": "Charley Pride",
+      "cover": "http://www.billboard.com/images/pref_images/p14590oax26.jpg",
+      "spotify": "http://open.spotify.com/track/4kmTlqtjkxHdcratIAj5Uu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Big Wind",
+      "artist": "Porter Wagoner",
+      "cover": "http://www.billboard.com/images/pref_images/p15682u239j.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Yesterday, When I Was Young",
+      "artist": "Roy Clark",
+      "cover": "http://www.billboard.com/images/pref_images/p25356bg9ta.jpg",
+      "spotify": "http://open.spotify.com/track/29v5jFL66axf5I1Nbai8uF?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 10,
+      "title": "I Can't Say Goodbye",
+      "artist": "Marty Robbins",
+      "cover": "http://www.billboard.com/images/pref_images/p2246418kv3.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 11,
+      "title": "If Not For You",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 12,
+      "title": "True Grit",
+      "artist": "Glen Campbell",
+      "cover": "http://www.billboard.com/images/pref_images/p99857on5ga.jpg",
+      "spotify": "http://open.spotify.com/track/5jQky3fADov04ITwQaCS3J?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 9,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Johnny B. Goode",
+      "artist": "Buck Owens",
+      "cover": "http://www.billboard.com/images/pref_images/p15648l4g42.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 14,
+      "title": "One Has My Name (The Other Has My Heart)",
+      "artist": "Jerry Lee Lewis",
+      "cover": "http://www.billboard.com/images/pref_images/p14318ix562.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Me And Bobby McGee",
+      "artist": "Roger Miller",
+      "cover": "http://www.billboard.com/images/pref_images/p21348sl623.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 12,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Statue Of A Fool",
+      "artist": "Jack Greene",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 17,
+      "title": "That's Why I Love You So Much",
+      "artist": "Ferlin Husky",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 16,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 18,
+      "title": "This Thing",
+      "artist": "Webb Pierce",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 14,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 19,
+      "title": "But For Love",
+      "artist": "Eddy Arnold",
+      "cover": "http://www.billboard.com/images/pref_images/p08903vh77v.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 19,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 20,
+      "title": "These Are Not My People",
+      "artist": "Freddy Weller",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 5,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Young Love",
+      "artist": "Connie Smith & Nat Stuckey",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 20,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 22,
+      "title": "That's A No No",
+      "artist": "Lynn Anderson",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Proud Mary",
+      "artist": "Anthony Armstrong Jones",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 22,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Every Day I Have To Cry Some",
+      "artist": "Bob Luman",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 23,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Canadian Pacific",
+      "artist": "George Hamilton IV",
+      "cover": "http://www.billboard.com/images/pref_images/p01348pqkh9.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 25,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 26,
+      "title": "I Love You More Today",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 27,
+      "title": "All For The Love Of A Girl",
+      "artist": "Claude King",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 9,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Be Glad",
+      "artist": "Del Reeves",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 5,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 29,
+      "title": "World-Wide Travelin' Man",
+      "artist": "Wynn Stewart",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 19,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Tall Dark Stranger",
+      "artist": "Buck Owens",
+      "cover": "http://www.billboard.com/images/pref_images/p15648l4g42.jpg",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 31,
+      "title": "When She Touches Me",
+      "artist": "Johnny Duncan",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 30,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Wherever You Are",
+      "artist": "Johnny Paycheck",
+      "cover": "http://www.billboard.com/images/pref_images/p254763h3u3.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 31,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Cut Across Shorty",
+      "artist": "Nat Stuckey",
+      "cover": "http://www.billboard.com/images/pref_images/p02378kygm5.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 15,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Always, Always",
+      "artist": "Porter Wagoner And Dolly Parton",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 16,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Sweet Memories",
+      "artist": "Dottie West",
+      "cover": "http://www.billboard.com/images/pref_images/p17951b66f3.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 32,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Wicked California",
+      "artist": "The Glaser Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/q02257xk6kz.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 24,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 37,
+      "title": "The Three Bells",
+      "artist": "Jim Ed Brown",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 29,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Hold Me, Thrill Me, Kiss Me",
+      "artist": "Johnny A.",
+      "cover": "http://www.billboard.com/images/pref_images/q21718tyrq5.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 38,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Color Him Father",
+      "artist": "Linda Martell",
+      "spotify": "http://open.spotify.com/track/3ilAbZcVh80FTKd35iqLeS?utm_campaign=billboard",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 22,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Raining In My Heart",
+      "artist": "Ray Price",
+      "cover": "http://www.billboard.com/images/pref_images/q19116tvh88.jpg",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 14,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Which One Will It Be",
+      "artist": "Bobby Bare",
+      "cover": "http://www.billboard.com/images/pref_images/p10912s9s7h.jpg",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 19,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Ruby, Don't Take Your Love To Town",
+      "artist": "Kenny Rogers & The First Edition",
+      "spotify": "http://open.spotify.com/track/4fK9SzBj1RZvlpRXcHlbnn?utm_campaign=billboard",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 39,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Your Lovin' Takes The Leavin' Out Of Me",
+      "artist": "Tommy Cash",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 43,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 44,
+      "title": "These Lonely Hands Of Mine",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 9,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 45,
+      "title": "The Rib",
+      "artist": "Jeannie C. Riley",
+      "cover": "http://www.billboard.com/images/pref_images/p16067hm9ue.jpg",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 32,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Invitation To Your Party",
+      "artist": "Jerry Lee Lewis",
+      "cover": "http://www.billboard.com/images/pref_images/p14318ix562.jpg",
+      "position": {
+        "Last Week": "65",
+        "Peak Position": 6,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Be Careful Of Stones That You Throw",
+      "artist": "Luke The Drifter, Jr",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 37,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 48,
+      "title": "The Pathway Of My Life",
+      "artist": "Hank Thompson",
+      "cover": "http://www.billboard.com/images/pref_images/q02016v668k.jpg",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 46,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Sweet Baby Girl",
+      "artist": "[Champagne]",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 43,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Growin' Up",
+      "artist": "Tex Ritter",
+      "cover": "http://www.billboard.com/images/pref_images/p16075b58o5.jpg",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 39,
+        "Wks on Chart": 10
+      }
+    }
+  ]
+}

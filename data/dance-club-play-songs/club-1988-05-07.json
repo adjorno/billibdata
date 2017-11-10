@@ -1,0 +1,557 @@
+{
+  "name": "Club",
+  "chart_date": "1988-05-07",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Adventure",
+      "artist": "Eleanor",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Instinctual",
+      "artist": "Imagination",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Behind The Wheel/Route 66",
+      "artist": "Depeche Mode",
+      "cover": "http://www.billboard.com/images/pref_images/p89868hqoo3.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Blue Monday/Touched By The Hand Of God",
+      "artist": "New Order",
+      "cover": "http://www.billboard.com/images/pref_images/q05309jgxy1.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Like A Child",
+      "artist": "Noel",
+      "cover": "http://www.billboard.com/images/pref_images/p06412mpo1j.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Together Forever (Remix)",
+      "artist": "Rick Astley",
+      "cover": "http://www.billboard.com/images/pref_images/p10814qdo33.jpg",
+      "spotify": "http://open.spotify.com/track/6iGdQAFU2oqBuO51Pbi5Xe?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Divine Emotions",
+      "artist": "Narada",
+      "cover": "http://www.billboard.com/images/pref_images/p17859ojg99.jpg",
+      "spotify": "http://open.spotify.com/track/2JlYX5EawTwTjwa6z7DGjD?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 8,
+      "title": "I Feel It",
+      "artist": "Suzie And The CUBANS",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Bango/Back To The Beat",
+      "artist": "Todd Terry Project",
+      "cover": "http://www.billboard.com/images/pref_images/q09462xd3s4.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Love In The First Degree/Ecstasy",
+      "artist": "Bananarama",
+      "cover": "http://www.billboard.com/images/pref_images/p10896p5481.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 10,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Just Got Paid",
+      "artist": "Johnny Kemp",
+      "cover": "http://www.billboard.com/images/pref_images/p05500yrr2r.jpg",
+      "spotify": "http://open.spotify.com/track/1OK4hVcucqYKMU9Ipb3dtx?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 12,
+      "title": "I m Over You",
+      "artist": "Sequal",
+      "cover": "http://www.billboard.com/images/pref_images/p05980e45m0.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 12,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Trouble",
+      "artist": "Nia Peeples",
+      "cover": "http://www.billboard.com/images/pref_images/p08377q488h.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Lovin On Next To Nothin (Remix)",
+      "artist": "Gladys Knight",
+      "cover": "http://www.billboard.com/images/pref_images/q10402ico6r.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 14,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 15,
+      "title": "The Promise",
+      "artist": "When In Rome",
+      "cover": "http://www.billboard.com/images/pref_images/p06133p66m9.jpg",
+      "spotify": "http://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Take It While It s Hot",
+      "artist": "Sweet Sensation",
+      "cover": "http://www.billboard.com/images/pref_images/p05844bu138.jpg",
+      "spotify": "http://open.spotify.com/track/4DAr4BlLbgpfUJ7iAwOKK0?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 16,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Strange But True",
+      "artist": "Times Two",
+      "cover": "http://www.billboard.com/images/pref_images/p08693l438x.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 12,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Jack The Lad",
+      "artist": "3 Man Island",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Always On My Mind",
+      "artist": "Pet Shop Boys",
+      "cover": "http://www.billboard.com/images/pref_images/p09885wj4sx.jpg",
+      "spotify": "http://open.spotify.com/track/2SWn864dJI5RNyrp3F4Kp1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 8,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Speed Of Light",
+      "artist": "Reimy",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Simple Simon (You Gotta Regard)",
+      "artist": "Mantronix",
+      "cover": "http://www.billboard.com/images/pref_images/p08174c74wt.jpg",
+      "spotify": "http://open.spotify.com/track/7ogOICHA9gH0YVW7OHl3Il?utm_campaign=billboard",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 19,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Everything Will B-Fine",
+      "artist": "Lisa Lisa",
+      "cover": "http://www.billboard.com/images/pref_images/p14340lfr2t.jpg",
+      "spotify": "http://open.spotify.com/track/1drJzllbufbfwTb5XKDtz8?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 22,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Da Butt",
+      "artist": "E.U.",
+      "cover": "http://www.billboard.com/images/pref_images/q28052plodp.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 23,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 24,
+      "title": "A Little Love (What s Going On)",
+      "artist": "Ceejay",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 15,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Love Struck",
+      "artist": "Jesse Johnson",
+      "cover": "http://www.billboard.com/images/pref_images/p05374q6ns2.jpg",
+      "spotify": "http://open.spotify.com/track/04e2Pf6WzAyOH2HizMggm2?utm_campaign=billboard",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 13,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Dreaming",
+      "artist": "O.M.D.",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 6,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Let s Get Busy",
+      "artist": "Curtis McClaine",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Prove Your Love (Remix)",
+      "artist": "Taylor Dayne",
+      "cover": "http://www.billboard.com/images/pref_images/q15353mpk16.jpg",
+      "spotify": "http://open.spotify.com/track/6bN9fDpAkPA7qkAH6LmVlW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Mercedes Boy",
+      "artist": "Pebbles",
+      "cover": "http://www.billboard.com/images/pref_images/p08375hg63v.jpg",
+      "spotify": "http://open.spotify.com/track/1ci5FGk5faD2gWyYl995yw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 2,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Konk Jams (LP Cuts)",
+      "artist": "Konk",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 30,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Love Changes (Everything)",
+      "artist": "Climie Fisher",
+      "cover": "http://www.billboard.com/images/pref_images/p04861lveu5.jpg",
+      "spotify": "http://open.spotify.com/track/1y748kOQshZECWk5MddfOv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 16,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 32,
+      "title": "I Can t Wait Too Long",
+      "artist": "Joe Church",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 32,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 33,
+      "title": "See Want Must Have",
+      "artist": "Blue Mercedes",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 18,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Who Do You Love",
+      "artist": "Rochelle",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 26,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Twenty Killer Hurts",
+      "artist": "Gene Loves Jezebel",
+      "cover": "http://www.billboard.com/images/pref_images/p05183b4407.jpg",
+      "spotify": "http://open.spotify.com/track/526buLhJa2KkAniH9YRoKQ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 36,
+      "title": "I Want Your Love In Me",
+      "artist": "Illusion",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 34,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Pink Cadillac",
+      "artist": "Natalie Cole",
+      "cover": "http://www.billboard.com/images/pref_images/q06948gfm0o.jpg",
+      "spotify": "http://open.spotify.com/track/3ApyzBQoR5c6vSyMlUwrwI?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 38,
+      "title": "It Works For Me",
+      "artist": "Pam Russo",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 38,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Suspense/Open Up Your Heart",
+      "artist": "Anthony",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 39,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 40,
+      "title": "I Need You",
+      "artist": "G.T.",
+      "spotify": "http://open.spotify.com/track/5X2EVbOvQ5sG6p5LdKuCFD?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 17,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Nightime (Remix)",
+      "artist": "Pretty Poison",
+      "cover": "http://www.billboard.com/images/pref_images/p05895sjtn7.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 13,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Beds Are Burning/The Dead Heart",
+      "artist": "Midnight Oil",
+      "cover": "http://www.billboard.com/images/pref_images/q14265xqdv5.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 20,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Get Outta My Dreams, Get Into My Car",
+      "artist": "Billy Ocean",
+      "cover": "http://www.billboard.com/images/pref_images/p78248oooo5.jpg",
+      "spotify": "http://open.spotify.com/track/3v8vsQfMQio7ohYqFrEsaZ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 25,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Most Of All (Remix)",
+      "artist": "Jody Watley",
+      "cover": "http://www.billboard.com/images/pref_images/p61870yda3r.jpg",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 8,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Love Is The Art",
+      "artist": "Living In A Box",
+      "cover": "http://www.billboard.com/images/pref_images/p08147ir51n.jpg",
+      "spotify": "http://open.spotify.com/track/43Fdgrr9UfBJgzijOpuZPl?utm_campaign=billboard",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 12,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Peanuts",
+      "artist": "Telex",
+      "cover": "http://www.billboard.com/images/pref_images/p08674gi7m9.jpg",
+      "spotify": "http://open.spotify.com/track/0UBWNP1rHQybN6AuzkkBWK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 45,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Surrender (Remix)",
+      "artist": "Swing Out Sister",
+      "cover": "http://www.billboard.com/images/pref_images/q01398agqxk.jpg",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 22,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Sonic Boom Boy (Remix)",
+      "artist": "Westworld",
+      "cover": "http://www.billboard.com/images/pref_images/p08814wm0ya.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 42,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Simon Simon",
+      "artist": "Dale",
+      "spotify": "http://open.spotify.com/track/4ov6sK3Iqva1Yp42JqVGz5?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 33,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 50,
+      "title": "By My Side",
+      "artist": "Chanelle",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 32,
+        "Wks on Chart": 5
+      }
+    }
+  ]
+}

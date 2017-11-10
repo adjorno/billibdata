@@ -1,0 +1,606 @@
+{
+  "name": "Rock",
+  "chart_date": "2016-02-27",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Stressed Out",
+      "artist": "twenty one pilots",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy7523195216953225748.jpg",
+      "spotify": "http://open.spotify.com/track/3CRDbSIZ4r5MsZ0YwxuEkn?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 42
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Adventure Of A Lifetime",
+      "artist": "Coldplay",
+      "cover": "http://www.billboard.com/images/pref_images/q44977u7wlb.jpg",
+      "spotify": "http://open.spotify.com/track/4MFCXniy7I8tj0GXtf3wgC?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Ex's & Oh's",
+      "artist": "Elle King",
+      "cover": "http://www.billboard.com/images/pref_images/q36065wti8j.jpg",
+      "spotify": "http://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 49
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Viva La Vida",
+      "artist": "Coldplay",
+      "cover": "http://www.billboard.com/images/pref_images/q44977u7wlb.jpg",
+      "spotify": "http://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 4,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Hymn For The Weekend",
+      "artist": "Coldplay",
+      "cover": "http://www.billboard.com/images/pref_images/q44977u7wlb.jpg",
+      "spotify": "http://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Renegades",
+      "artist": "X Ambassadors",
+      "cover": "http://www.billboard.com/images/pref_images/q37409dqics.jpg",
+      "spotify": "http://open.spotify.com/track/46GGxd8TVRt6FjUBfCavVT?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 47
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Paradise",
+      "artist": "Coldplay",
+      "cover": "http://www.billboard.com/images/pref_images/q44977u7wlb.jpg",
+      "spotify": "http://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 3,
+        "Wks on Chart": 32
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Let It Go",
+      "artist": "James Bay",
+      "cover": "http://www.billboard.com/images/pref_images/q46806la644.jpg",
+      "spotify": "http://open.spotify.com/track/2ggSyGB5HnVvGDGofu3ITZ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 2,
+        "Wks on Chart": 35
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Ophelia",
+      "artist": "The Lumineers",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy8920730921949645965.jpg",
+      "spotify": "http://open.spotify.com/track/0IOFbRuU9O7BsRMVBT6Rbo?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 5,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Irresistible",
+      "artist": "Fall Out Boy",
+      "cover": "http://www.billboard.com/images/pref_images/q27394ewjzz.jpg",
+      "spotify": "http://open.spotify.com/track/4urmOSZcGQVcGz3rpMzy3y?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 38
+      }
+    },
+    {
+      "rank": 11,
+      "title": "A Sky Full Of Stars",
+      "artist": "Coldplay",
+      "cover": "http://www.billboard.com/images/pref_images/q44977u7wlb.jpg",
+      "spotify": "http://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 1,
+        "Wks on Chart": 40
+      }
+    },
+    {
+      "rank": 12,
+      "title": "The Sound Of Silence",
+      "artist": "Disturbed",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy2544352277528748589.jpg",
+      "spotify": "http://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 3,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Walking On A Dream",
+      "artist": "Empire Of The Sun",
+      "cover": "http://www.billboard.com/images/pref_images/q06591ebtu0.jpg",
+      "spotify": "http://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 6,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Fix You",
+      "artist": "Coldplay",
+      "cover": "http://www.billboard.com/images/pref_images/q44977u7wlb.jpg",
+      "spotify": "http://open.spotify.com/track/1SWPQul8Zr5jezPUYPcLwR?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 14,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Ride",
+      "artist": "twenty one pilots",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy7523195216953225748.jpg",
+      "spotify": "http://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 1,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Clocks",
+      "artist": "Coldplay",
+      "cover": "http://www.billboard.com/images/pref_images/q44977u7wlb.jpg",
+      "spotify": "http://open.spotify.com/track/0BCPKOYdS2jbQ8iyB56Zns?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 16,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Electric Love",
+      "artist": "BORNS",
+      "cover": "http://www.billboard.com/images/pref_images/q42512vt6k4.jpg",
+      "spotify": "http://open.spotify.com/track/3cLdKUtSFVsEYIlIcgJofD?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 12,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Victorious",
+      "artist": "Panic! At The Disco",
+      "cover": "http://www.billboard.com/images/pref_images/q42820rugtn.jpg",
+      "spotify": "http://open.spotify.com/track/6jMlxmzDVzsj3w7rEWgZDJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 7,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Emperor's New Clothes",
+      "artist": "Panic! At The Disco",
+      "cover": "http://www.billboard.com/images/pref_images/q42820rugtn.jpg",
+      "spotify": "http://open.spotify.com/track/2Pv7zg9cBPZvZuOrusG4bw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 5,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Yellow",
+      "artist": "Coldplay",
+      "cover": "http://www.billboard.com/images/pref_images/q44977u7wlb.jpg",
+      "spotify": "http://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 21,
+      "title": "The Scientist",
+      "artist": "Coldplay",
+      "cover": "http://www.billboard.com/images/pref_images/q44977u7wlb.jpg",
+      "spotify": "http://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Unsteady",
+      "artist": "X Ambassadors",
+      "cover": "http://www.billboard.com/images/pref_images/q37409dqics.jpg",
+      "spotify": "http://open.spotify.com/track/7lGKEWMXVWWTt3X71Bv44I?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 2,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Death Of A Bachelor",
+      "artist": "Panic! At The Disco",
+      "cover": "http://www.billboard.com/images/pref_images/q42820rugtn.jpg",
+      "spotify": "http://open.spotify.com/track/1BECwm5qkaBwlbfo4kpYx8?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 11,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Hotel California",
+      "artist": "Eagles",
+      "cover": "http://www.billboard.com/images/pref_images/q09210j1yja.jpg",
+      "spotify": "http://open.spotify.com/track/1ZA8L9IOkRhmmz4nPXXx7h?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 6,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 25,
+      "title": "The Sound",
+      "artist": "The 1975",
+      "cover": "http://www.billboard.com/images/pref_images/q47825k1d3y.jpg",
+      "spotify": "http://open.spotify.com/track/1oEaUN7PYQRwcUF52U2M9S?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 9,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Mess Around",
+      "artist": "Cage The Elephant",
+      "cover": "http://www.billboard.com/images/pref_images/q43481m3k8n.jpg",
+      "spotify": "http://open.spotify.com/track/6AIrvhduCLZnhskALBzdIw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 16,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Fire And The Flood",
+      "artist": "Vance Joy",
+      "cover": "http://www.billboard.com/images/pref_images/q22859jkptf.jpg",
+      "spotify": "http://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 16,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 28,
+      "title": "State Of My Head",
+      "artist": "Shinedown",
+      "cover": "http://www.billboard.com/images/pref_images/q39202rq588.jpg",
+      "spotify": "http://open.spotify.com/track/4Y3iqlme6RnS6G4Q0tcqMz?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Trip Switch",
+      "artist": "Nothing But Thieves",
+      "cover": "http://www.billboard.com/images/pref_images/q42338jrchv.jpg",
+      "spotify": "http://open.spotify.com/track/1uqU0nq6DCbJMktSlUvQV8?utm_campaign=billboard",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 19,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Don't Threaten Me With A Good Time",
+      "artist": "Panic! At The Disco",
+      "cover": "http://www.billboard.com/images/pref_images/q42820rugtn.jpg",
+      "spotify": "http://open.spotify.com/track/2fh3bZ8jZhMxOcfESE9nQY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 10,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Genghis Khan",
+      "artist": "Miike Snow",
+      "cover": "http://www.billboard.com/images/pref_images/q44864f0c2u.jpg",
+      "spotify": "http://open.spotify.com/track/6yHczwGhD6R0Mh1fe6IHkG?utm_campaign=billboard",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 12,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Spirits",
+      "artist": "The Strumbellas",
+      "cover": "http://www.billboard.com/images/pref_images/q45981b8qih.jpg",
+      "spotify": "http://open.spotify.com/track/1mqbTByfUxLPeqN1YEw08a?utm_campaign=billboard",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 7,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Mountain At My Gates",
+      "artist": "Foals",
+      "cover": "http://www.billboard.com/images/pref_images/q40093wzza8.jpg",
+      "spotify": "http://open.spotify.com/track/2n3JZ0r4oIQaDQDW4yjVpq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 18,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Start A Riot",
+      "artist": "BANNERS",
+      "cover": "http://www.billboard.com/images/pref_images/q47030g8oi3.jpg",
+      "spotify": "http://open.spotify.com/track/3efXxXuRf7Rs1quYKkoRmJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 24,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Everglow",
+      "artist": "Coldplay",
+      "cover": "http://www.billboard.com/images/pref_images/q44977u7wlb.jpg",
+      "spotify": "http://open.spotify.com/track/6HwPEeSVENUIxHtS0Omp1O?utm_campaign=billboard",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 8,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Wash It All Away",
+      "artist": "Five Finger Death Punch",
+      "cover": "http://www.billboard.com/images/pref_images/q39738fqy3v.jpg",
+      "spotify": "http://open.spotify.com/track/5nRBTzF9dLIlNqnl0xWo9g?utm_campaign=billboard",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 19,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 37,
+      "title": "LA Devotee",
+      "artist": "Panic! At The Disco",
+      "cover": "http://www.billboard.com/images/pref_images/q42820rugtn.jpg",
+      "spotify": "http://open.spotify.com/track/76mUA152QjDlg5DCpDxjSl?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 15,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 38,
+      "title": "The Light",
+      "artist": "Disturbed",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy2544352277528748589.jpg",
+      "spotify": "http://open.spotify.com/track/1MTELuKDa4b8VOHF97ffuY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 18,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Prayers / Triangles",
+      "artist": "Deftones",
+      "cover": "http://www.billboard.com/images/pref_images/q05246far3x.jpg",
+      "spotify": "http://open.spotify.com/track/2uAWmcvujYUNTPCIb2VYKH?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Love Me",
+      "artist": "The 1975",
+      "cover": "http://www.billboard.com/images/pref_images/q47825k1d3y.jpg",
+      "spotify": "http://open.spotify.com/track/5GbNhfhPM1se8BftcBCYxp?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Saint Cecilia",
+      "artist": "Foo Fighters",
+      "cover": "http://www.billboard.com/images/pref_images/p97242b3s6p.jpg",
+      "spotify": "http://open.spotify.com/track/7bdUH0npz854dv3plG8ieT?utm_campaign=billboard",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 30,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Ditmas",
+      "artist": "Mumford & Sons",
+      "cover": "http://www.billboard.com/images/pref_images/q29860f2q4v.jpg",
+      "spotify": "http://open.spotify.com/track/1udac3KKzxMxaHnIATDrVS?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 33,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 43,
+      "title": "The Black",
+      "artist": "Asking Alexandria",
+      "cover": "http://www.billboard.com/images/pref_images/q37974gcbbo.jpg",
+      "spotify": "http://open.spotify.com/track/4hiOIqf9nVmGVNI6LS5JPd?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 44,
+      "title": "America's Sweetheart",
+      "artist": "Elle King",
+      "cover": "http://www.billboard.com/images/pref_images/q36065wti8j.jpg",
+      "spotify": "http://open.spotify.com/track/2NcstvY8H9PVQ0DMNGHckh?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 10,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Up&Up",
+      "artist": "Coldplay",
+      "cover": "http://www.billboard.com/images/pref_images/q44977u7wlb.jpg",
+      "spotify": "http://open.spotify.com/track/31L9yLXSj6LpCFupyMV6CR?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 30,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 46,
+      "title": "I Need Never Get Old",
+      "artist": "Nathaniel Rateliff & The Night Sweats",
+      "cover": "http://www.billboard.com/images/pref_images/q38890v6tdk.jpg",
+      "spotify": "http://open.spotify.com/track/2KHuxWSwK8fB1zZSL1pECV?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 47,
+      "title": "House Of Memories",
+      "artist": "Panic! At The Disco",
+      "cover": "http://www.billboard.com/images/pref_images/q42820rugtn.jpg",
+      "spotify": "http://open.spotify.com/track/2DgdHcjWmO3qd50RzuBLgZ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 27,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 48,
+      "title": "A Head Full Of Dreams",
+      "artist": "Coldplay",
+      "cover": "http://www.billboard.com/images/pref_images/q44977u7wlb.jpg",
+      "spotify": "http://open.spotify.com/track/6f49kbOuQSOsStBpyGvQfA?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 26,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Thank God For Girls",
+      "artist": "Weezer",
+      "cover": "http://www.billboard.com/images/pref_images/q42813juook.jpg",
+      "spotify": "http://open.spotify.com/track/1W2rQhQGt0A2Xt7xWN9myy?utm_campaign=billboard",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 13,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Fun",
+      "artist": "Coldplay Featuring Tove Lo",
+      "cover": "http://www.billboard.com/images/pref_images/q44977u7wlb.jpg",
+      "spotify": "http://open.spotify.com/track/7fJFDK6XjYsXcMKNHESbot?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 28,
+        "Wks on Chart": 4
+      }
+    }
+  ]
+}

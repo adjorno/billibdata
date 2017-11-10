@@ -1,0 +1,553 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "1978-11-04",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "One Nation Under A Groove",
+      "artist": "Funkadelic",
+      "cover": "http://www.billboard.com/images/pref_images/q33493u13sq.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 2,
+      "title": "It Seems To Hang On",
+      "artist": "Ashford & Simpson",
+      "cover": "http://www.billboard.com/images/pref_images/p10802ub787.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Blame It On The Boogie",
+      "artist": "The Jacksons",
+      "cover": "http://www.billboard.com/images/pref_images/p13788c97bo.jpg",
+      "spotify": "http://open.spotify.com/track/0ryUadrXsahO3mASlKUJlT?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Your Sweetness Is My Weakness",
+      "artist": "Barry White",
+      "cover": "http://www.billboard.com/images/pref_images/p07212j6940.jpg",
+      "spotify": "http://open.spotify.com/track/0f6nNYfOXpHAy4IPrvMTqS?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 5,
+      "title": "I'm Every Woman",
+      "artist": "Chaka Khan",
+      "cover": "http://www.billboard.com/images/pref_images/q37182ncyek.jpg",
+      "spotify": "http://open.spotify.com/track/2M55R2A9IAhLdsCGFj8r8k?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 6,
+      "title": "There'll Never Be",
+      "artist": "Switch",
+      "cover": "http://www.billboard.com/images/pref_images/q12185rtbet.jpg",
+      "spotify": "http://open.spotify.com/track/79Qlk33OpmjfF9rKmmUsVk?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Dance (Disco Heat)",
+      "artist": "Sylvester",
+      "cover": "http://www.billboard.com/images/pref_images/q14410d67aj.jpg",
+      "spotify": "http://open.spotify.com/track/42TWEGEZXfsPHpjSLWATsH?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 8,
+      "title": "I'm In Love (And I Love The Feeling)",
+      "artist": "Rose Royce",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 5,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Let's Start The Dance",
+      "artist": "Hamilton Bohannon",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Mary Jane",
+      "artist": "Rick James",
+      "cover": "http://www.billboard.com/images/pref_images/p13809o0avn.jpg",
+      "spotify": "http://open.spotify.com/track/7KDAW88XnN1dmO6Nr54YeS?utm_campaign=billboard",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Only You",
+      "artist": "Loleatta Holloway And Bunny Sigler",
+      "spotify": "http://open.spotify.com/track/3qLw7g6jNQv0S57EhhEqIl?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Tonight Is The Night (Pts. 1 & 2)",
+      "artist": "Betty Wright",
+      "cover": "http://www.billboard.com/images/pref_images/p88998p1ez2.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 13,
+      "title": "(Olivia) Lost And Turned Out",
+      "artist": "The Whispers",
+      "cover": "http://www.billboard.com/images/pref_images/q33956bwmsi.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 13,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Get Off",
+      "artist": "Foxy",
+      "cover": "http://www.billboard.com/images/pref_images/q31357chd4q.jpg",
+      "spotify": "http://open.spotify.com/track/0HOyWvEpazXnNSjaTKGq9g?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 1,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Mc Arthur Park",
+      "artist": "Donna Summer",
+      "spotify": "http://open.spotify.com/track/3sGIwMgana3sZUWxJr8wfq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 8,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Don't Stop,get Off",
+      "artist": "The Sylvers",
+      "cover": "http://www.billboard.com/images/pref_images/p05841t80c5.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Ease On Down The Road",
+      "artist": "Diana Ross & Michael Jackson",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Funk 'N' Roll (Dancin' In The \"Funkshine\")",
+      "artist": "Quazar",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 11,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Disco To Go",
+      "artist": "Brides Of Funkenstein",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 7,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Don't Hold Back",
+      "artist": "Chanson",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 8,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Got To Be Real",
+      "artist": "Cheryl Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p16961uum77.jpg",
+      "spotify": "http://open.spotify.com/track/1wRHNlEjTmpaXv99BFAGnV?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 1,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Unlock Your Mind",
+      "artist": "Staples",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 16,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Flying High",
+      "artist": "Commodores",
+      "cover": "http://www.billboard.com/images/pref_images/p11664doi0w.jpg",
+      "spotify": "http://open.spotify.com/track/317uSHY79VghU3b4sbkLle?utm_campaign=billboard",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 21,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Party",
+      "artist": "Leon Haywood",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Soft And Wet",
+      "artist": "Prince And The Revolution",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy6495871972193697421.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 12,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 26,
+      "title": "You Should Do It",
+      "artist": "Peter Brown",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 25,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 27,
+      "title": "What You Waiting For",
+      "artist": "Stargard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 4,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 28,
+      "title": "You Were Meant For Me",
+      "artist": "Donny Hathaway",
+      "cover": "http://www.billboard.com/images/pref_images/q11484n8111.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 17,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Take It On Top",
+      "artist": "Pockets",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 24,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 30,
+      "title": "You Fooled Me",
+      "artist": "Grey And Hanks",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 19,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 31,
+      "title": "I Just Wanna Stop",
+      "artist": "Gino Vannelli",
+      "cover": "http://www.billboard.com/images/pref_images/p55427x9id8.jpg",
+      "spotify": "http://open.spotify.com/track/14pIl60LfvAB2XMdsDEaqj?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 21,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Dancing In Paradise",
+      "artist": "El Coco",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 33,
+      "title": "STAND UP",
+      "artist": "Atlantic Starr",
+      "cover": "http://www.billboard.com/images/pref_images/p08014o5w88.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 16,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Take Me I'm Yours",
+      "artist": "Michael Henderson",
+      "cover": "http://www.billboard.com/images/pref_images/q08914oupky.jpg",
+      "spotify": "http://open.spotify.com/track/7Cb6j69rjUQSifSIBCWAAQ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 3,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Only You",
+      "artist": "Teddy Pendergrass",
+      "cover": "http://www.billboard.com/images/pref_images/p07070d312s.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 22,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Special Occasion",
+      "artist": "Dorothy Moore",
+      "cover": "http://www.billboard.com/images/pref_images/p05636h08y7.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 30,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Holding On (When Love Is Gone)",
+      "artist": "L.T.D.",
+      "cover": "http://www.billboard.com/images/pref_images/q10390i7lql.jpg",
+      "spotify": "http://open.spotify.com/track/1bRfXYbXR95uBchA4XwL3M?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Sweet Music Man",
+      "artist": "Millie Jackson",
+      "cover": "http://www.billboard.com/images/pref_images/p13777a0a4o.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Hot Shot",
+      "artist": "Karen Young",
+      "spotify": "http://open.spotify.com/track/0quutq85UbelmEDgn05koB?utm_campaign=billboard",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 24,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Le Freak",
+      "artist": "Chic",
+      "cover": "http://www.billboard.com/images/pref_images/p21137j98gg.jpg",
+      "spotify": "http://open.spotify.com/track/5KeyvIhq4C39nf7yrJqSEq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "67",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 41,
+      "title": "It's A Better Than Good Time",
+      "artist": "Gladys Knight And The Pips",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 16,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Bare Back",
+      "artist": "The Temptations",
+      "cover": "http://www.billboard.com/images/pref_images/p14909tj4sv.jpg",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 42,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 43,
+      "title": "I Wanna Make Love To You",
+      "artist": "Randy Brown",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 22,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Say A Prayer For Two",
+      "artist": "Crown Heights Affair",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 41,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Ride-o-rocket",
+      "artist": "The Brothers Johnson",
+      "cover": "http://www.billboard.com/images/pref_images/p13911wv11m.jpg",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 45,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Got To Get You Into My Life",
+      "artist": "Earth, Wind & Fire",
+      "cover": "http://www.billboard.com/images/pref_images/q34482u4lsc.jpg",
+      "spotify": "http://open.spotify.com/track/3Uac2LXOc10m9nA3rhl75b?utm_campaign=billboard",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 47,
+      "title": "You",
+      "artist": "The McCrarys",
+      "spotify": "http://open.spotify.com/track/6wz6cxCUMXtJJONlVrqkKX?utm_campaign=billboard",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 9,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Love Attack",
+      "artist": "Shotgun",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 40,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Love To Burn",
+      "artist": "O.C.Smith",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 34,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 50,
+      "title": "I Love The Nightlife (Disco 'Round)",
+      "artist": "Alicia Bridges",
+      "cover": "http://www.billboard.com/images/pref_images/q28311emml4.jpg",
+      "spotify": "http://open.spotify.com/track/6c0G8K6G2LlIfJTsRLJjfs?utm_campaign=billboard",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 31,
+        "Wks on Chart": 17
+      }
+    }
+  ]
+}

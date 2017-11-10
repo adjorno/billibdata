@@ -1,0 +1,553 @@
+{
+  "name": "Country",
+  "chart_date": "2001-03-24",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "You Shouldn't Kiss Me Like This",
+      "artist": "Toby Keith",
+      "cover": "http://charts-static.billboard.com/img/2017/07/toby-keith.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 34
+      }
+    },
+    {
+      "rank": 2,
+      "title": "One More Day",
+      "artist": "Diamond Rio",
+      "cover": "http://charts-static.billboard.com/img/1991/03/diamond-rio-ena.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Who I Am",
+      "artist": "Jessica Andrews",
+      "cover": "http://charts-static.billboard.com/img/1999/02/jessica-andrews-9je.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 4,
+      "title": "But For The Grace Of God",
+      "artist": "Keith Urban",
+      "cover": "http://charts-static.billboard.com/img/1840/12/keith-urban-9lg.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 5,
+      "title": "If My Heart Had Wings",
+      "artist": "Faith Hill",
+      "cover": "http://charts-static.billboard.com/img/2017/04/faith-hill.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 6,
+      "title": "It's A Great Day To Be Alive",
+      "artist": "Travis Tritt",
+      "cover": "http://charts-static.billboard.com/img/2016/12/travis-tritt.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 2,
+        "Wks on Chart": 38
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Ashes By Now",
+      "artist": "Lee Ann Womack",
+      "cover": "http://charts-static.billboard.com/img/1840/12/lee-ann-womack-3xk.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Don't Happen Twice",
+      "artist": "Kenny Chesney",
+      "cover": "http://charts-static.billboard.com/img/2017/06/kenny-chesney.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 1,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Ain't Nothing 'Bout You",
+      "artist": "Brooks & Dunn",
+      "cover": "http://charts-static.billboard.com/img/1840/12/brooks-dunn-por.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 1,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 10,
+      "title": "She Misses Him",
+      "artist": "Tim Rushlow",
+      "cover": "http://charts-static.billboard.com/img/2000/04/tim-rushlow-tdy.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 8,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 11,
+      "title": "If I Fall You're Going Down With Me",
+      "artist": "Dixie Chicks",
+      "cover": "http://charts-static.billboard.com/img/1840/12/dixie-chicks-ao3.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 3,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Burn",
+      "artist": "Jo Dee Messina",
+      "cover": "http://charts-static.billboard.com/img/1996/01/jo-dee-messina-b7e.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 2,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Lucky 4 You (Tonight I'm Just Me)",
+      "artist": "SHeDAISY",
+      "cover": "http://charts-static.billboard.com/img/1999/02/shedaisy-twv.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 11,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 14,
+      "title": "There Is No Arizona",
+      "artist": "Jamie O'Neal",
+      "cover": "http://charts-static.billboard.com/img/2000/08/jamie-oneal-lw9.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 35
+      }
+    },
+    {
+      "rank": 15,
+      "title": "It's My Time",
+      "artist": "Martina McBride",
+      "cover": "http://charts-static.billboard.com/img/2017/05/martina-mcbride.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 11,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Wild Horses",
+      "artist": "Garth Brooks",
+      "cover": "http://charts-static.billboard.com/img/2017/04/garth-brooks.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 7,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Pour Me",
+      "artist": "Trick Pony",
+      "cover": "http://charts-static.billboard.com/img/1970/12/trick-pony-00m.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 12,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 18,
+      "title": "My Next Thirty Years",
+      "artist": "Tim McGraw",
+      "cover": "http://charts-static.billboard.com/img/2017/04/tim-mcgraw.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 1,
+        "Wks on Chart": 46
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Move On",
+      "artist": "The Warren Brothers",
+      "cover": "http://charts-static.billboard.com/img/1998/08/the-warren-brothers-qtf.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 17,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Right Where I Need To Be",
+      "artist": "Gary Allan",
+      "cover": "http://charts-static.billboard.com/img/2017/06/gary-allan.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 5,
+        "Wks on Chart": 48
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Mrs. Steven Rudy",
+      "artist": "Mark McGuinn",
+      "cover": "http://charts-static.billboard.com/img/2001/01/mark-mcguinn-4e4.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 6,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Rose Bouquet",
+      "artist": "Phil Vassar",
+      "cover": "http://charts-static.billboard.com/img/2016/12/phil-vassar.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 16,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Please",
+      "artist": "Pam Tillis",
+      "cover": "http://charts-static.billboard.com/img/1984/11/pam-tillis-xiu.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 22,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 24,
+      "title": "The Last Thing On My Mind",
+      "artist": "Patty Loveless",
+      "cover": "http://charts-static.billboard.com/img/1840/12/patty-loveless-kur.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 20,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 25,
+      "title": "I Could Not Ask For More",
+      "artist": "Sara Evans",
+      "cover": "http://charts-static.billboard.com/img/2017/08/sara-evans.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 2,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 26,
+      "title": "If You Can Do Anything Else",
+      "artist": "George Strait",
+      "cover": "http://charts-static.billboard.com/img/2016/12/george-strait.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 5,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Sometimes",
+      "artist": "Clay Davidson",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 21,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 28,
+      "title": "The Hunger",
+      "artist": "Steve Holy",
+      "cover": "http://charts-static.billboard.com/img/1840/12/steve-holy-pqy.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 24,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 29,
+      "title": "People Like Us",
+      "artist": "Aaron Tippin",
+      "cover": "http://charts-static.billboard.com/img/1990/11/aaron-tippin-qdj.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 17,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Grown Men Don't Cry",
+      "artist": "Tim McGraw",
+      "cover": "http://charts-static.billboard.com/img/2017/04/tim-mcgraw.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 31,
+      "title": "When Somebody Loves You",
+      "artist": "Alan Jackson",
+      "cover": "http://charts-static.billboard.com/img/2016/12/alan-jackson.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 5,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 32,
+      "title": "She Couldn't Change Me",
+      "artist": "Montgomery Gentry",
+      "cover": "http://charts-static.billboard.com/img/1999/02/montgomery-gentry-ahv.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 2,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Shoot Straight From Your Heart",
+      "artist": "Vince Gill",
+      "cover": "http://charts-static.billboard.com/img/2016/11/vince-gill.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 34,
+      "title": "No Fear",
+      "artist": "Terri Clark",
+      "cover": "http://charts-static.billboard.com/img/1995/07/terri-clark-5ak.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 27,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 35,
+      "title": "I'm In",
+      "artist": "The Kinleys",
+      "cover": "http://charts-static.billboard.com/img/1997/08/the-kinleys-o5h.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 35,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Wrong Five O'clock",
+      "artist": "Eric Heatherly",
+      "cover": "http://charts-static.billboard.com/img/2000/02/eric-heatherly-bef.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 32,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 37,
+      "title": "There You Go Again",
+      "artist": "Kenny Rogers",
+      "cover": "http://charts-static.billboard.com/img/1840/12/kenny-rogers-ym6.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 26,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 38,
+      "title": "But I Do Love You",
+      "artist": "LeAnn Rimes",
+      "cover": "http://charts-static.billboard.com/img/2017/06/leann-rimes.jpg",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 18,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Go Back",
+      "artist": "Chalee Tennison",
+      "cover": "http://charts-static.billboard.com/img/1999/04/chalee-tennison-5k4.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 36,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Laredo",
+      "artist": "Chris Cagle",
+      "cover": "http://charts-static.billboard.com/img/2000/07/chris-cagle-sfi.jpg",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 8,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Say No More",
+      "artist": "Clay Walker",
+      "cover": "http://charts-static.billboard.com/img/1840/12/clay-walker-hzl.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 33,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Beatin' It In",
+      "artist": "Neal McCoy",
+      "cover": "http://charts-static.billboard.com/img/1988/08/neal-mccoy-pat.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 41,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 43,
+      "title": "He Drinks Tequila",
+      "artist": "Lorrie Morgan & Sammy Kershaw",
+      "cover": "http://charts-static.billboard.com/img/1979/03/lorrie-morgan-8ry.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 39,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 44,
+      "title": "A Rose Is A Rose",
+      "artist": "Meredith Edwards",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 37,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 45,
+      "title": "What I Did Right",
+      "artist": "Sons Of The Desert",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 22,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Don't Make Me Come Over There And Love You",
+      "artist": "George Strait",
+      "cover": "http://charts-static.billboard.com/img/2016/12/george-strait.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 17,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 47,
+      "title": "She Is",
+      "artist": "Hal Ketchum",
+      "cover": "http://charts-static.billboard.com/img/1991/05/hal-ketchum-zzu.jpg",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 40,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Two People Fell In Love",
+      "artist": "Brad Paisley",
+      "cover": "http://charts-static.billboard.com/img/2017/05/brad-paisley.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 4,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 49,
+      "title": "A Good Way To Get On My Bad Side",
+      "artist": "Tracy Byrd Duet With Mark Chesnutt",
+      "cover": "http://charts-static.billboard.com/img/1992/08/tracy-byrd-tmn.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 21,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 50,
+      "title": "That's What I Like About You",
+      "artist": "John Michael Montgomery",
+      "cover": "http://charts-static.billboard.com/img/1840/12/john-michael-montgomery-l75.jpg",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 44,
+        "Wks on Chart": 11
+      }
+    }
+  ]
+}

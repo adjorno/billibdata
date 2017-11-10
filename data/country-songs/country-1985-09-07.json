@@ -1,0 +1,566 @@
+{
+  "name": "Country",
+  "chart_date": "1985-09-07",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "I Don t Know Why You Don t Want Me",
+      "artist": "Rosanne Cash",
+      "cover": "http://www.billboard.com/images/pref_images/q11810tv5mr.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Modern Day Romance",
+      "artist": "The Nitty Gritty Dirt Band",
+      "cover": "http://www.billboard.com/images/pref_images/p71319lssqr.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Used To Blue",
+      "artist": "Sawyer Brown",
+      "cover": "http://www.billboard.com/images/pref_images/p61625zaj9l.jpg",
+      "spotify": "http://open.spotify.com/track/6TiZ9y4EV157lokfmPgyAr?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 4,
+      "title": "I Fell In Love Again Last Night",
+      "artist": "The Forester Sisters",
+      "cover": "http://www.billboard.com/images/pref_images/p05062q5t30.jpg",
+      "spotify": "http://open.spotify.com/track/5aInwR7PJ4uJo776ZF9IKZ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 1,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Drinkin And Dreamin",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p74497xu88o.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 2,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Lost In The Fifties Tonight(In The Still)",
+      "artist": "Ronnie Milsap",
+      "cover": "http://www.billboard.com/images/pref_images/p64915ixv56.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Between Blue Eyes And Jeans",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "spotify": "http://open.spotify.com/track/4Bk1N22xoVCLSmHW8cwJq9?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 3,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Love Is Alive",
+      "artist": "The Judds",
+      "cover": "http://www.billboard.com/images/pref_images/p17046s0ojj.jpg",
+      "spotify": "http://open.spotify.com/track/1nuvaBD5x0QnFvmwyI0iGF?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Cry Just A Little Bit",
+      "artist": "Sylvia",
+      "spotify": "http://open.spotify.com/track/4e29ZclZ53NZaKFmGCctck?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 9,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Pretty Lady",
+      "artist": "Keith Stegall",
+      "cover": "http://www.billboard.com/images/pref_images/p14940kwnww.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 10,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 11,
+      "title": "She s Comin Back To Say Goodbye",
+      "artist": "Eddie Rabbitt",
+      "cover": "http://www.billboard.com/images/pref_images/p15953cykua.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 6,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 12,
+      "title": "With Just One Look In Your Eyes",
+      "artist": "Charly McClain/Wayne Massey",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 5,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Meet Me In Montana",
+      "artist": "Marie Osmond (With Dan Seals)",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 1,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Have I Got A Deal For You",
+      "artist": "Reba McEntire",
+      "cover": "http://www.billboard.com/images/pref_images/q08840c7yxi.jpg",
+      "spotify": "http://open.spotify.com/track/05AJZd7wlmIzVIKQSq9JM5?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Kern River",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/p80844iu306.jpg",
+      "spotify": "http://open.spotify.com/track/5zwA1kHglwkGVcWMfmYkNf?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 10,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 16,
+      "title": "You Make Me Want To Make You Mine",
+      "artist": "Juice Newton",
+      "cover": "http://www.billboard.com/images/pref_images/p20963qhwvq.jpg",
+      "spotify": "http://open.spotify.com/track/4QUpYFUiq4BQBb7ReSbJEn?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 1,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Blue Highway",
+      "artist": "John Conlee",
+      "cover": "http://www.billboard.com/images/pref_images/p11672f3k79.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 15,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Touch A Hand,Make A Friend",
+      "artist": "The Oak Ridge Boys",
+      "cover": "http://www.billboard.com/images/pref_images/p25357h6var.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 19,
+      "title": "She s Single Again",
+      "artist": "Janie Frickie",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Love Talks",
+      "artist": "Ronnie McDowell",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 9,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 21,
+      "title": "If It Weren t For Him",
+      "artist": "Vince Gill",
+      "cover": "http://www.billboard.com/images/pref_images/p61461yuovm.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 10,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Some Fools Never Learn",
+      "artist": "Steve Wariner",
+      "cover": "http://www.billboard.com/images/pref_images/p01226ih5vq.jpg",
+      "spotify": "http://open.spotify.com/track/4QPLcTpwxWoIX9lNCMqpN8?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 1,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Who s Gonna Fill Their Shoes",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "spotify": "http://open.spotify.com/track/1IEstSVuhAUSgZoJmI7k4Q?utm_campaign=billboard",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 3,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 24,
+      "title": "He Won t Give In",
+      "artist": "Kathy Mattea",
+      "cover": "http://www.billboard.com/images/pref_images/p23084l4mxj.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 22,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 25,
+      "title": "I Never Made Love (Till I Made It With You)",
+      "artist": "Mac Davis",
+      "cover": "http://www.billboard.com/images/pref_images/p11850p6116.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 26,
+      "title": "I Wanna Hear It From You",
+      "artist": "Eddy Raven",
+      "cover": "http://www.billboard.com/images/pref_images/p24889qhctt.jpg",
+      "spotify": "http://open.spotify.com/track/7z4Oo2Xlklhel47nzVvmAo?utm_campaign=billboard",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 8,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 27,
+      "title": "A Long And Lasting Love",
+      "artist": "Crystal Gayle",
+      "cover": "http://www.billboard.com/images/pref_images/q00098ngkyq.jpg",
+      "spotify": "http://open.spotify.com/track/5d7qybaD4ZUmHNSDHmdX9x?utm_campaign=billboard",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 5,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Real Love",
+      "artist": "Dolly Parton (Duet With Kenny Rogers)",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Hang On To Your Heart",
+      "artist": "Exile",
+      "cover": "http://www.billboard.com/images/pref_images/p12189a16bh.jpg",
+      "spotify": "http://open.spotify.com/track/21LSOaVrQiOovqVpoKzFrD?utm_campaign=billboard",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 1,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Can t Keep A Good Man Down",
+      "artist": "Alabama",
+      "cover": "http://www.billboard.com/images/pref_images/p91132pp3wa.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 1,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Heart Don t Do This To Me",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 19,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 32,
+      "title": "I m Gonna Leave You Tomorrow",
+      "artist": "John Schneider",
+      "cover": "http://www.billboard.com/images/pref_images/p08528hfhwu.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 10,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 33,
+      "title": "If It Ain t Love",
+      "artist": "Ed Bruce",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 20,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 34,
+      "title": "I ll Never Stop Loving You",
+      "artist": "Gary Morris",
+      "cover": "http://www.billboard.com/images/pref_images/p15285xwaj8.jpg",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 1,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Thing About You",
+      "artist": "Southern Pacific",
+      "cover": "http://www.billboard.com/images/pref_images/p08586uqbmt.jpg",
+      "spotify": "http://open.spotify.com/track/3nJryhknArJdpLZDIbqJoA?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 14,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Carolina In The Pines",
+      "artist": "Michael Martin Murphey",
+      "cover": "http://www.billboard.com/images/pref_images/p12356d93r2.jpg",
+      "spotify": "http://open.spotify.com/track/5PNp1Vx3mPocQ2LIXJPe1S?utm_campaign=billboard",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 9,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Angel In Your Arms",
+      "artist": "Barbara Mandrell",
+      "cover": "http://www.billboard.com/images/pref_images/p14987e704s.jpg",
+      "spotify": "http://open.spotify.com/track/7nOZYwa0RyxiLW8cWiPeq4?utm_campaign=billboard",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 8,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 38,
+      "title": "I Wanna Say Yes",
+      "artist": "Louise Mandrell",
+      "spotify": "http://open.spotify.com/track/5Dv5NWCqUuJSsmBr92jVgV?utm_campaign=billboard",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 5,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Drowning In Memories",
+      "artist": "T. Graham Brown",
+      "cover": "http://www.billboard.com/images/pref_images/p41790r9k0d.jpg",
+      "spotify": "http://open.spotify.com/track/2dvo52LnO6MJecTHPD2lb5?utm_campaign=billboard",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 39,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 40,
+      "title": "I Want Everyone To Cry",
+      "artist": "Restless Heart",
+      "cover": "http://www.billboard.com/images/pref_images/p04288go8v4.jpg",
+      "spotify": "http://open.spotify.com/track/5QaX8LgleeuZXnHzdPuEjK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 10,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Highwayman",
+      "artist": "W.Jennings,W.Nelson,J.Cash,K.Kristofferson",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 42,
+      "title": "The Fireman",
+      "artist": "George Strait",
+      "cover": "http://www.billboard.com/images/pref_images/q21681swo3j.jpg",
+      "spotify": "http://open.spotify.com/track/6rFDuPeQI26Sgbuo9EkFHs?utm_campaign=billboard",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 5,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Too Much On My Heart",
+      "artist": "The Statler Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/p24114v60jy.jpg",
+      "spotify": "http://open.spotify.com/track/5ZJFXnRQDEQxpgNBsH2xPK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 1,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 44,
+      "title": "You ve Got Something On Your Mind",
+      "artist": "Mickey Gilley",
+      "cover": "http://www.billboard.com/images/pref_images/p02761l7p22.jpg",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 10,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 45,
+      "title": "You Could Be The One Woman",
+      "artist": "Chance",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 45,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 46,
+      "title": "You re Gonna Miss Me When I m Gone",
+      "artist": "Judy Rodman",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 33,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 47,
+      "title": "I Don t Mind The Thorns (If You re The Rose)",
+      "artist": "Lee Greenwood",
+      "cover": "http://www.billboard.com/images/pref_images/p55407kzwg4.jpg",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 1,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 48,
+      "title": "You Can t Run Away From Your Heart",
+      "artist": "Lacy J. Dalton",
+      "cover": "http://www.billboard.com/images/pref_images/p11818bened.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 20,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Bar Room Roses",
+      "artist": "Moe Bandy",
+      "cover": "http://www.billboard.com/images/pref_images/p10901ruw7x.jpg",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 45,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Smooth Sailing (Rock In The Road)",
+      "artist": "Mark Gray",
+      "cover": "http://www.billboard.com/images/pref_images/p05201c6en0.jpg",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 43,
+        "Wks on Chart": 13
+      }
+    }
+  ]
+}

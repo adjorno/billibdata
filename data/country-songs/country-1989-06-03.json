@@ -1,0 +1,580 @@
+{
+  "name": "Country",
+  "chart_date": "1989-06-03",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Where Did I Go Wrong",
+      "artist": "Steve Wariner",
+      "cover": "http://www.billboard.com/images/pref_images/p01226ih5vq.jpg",
+      "spotify": "http://open.spotify.com/track/22701eCB4d0Gi9RKlRXdgC?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Better Man",
+      "artist": "Clint Black",
+      "cover": "http://www.billboard.com/images/pref_images/p07484dsj1m.jpg",
+      "spotify": "http://open.spotify.com/track/4N9ge6XIygbUBExatk2lhc?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Love Out Loud",
+      "artist": "Earl Thomas Conley",
+      "cover": "http://www.billboard.com/images/pref_images/p11674y0b5j.jpg",
+      "spotify": "http://open.spotify.com/track/1wbpSUID36vJyDsIzptzZG?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 4,
+      "title": "She Don t Love Nobody",
+      "artist": "The Desert Rose Band",
+      "cover": "http://www.billboard.com/images/pref_images/p11928ip2s4.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 5,
+      "title": "I Got You",
+      "artist": "Dwight Yoakam",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy2469173574915783067.jpg",
+      "spotify": "http://open.spotify.com/track/10X5I5ghDvNXfzsUXoLn8N?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 6,
+      "title": "I Don t Want To Spoil The Party",
+      "artist": "Rosanne Cash",
+      "cover": "http://www.billboard.com/images/pref_images/q11810tv5mr.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 7,
+      "title": "They Rage On",
+      "artist": "Dan Seals",
+      "cover": "http://www.billboard.com/images/pref_images/p08539yevau.jpg",
+      "spotify": "http://open.spotify.com/track/6lcJL4bDNo7CVYByImsEcS?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 5,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Call On Me",
+      "artist": "Tanya Tucker",
+      "cover": "http://www.billboard.com/images/pref_images/p18935d0o2l.jpg",
+      "spotify": "http://open.spotify.com/track/4gjG1bAGpDetskIVjbSlCj?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 4,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Lovin Only Me",
+      "artist": "Ricky Skaggs",
+      "cover": "http://www.billboard.com/images/pref_images/p73208alujm.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Come From The Heart",
+      "artist": "Kathy Mattea",
+      "cover": "http://www.billboard.com/images/pref_images/p23084l4mxj.jpg",
+      "spotify": "http://open.spotify.com/track/27IbpxcJB0ATXHh3Epesgq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 11,
+      "title": "After All This Time",
+      "artist": "Rodney Crowell",
+      "cover": "http://www.billboard.com/images/pref_images/p69335a2uw3.jpg",
+      "spotify": "http://open.spotify.com/track/5g6UsWPUKxSGwCsA5YtyTw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Beyond Those Years",
+      "artist": "The Oak Ridge Boys",
+      "cover": "http://www.billboard.com/images/pref_images/p25357h6var.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 7,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Hole In My Pocket",
+      "artist": "Ricky Van Shelton",
+      "cover": "http://www.billboard.com/images/pref_images/p17758r58pg.jpg",
+      "spotify": "http://open.spotify.com/track/0OpcOp28wpDyFzktH9AXUg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 4,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 14,
+      "title": "In A Letter To You",
+      "artist": "Eddy Raven",
+      "cover": "http://www.billboard.com/images/pref_images/p24889qhctt.jpg",
+      "spotify": "http://open.spotify.com/track/4V5D8MJNnu4bRu1F03FSc1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Sowin Love",
+      "artist": "Paul Overstreet",
+      "cover": "http://www.billboard.com/images/pref_images/p14826no4nd.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 9,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 16,
+      "title": "What s Going On In Your World",
+      "artist": "George Strait",
+      "cover": "http://www.billboard.com/images/pref_images/q21681swo3j.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 17,
+      "title": "If I Had You",
+      "artist": "Alabama",
+      "cover": "http://www.billboard.com/images/pref_images/p91132pp3wa.jpg",
+      "spotify": "http://open.spotify.com/track/2I5ff8agHfxZG21w1wWFMV?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Houston Solution",
+      "artist": "Ronnie Milsap",
+      "cover": "http://www.billboard.com/images/pref_images/p64915ixv56.jpg",
+      "spotify": "http://open.spotify.com/track/3SWJDH1YSyZ8YHSX3QxAE3?utm_campaign=billboard",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 4,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 19,
+      "title": "5:01 Blues",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/p80844iu306.jpg",
+      "spotify": "http://open.spotify.com/track/4v84ETob3R9j2wJI0GbOEr?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 18,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Cathy s Clown",
+      "artist": "Reba McEntire",
+      "cover": "http://www.billboard.com/images/pref_images/q08840c7yxi.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 21,
+      "title": "She s Got A Single Thing In Mind",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 2,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 22,
+      "title": "I Know What I ve Got",
+      "artist": "J.C. Crowley",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 21,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Up And Gone",
+      "artist": "The McCarters",
+      "cover": "http://www.billboard.com/images/pref_images/p05601k34s4.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 9,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 24,
+      "title": "The Gospel According To Luke",
+      "artist": "Skip Ewing",
+      "cover": "http://www.billboard.com/images/pref_images/p04995t7un6.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Don t Quit Me Now",
+      "artist": "James House",
+      "cover": "http://www.billboard.com/images/pref_images/q25586jk7md.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 25,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Much Too Young (To Feel This Damn Old)",
+      "artist": "Garth Brooks",
+      "cover": "http://www.billboard.com/images/pref_images/p18476aqku3.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 8,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 27,
+      "title": "One Good Well",
+      "artist": "Don Williams",
+      "cover": "http://www.billboard.com/images/pref_images/p99491b31tl.jpg",
+      "spotify": "http://open.spotify.com/track/2eqCiAJ5HfsykXVxZUvcOz?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 4,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Wine Me Up",
+      "artist": "Larry Boone",
+      "cover": "http://www.billboard.com/images/pref_images/p03374ypf20.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Is It Still Over",
+      "artist": "Randy Travis",
+      "cover": "http://www.billboard.com/images/pref_images/p67481jattb.jpg",
+      "spotify": "http://open.spotify.com/track/24eCHPhw7cNt0FpVuEjRfI?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Why d You Come In Here Lookin Like That",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q12419wxvxf.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Dear Me",
+      "artist": "Lorrie Morgan",
+      "cover": "http://www.billboard.com/images/pref_images/p24035ob6df.jpg",
+      "spotify": "http://open.spotify.com/track/0JkrWsAchsWzs8AaOOWC6K?utm_campaign=billboard",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 9,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 32,
+      "title": "You Ain t Going Nowhere",
+      "artist": "Chris Hillman",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 6,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Big Dreams In A Small Town",
+      "artist": "Restless Heart",
+      "cover": "http://www.billboard.com/images/pref_images/p04288go8v4.jpg",
+      "spotify": "http://open.spotify.com/track/0LbkAw6eOU1T9qCcBboIKc?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 3,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Love Will",
+      "artist": "The Forester Sisters",
+      "cover": "http://www.billboard.com/images/pref_images/p05062q5t30.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 7,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 35,
+      "title": "More Than A Name On A Wall",
+      "artist": "The Statler Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/p24114v60jy.jpg",
+      "spotify": "http://open.spotify.com/track/3FWEFmptngrlmjpq43Ii1i?utm_campaign=billboard",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 6,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 36,
+      "title": "The King Is Gone (So Are You)",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "spotify": "http://open.spotify.com/track/47vXjuUO4OKODO9XlinEDX?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 26,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Heaven Only Knows",
+      "artist": "Emmylou Harris",
+      "cover": "http://www.billboard.com/images/pref_images/p23487axdrb.jpg",
+      "spotify": "http://open.spotify.com/track/4IHXgWbvnl6WkG6q3NaTe6?utm_campaign=billboard",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 16,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Like Father Like Son",
+      "artist": "Lionel Cartwright",
+      "cover": "http://www.billboard.com/images/pref_images/p09428iyj8a.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 14,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Never Say Never",
+      "artist": "T. Graham Brown",
+      "cover": "http://www.billboard.com/images/pref_images/p41790r9k0d.jpg",
+      "spotify": "http://open.spotify.com/track/4urVGTNCip6XzWCkvmkSBJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 30,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Young Love (Strong Love)",
+      "artist": "The Judds",
+      "cover": "http://www.billboard.com/images/pref_images/p17046s0ojj.jpg",
+      "spotify": "http://open.spotify.com/track/3fAOIOHsdTG2kTN8PPULH0?utm_campaign=billboard",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 41,
+      "title": "How Do",
+      "artist": "Mary Chapin Carpenter",
+      "cover": "http://www.billboard.com/images/pref_images/p94074tt627.jpg",
+      "spotify": "http://open.spotify.com/track/16joEYijm0TUK0TnbSM0lV?utm_campaign=billboard",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 19,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Sunday In The South",
+      "artist": "Shenandoah",
+      "cover": "http://www.billboard.com/images/pref_images/p07133e85wa.jpg",
+      "spotify": "http://open.spotify.com/track/77EUN0FrmbUXDMzkAyaowq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 1,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Midnight Train",
+      "artist": "The Charlie Daniels Band",
+      "cover": "http://www.billboard.com/images/pref_images/p67328tt4pg.jpg",
+      "spotify": "http://open.spotify.com/track/3gDqYdkOGlVVlJUWgJCPrH?utm_campaign=billboard",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 43,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Love Has No Right",
+      "artist": "Billy Joe Royal",
+      "cover": "http://www.billboard.com/images/pref_images/p16191kn6hw.jpg",
+      "spotify": "http://open.spotify.com/track/3xtD4VfNr7TSOQfsI1ZQYV?utm_campaign=billboard",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 4,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 45,
+      "title": "I Might Be What You re Lookin For",
+      "artist": "Larry Gatlin/Gatlin Brothers",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 37,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Back In The Fire",
+      "artist": "Gene Watson",
+      "cover": "http://www.billboard.com/images/pref_images/p71339bw5t3.jpg",
+      "spotify": "http://open.spotify.com/track/3WkEhMPzsSrsC2CD1MGCIN?utm_campaign=billboard",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 20,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Timber I m Falling In Love",
+      "artist": "Patty Loveless",
+      "cover": "http://www.billboard.com/images/pref_images/p14401egg3n.jpg",
+      "position": {
+        "Last Week": "63",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 48,
+      "title": "When Love Comes Around The Bend",
+      "artist": "Juice Newton",
+      "cover": "http://www.billboard.com/images/pref_images/p20963qhwvq.jpg",
+      "spotify": "http://open.spotify.com/track/03xtB20eDC9u9xEKhtv2Fd?utm_campaign=billboard",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 40,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 49,
+      "title": "If I Ever Go Crazy",
+      "artist": "The Shooters",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 17,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Turn Of the Century",
+      "artist": "The Nitty Gritty Dirt Band",
+      "cover": "http://www.billboard.com/images/pref_images/p71319lssqr.jpg",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 27,
+        "Wks on Chart": 15
+      }
+    }
+  ]
+}

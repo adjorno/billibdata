@@ -1,0 +1,549 @@
+{
+  "name": "Country",
+  "chart_date": "1974-11-02",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "I Overlooked An Orchid",
+      "artist": "Mickey Gilley",
+      "cover": "http://www.billboard.com/images/pref_images/p02761l7p22.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Love Is Like A Butterfly",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "spotify": "http://open.spotify.com/track/3LJdpkoWJY3H0bObrCjzsC?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 3,
+      "title": "I See The Want To In Your Eyes",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Mississippi Cotton Picking Delta Town",
+      "artist": "Charley Pride",
+      "cover": "http://www.billboard.com/images/pref_images/p14590oax26.jpg",
+      "spotify": "http://open.spotify.com/track/3aiH9w3JqKtLe7CpemqbC2?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Country Is",
+      "artist": "Tom T. Hall",
+      "cover": "http://www.billboard.com/images/pref_images/p79752rjipk.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 6,
+      "title": "I Honestly Love You",
+      "artist": "Olivia Newton-John",
+      "cover": "http://www.billboard.com/images/pref_images/q33925ccwag.jpg",
+      "spotify": "http://open.spotify.com/track/7ek4MYOY3Kb0GqNTAxii3r?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Trouble In Paradise",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Bonaparte's Retreat",
+      "artist": "Glen Campbell",
+      "cover": "http://www.billboard.com/images/pref_images/p99857on5ga.jpg",
+      "spotify": "http://open.spotify.com/track/6D0okTHbMRtDkM0YE5Km7w?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Take Me Home To Somewhere",
+      "artist": "Joe Stampley",
+      "cover": "http://www.billboard.com/images/pref_images/p16557xwp6y.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Don't Tell (That Sweet Ole Lady Of Mine)",
+      "artist": "Johnny Carver",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Get On My Love Train",
+      "artist": "La Costa",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 12,
+      "title": "The Great Divide",
+      "artist": "Roy Clark",
+      "cover": "http://www.billboard.com/images/pref_images/p25356bg9ta.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Bring Back Your Love To Me",
+      "artist": "Don Gibson",
+      "cover": "http://www.billboard.com/images/pref_images/p01350b8647.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 9,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Woman To Woman",
+      "artist": "Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27879imrhm.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Back Home Again",
+      "artist": "John Denver",
+      "cover": "http://www.billboard.com/images/pref_images/q05672uic4u.jpg",
+      "spotify": "http://open.spotify.com/track/6QCMLYpb9RizrYcBAhpkPX?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Delta Dirt",
+      "artist": "Larry Gatlin",
+      "cover": "http://www.billboard.com/images/pref_images/p13203y9yuj.jpg",
+      "spotify": "http://open.spotify.com/track/7Lj6RbiFSyGtLEAgWtls3T?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 14,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Boney Fingers",
+      "artist": "Hoyt Axton",
+      "cover": "http://www.billboard.com/images/pref_images/p55433a2q8m.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Can't You Feel It",
+      "artist": "David Houston",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 9,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 19,
+      "title": "The Credit Card Song",
+      "artist": "Dick Feller",
+      "spotify": "http://open.spotify.com/track/0e1KvXg3PSNKDJF3DDnlF0?utm_campaign=billboard",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 10,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 20,
+      "title": "You're Not Getting Older (You're Getting Better)",
+      "artist": "Freddy Weller",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 16,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 21,
+      "title": "She Called Me Baby",
+      "artist": "Charlie Rich",
+      "cover": "http://www.billboard.com/images/pref_images/p16046hvjwg.jpg",
+      "spotify": "http://open.spotify.com/track/3HiqFYRAutFNXtOGdBM3cW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Come On In And Let Me Love You",
+      "artist": "Lois Johnson",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Memory Maker",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Ten Commandments Of Love",
+      "artist": "David Houston",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 14,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Welcome To The Sunshine (Sweet Baby Jane)",
+      "artist": "Jeanne Pruett",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 22,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 26,
+      "title": "I'm Having Your Baby",
+      "artist": "Sunday Sharpe",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 11,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Workin' At The Car Wash Blues",
+      "artist": "Tony Booth",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 27,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Son Of A Rotten Gambler",
+      "artist": "Anne Murray",
+      "cover": "http://www.billboard.com/images/pref_images/p17487bo9ca.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Long Black Veil",
+      "artist": "Sammi Smith",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 26,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 30,
+      "title": "A Mi Esposa Con Amor (To My Wife With Love)",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 4,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Another Goodbye Song",
+      "artist": "Rex Allen, Jr.",
+      "cover": "http://www.billboard.com/images/pref_images/p02931k1b1h.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 31,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 32,
+      "title": "He Can Be Mine",
+      "artist": "Jeannie Seely",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 26,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Lucky Arms",
+      "artist": "Lefty Frizzell",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 21,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Every Time I Turn The Radio On",
+      "artist": "Bill Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/q13686h7qps.jpg",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 7,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Please Don't Stop Loving Me",
+      "artist": "Porter Wagoner And Dolly Parton",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 36,
+      "title": "If I Miss You Again Tonight",
+      "artist": "Tommy Overstreet",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 8,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Raindrops",
+      "artist": "Narvel Felts",
+      "cover": "http://www.billboard.com/images/pref_images/p13035lrgy1.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 33,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 38,
+      "title": "She Burn't The Little Roadside Tavern Down",
+      "artist": "Johnny Russell",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 38,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 39,
+      "title": "I Love My Friend",
+      "artist": "Charlie Rich",
+      "cover": "http://www.billboard.com/images/pref_images/p16046hvjwg.jpg",
+      "spotify": "http://open.spotify.com/track/3CbbaMj8BRNRGnqeOySSDk?utm_campaign=billboard",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Stop And Smell The Roses",
+      "artist": "Mac Davis",
+      "cover": "http://www.billboard.com/images/pref_images/p11850p6116.jpg",
+      "spotify": "http://open.spotify.com/track/2bYTCkWMQ23A74P7SNspsN?utm_campaign=billboard",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 40,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 41,
+      "title": "You Get To Me",
+      "artist": "Eddie Rabbitt",
+      "cover": "http://www.billboard.com/images/pref_images/p15953cykua.jpg",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 34,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Let's Truck Together",
+      "artist": "Kenny Price",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 42,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Fairytale",
+      "artist": "The Pointer Sisters",
+      "cover": "http://www.billboard.com/images/pref_images/p15808se500.jpg",
+      "spotify": "http://open.spotify.com/track/4wuLz5ovWAB9nBIf3jJBGL?utm_campaign=billboard",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 37,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 44,
+      "title": "We're Over",
+      "artist": "Johnny Rodriguez",
+      "cover": "http://www.billboard.com/images/pref_images/p16108d457b.jpg",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 3,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 45,
+      "title": "U.S. Of A",
+      "artist": "Donna Fargo",
+      "cover": "http://www.billboard.com/images/pref_images/p13015w6eau.jpg",
+      "spotify": "http://open.spotify.com/track/2UMcX9ivm6wZ6NWtDL7Jlg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 9,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 46,
+      "title": "I Can Help",
+      "artist": "Billy Swan",
+      "spotify": "http://open.spotify.com/track/4merAuE6CTtkpSTpYD7WtW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Get Up I Think I Love You",
+      "artist": "Jim Ed Brown",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 47,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Two Gun Daddy",
+      "artist": "Marty Robbins",
+      "cover": "http://www.billboard.com/images/pref_images/p2246418kv3.jpg",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 39,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Dixie Lily",
+      "artist": "Roy Drusky",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 45,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 50,
+      "title": "I'm A Ramblin' Man",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "spotify": "http://open.spotify.com/track/0LuW39aU4Edjng4Vq6fNPp?utm_campaign=billboard",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    }
+  ]
+}

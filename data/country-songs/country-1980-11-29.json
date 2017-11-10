@@ -1,0 +1,548 @@
+{
+  "name": "Country",
+  "chart_date": "1980-11-29",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "If You Ever Change Your Mind",
+      "artist": "Crystal Gayle",
+      "cover": "http://www.billboard.com/images/pref_images/q00098ngkyq.jpg",
+      "spotify": "http://open.spotify.com/track/5x2TUv7Y0bRdQFwvbHbtvu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 2,
+      "title": "She Can't Say That Anymore",
+      "artist": "John Conlee",
+      "cover": "http://www.billboard.com/images/pref_images/p11672f3k79.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Lady",
+      "artist": "Kenny Rogers",
+      "cover": "http://www.billboard.com/images/pref_images/q40062jmnf1.jpg",
+      "spotify": "http://open.spotify.com/track/1Pbd9hZ98AiCKBz6oOXia6?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Smoky Mountain Rain",
+      "artist": "Ronnie Milsap",
+      "cover": "http://www.billboard.com/images/pref_images/p64915ixv56.jpg",
+      "spotify": "http://open.spotify.com/track/0Jtp6dLT78aWIdnoteCSxv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Why Lady Why",
+      "artist": "Alabama",
+      "cover": "http://www.billboard.com/images/pref_images/q39352bz52b.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 6,
+      "title": "You Almost Slipped My Mind",
+      "artist": "Charley Pride",
+      "cover": "http://www.billboard.com/images/pref_images/p14590oax26.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 7,
+      "title": "That's All That Matters To Me",
+      "artist": "Mickey Gilley",
+      "cover": "http://www.billboard.com/images/pref_images/p02761l7p22.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Take Me To Your Loving Place",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 5,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Lovers Live Longer",
+      "artist": "The Bellamy Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/q17321e2zrb.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Tumbleweed",
+      "artist": "Sylvia 1",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 11,
+      "title": "A Bridge That Just Won't Burn",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 12,
+      "title": "One In A Million",
+      "artist": "Johnny Lee",
+      "cover": "http://www.billboard.com/images/pref_images/q28510fbm26.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 13,
+      "title": "The Best Of Strangers",
+      "artist": "Barbara Mandrell",
+      "cover": "http://www.billboard.com/images/pref_images/p14987e704s.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 6,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Texas In My Rear View Mirror",
+      "artist": "Mac Davis",
+      "cover": "http://www.billboard.com/images/pref_images/p11850p6116.jpg",
+      "spotify": "http://open.spotify.com/track/6G6txAgWVFlaX2uCqfMc2Z?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 9,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 15,
+      "title": "A Man Just Don't Know What A Woman Goes Through",
+      "artist": "Charlie Rich",
+      "cover": "http://www.billboard.com/images/pref_images/p16046hvjwg.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 12,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 16,
+      "title": "I Think I'll Stay Here And Drink",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 17,
+      "title": "North Of The Border",
+      "artist": "Johnny Rodriguez",
+      "cover": "http://www.billboard.com/images/pref_images/p16108d457b.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 17,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 18,
+      "title": "I Love A Rainy Night",
+      "artist": "Eddie Rabbitt",
+      "cover": "http://www.billboard.com/images/pref_images/p15953cykua.jpg",
+      "spotify": "http://open.spotify.com/track/0zvNHIL7ci0ZzIoWU6RO2u?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Giving Up Easy",
+      "artist": "Leon Everette",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 5,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 20,
+      "title": "That's The Way A Cowboy Rocks And Rolls",
+      "artist": "Jacky Ward",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 21,
+      "title": "There's Another Woman",
+      "artist": "Joe Stampley",
+      "cover": "http://www.billboard.com/images/pref_images/p16557xwp6y.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 18,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 22,
+      "title": "A Real Cowboy (You Say You're)",
+      "artist": "Billy \"Crash\" Craddock",
+      "cover": "http://www.billboard.com/images/pref_images/p04850wk396.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 20,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Down To My Last Broken Heart",
+      "artist": "Janie Frickie",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 2,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 24,
+      "title": "I Can See Forever In Your Eyes",
+      "artist": "Reba McEntire",
+      "cover": "http://www.billboard.com/images/pref_images/q42182iddfw.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 18,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Somebodys Knockin'",
+      "artist": "Terri Gibbs",
+      "cover": "http://www.billboard.com/images/pref_images/p05178f31d9.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 8,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 26,
+      "title": "No One Will Ever Know",
+      "artist": "Gene Watson",
+      "cover": "http://www.billboard.com/images/pref_images/p71339bw5t3.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Cheatin On A Cheater",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 20,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Beautiful You",
+      "artist": "The Oak Ridge Boys",
+      "cover": "http://www.billboard.com/images/pref_images/p25357h6var.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Goodbye Marie",
+      "artist": "Bobby Goldsboro",
+      "cover": "http://www.billboard.com/images/pref_images/p02774exqi4.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 17,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 30,
+      "title": "If You Go, I'll Follow You",
+      "artist": "Porter Wagoner",
+      "cover": "http://www.billboard.com/images/pref_images/p15682u239j.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 12,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Don't Forget Yourself",
+      "artist": "The Statler Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/p24114v60jy.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Could I Have This Dance",
+      "artist": "Anne Murray",
+      "cover": "http://www.billboard.com/images/pref_images/p17487bo9ca.jpg",
+      "spotify": "http://open.spotify.com/track/1B55mH2OWnHm8Lahr0gPQV?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Broken Trust",
+      "artist": "Brenda Lee",
+      "cover": "http://www.billboard.com/images/pref_images/p17067c80qj.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Blue Baby Blue",
+      "artist": "Lynn Anderson",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 27,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 35,
+      "title": "An Occasional Rose",
+      "artist": "Marty Robbins",
+      "cover": "http://www.billboard.com/images/pref_images/p2246418kv3.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 28,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Drink It Down, Lady",
+      "artist": "Rex Allen Jr.",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 25,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Can't Keep My Mind Off Her",
+      "artist": "Mundo Earwood",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 26,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Acapulo",
+      "artist": "Johnny Duncan",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 16,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 39,
+      "title": "I Keep Coming Back/True Life Country Music",
+      "artist": "Razzy Bailey",
+      "cover": "http://www.billboard.com/images/pref_images/p10870wh0ye.jpg",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Girls, Women Ladies",
+      "artist": "Ed Bruce",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 14,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Nobody In His Right Mind",
+      "artist": "Dean Dillon",
+      "cover": "http://www.billboard.com/images/pref_images/p03733db50c.jpg",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 25,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Dance The Two Step",
+      "artist": "Susie Allanson",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 23,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Sweet City Woman",
+      "artist": "The Glaser Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/q02257xk6kz.jpg",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 34,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Who'll Turn Out The Lights",
+      "artist": "Mel Street",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 36,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Sweet Red Wine",
+      "artist": "Gary Morris",
+      "cover": "http://www.billboard.com/images/pref_images/p15285xwaj8.jpg",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 40,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Willow Run",
+      "artist": "Randy Barlow",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 46,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 47,
+      "title": "9 To 5",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "spotify": "http://open.spotify.com/track/07j5RLJHwsm4cUb3GGoW3w?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Your Memory",
+      "artist": "Steve Wariner",
+      "cover": "http://www.billboard.com/images/pref_images/p01226ih5vq.jpg",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 7,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Lost In Love",
+      "artist": "Dickey Lee",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 30,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Take It Like A Woman",
+      "artist": "Debby Boone",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 44,
+        "Wks on Chart": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "name": "Country",
+  "chart_date": "1981-11-28",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "My Favorite Memory",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Miss Emily's Picture",
+      "artist": "John Conlee",
+      "cover": "http://www.billboard.com/images/pref_images/p11672f3k79.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Bet Your Heart On Me",
+      "artist": "Johnny Lee",
+      "cover": "http://www.billboard.com/images/pref_images/q28510fbm26.jpg",
+      "spotify": "http://open.spotify.com/track/6GAFwQksvNUUkiIoDVSl1e?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 4,
+      "title": "If I Needed You",
+      "artist": "Emmylou Harris And Don Williams",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 5,
+      "title": "All Roads Lead To You",
+      "artist": "Steve Wariner",
+      "cover": "http://www.billboard.com/images/pref_images/p01226ih5vq.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Still Doin' Time",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 7,
+      "title": "What Are We Doing Lonesome",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 4,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Love In The First Degree/Ride The Train",
+      "artist": "Alabama",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 9,
+      "title": "All My Rowdy Friends (Have Settled Down)",
+      "artist": "Hank Williams Jr.",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 10,
+      "title": "You May See Me Walking",
+      "artist": "Ricky Skaggs",
+      "cover": "http://www.billboard.com/images/pref_images/p73206pxghy.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 9,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Fourteen Karat Mind",
+      "artist": "Gene Watson",
+      "cover": "http://www.billboard.com/images/pref_images/p71339bw5t3.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 12,
+      "title": "You're My Favorite Star",
+      "artist": "The Bellamy Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/q17321e2zrb.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 7,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 13,
+      "title": "The Woman In Me",
+      "artist": "Crystal Gayle",
+      "cover": "http://www.billboard.com/images/pref_images/q00098ngkyq.jpg",
+      "spotify": "http://open.spotify.com/track/6azcaE0oHLel4ror46py5J?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 3,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Them Good Old Boys Are Bad",
+      "artist": "John Schneider",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 13,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 15,
+      "title": "I Wouldn't Have Missed It For The World",
+      "artist": "Ronnie Milsap",
+      "cover": "http://www.billboard.com/images/pref_images/p64915ixv56.jpg",
+      "spotify": "http://open.spotify.com/track/12vdykncg8b2f32XFC0pCa?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Down And Out",
+      "artist": "George Strait",
+      "cover": "http://www.billboard.com/images/pref_images/q41384e73s6.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 16,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Just One Time",
+      "artist": "The Glaser Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/q02257xk6kz.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 17,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Headed For A Heartache",
+      "artist": "Gary Morris",
+      "cover": "http://www.billboard.com/images/pref_images/p15285xwaj8.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 8,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Husbands And Wives",
+      "artist": "David Frizzell & Shelly West",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 16,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Rodeo Romeo",
+      "artist": "Moe Bandy",
+      "cover": "http://www.billboard.com/images/pref_images/p10901ruw7x.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 10,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Tell Me Why",
+      "artist": "Earl Thomas Conley",
+      "cover": "http://www.billboard.com/images/pref_images/p11674y0b5j.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 10,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Years Ago",
+      "artist": "The Statler Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/p24114v60jy.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 12,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Mountain Dew",
+      "artist": "Willie Nelson",
+      "cover": "http://www.billboard.com/images/pref_images/q35964lfjxb.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 24,
+      "title": "You're My Bestest Friend",
+      "artist": "Mac Davis",
+      "cover": "http://www.billboard.com/images/pref_images/p11850p6116.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 5,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Who Do You Know In California",
+      "artist": "Eddy Raven",
+      "cover": "http://www.billboard.com/images/pref_images/p24889qhctt.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 11,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 26,
+      "title": "The Sweetest Thing (I've Ever Known)",
+      "artist": "Juice Newton",
+      "cover": "http://www.billboard.com/images/pref_images/p20963qhwvq.jpg",
+      "spotify": "http://open.spotify.com/track/3EFgVWb1TAYP3CF17BB4fU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Red Neckin Love Makin Night",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Lonely Nights",
+      "artist": "Mickey Gilley",
+      "cover": "http://www.billboard.com/images/pref_images/p02761l7p22.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 29,
+      "title": "It's High Time",
+      "artist": "Dottie West",
+      "cover": "http://www.billboard.com/images/pref_images/p17951b66f3.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 16,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Stars On The Water",
+      "artist": "Rodney Crowell",
+      "cover": "http://www.billboard.com/images/pref_images/q30587br24z.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 30,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 31,
+      "title": "It Turns Me Inside Out",
+      "artist": "Lee Greenwood",
+      "cover": "http://www.billboard.com/images/pref_images/p55407kzwg4.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 17,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Have You Ever Been Lonely (Have You Ever Been Blue)",
+      "artist": "Jim Reeves And Patsy Cline",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 5,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Blaze Of Glory",
+      "artist": "Kenny Rogers",
+      "cover": "http://www.billboard.com/images/pref_images/q40062jmnf1.jpg",
+      "spotify": "http://open.spotify.com/track/3aKDWoVZYFPHm7B9bSd9DZ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 9,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Wish You Were Here",
+      "artist": "Barbara Mandrell",
+      "cover": "http://www.billboard.com/images/pref_images/p14987e704s.jpg",
+      "spotify": "http://open.spotify.com/track/4HxWc9dIokl7Skw9aqTNAz?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Watchin' Girls Go By",
+      "artist": "Ronnie McDowell",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 4,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 36,
+      "title": "It's Who You Love",
+      "artist": "Kieran Kane",
+      "cover": "http://www.billboard.com/images/pref_images/p19875ra25v.jpg",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 16,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Midnight Rodeo",
+      "artist": "Leon Everette",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 9,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Now That The Feeling's Gone",
+      "artist": "Billy \"Crash\" Craddock",
+      "cover": "http://www.billboard.com/images/pref_images/p04850wk396.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 38,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Only When I Laugh",
+      "artist": "Brenda Lee",
+      "cover": "http://www.billboard.com/images/pref_images/p17067c80qj.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 32,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Preaching Up A Storm",
+      "artist": "Mel McDaniel",
+      "cover": "http://www.billboard.com/images/pref_images/p14484uqy1x.jpg",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 19,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Family Man",
+      "artist": "Wright Brothers",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 35,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 42,
+      "title": "All Night Long",
+      "artist": "Johnny Duncan",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 40,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Diamonds In The Stars",
+      "artist": "Ray Price",
+      "cover": "http://www.billboard.com/images/pref_images/q19116tvh88.jpg",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 9,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Someone Could Lose A Heart Tonight",
+      "artist": "Eddie Rabbitt",
+      "cover": "http://www.billboard.com/images/pref_images/p15953cykua.jpg",
+      "spotify": "http://open.spotify.com/track/4jFLFsNWbRNa0GeY3sMLo8?utm_campaign=billboard",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Dropping Out Of Sight",
+      "artist": "Bobby Bare",
+      "cover": "http://www.billboard.com/images/pref_images/p10912s9s7h.jpg",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 35,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 46,
+      "title": "The Round-up Saloon",
+      "artist": "Bobby Goldsboro",
+      "cover": "http://www.billboard.com/images/pref_images/p02774exqi4.jpg",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 31,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Lord, I Hope This Day Is Good",
+      "artist": "Don Williams",
+      "cover": "http://www.billboard.com/images/pref_images/p99491b31tl.jpg",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Slip Away",
+      "artist": "Mel Street And Sandy Powell",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 48,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 49,
+      "title": "She's Got A Drinking Problem",
+      "artist": "Gary Stewart",
+      "cover": "http://www.billboard.com/images/pref_images/p16594wqivi.jpg",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 36,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Shine",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 5,
+        "Wks on Chart": 19
+      }
+    }
+  ]
+}

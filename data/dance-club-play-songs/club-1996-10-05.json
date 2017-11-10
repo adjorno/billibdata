@@ -1,0 +1,554 @@
+{
+  "name": "Club",
+  "chart_date": "1996-10-05",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Two To Tango",
+      "artist": "Vanessa Daou",
+      "cover": "http://www.billboard.com/images/pref_images/p69862e8tg0.jpg",
+      "spotify": "http://open.spotify.com/track/737Ka6975Ad311cpFaQeBf?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 2,
+      "title": "You'll Be Mine (Party Time)",
+      "artist": "Gloria Estefan",
+      "cover": "http://www.billboard.com/images/pref_images/p85016sd453.jpg",
+      "spotify": "http://open.spotify.com/track/22E8duYxuw0vNHvmfya61l?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Won't Give Up My Music",
+      "artist": "Pulse Featuring Antoinette Roberson",
+      "spotify": "http://open.spotify.com/track/5OMxHFhg3VrBcgI8MvCCY0?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Killing Me Softly With His Song",
+      "artist": "Roberta Flack",
+      "cover": "http://www.billboard.com/images/pref_images/q13175ohr80.jpg",
+      "spotify": "http://open.spotify.com/track/60SJRvzXJnVeVfS4RiH14u?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Keep On Jumpin'",
+      "artist": "Lisa Marie Experience",
+      "spotify": "http://open.spotify.com/track/6djNGU6suT8yQbadXgB3Xq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 3,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Stomp",
+      "artist": "Quincy Jones Feat. The Cast Of Stomp/The Yes/No Productions",
+      "cover": "http://www.billboard.com/images/pref_images/p21856um1vh.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Only You",
+      "artist": "Kimara Lovelace",
+      "spotify": "http://open.spotify.com/track/66eauioQpNU8a29o3wkyX8?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Bad Man",
+      "artist": "Sister Bliss",
+      "cover": "http://www.billboard.com/images/pref_images/p24175k8oly.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Where Love Lives '96",
+      "artist": "Alison Limerick",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 4,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Give Me Strength",
+      "artist": "Jon Of The Pleased Wimmin",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Who Is He And What Is He To You",
+      "artist": "MeShell Ndegeocello",
+      "cover": "http://www.billboard.com/images/pref_images/q21550rdzuk.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 12,
+      "title": "I Wanna Dance With Somebody (Who Loves Me)",
+      "artist": "Whitney Houston",
+      "cover": "http://www.billboard.com/images/pref_images/q26597ryqib.jpg",
+      "spotify": "http://open.spotify.com/track/2k1np6GRFvKjgjYfo2g39B?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Supernature",
+      "artist": "Cerrone",
+      "cover": "http://www.billboard.com/images/pref_images/q06146h7n2a.jpg",
+      "spotify": "http://open.spotify.com/track/1nsz7gWp9oLVRnnLU9C0I2?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Just Be Good to Me",
+      "artist": "Deborah Cox",
+      "cover": "http://www.billboard.com/images/pref_images/p12546yv1b4.jpg",
+      "spotify": "http://open.spotify.com/track/0iCTiMzEPTjGuUwXNKpAve?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 8,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 15,
+      "title": "You Got To Pray",
+      "artist": "Joi Cardwell",
+      "spotify": "http://open.spotify.com/track/2D4yMCVne29RLID62uZfrE?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 16,
+      "title": "No Frills Love",
+      "artist": "Jennifer Holliday",
+      "cover": "http://www.billboard.com/images/pref_images/p19326we2mq.jpg",
+      "spotify": "http://open.spotify.com/track/6sNGNZZT6tqy5UQ04X4w4f?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Brand New Day",
+      "artist": "Minds of Men",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 9,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Stupid Girl",
+      "artist": "Garbage",
+      "cover": "http://www.billboard.com/images/pref_images/q05069pf2tz.jpg",
+      "spotify": "http://open.spotify.com/track/0h4fRpHrxBeR3XWHmcolaU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Down With This",
+      "artist": "Charisse Arrington",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 18,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 20,
+      "title": "It Doesn't Matter",
+      "artist": "Shay Jones",
+      "spotify": "http://open.spotify.com/track/0A59mzbALiMWiuumhu6XoB?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 20,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Celebrate",
+      "artist": "Elli Mac",
+      "spotify": "http://open.spotify.com/track/0ucHBJ4Ghn3g06lYaqxsZB?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Stand Up",
+      "artist": "Love Tribe",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 23,
+      "title": "That Sound",
+      "artist": "e-n Featuring Ceevox",
+      "spotify": "http://open.spotify.com/track/4VoXVPhnwFDQXXNg5SVFAJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 5,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Shake That Body",
+      "artist": "Robi Rob's Clubworld Featuring Ya Kid K",
+      "spotify": "http://open.spotify.com/track/6WwbaxsHKAPBxkYdkZhtI7?utm_campaign=billboard",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 3,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Snapshot",
+      "artist": "RuPaul",
+      "cover": "http://www.billboard.com/images/pref_images/p19594g4298.jpg",
+      "spotify": "http://open.spotify.com/track/65T63PZUV5BeNzXocyLiZr?utm_campaign=billboard",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Descarga",
+      "artist": "Latin Express",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 23,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Survive",
+      "artist": "Saundra Marquez",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 27,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Keep on Dancin'",
+      "artist": "Shades of Rhapsody",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 23,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Walking On Sunshine",
+      "artist": "The Jah Boyz Feat. Ian Starr And Charlie Casanova",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 13,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Hit Me Off",
+      "artist": "New Edition",
+      "cover": "http://www.billboard.com/images/pref_images/q06264sb66t.jpg",
+      "spotify": "http://open.spotify.com/track/3gggwKHBpl7H5TBBpx1gQ2?utm_campaign=billboard",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 30,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Are You Ready For Some More?",
+      "artist": "Reel 2 Real",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 5,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Wombo Lombo",
+      "artist": "Angelique Kidjo",
+      "cover": "http://www.billboard.com/images/pref_images/q27983o43dr.jpg",
+      "spotify": "http://open.spotify.com/track/7u3OfaOcYXSpVFAJxChG70?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 16,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 33,
+      "title": "I Ain't Got Time",
+      "artist": "Next Phase Featuring Helen Bruner & Terry Jones",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 31,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Fired Up!",
+      "artist": "Funky Green Dogs",
+      "cover": "http://www.billboard.com/images/pref_images/p25347kyoc1.jpg",
+      "spotify": "http://open.spotify.com/track/59cOkSYMBzajxog2tMyQCT?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 35,
+      "title": "How How",
+      "artist": "Yello",
+      "cover": "http://www.billboard.com/images/pref_images/p18174fj864.jpg",
+      "spotify": "http://open.spotify.com/track/0r40ZQ8kT25QNagZa29Kj6?utm_campaign=billboard",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 28,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 36,
+      "title": "You Are The One",
+      "artist": "Winx",
+      "spotify": "http://open.spotify.com/track/6Xc5UWvRezPUoPqYJqYkRx?utm_campaign=billboard",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 14,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Aw Yeah",
+      "artist": "Chupacabra",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 30,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Klubbhopping",
+      "artist": "Klubbheads",
+      "spotify": "http://open.spotify.com/track/6ROEB03yiSQMq7XV3ef9Vm?utm_campaign=billboard",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 31,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 39,
+      "title": "In The Springtime Of His Voodoo",
+      "artist": "Tori Amos",
+      "cover": "http://www.billboard.com/images/pref_images/q17176cro5y.jpg",
+      "spotify": "http://open.spotify.com/track/5eEfcBwRvMWkjjwdF7MkIi?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 6,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 40,
+      "title": "If Madonna Calls",
+      "artist": "Junior Vasquez",
+      "spotify": "http://open.spotify.com/track/1LPgGXDXhMFMM8vlKu870f?utm_campaign=billboard",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 2,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 41,
+      "title": "That Look",
+      "artist": "De'Lacy",
+      "spotify": "http://open.spotify.com/track/78bN43qis6acjSRJJkPnCR?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 27,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Bolero",
+      "artist": "Ceasar & Manolo",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 27,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Paradise",
+      "artist": "Gypsy Queens",
+      "spotify": "http://open.spotify.com/track/7oIxlwvxzCrHti4su3IuM6?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 23,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 44,
+      "title": "You're Makin' Me High",
+      "artist": "Toni Braxton",
+      "cover": "http://www.billboard.com/images/pref_images/q12070hdlyo.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Don't Turn Your Back On Me",
+      "artist": "Darryl D'Bonneau",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 35,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Land Of The Living",
+      "artist": "Kristine W",
+      "cover": "http://www.billboard.com/images/pref_images/p69070ypg4d.jpg",
+      "spotify": "http://open.spotify.com/track/75O1dMgkgrvbdkNA8Eszfx?utm_campaign=billboard",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Keep Pushin'",
+      "artist": "Boris Dlugosch Presents Booom!",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 25,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Give Me A Little More Time",
+      "artist": "Gabrielle",
+      "cover": "http://www.billboard.com/images/pref_images/p231523h3u3.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 16,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Night Moves",
+      "artist": "Abigail",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 36,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Treat Me Right",
+      "artist": "Kim Richardson",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 49,
+        "Wks on Chart": 3
+      }
+    }
+  ]
+}

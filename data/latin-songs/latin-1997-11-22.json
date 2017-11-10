@@ -1,0 +1,438 @@
+{
+  "name": "Latin",
+  "chart_date": "1997-11-22",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Lo Mejor De Mi",
+      "artist": "Cristian",
+      "spotify": "http://open.spotify.com/track/5cEGQnaurid1T3sI5LyIL1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Si Tu Supieras",
+      "artist": "Alejandro Fernandez",
+      "cover": "http://www.billboard.com/images/pref_images/p75086r8gvp.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 42
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Y Hubo Alguien",
+      "artist": "Marc Anthony",
+      "cover": "http://www.billboard.com/images/pref_images/q35029aou0n.jpg",
+      "spotify": "http://open.spotify.com/track/4lmOvO7Nc0Ppdz2hk8jpHj?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 4,
+      "title": "El Reloj",
+      "artist": "Luis Miguel",
+      "cover": "http://www.billboard.com/images/pref_images/q08514aqdn7.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Te Sigo Amando",
+      "artist": "Juan Gabriel",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy7964831082931223740.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 34
+      }
+    },
+    {
+      "rank": 6,
+      "title": "No Voy A Dejarte Ir",
+      "artist": "Domingo Quinones",
+      "cover": "http://www.billboard.com/images/pref_images/p17152i9os2.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 7,
+      "title": "La Venia Bendita",
+      "artist": "Marco Antonio Solis",
+      "cover": "http://www.billboard.com/images/pref_images/p73269svo66.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Manecumbe",
+      "artist": "Karis",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 8,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Nos Estorbo La Ropa",
+      "artist": "Vicente Fernandez",
+      "spotify": "http://open.spotify.com/track/4cBBLXXlps3WcfGS8Mo4aV?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Por Debajo De La Mesa",
+      "artist": "Luis Miguel",
+      "cover": "http://www.billboard.com/images/pref_images/q08514aqdn7.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 1,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Es Verdad",
+      "artist": "Los Tucanes De Tijuana",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 8,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Me Canse De Ser La Otra",
+      "artist": "India",
+      "cover": "http://www.billboard.com/images/pref_images/p56588ocznd.jpg",
+      "spotify": "http://open.spotify.com/track/2MVCYnCKB5rMALoDhLQvnR?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 10,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Clavado En Un Bar",
+      "artist": "Mana",
+      "cover": "http://www.billboard.com/images/pref_images/p84020bcj04.jpg",
+      "spotify": "http://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Revolucion",
+      "artist": "Enrique Iglesias",
+      "cover": "http://www.billboard.com/images/pref_images/q14132juu74.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 15,
+      "title": "El Destino",
+      "artist": "Juan Gabriel/Rocio Durcal",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 1,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 16,
+      "title": "A Pesar De Todos",
+      "artist": "Ana Gabriel",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 2,
+        "Wks on Chart": 35
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Hasta Manana",
+      "artist": "Limite",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 6,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Quiero Estar Contigo",
+      "artist": "Gisselle",
+      "spotify": "http://open.spotify.com/track/1p3dYe5dKu4jH8GMtDb1m0?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Que Se Te Olvido",
+      "artist": "Banda El Limon",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 11,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Es Asi",
+      "artist": "Ricardo Montaner",
+      "cover": "http://www.billboard.com/images/pref_images/p90134m2qzp.jpg",
+      "spotify": "http://open.spotify.com/track/4G1piw8l1wVihDtOXKFfH6?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 5,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Me Miras Y Te Miro",
+      "artist": "Grupomania",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Y, Si Fuera Ella?",
+      "artist": "Alejandro Sanz",
+      "cover": "http://www.billboard.com/images/pref_images/q18795l5an1.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 13,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Llego El Amor",
+      "artist": "Olga Tanon",
+      "cover": "http://www.billboard.com/images/pref_images/p56593nsyn7.jpg",
+      "spotify": "http://open.spotify.com/track/1qEb4Guymj3g4mZ53kxxBP?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Ya No Soy El Nino Aquel",
+      "artist": "Jerry Rivera",
+      "cover": "http://www.billboard.com/images/pref_images/p56582fbd6p.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 20,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Acepta Mi Error",
+      "artist": "Los Temerarios",
+      "cover": "http://www.billboard.com/images/pref_images/q21139mavcx.jpg",
+      "spotify": "http://open.spotify.com/track/0ptnTaGG0iFOUXJfYwTd62?utm_campaign=billboard",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 8,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 26,
+      "title": "He Tratado",
+      "artist": "Victor Manuelle",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Te Llevas Mi Vida",
+      "artist": "Los Mismos",
+      "spotify": "http://open.spotify.com/track/17sIUkwHz9ImDrqeCyx2PY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 24,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Ay Amor",
+      "artist": "MDO",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Donde Estas?",
+      "artist": "Intocable",
+      "cover": "http://www.billboard.com/images/pref_images/q22654lwi0n.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 21,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Despues De Ti Que?",
+      "artist": "Pandora",
+      "spotify": "http://open.spotify.com/track/1B8qv6QEbzd7YHzDxlrHpf?utm_campaign=billboard",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 30,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 31,
+      "title": "No Se Si Es Amor",
+      "artist": "Priscila Y Sus Balas De Plata",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 26,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Desesperadamente Enamorado",
+      "artist": "Jordi",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 2,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Guantanamera",
+      "artist": "Wyclef Jean Feat. Celia Cruz & Jeni Fujita",
+      "cover": "http://www.billboard.com/images/pref_images/q07471e3tyz.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Le Pedire",
+      "artist": "Bobby Pulido",
+      "spotify": "http://open.spotify.com/track/2AddrVWNsRHZiOC26JPCnA?utm_campaign=billboard",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 28,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Llorar Quedito",
+      "artist": "Grupo Mojado",
+      "spotify": "http://open.spotify.com/track/1p6H6VtZstVHoTQD8OYtyC?utm_campaign=billboard",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 35,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 36,
+      "title": "4 Estaciones De Soledad [4 Seasons Of Loneliness]",
+      "artist": "Boyz II Men",
+      "cover": "http://www.billboard.com/images/pref_images/q24426t4sq1.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 27,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 37,
+      "title": "El Alma No Tiene Color",
+      "artist": "Laura Flores",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 19,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Te Sigo Queriendo",
+      "artist": "Sergio Goyri",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 37,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 39,
+      "title": "La Quiero A Morir",
+      "artist": "DLG",
+      "spotify": "http://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 6,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Loco, Loco",
+      "artist": "Tono Rosario",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 24,
+        "Wks on Chart": 4
+      }
+    }
+  ]
+}

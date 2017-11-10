@@ -1,0 +1,604 @@
+{
+  "chart_date": "2017-01-21",
+  "name": "Hip-Hop",
+  "tracks": [
+    {
+      "artist": "Migos Featuring Lil Uzi Vert",
+      "cover": "http://www.billboard.com/images/pref_images/q26323abszx.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      },
+      "rank": 1,
+      "spotify": "http://open.spotify.com/track/1FvU97lrWOG2NRxErh6OZz?utm_campaign=billboard",
+      "title": "Bad And Boujee"
+    },
+    {
+      "artist": "Rae Sremmurd Featuring Gucci Mane",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy2384373149827834455.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      },
+      "rank": 2,
+      "spotify": "http://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo?utm_campaign=billboard",
+      "title": "Black Beatles"
+    },
+    {
+      "artist": "The Weeknd Featuring Daft Punk",
+      "cover": "http://www.billboard.com/images/pref_images/q59123tine7.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      },
+      "rank": 3,
+      "spotify": "http://open.spotify.com/track/2IY7eOUDjw2ArKYxKa2jXc?utm_campaign=billboard",
+      "title": "Starboy"
+    },
+    {
+      "artist": "Bruno Mars",
+      "cover": "http://www.billboard.com/images/pref_images/q59725qvpol.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 7
+      },
+      "rank": 4,
+      "spotify": "http://open.spotify.com/track/2gFvRmQiWg9fN9i74Q0aiw?utm_campaign=billboard",
+      "title": "24K Magic"
+    },
+    {
+      "artist": "Drake",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy6013806102652956916.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 11
+      },
+      "rank": 5,
+      "spotify": "http://open.spotify.com/track/6NMNgWgEAzde5M8U3lc6FN?utm_campaign=billboard",
+      "title": "Fake Love"
+    },
+    {
+      "artist": "Machine Gun Kelly x Camila Cabello",
+      "cover": "http://www.billboard.com/images/pref_images/q40732ux7sb.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      },
+      "rank": 6,
+      "spotify": "http://open.spotify.com/track/56cswAa9WdFBsjsTyPBAKA?utm_campaign=billboard",
+      "title": "Bad Things"
+    },
+    {
+      "artist": "Zay Hilfigerrr & Zayion McCall",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      },
+      "rank": 7,
+      "spotify": "http://open.spotify.com/track/1lItf5ZXJc1by9SbPeljFd?utm_campaign=billboard",
+      "title": "Juju On That Beat (TZ Anthem)"
+    },
+    {
+      "artist": "Amine",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy7891934543737803251.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 21
+      },
+      "rank": 8,
+      "spotify": "http://open.spotify.com/track/34dVqrAW35mn6dpgfzntOS?utm_campaign=billboard",
+      "title": "Caroline"
+    },
+    {
+      "artist": "Big Sean",
+      "cover": "http://www.billboard.com/images/pref_images/q60133j4mrg.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 9,
+        "Wks on Chart": 9
+      },
+      "rank": 9,
+      "spotify": "http://open.spotify.com/track/206uaQyzb8kOiZ7rHw9wCn?utm_campaign=billboard",
+      "title": "Bounce Back"
+    },
+    {
+      "artist": "Rihanna",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy8678372548017039592.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 9,
+        "Wks on Chart": 16
+      },
+      "rank": 10,
+      "spotify": "http://open.spotify.com/track/7HRHMuUTY7Dk4mw7CjS36i?utm_campaign=billboard",
+      "title": "Love On The Brain"
+    },
+    {
+      "artist": "Young M.A",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy4444525152369188828.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 5,
+        "Wks on Chart": 21
+      },
+      "rank": 11,
+      "spotify": "http://open.spotify.com/track/0D21XvHcVsIvJM6FcGY2BT?utm_campaign=billboard",
+      "title": "OOOUUU"
+    },
+    {
+      "artist": "The Weeknd Featuring Daft Punk",
+      "cover": "http://www.billboard.com/images/pref_images/q59123tine7.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 10,
+        "Wks on Chart": 7
+      },
+      "rank": 12,
+      "spotify": "http://open.spotify.com/track/7enFbf4reUpo2CCQYpwoHC?utm_campaign=billboard",
+      "title": "I Feel It Coming"
+    },
+    {
+      "artist": "John Legend",
+      "cover": "http://www.billboard.com/images/pref_images/q60146qde4i.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 10,
+        "Wks on Chart": 13
+      },
+      "rank": 13,
+      "spotify": "http://open.spotify.com/track/6hdkw1wzhIRYPlYDUtCY5m?utm_campaign=billboard",
+      "title": "Love Me Now"
+    },
+    {
+      "artist": "Rob $tone Featuring J. Davi$ & Spooks",
+      "cover": "http://www.billboard.com/images/pref_images/q58336ymhu5.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 8,
+        "Wks on Chart": 24
+      },
+      "rank": 14,
+      "spotify": "http://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp?utm_campaign=billboard",
+      "title": "Chill Bill"
+    },
+    {
+      "artist": "21 Savage & Metro Boomin Featuring Future",
+      "cover": "http://www.billboard.com/images/pref_images/q60067k1zw0.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 12,
+        "Wks on Chart": 23
+      },
+      "rank": 15,
+      "spotify": "http://open.spotify.com/track/6fwdbPMwP1zVStm8FybmkO?utm_campaign=billboard",
+      "title": "X"
+    },
+    {
+      "artist": "Lil Uzi Vert",
+      "cover": "http://www.billboard.com/images/pref_images/q48776q4k03.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 16,
+        "Wks on Chart": 30
+      },
+      "rank": 16,
+      "spotify": "http://open.spotify.com/track/2ANLarE8yHVsLWW21nj79M?utm_campaign=billboard",
+      "title": "You Was Right"
+    },
+    {
+      "artist": "21 Savage & Metro Boomin",
+      "cover": "http://www.billboard.com/images/pref_images/q60067k1zw0.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 17,
+        "Wks on Chart": 12
+      },
+      "rank": 17,
+      "spotify": "http://open.spotify.com/track/4gmmRb6bZJffOOiww1JGTO?utm_campaign=billboard",
+      "title": "No Heart"
+    },
+    {
+      "artist": "Future Featuring Drake",
+      "cover": "http://www.billboard.com/images/pref_images/q32103j0752.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 5,
+        "Wks on Chart": 9
+      },
+      "rank": 18,
+      "spotify": "http://open.spotify.com/track/3V8sM5OOG6YfDuDLa2IIYJ?utm_campaign=billboard",
+      "title": "Used To This"
+    },
+    {
+      "artist": "J. Cole",
+      "cover": "http://www.billboard.com/images/pref_images/q26983xy0a2.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 4,
+        "Wks on Chart": 4
+      },
+      "rank": 19,
+      "spotify": "http://open.spotify.com/track/6I6NX6tjGsxFAsIfGzY9lJ?utm_campaign=billboard",
+      "title": "Deja Vu"
+    },
+    {
+      "artist": "The Weeknd",
+      "cover": "http://www.billboard.com/images/pref_images/q59123tine7.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 8,
+        "Wks on Chart": 7
+      },
+      "rank": 20,
+      "spotify": "http://open.spotify.com/track/4RhGCDt69efGdC1SxJRI5r?utm_campaign=billboard",
+      "title": "Party Monster"
+    },
+    {
+      "artist": "DJ ESCO Featuring Future & Lil Uzi Vert",
+      "cover": "http://www.billboard.com/images/pref_images/q60492yf0l8.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 21,
+        "Wks on Chart": 20
+      },
+      "rank": 21,
+      "spotify": "http://open.spotify.com/track/5oyUurs28XRagLa8lgm6V3?utm_campaign=billboard",
+      "title": "Too Much Sauce"
+    },
+    {
+      "artist": "DJ Khaled Featuring Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross",
+      "cover": "http://www.billboard.com/images/pref_images/q57043or8qy.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 9,
+        "Wks on Chart": 23
+      },
+      "rank": 22,
+      "spotify": "http://open.spotify.com/track/4VJ7mnW4wjjIgPBM6KWvPu?utm_campaign=billboard",
+      "title": "Do You Mind"
+    },
+    {
+      "artist": "Gucci Mane Featuring Drake",
+      "cover": "http://www.billboard.com/images/pref_images/q05279ijnlk.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 16,
+        "Wks on Chart": 3
+      },
+      "rank": 23,
+      "spotify": "http://open.spotify.com/track/5tFep7dXGd7vEJ668wTPux?utm_campaign=billboard",
+      "title": "Both"
+    },
+    {
+      "artist": "Chris Brown Featuring Usher & Gucci Mane",
+      "cover": "http://www.billboard.com/images/pref_images/q12107b6dlh.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 24,
+        "Wks on Chart": 3
+      },
+      "rank": 24,
+      "spotify": "http://open.spotify.com/track/05Z7jet4VDNVgNQWcYHnrk?utm_campaign=billboard",
+      "title": "Party"
+    },
+    {
+      "artist": "PnB Rock",
+      "cover": "http://www.billboard.com/images/pref_images/q43566vnjly.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 11
+      },
+      "rank": 25,
+      "spotify": "http://open.spotify.com/track/4HUIsMWVGNHsxlhbc3YQ5y?utm_campaign=billboard",
+      "title": "Selfish"
+    },
+    {
+      "artist": "KYLE Featuring Lil Yachty",
+      "cover": "http://www.billboard.com/images/pref_images/q49084cpazq.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 26,
+        "Wks on Chart": 2
+      },
+      "rank": 26,
+      "spotify": "http://open.spotify.com/track/0WjYgf4qH3B0v0HmW61doL?utm_campaign=billboard",
+      "title": "iSpy"
+    },
+    {
+      "artist": "Drake Featuring 21 Savage",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy6013806102652956916.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 8,
+        "Wks on Chart": 11
+      },
+      "rank": 27,
+      "spotify": "http://open.spotify.com/track/4ckuS4Nj4FZ7i3Def3Br8W?utm_campaign=billboard",
+      "title": "Sneakin'"
+    },
+    {
+      "artist": "J. Cole",
+      "cover": "http://www.billboard.com/images/pref_images/q26983xy0a2.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 8,
+        "Wks on Chart": 4
+      },
+      "rank": 28,
+      "spotify": "http://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy?utm_campaign=billboard",
+      "title": "Neighbors"
+    },
+    {
+      "artist": "Rae Sremmurd",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy2384373149827834455.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 29,
+        "Wks on Chart": 4
+      },
+      "rank": 29,
+      "spotify": "http://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL?utm_campaign=billboard",
+      "title": "Swang"
+    },
+    {
+      "artist": "DJ Luke Nasty",
+      "cover": "http://www.billboard.com/images/pref_images/q46788vlqwk.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 30,
+        "Wks on Chart": 4
+      },
+      "rank": 30,
+      "spotify": "http://open.spotify.com/track/5qi7piHIt9zwTYYBnIvfNZ?utm_campaign=billboard",
+      "title": "OTW"
+    },
+    {
+      "artist": "21 Savage",
+      "cover": "http://www.billboard.com/images/pref_images/q60067k1zw0.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 31,
+        "Wks on Chart": 9
+      },
+      "rank": 31,
+      "spotify": "http://open.spotify.com/track/3cqZH3cqvfbV8wVbvHyPbG?utm_campaign=billboard",
+      "title": "Red Opps"
+    },
+    {
+      "artist": "Travis Scott",
+      "cover": "http://www.billboard.com/images/pref_images/q39869glvzs.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 32,
+        "Wks on Chart": 13
+      },
+      "rank": 32,
+      "spotify": "http://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2?utm_campaign=billboard",
+      "title": "Goosebumps"
+    },
+    {
+      "artist": "Big Sean",
+      "cover": "http://www.billboard.com/images/pref_images/q60133j4mrg.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 2
+      },
+      "rank": 33,
+      "spotify": "http://open.spotify.com/track/6Kd4EPrY9A4WBUFy5JaqEc?utm_campaign=billboard",
+      "title": "Moves"
+    },
+    {
+      "artist": "Childish Gambino",
+      "cover": "http://www.billboard.com/images/pref_images/q60404tvb4i.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 19,
+        "Wks on Chart": 6
+      },
+      "rank": 34,
+      "spotify": "http://open.spotify.com/track/47l9wxr6RwgoTSfnseBRcf?utm_campaign=billboard",
+      "title": "Redbone"
+    },
+    {
+      "artist": "J. Cole",
+      "cover": "http://www.billboard.com/images/pref_images/q26983xy0a2.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 6,
+        "Wks on Chart": 4
+      },
+      "rank": 35,
+      "spotify": "http://open.spotify.com/track/6AGON2BGdPmPMJGiiNuuwl?utm_campaign=billboard",
+      "title": "Immortal"
+    },
+    {
+      "artist": "A Boogie Wit da Hoodie Featuring DJ SPINKING",
+      "cover": "http://www.billboard.com/images/pref_images/q57534n3m2u.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 36,
+        "Wks on Chart": 5
+      },
+      "rank": 36,
+      "spotify": "http://open.spotify.com/track/0q5DrtpnnGpOvBy5nnPMbe?utm_campaign=billboard",
+      "title": "Timeless"
+    },
+    {
+      "artist": "Post Malone Featuring Quavo",
+      "cover": "http://www.billboard.com/images/pref_images/q58965kol08.jpg",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 37,
+        "Wks on Chart": 4
+      },
+      "rank": 37,
+      "spotify": "http://open.spotify.com/track/0TnmrW9L8GSaBMhTtEQtCK?utm_campaign=billboard",
+      "title": "Congratulations"
+    },
+    {
+      "artist": "Travis Scott",
+      "cover": "http://www.billboard.com/images/pref_images/q39869glvzs.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 38,
+        "Wks on Chart": 4
+      },
+      "rank": 38,
+      "spotify": "http://open.spotify.com/track/0ESJlaM8CE1jRWaNtwSNj8?utm_campaign=billboard",
+      "title": "Beibs In The Trap"
+    },
+    {
+      "artist": "A Boogie Wit da Hoodie",
+      "cover": "http://www.billboard.com/images/pref_images/q57534n3m2u.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 35,
+        "Wks on Chart": 14
+      },
+      "rank": 39,
+      "spotify": "http://open.spotify.com/track/5slEM8khwqRaQgvY66nv1x?utm_campaign=billboard",
+      "title": "My Sh*t"
+    },
+    {
+      "artist": "YFN Lucci Featuring Migos & Trouble",
+      "cover": "http://www.billboard.com/images/pref_images/q59934t1tuv.jpg",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 27,
+        "Wks on Chart": 20
+      },
+      "rank": 40,
+      "spotify": "http://open.spotify.com/track/0sHxp844QRmAnmTRObE2qM?utm_campaign=billboard",
+      "title": "Key To The Streets"
+    },
+    {
+      "artist": "Ugly God",
+      "cover": "http://www.billboard.com/images/pref_images/q60801dphu2.jpg",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 41,
+        "Wks on Chart": 3
+      },
+      "rank": 41,
+      "spotify": "http://open.spotify.com/track/6HEIBHUirx1J0JkUD24szt?utm_campaign=billboard",
+      "title": "Water"
+    },
+    {
+      "artist": "Khalid",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      },
+      "rank": 42,
+      "spotify": "http://open.spotify.com/track/6XOin64PR2Oj4W0tO8GOQv?utm_campaign=billboard",
+      "title": "Location"
+    },
+    {
+      "artist": "Kodak Black",
+      "cover": "http://www.billboard.com/images/pref_images/q42763babhm.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 38,
+        "Wks on Chart": 7
+      },
+      "rank": 43,
+      "spotify": "http://open.spotify.com/track/34oWbFBfGEElvgO0a5c9V4?utm_campaign=billboard",
+      "title": "No Flockin"
+    },
+    {
+      "artist": "Sage The Gemini",
+      "cover": "http://www.billboard.com/images/pref_images/q28531k4c26.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      },
+      "rank": 44,
+      "spotify": "http://open.spotify.com/track/43jBqV3j3Xi1g6wO0bhIMd?utm_campaign=billboard",
+      "title": "Now And Later"
+    },
+    {
+      "artist": "PARTYNEXTDOOR",
+      "cover": "http://www.billboard.com/images/pref_images/q58508hu4m1.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 45,
+        "Wks on Chart": 2
+      },
+      "rank": 45,
+      "spotify": "http://open.spotify.com/track/04sT6xbMnJouAktbkkr4qr?utm_campaign=billboard",
+      "title": "Not Nice"
+    },
+    {
+      "artist": "Kodak Black Featuring PnB Rock",
+      "cover": "http://www.billboard.com/images/pref_images/q42763babhm.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 42,
+        "Wks on Chart": 2
+      },
+      "rank": 46,
+      "spotify": "http://open.spotify.com/track/0BU7nIcCZxYSE0hYcc5oZz?utm_campaign=billboard",
+      "title": "Too Many Years"
+    },
+    {
+      "artist": "Meek Mill Featuring Tory Lanez",
+      "cover": "http://www.billboard.com/images/pref_images/q60000leevi.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 18,
+        "Wks on Chart": 7
+      },
+      "rank": 47,
+      "spotify": "http://open.spotify.com/track/5J5PXmMdQ2nh1lZOal8KmK?utm_campaign=billboard",
+      "title": "Litty"
+    },
+    {
+      "artist": "The Weeknd",
+      "cover": "http://www.billboard.com/images/pref_images/q59123tine7.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 15,
+        "Wks on Chart": 6
+      },
+      "rank": 48,
+      "spotify": "http://open.spotify.com/track/4mU5iXHeLgbR94siF7p1sY?utm_campaign=billboard",
+      "title": "Six Feet Under"
+    },
+    {
+      "artist": "Bruno Mars",
+      "cover": "http://www.billboard.com/images/pref_images/q59725qvpol.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 31,
+        "Wks on Chart": 4
+      },
+      "rank": 49,
+      "spotify": "http://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU?utm_campaign=billboard",
+      "title": "That's What I Like"
+    },
+    {
+      "artist": "Post Malone Featuring Justin Bieber",
+      "cover": "http://www.billboard.com/images/pref_images/q58965kol08.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 25,
+        "Wks on Chart": 8
+      },
+      "rank": 50,
+      "spotify": "http://open.spotify.com/track/0UHJP01i0yukw7Mdbfq7GN?utm_campaign=billboard",
+      "title": "Deja Vu"
+    }
+  ]
+}

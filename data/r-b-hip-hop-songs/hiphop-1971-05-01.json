@@ -1,0 +1,559 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "1971-05-01",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Never Can Say Goodbye",
+      "artist": "Jackson 5",
+      "spotify": "http://open.spotify.com/track/7ECM31mH6YiseOOedUOG6v?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 2,
+      "title": "What's Going On",
+      "artist": "Marvin Gaye",
+      "cover": "http://www.billboard.com/images/pref_images/q10427clu6r.jpg",
+      "spotify": "http://open.spotify.com/track/3IIVWbxpZ7cJNRmxX4okBh?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 3,
+      "title": "We Can Work It Out",
+      "artist": "Stevie Wonder",
+      "cover": "http://www.billboard.com/images/pref_images/q10766ptu75.jpg",
+      "spotify": "http://open.spotify.com/track/7Lj1p5sRRUUa1X0Oc6AVvG?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 4,
+      "title": "(For God's Sake) Give More Power To The People",
+      "artist": "The Chi-lites",
+      "cover": "http://www.billboard.com/images/pref_images/p11501vvs80.jpg",
+      "spotify": "http://open.spotify.com/track/22SThFt9ZVFWOZW9L6B2Ia?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Baby Let Me Kiss You",
+      "artist": "King Floyd",
+      "spotify": "http://open.spotify.com/track/0RtAWKqzoWmOAf2vt5jjxo?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 6,
+      "title": "BRIDGE OVER TROUBLED WATER",
+      "artist": "Aretha Franklin",
+      "cover": "http://www.billboard.com/images/pref_images/q10399wqplt.jpg",
+      "spotify": "http://open.spotify.com/track/3MGNretkjfPdtL1YfZY34Z?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 7,
+      "title": "I Don't Blame You At All",
+      "artist": "Smokey Robinson & The Miracles",
+      "cover": "http://www.billboard.com/images/pref_images/p21046gh09q.jpg",
+      "spotify": "http://open.spotify.com/track/3JPWrIv3frTZmOR1792Q7W?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Want Ads",
+      "artist": "The Honey Cone",
+      "spotify": "http://open.spotify.com/track/3YpN9pvaTXKSXurj3HBq8M?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Just My Imagination (Running Away With Me)",
+      "artist": "The Temptations",
+      "cover": "http://www.billboard.com/images/pref_images/p14909tj4sv.jpg",
+      "spotify": "http://open.spotify.com/track/3gbwcu7E9ACpJsLm7vEpuN?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Soul Power (Pt. 1)",
+      "artist": "James Brown",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 3,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 11,
+      "title": "If It's Real What I Feel",
+      "artist": "Jerry Butler Featuring Brenda Lee Eager",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Could I Forget You",
+      "artist": "Tyrone Davis",
+      "cover": "http://www.billboard.com/images/pref_images/p59361cd40k.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Booty Butt",
+      "artist": "The Ray Charles Orchestra",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 13,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Cool Aid",
+      "artist": "Paul Humphrey & His Cool Aid Chemists",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Do Me Right",
+      "artist": "Detroit Emeralds",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 7,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Right On The Tip Of My Tongue",
+      "artist": "Brenda & The Tabulations",
+      "spotify": "http://open.spotify.com/track/0HdxcIyqnsmJ3ZmWallpgS?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 10,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Warpath",
+      "artist": "The Isley Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/q33955pzux3.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 17,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Plain And Simple Girl",
+      "artist": "Garland Green",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 17,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 19,
+      "title": "I'll Erase Away Your Pain",
+      "artist": "Whatnauts",
+      "spotify": "http://open.spotify.com/track/0VOKSYGBd2tSE02izPh9qL?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 14,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Don't Change On Me",
+      "artist": "Ray Charles",
+      "cover": "http://www.billboard.com/images/pref_images/p11455g13jh.jpg",
+      "spotify": "http://open.spotify.com/track/0IEnxC03GvW8BuCY3KmL4T?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Heavy Makes You Happy (Sha-Na-Boom Boom)",
+      "artist": "The Staple Singers",
+      "cover": "http://www.billboard.com/images/pref_images/p16560e0d7c.jpg",
+      "spotify": "http://open.spotify.com/track/0wA8cAX4yF9iZu5M0avouA?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 6,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 22,
+      "title": "She's Not Just Another Woman",
+      "artist": "The 8th Day",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Melting Pot",
+      "artist": "Booker T. & The MG's",
+      "cover": "http://www.billboard.com/images/pref_images/p21153jp7tv.jpg",
+      "spotify": "http://open.spotify.com/track/6EjWezCHHgaqxpQYhLSlP7?utm_campaign=billboard",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 21,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 24,
+      "title": "You're All I Need To Get By",
+      "artist": "Aretha Franklin",
+      "cover": "http://www.billboard.com/images/pref_images/q10399wqplt.jpg",
+      "spotify": "http://open.spotify.com/track/2WTrU4f6Ln2egs6zysLjA1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 3,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Don't Knock My Love - Pt. 1",
+      "artist": "Wilson Pickett",
+      "cover": "http://www.billboard.com/images/pref_images/p15750bqrua.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Mr. And Mrs. Untrue",
+      "artist": "Candi Staton",
+      "cover": "http://www.billboard.com/images/pref_images/q07454op70b.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 25,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Your Love (Means Everything to Me)",
+      "artist": "Charles Wright And The Watts 103rd Street Rhythm Band",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Girls In The City",
+      "artist": "The Esquires",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 18,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 29,
+      "title": "The Electronic Magnetism (That's Heavy, Baby)",
+      "artist": "Solomon Burke",
+      "cover": "http://www.billboard.com/images/pref_images/p57900ykl85.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 26,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Baby Show It",
+      "artist": "Festival",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 29,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Funky Music Sho Nuff Turns Me On",
+      "artist": "Edwin Starr",
+      "cover": "http://www.billboard.com/images/pref_images/q40236m8i0h.jpg",
+      "spotify": "http://open.spotify.com/track/2Iz3Ybr98YYqvgn2bmNJ6O?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 6,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 32,
+      "title": "When You Took Your Love From Me",
+      "artist": "O.V. Wright",
+      "cover": "http://www.billboard.com/images/pref_images/p01178mk1ex.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 21,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Spinning Around (I Must Be Falling In Love)",
+      "artist": "The Main Ingredient",
+      "cover": "http://www.billboard.com/images/pref_images/q43726abye0.jpg",
+      "spotify": "http://open.spotify.com/track/49kkNN03AYUNvUzzzv7WSK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 7,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 34,
+      "title": "That Evil Child",
+      "artist": "B.B. King",
+      "cover": "http://www.billboard.com/images/pref_images/p73670yoo6z.jpg",
+      "spotify": "http://open.spotify.com/track/6q1y9u8Ch6J3sgitsoqDC1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 34,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Be My Baby",
+      "artist": "Cissy Houston",
+      "cover": "http://www.billboard.com/images/pref_images/p14683vjg98.jpg",
+      "spotify": "http://open.spotify.com/track/0TUpdRjNYoc2ronitLFPaF?utm_campaign=billboard",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Teddy Bear",
+      "artist": "Reggie",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 30,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Get Ready",
+      "artist": "Syl Johnson",
+      "cover": "http://www.billboard.com/images/pref_images/p25560bg9ta.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 34,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Lonely Feelin'",
+      "artist": "War",
+      "cover": "http://www.billboard.com/images/pref_images/p08793ar70g.jpg",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 38,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Your Love Is So Doggone Good",
+      "artist": "The Whispers",
+      "cover": "http://www.billboard.com/images/pref_images/q33956bwmsi.jpg",
+      "spotify": "http://open.spotify.com/track/3nkK1yydmu6hhJ9o2fmFeF?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 19,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Oye Como Va",
+      "artist": "Santana",
+      "cover": "http://www.billboard.com/images/pref_images/q22865oeyyl.jpg",
+      "spotify": "http://open.spotify.com/track/46FXjzG3pw4biunss7RfBq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 32,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Help Me Make It Through The Night",
+      "artist": "Joe Simon",
+      "cover": "http://www.billboard.com/images/pref_images/q27964jgrju.jpg",
+      "spotify": "http://open.spotify.com/track/03DHsJ2WV5tpxS2Df5gyx5?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 13,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Ain't Nothing Gonna Change Me",
+      "artist": "Betty Everett",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 32,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Ack-A-Fool",
+      "artist": "The Sister & Brothers Featuring Sister Geri",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 43,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 44,
+      "title": "You And Your Folks, Me And My Folks",
+      "artist": "Funkadelic",
+      "cover": "http://www.billboard.com/images/pref_images/q33493u13sq.jpg",
+      "spotify": "http://open.spotify.com/track/4At4NH5kmdd6vdNEbrCLlC?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 42,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Who Are You Gonna Love (Your Woman Or Your Wife)",
+      "artist": "Rozetta Johnson",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 45,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Joy To The World",
+      "artist": "Three Dog Night",
+      "cover": "http://www.billboard.com/images/pref_images/p08690kpb2r.jpg",
+      "spotify": "http://open.spotify.com/track/2ymeOsYijJz09LfKw3yM2x?utm_campaign=billboard",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 46,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 47,
+      "title": "I Need You Baby",
+      "artist": "Jesse James",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 47,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 48,
+      "title": "I Play Dirty",
+      "artist": "Little Milton",
+      "cover": "http://www.billboard.com/images/pref_images/p18539q4424.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 37,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 49,
+      "title": "You Make Me Want To Love You",
+      "artist": "The Emotions",
+      "cover": "http://www.billboard.com/images/pref_images/p21799g813q.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 47,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 50,
+      "title": "'Bout Love",
+      "artist": "[Champagne]",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 45,
+        "Wks on Chart": 4
+      }
+    }
+  ]
+}

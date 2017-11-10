@@ -1,0 +1,533 @@
+{
+  "name": "Country",
+  "chart_date": "1971-09-11",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Easy Loving",
+      "artist": "Freddie Hart",
+      "spotify": "http://open.spotify.com/track/5hUMeQroQxwIHCqrqgcuh6?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 2,
+      "title": "The Year That Clayton Delaney Died",
+      "artist": "Tom T. Hall",
+      "cover": "http://www.billboard.com/images/pref_images/p79752rjipk.jpg",
+      "spotify": "http://open.spotify.com/track/5Sxz7cjDvezdZgjx3aZNvz?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Quits",
+      "artist": "Bill Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/q13686h7qps.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Good Lovin' (Makes It Right)",
+      "artist": "Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27879imrhm.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 5,
+      "title": "I'd Rather Be Sorry",
+      "artist": "Ray Price",
+      "cover": "http://www.billboard.com/images/pref_images/q19116tvh88.jpg",
+      "spotify": "http://open.spotify.com/track/6KC9iCYn6sm5hBi7ELCHNW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 2,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Pitty, Pitty, Patter",
+      "artist": "Susan Raye",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 6,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 7,
+      "title": "You're Lookin' At Country",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 8,
+      "title": "I Wonder What She'll Think About Me Leaving",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Brand New Mister Me",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 8,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 10,
+      "title": "I'm Just Me",
+      "artist": "Charley Pride",
+      "cover": "http://www.billboard.com/images/pref_images/p14590oax26.jpg",
+      "spotify": "http://open.spotify.com/track/2LYyjd2a60hlxatnafiTos?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Leavin' And Sayin' Goodbye",
+      "artist": "Faron Young",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 12,
+      "title": "When He Walks On You (Like You Have Walked On Me)",
+      "artist": "Jerry Lee Lewis",
+      "cover": "http://www.billboard.com/images/pref_images/p14318ix562.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Someday We'll Look Back",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 15,
+      "title": "How Can I Unlove You",
+      "artist": "Lynn Anderson",
+      "spotify": "http://open.spotify.com/track/3L1xrmOHKD13M6StU7Wo2g?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 16,
+      "title": "I Don't Know You (Anymore)",
+      "artist": "Tommy Overstreet",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Good Enough To Be Your Wife",
+      "artist": "Jeannie C. Riley",
+      "cover": "http://www.billboard.com/images/pref_images/p16067hm9ue.jpg",
+      "spotify": "http://open.spotify.com/track/7r3VevhUtj2xyer0O5FLRn?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 18,
+      "title": "He's So Fine",
+      "artist": "Jody Miller",
+      "spotify": "http://open.spotify.com/track/5hj9w1DdAOrJKHQPDLmS60?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 5,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 19,
+      "title": "My Blue Tears",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Indian Lake",
+      "artist": "Freddy Weller",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Pictures",
+      "artist": "The Statler Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/p24114v60jy.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 22,
+      "title": "The Last Time I Saw Her",
+      "artist": "Glen Campbell",
+      "cover": "http://www.billboard.com/images/pref_images/p99857on5ga.jpg",
+      "spotify": "http://open.spotify.com/track/4wQQ74Ru55ThJ8csLSv1YI?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 21,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Bright Lights, Big City",
+      "artist": "Sonny James",
+      "spotify": "http://open.spotify.com/track/0NFT2UXI5WmqTNeqqymAeb?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 24,
+      "title": "The Philadelphia Fillies",
+      "artist": "Del Reeves",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 9,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Don't Let Him Make A Memory Out Of Me",
+      "artist": "Billy Walker",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 22,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 26,
+      "title": "The Mark Of A Heel",
+      "artist": "Hank Thompson",
+      "cover": "http://www.billboard.com/images/pref_images/q02016v668k.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 18,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 27,
+      "title": "There Must Be More To Life (Than Growing Old)/Fire Hydrant #79",
+      "artist": "Jack Blanchard & Misty Morgan",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 25,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Cedartown, Georgia",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 12,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Dream Lover",
+      "artist": "Billy \"Crash\" Craddock",
+      "cover": "http://www.billboard.com/images/pref_images/p04850wk396.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 5,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Saturday Morning Confusion",
+      "artist": "Bobby Russell",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 24,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 31,
+      "title": "The Right Combination",
+      "artist": "Porter Wagoner And Dolly Parton",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 14,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Treat Him Right",
+      "artist": "Barbara Mandrell",
+      "cover": "http://www.billboard.com/images/pref_images/p14987e704s.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 12,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Fly Away Again",
+      "artist": "Dave Dudley",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 8,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 34,
+      "title": "After All They All Used To Belong To Me",
+      "artist": "Hank Williams Jr.",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 18,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Rollin' In My Sweet Baby's Arms",
+      "artist": "Buck Owens",
+      "cover": "http://www.billboard.com/images/pref_images/p15648l4g42.jpg",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 2,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Love's Old Song",
+      "artist": "Barbara Fairchild",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 28,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Loser's Cocktail",
+      "artist": "Dick Curless",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 36,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 38,
+      "title": "It's A Sin To Tell A Lie",
+      "artist": "Slim Whitman",
+      "cover": "http://www.billboard.com/images/pref_images/p17991n8enw.jpg",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 21,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Be A Little Quieter",
+      "artist": "Porter Wagoner",
+      "cover": "http://www.billboard.com/images/pref_images/p15682u239j.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 11,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 40,
+      "title": "If This Is Our Last Time",
+      "artist": "Brenda Lee",
+      "cover": "http://www.billboard.com/images/pref_images/p17067c80qj.jpg",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 30,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 41,
+      "title": "One Night Of Love",
+      "artist": "Johnny Duncan",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 39,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Back Then",
+      "artist": "Wanda Jackson",
+      "cover": "http://www.billboard.com/images/pref_images/q00488hhgza.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 25,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Loving Her Was Easier (Than Anything I'll Ever Do Again)",
+      "artist": "Roger Miller",
+      "cover": "http://www.billboard.com/images/pref_images/p21348sl623.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 28,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 44,
+      "title": "I'm Gonna Write A Song",
+      "artist": "Tommy Cash",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 28,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Right Won't Touch A Hand",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 7,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 46,
+      "title": "If You Think That It's All Right",
+      "artist": "Johnny Carver",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 34,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 47,
+      "title": "The Morning After",
+      "artist": "Jerry Wallace",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 19,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Take My Hand",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 8,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Rings",
+      "artist": "The Glaser Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/q02257xk6kz.jpg",
+      "position": {
+        "Last Week": "75",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 50,
+      "title": "I'm Gonna Act Right",
+      "artist": "Nat Stuckey",
+      "cover": "http://www.billboard.com/images/pref_images/p02378kygm5.jpg",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 17,
+        "Wks on Chart": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "name": "Country",
+  "chart_date": "1969-05-24",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "My Life (Throw It Away If I Want To)",
+      "artist": "Bill Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/q13686h7qps.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Singing My Song",
+      "artist": "Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27879imrhm.jpg",
+      "spotify": "http://open.spotify.com/track/7yRUR7KmECxeIPmaoLRSfe?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 3,
+      "title": "I'll Share My World With You",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 2,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 4,
+      "title": "(Margie's At) The Lincoln Park Inn",
+      "artist": "Bobby Bare",
+      "cover": "http://www.billboard.com/images/pref_images/p10912s9s7h.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 5,
+      "title": "There Never Was A Time",
+      "artist": "Jeannie C. Riley",
+      "cover": "http://www.billboard.com/images/pref_images/p16067hm9ue.jpg",
+      "spotify": "http://open.spotify.com/track/1RPBw478gqisGdKV2VVl8V?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Games People Play",
+      "artist": "Freddy Weller",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 2,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 7,
+      "title": "You Gave Me A Mountain",
+      "artist": "Johnny Bush",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 8,
+      "title": "When Two Worlds Collide",
+      "artist": "Jim Reeves",
+      "cover": "http://www.billboard.com/images/pref_images/p06780ig50x.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Mr. Walker, It's All Over",
+      "artist": "Billie Jo Spears",
+      "cover": "http://www.billboard.com/images/pref_images/p08594ts05k.jpg",
+      "spotify": "http://open.spotify.com/track/18KXF4imEgCMPIdH3EQpQv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Hungry Eyes",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Rings Of Gold",
+      "artist": "Dottie West",
+      "cover": "http://www.billboard.com/images/pref_images/p17951b66f3.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 2,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Yours Love",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Sweetheart Of The Year",
+      "artist": "Ray Price",
+      "cover": "http://www.billboard.com/images/pref_images/q19116tvh88.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Galveston",
+      "artist": "Glen Campbell",
+      "cover": "http://www.billboard.com/images/pref_images/p99857on5ga.jpg",
+      "spotify": "http://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 15,
+      "title": "One More Mile",
+      "artist": "Dave Dudley",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 12,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Ribbon Of Darkness",
+      "artist": "Connie Smith",
+      "cover": "http://www.billboard.com/images/pref_images/p85285q666r.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 17,
+      "title": "California Girl (And The Tennessee Square)",
+      "artist": "Tompall & The Glaser Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/q10737g3lhz.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 11,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Please Don't Go",
+      "artist": "Eddy Arnold",
+      "cover": "http://www.billboard.com/images/pref_images/p08903vh77v.jpg",
+      "spotify": "http://open.spotify.com/track/4X5DFbwqgR1a78b64HyvyV?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 10,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Man And Wife Time",
+      "artist": "Jim Ed Brown",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 20,
+      "title": "There's Better Things In Life",
+      "artist": "Jerry Reed",
+      "cover": "http://www.billboard.com/images/pref_images/p16000j9d6d.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 20,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Let The Whole World Sing It With Me",
+      "artist": "Wynn Stewart",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 20,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Woman Of The World (Leave My World Alone)",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Why You Been Gone So Long",
+      "artist": "Johnny Darrell",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 17,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Walkin' Back To Birmingham",
+      "artist": "Leon Ashley",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 23,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Old Faithful",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 13,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Cajun Baby",
+      "artist": "Doug Kershaw With Hank Williams, Jr.",
+      "spotify": "http://open.spotify.com/track/7g7qm19GXneJE22SbyIk33?utm_campaign=billboard",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 3,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Running Bear",
+      "artist": "Sonny James",
+      "spotify": "http://open.spotify.com/track/6z85UIVTaHnCcRyb95thoa?utm_campaign=billboard",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Something's Wrong In California",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 19,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Our House Is Not A Home (If It's Never Been Loved In)",
+      "artist": "Lynn Anderson",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 18,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Like A Bird",
+      "artist": "George Morgan",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 30,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Let's Put Our World Back Together",
+      "artist": "Charlie Louvin",
+      "cover": "http://www.billboard.com/images/pref_images/p07815wcx46.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 27,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Leave My Dream Alone",
+      "artist": "Warner Mack",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Sweet Wine",
+      "artist": "Johnny Carver",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 26,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Solitary",
+      "artist": "Don Gibson",
+      "cover": "http://www.billboard.com/images/pref_images/p01350b8647.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 28,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 35,
+      "title": "I Love You More Today",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 36,
+      "title": "I'm A Drifter",
+      "artist": "Bobby Goldsboro",
+      "cover": "http://www.billboard.com/images/pref_images/p02774exqi4.jpg",
+      "spotify": "http://open.spotify.com/track/2cPe9j3CxZH8svgtVpuJrA?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 22,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Statue Of A Fool",
+      "artist": "Jack Greene",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Where's The Playground Susie",
+      "artist": "Glen Campbell",
+      "cover": "http://www.billboard.com/images/pref_images/p99857on5ga.jpg",
+      "spotify": "http://open.spotify.com/track/7G9LNO9z8DodpOyOMq8cck?utm_campaign=billboard",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 28,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Just Hold My Hand",
+      "artist": "Johnny A.",
+      "cover": "http://www.billboard.com/images/pref_images/q21718tyrq5.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 12,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 40,
+      "title": "It Looks Like The Sun's Gonna Shine",
+      "artist": "Wilburn Brothers",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 38,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Smoky Places",
+      "artist": "Billy Walker",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 12,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Daddy",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 40,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Just Enough To Start Me Dreamin'",
+      "artist": "Jeannie Seely",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 43,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Dusty Road",
+      "artist": "Norma Jean",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 44,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Love Comes But Once In A Lifetime",
+      "artist": "Norro Wilson",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 44,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 46,
+      "title": "I've Got Precious Memories",
+      "artist": "Faron Young",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 25,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Be Glad",
+      "artist": "Del Reeves",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 5,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Too Much Of A Man (To Be Tied Down)",
+      "artist": "Arlene",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 45,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Make It Rain",
+      "artist": "Billy Mize",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 40,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 50,
+      "title": "The Coming Of The Roads",
+      "artist": "Johnny Darrell & Anita Carger",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 50,
+        "Wks on Chart": 7
+      }
+    }
+  ]
+}

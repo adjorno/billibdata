@@ -1,0 +1,562 @@
+{
+  "name": "Latin",
+  "chart_date": "2002-03-16",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Flor Sin Retono",
+      "artist": "Charlie Zaa",
+      "cover": "http://www.billboard.com/images/pref_images/q15868to0zp.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Suerte",
+      "artist": "Shakira",
+      "cover": "http://www.billboard.com/images/pref_images/q13811lsqw8.jpg",
+      "spotify": "http://open.spotify.com/track/6fNOLHy8VxBsKxy1D41EVz?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Luna Nueva",
+      "artist": "Carlos Vives",
+      "cover": "http://www.billboard.com/images/pref_images/q05583l6prh.jpg",
+      "spotify": "http://open.spotify.com/track/1fAzF0YA0bPy65wNS7pu9h?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 1,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Como Duele",
+      "artist": "Luis Miguel",
+      "cover": "http://www.billboard.com/images/pref_images/q08514aqdn7.jpg",
+      "spotify": "http://open.spotify.com/track/2inyRCfWB1ey6vNX43TTCl?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Quitame Ese Hombre",
+      "artist": "Pilar Montenegro",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 1,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Tantita Pena",
+      "artist": "Alejandro Fernandez",
+      "cover": "http://www.billboard.com/images/pref_images/p75086r8gvp.jpg",
+      "spotify": "http://open.spotify.com/track/4we9CfmWxgzKacZdkkh5eg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Necesidad",
+      "artist": "Alexandre Pires",
+      "cover": "http://www.billboard.com/images/pref_images/p56569pep5o.jpg",
+      "spotify": "http://open.spotify.com/track/3kBNDYTOqchLKHDciD3HmI?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 5,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Manantial De Llanto",
+      "artist": "Joan Sebastian",
+      "cover": "http://www.billboard.com/images/pref_images/p74808lqhop.jpg",
+      "spotify": "http://open.spotify.com/track/2Tt58LnAEGLidJmTY3l8JF?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 4,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Quisiera Poder Olvidarme De Ti",
+      "artist": "Luis Fonsi",
+      "cover": "http://www.billboard.com/images/pref_images/q24394mcj0t.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 3,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Usted Se Me Llevo La Vida",
+      "artist": "Alexandre Pires",
+      "cover": "http://www.billboard.com/images/pref_images/p56569pep5o.jpg",
+      "spotify": "http://open.spotify.com/track/1wx6JALNy9KXwndVziEUKw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Sufriendo A Solas",
+      "artist": "Lupillo Rivera",
+      "cover": "http://www.billboard.com/images/pref_images/q10685rnh0e.jpg",
+      "spotify": "http://open.spotify.com/track/5rdnJUk6eg7KnKFVSYOfdY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Huelo A Soledad",
+      "artist": "Ana Gabriel",
+      "spotify": "http://open.spotify.com/track/1MQzLNR3bLXZwGGHdUNgCW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 8,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Escapar",
+      "artist": "Enrique Iglesias",
+      "cover": "http://www.billboard.com/images/pref_images/q14132juu74.jpg",
+      "spotify": "http://open.spotify.com/track/6KnQHJvLVexroVxienplH1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 2,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Lloviendo Estrellas",
+      "artist": "Cristian",
+      "spotify": "http://open.spotify.com/track/5b00r2xveYfVIOExZJJ395?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 13,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Hay Otra En Tu Lugar",
+      "artist": "Pablo Montero",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 5,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Como Pudiste",
+      "artist": "Banda El Recodo",
+      "spotify": "http://open.spotify.com/track/4bI8EpSXcaZOeJYA7MDqZ7?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Yo Queria",
+      "artist": "Cristian",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 6,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 18,
+      "title": "No Me Conoces Aun",
+      "artist": "Palomo",
+      "cover": "http://www.billboard.com/images/pref_images/q10684fwftv.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 3,
+        "Wks on Chart": 41
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Estas Que Te Pelas",
+      "artist": "Intocable",
+      "cover": "http://www.billboard.com/images/pref_images/q22654lwi0n.jpg",
+      "spotify": "http://open.spotify.com/track/7c0FzzfU1MZ1OtkLm7xrgA?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 6,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 20,
+      "title": "En La Misma Cama",
+      "artist": "Liberacion",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 5,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Toma Que Toma",
+      "artist": "Conchi Cortes",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 6,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Te Quedo Grande La Yegua",
+      "artist": "Alicia Villarreal",
+      "cover": "http://www.billboard.com/images/pref_images/p70989xkal1.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 15,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 23,
+      "title": "De Rama En Rama",
+      "artist": "Los Tigres Del Norte",
+      "cover": "http://www.billboard.com/images/pref_images/q22666owdhk.jpg",
+      "spotify": "http://open.spotify.com/track/7theVMlcsG9ETatko1p4b7?utm_campaign=billboard",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 23,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Te Lo Pido Senor",
+      "artist": "Tito Rojas",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 24,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Te Quiero Igual Que Ayer",
+      "artist": "Monchy Y Alexandra",
+      "spotify": "http://open.spotify.com/track/7jGbY4iPoYyzYhRaWVUtz2?utm_campaign=billboard",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 25,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Vas A Sufrir",
+      "artist": "Grupo Bryndis",
+      "cover": "http://www.billboard.com/images/pref_images/q15481n0wg6.jpg",
+      "spotify": "http://open.spotify.com/track/0IyvFgJQEa46eJ95atoDha?utm_campaign=billboard",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 26,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 27,
+      "title": "La Agarro Bajando",
+      "artist": "Gilberto Santa Rosa",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 4,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Heroe",
+      "artist": "Enrique Iglesias",
+      "cover": "http://www.billboard.com/images/pref_images/q14132juu74.jpg",
+      "spotify": "http://open.spotify.com/track/2vIJRNMIM9rpM6MiXAEGPp?utm_campaign=billboard",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 1,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Volvere Junto A Ti",
+      "artist": "Laura Pausini",
+      "cover": "http://www.billboard.com/images/pref_images/q20871mnpfw.jpg",
+      "spotify": "http://open.spotify.com/track/0hBM7L3PO2nmpoUxhwJ6Km?utm_campaign=billboard",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 11,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Te Aviso, Te Anuncio (Tango)",
+      "artist": "Shakira",
+      "cover": "http://www.billboard.com/images/pref_images/q13811lsqw8.jpg",
+      "spotify": "http://open.spotify.com/track/2hdlRbfA2Jrq0oc34CPbcp?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 16,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Hasta Que Vuelvas Conmigo",
+      "artist": "Marc Anthony",
+      "cover": "http://www.billboard.com/images/pref_images/q35029aou0n.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Celos",
+      "artist": "Marc Anthony",
+      "cover": "http://www.billboard.com/images/pref_images/q35029aou0n.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 6,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Me Volvi A Acordar De Ti",
+      "artist": "Los Angeles De Charly",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 30,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Si Tu No Vuelves",
+      "artist": "Alejandro Fernandez",
+      "cover": "http://www.billboard.com/images/pref_images/p75086r8gvp.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 27,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 35,
+      "title": "La Negra Tiene Tumbao",
+      "artist": "Celia Cruz",
+      "cover": "http://www.billboard.com/images/pref_images/p58838izl4v.jpg",
+      "spotify": "http://open.spotify.com/track/5P76C0WkIg1jAM3VcoRswv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 30,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Naila",
+      "artist": "Renan Almendarez Coello",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 36,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Yo No Te Conozco",
+      "artist": "Ricardo Cerda \"El Gavilan\"",
+      "spotify": "http://open.spotify.com/track/5pCyacBe8c5E8c8BN8NzK5?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 35,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Dime",
+      "artist": "Jaime Camil",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 17,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 39,
+      "title": "La Playa",
+      "artist": "La Oreja De Van Gogh",
+      "cover": "http://www.billboard.com/images/pref_images/p88906ck6qm.jpg",
+      "spotify": "http://open.spotify.com/track/2yTawxFnBhJDWj70SHYneI?utm_campaign=billboard",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 40,
+      "title": "No Se Vivir Sin Ti",
+      "artist": "Conjunto Primavera",
+      "cover": "http://www.billboard.com/images/pref_images/p75508aolnx.jpg",
+      "spotify": "http://open.spotify.com/track/6ty0sHS0EEV7k7SWCgVu2U?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 17,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Se Que Me Vas A Dejar",
+      "artist": "Marco Antonio Solis",
+      "cover": "http://www.billboard.com/images/pref_images/p73269svo66.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 12,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Mas Alto Que Las Aguilas",
+      "artist": "Pepe Aguilar",
+      "cover": "http://www.billboard.com/images/pref_images/p56500at6x5.jpg",
+      "spotify": "http://open.spotify.com/track/03vVf4VIBc9tv5OPPb2jSa?utm_campaign=billboard",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 24,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Shhh",
+      "artist": "A.B. Quintanilla Y Los Kumbia Kings",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 23,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Para Estar A Mano",
+      "artist": "El Coyote Y Su Banda Tierra Santa",
+      "cover": "http://www.billboard.com/images/pref_images/p56575o18qi.jpg",
+      "spotify": "http://open.spotify.com/track/1gFBEAKYtflz5KqGJ8BBXt?utm_campaign=billboard",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 34,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Dejate Querer",
+      "artist": "Los Tucanes De Tijuana",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Pequena Amante",
+      "artist": "El Poder Del Norte",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 31,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Mitad Y Mitad",
+      "artist": "Pesado",
+      "cover": "http://www.billboard.com/images/pref_images/p76087hdemw.jpg",
+      "spotify": "http://open.spotify.com/track/4OECH2Xo6i0ESeaQ3tYVAu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Ay! Bueno",
+      "artist": "Fernando Villalona Featuring Jon Secada",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 26,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Te Quiero Comer La Boca",
+      "artist": "La Mosca Tse Tse",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 23,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Uno, Dos Y Tres",
+      "artist": "Iman",
+      "spotify": "http://open.spotify.com/track/25yagVkwjwa72Y22trwR0A?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 47,
+        "Wks on Chart": 4
+      }
+    }
+  ]
+}

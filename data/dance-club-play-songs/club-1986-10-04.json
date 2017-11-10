@@ -1,0 +1,548 @@
+{
+  "name": "Club",
+  "chart_date": "1986-10-04",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "When I Think Of You (Remix)",
+      "artist": "Janet Jackson",
+      "cover": "http://www.billboard.com/images/pref_images/p83801vds75.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Gotta See You Tonight",
+      "artist": "Barbara Roy",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Summer Of Love (Remix)",
+      "artist": "The B-52 s",
+      "cover": "http://www.billboard.com/images/pref_images/p78144breiw.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 4,
+      "title": "For Tonight",
+      "artist": "Nancy Martinez",
+      "spotify": "http://open.spotify.com/track/6Ib6spYstXrIWT8R0jAHoF?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Down And Counting",
+      "artist": "Claudja Barry",
+      "spotify": "http://open.spotify.com/track/7sMspQiHxxJvrFVxJgddgR?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Sample That!/Samples! (Remix)",
+      "artist": "Bang Orchestra!",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Missionary Man (Remix)",
+      "artist": "Eurythmics",
+      "cover": "http://www.billboard.com/images/pref_images/q00816uwqxf.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Love In The Shadows (Remix)",
+      "artist": "E.G. Daily",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 6,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Celebrate",
+      "artist": "Subject",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Can t Give Her Up (Remix)",
+      "artist": "Skipworth",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 11,
+      "title": "The Rain (Remix)",
+      "artist": "Oran Juice Jones",
+      "cover": "http://www.billboard.com/images/pref_images/p09275q5ohs.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 7,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Love Comes Quickly (Remix)/That s My Impression",
+      "artist": "Pet Shop Boys",
+      "cover": "http://www.billboard.com/images/pref_images/p09885wj4sx.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 10,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Summertime, Summertime",
+      "artist": "Nocera",
+      "spotify": "http://open.spotify.com/track/0d3Yh9OOMX3wfD2Ai1Dg02?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 2,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 14,
+      "title": "How Many Hearts",
+      "artist": "Evelyn Thomas",
+      "spotify": "http://open.spotify.com/track/1cTtP2poF59QWvo28fgo1U?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Nail It To The Wall (Remix)",
+      "artist": "Stacy Lattisaw",
+      "cover": "http://www.billboard.com/images/pref_images/p14263ou904.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 16,
+      "title": "You Are Everything",
+      "artist": "James D-Train Williams",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Paranoimia (Remix)",
+      "artist": "Art Of Noise With Max Headroom",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Reaction (Remix)",
+      "artist": "Rebbie Jackson",
+      "cover": "http://www.billboard.com/images/pref_images/p13779ur4u0.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 15,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Can t Wait Another Minute (Remix)",
+      "artist": "Five Star",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 5,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Diamond Girl",
+      "artist": "Nice",
+      "cover": "http://www.billboard.com/images/pref_images/p15437y1n50.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 20,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Can t Live Without Your Love",
+      "artist": "Suzy",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 19,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Word Up",
+      "artist": "Cameo",
+      "cover": "http://www.billboard.com/images/pref_images/p09435vafk4.jpg",
+      "spotify": "http://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240?utm_campaign=billboard",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 23,
+      "title": "100% Pure Pain (Remix)",
+      "artist": "O Chi Brown",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 24,
+      "title": "One Step (Remix)",
+      "artist": "K.T.P.",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 5,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Typical Male (Remix)",
+      "artist": "Tina Turner",
+      "cover": "http://www.billboard.com/images/pref_images/p90206pu5ye.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 11,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Anotherlover.../Girls",
+      "artist": "Prince And The Revolution",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy6495871972193697421.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Marcia Baila",
+      "artist": "Rita Mitsouko",
+      "spotify": "http://open.spotify.com/track/4FVC0Zv0fu9C8izOfj7xiu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 27,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Jody (Remix)/Dancefloor",
+      "artist": "Jermaine Stewart",
+      "cover": "http://www.billboard.com/images/pref_images/p08619f19f2.jpg",
+      "spotify": "http://open.spotify.com/track/7eCJuyIc1F0Lu7emNYLneg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 9,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Soweto (Remix)",
+      "artist": "Jeffrey Osborne",
+      "cover": "http://www.billboard.com/images/pref_images/p15629b86la.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 11,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Ruthless People",
+      "artist": "Mick Jagger",
+      "cover": "http://www.billboard.com/images/pref_images/q10383l3m8s.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 29,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Spirit In The Sky",
+      "artist": "Doctor And The Medics",
+      "cover": "http://www.billboard.com/images/pref_images/p11992v7e8a.jpg",
+      "spotify": "http://open.spotify.com/track/30RUgj1m4xDQINFbmlcgMJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 27,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Such A Feeling",
+      "artist": "Young",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 14,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Sing Our Own Song",
+      "artist": "UB40",
+      "cover": "http://www.billboard.com/images/pref_images/p21807vwvk2.jpg",
+      "spotify": "http://open.spotify.com/track/71P1uKwq0a4J4KUhwhy9qw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 22,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Two Of Hearts",
+      "artist": "Stacey Q",
+      "spotify": "http://open.spotify.com/track/2dURQIBrw3XcHyVZlfdpC1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 4,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Human",
+      "artist": "The Human League",
+      "cover": "http://www.billboard.com/images/pref_images/p13600b9d11.jpg",
+      "spotify": "http://open.spotify.com/track/537yo062QIz16oQOgxmul3?utm_campaign=billboard",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Don't Leave Me This Way",
+      "artist": "The Communards",
+      "cover": "http://www.billboard.com/images/pref_images/p11666ca76g.jpg",
+      "spotify": "http://open.spotify.com/track/6nEvNMZovaJ4cMUk22N3GB?utm_campaign=billboard",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Kindness For Weakness",
+      "artist": "The Cut",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 33,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Walk This Way",
+      "artist": "Run-D.M.C.",
+      "cover": "http://www.billboard.com/images/pref_images/p97720byyu6.jpg",
+      "spotify": "http://open.spotify.com/track/2vX5WL7s6UdeQyweZEx7PP?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 6,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Oh Yeah (Remix)",
+      "artist": "Yello",
+      "cover": "http://www.billboard.com/images/pref_images/p18174fj864.jpg",
+      "spotify": "http://open.spotify.com/track/42SYMWISn7xUpTNPLw9V5E?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 35,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Don t You Try It",
+      "artist": "Raww",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 34,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Stormy Weather",
+      "artist": "Fats Comet",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 34,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 42,
+      "title": "The Sound Of Musik (Remix)",
+      "artist": "Falco",
+      "cover": "http://www.billboard.com/images/pref_images/q04079b02d5.jpg",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 19,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 43,
+      "title": "You re So Strong (Remix)",
+      "artist": "Mental As Anything",
+      "cover": "http://www.billboard.com/images/pref_images/q14257r6p2p.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 21,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Velcro Fly (Remix)",
+      "artist": "ZZ Top",
+      "cover": "http://www.billboard.com/images/pref_images/q13205yu5ka.jpg",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 43,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Somebody (Remix)/The Red, Red Groovy",
+      "artist": "Brilliant",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 7,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Dreamtime (Remix)",
+      "artist": "Daryl Hall",
+      "cover": "http://www.billboard.com/images/pref_images/p05304h2ux2.jpg",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 36,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Take Me As I Am",
+      "artist": "Erotic Exotic",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 36,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Heartache",
+      "artist": "Gene Loves Jezebel",
+      "cover": "http://www.billboard.com/images/pref_images/p05183b4407.jpg",
+      "spotify": "http://open.spotify.com/track/3HcEb9m7RC5boNhBQXuyOz?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 25,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Your Love (Is All I Need)/Reach Out",
+      "artist": "Carol Hahn",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 37,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Point Of No Return (Remix)",
+      "artist": "Nu Shooz",
+      "cover": "http://www.billboard.com/images/pref_images/p08314ip83h.jpg",
+      "spotify": "http://open.spotify.com/track/5a4pPzc2WQpF9yTApqzwco?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    }
+  ]
+}

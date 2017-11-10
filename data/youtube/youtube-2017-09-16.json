@@ -1,0 +1,278 @@
+{
+  "chart_date": "2017-09-16",
+  "name": "Youtube",
+  "tracks": [
+    {
+      "artist": "Taylor Swift",
+      "cover": "http://charts-static.billboard.com/img/2016/12/taylor-swift.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 2
+      },
+      "rank": 1,
+      "title": "Look What You Made Me Do"
+    },
+    {
+      "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
+      "cover": "http://charts-static.billboard.com/img/2017/01/luis-fonsi-rkx-despacito-4j3.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 33
+      },
+      "rank": 2,
+      "title": "Despacito"
+    },
+    {
+      "artist": "J Balvin & Willy William",
+      "cover": "http://charts-static.billboard.com/img/2017/07/j-balvin.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 10
+      },
+      "rank": 3,
+      "title": "Mi Gente"
+    },
+    {
+      "artist": "Ed Sheeran",
+      "cover": "http://charts-static.billboard.com/img/2017/01/ed-sheeran.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 34
+      },
+      "rank": 4,
+      "title": "Shape Of You"
+    },
+    {
+      "artist": "Katy Perry Featuring Nicki Minaj",
+      "cover": "http://charts-static.billboard.com/img/2017/06/katy-perry.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 2
+      },
+      "rank": 5,
+      "title": "Swish Swish"
+    },
+    {
+      "artist": "Farruko, Bad Bunny & Rvssian",
+      "cover": "http://charts-static.billboard.com/img/2010/05/farruko-z29.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 3
+      },
+      "rank": 6,
+      "title": "Krippy Kush"
+    },
+    {
+      "artist": "Danny Ocean",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      },
+      "rank": 7,
+      "title": "Me Rehuso"
+    },
+    {
+      "artist": "Wisin Featuring Ozuna",
+      "cover": "http://charts-static.billboard.com/img/2017/04/wisin-o6d.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      },
+      "rank": 8,
+      "title": "Escapate Conmigo"
+    },
+    {
+      "artist": "Chris Jeday Presenta J Balvin, Ozuna & Arcangel",
+      "cover": "http://charts-static.billboard.com/img/2017/04/chris-jeday.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 22
+      },
+      "rank": 9,
+      "title": "Ahora Dice"
+    },
+    {
+      "artist": "Manuel Turizo",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 10,
+        "Wks on Chart": 3
+      },
+      "rank": 10,
+      "title": "Una Lady Como Tu"
+    },
+    {
+      "artist": "Shakira Featuring Maluma",
+      "cover": "http://charts-static.billboard.com/img/2016/11/shakira.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 1,
+        "Wks on Chart": 41
+      },
+      "rank": 11,
+      "title": "Chantaje"
+    },
+    {
+      "artist": "Ozuna",
+      "cover": "http://charts-static.billboard.com/img/2017/07/ozuna.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 9,
+        "Wks on Chart": 3
+      },
+      "rank": 12,
+      "title": "Se Preparo"
+    },
+    {
+      "artist": "Clean Bandit Featuring Sean Paul & Anne-Marie",
+      "cover": "http://charts-static.billboard.com/img/2016/11/clean-bandit.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 3,
+        "Wks on Chart": 38
+      },
+      "rank": 13,
+      "title": "Rockabye"
+    },
+    {
+      "artist": "Maluma",
+      "cover": "http://charts-static.billboard.com/img/2017/05/maluma.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      },
+      "rank": 14,
+      "title": "Felices Los 4"
+    },
+    {
+      "artist": "Dua Lipa",
+      "cover": "http://charts-static.billboard.com/img/2017/07/dua-lipa.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 15,
+        "Wks on Chart": 3
+      },
+      "rank": 15,
+      "title": "New Rules"
+    },
+    {
+      "artist": "DJ Khaled Featuring Rihanna & Bryson Tiller",
+      "cover": "http://charts-static.billboard.com/img/2017/07/dj-khaled.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      },
+      "rank": 16,
+      "title": "Wild Thoughts"
+    },
+    {
+      "artist": "Karol G X Bad Bunny",
+      "cover": "http://charts-static.billboard.com/img/2017/07/karol-g.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 11,
+        "Wks on Chart": 9
+      },
+      "rank": 17,
+      "title": "Ahora Me Llama"
+    },
+    {
+      "artist": "Ozuna",
+      "cover": "http://charts-static.billboard.com/img/2017/07/ozuna.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 18,
+        "Wks on Chart": 3
+      },
+      "rank": 18,
+      "title": "El Farsante"
+    },
+    {
+      "artist": "Becky G Featuring Bad Bunny",
+      "cover": "http://charts-static.billboard.com/img/2017/07/becky-g.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 17,
+        "Wks on Chart": 3
+      },
+      "rank": 19,
+      "title": "Mayores"
+    },
+    {
+      "artist": "Nacho",
+      "cover": "http://charts-static.billboard.com/img/2017/05/nacho.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      },
+      "rank": 20,
+      "title": "Bailame"
+    },
+    {
+      "artist": "Natti Natasha x Ozuna",
+      "cover": "http://charts-static.billboard.com/img/2017/09/natti-natasha-s18.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      },
+      "rank": 21,
+      "title": "Criminal"
+    },
+    {
+      "artist": "Rvssian Featuring Bad Bunny, Farruko, King Kosa & Nicky Jam",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      },
+      "rank": 22,
+      "title": "Si Tu Lo Dejas"
+    },
+    {
+      "artist": "J Balvin Featuring Bad Bunny",
+      "cover": "http://charts-static.billboard.com/img/2017/03/j-balvin.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 10,
+        "Wks on Chart": 23
+      },
+      "rank": 23,
+      "title": "Si Tu Novio Te Deja Sola"
+    },
+    {
+      "artist": "Charlie Puth",
+      "cover": "http://charts-static.billboard.com/img/2017/05/charlie-puth.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 17,
+        "Wks on Chart": 12
+      },
+      "rank": 24,
+      "title": "Attention"
+    },
+    {
+      "artist": "Charlie Puth Featuring Selena Gomez",
+      "cover": "http://charts-static.billboard.com/img/2017/05/charlie-puth.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 5,
+        "Wks on Chart": 56
+      },
+      "rank": 25,
+      "title": "We Don't Talk Anymore"
+    }
+  ]
+}

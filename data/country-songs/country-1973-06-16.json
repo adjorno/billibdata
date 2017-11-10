@@ -1,0 +1,532 @@
+{
+  "name": "Country",
+  "chart_date": "1973-06-16",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Kids Say The Darndest Things",
+      "artist": "Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27879imrhm.jpg",
+      "spotify": "http://open.spotify.com/track/3CLACvBhxpZaWNw4ZtffR1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Satin Sheets",
+      "artist": "Jeanne Pruett",
+      "spotify": "http://open.spotify.com/track/2R7rVo4IEzwaOdJ243fY0s?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 3,
+      "title": "You Always Come Back (To Hurting Me)",
+      "artist": "Johnny Rodriguez",
+      "cover": "http://www.billboard.com/images/pref_images/p16108d457b.jpg",
+      "spotify": "http://open.spotify.com/track/39drG15YBT09tEKaBaZQ0b?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Don't Fight The Feelings Of Love",
+      "artist": "Charley Pride",
+      "cover": "http://www.billboard.com/images/pref_images/p14590oax26.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Yellow Ribbon",
+      "artist": "Johnny Carver",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Sweet Country Woman",
+      "artist": "Johnny Duncan",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 6,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Ravishing Ruby",
+      "artist": "Tom T. Hall",
+      "cover": "http://www.billboard.com/images/pref_images/p79752rjipk.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 3,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Send Me No Roses",
+      "artist": "Tommy Overstreet",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 9,
+      "title": "What's Your Mama's Name",
+      "artist": "Tanya Tucker",
+      "cover": "http://www.billboard.com/images/pref_images/p18935d0o2l.jpg",
+      "spotify": "http://open.spotify.com/track/5hC81R9fHMNKRZ5QeT3qBr?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Why Me",
+      "artist": "Kris Kristofferson",
+      "cover": "http://www.billboard.com/images/pref_images/q18173dxsyr.jpg",
+      "spotify": "http://open.spotify.com/track/6n3VD8CbR307p1e4RECHHb?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Too Much Monkey Business",
+      "artist": "Freddy Weller",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Ride Me Down Easy",
+      "artist": "Bobby Bare",
+      "cover": "http://www.billboard.com/images/pref_images/p10912s9s7h.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Baby's Gone",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 2,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Southern Loving",
+      "artist": "Jim Ed Brown",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Bring It On Home (To Your Woman)",
+      "artist": "Joe Stampley",
+      "cover": "http://www.billboard.com/images/pref_images/p16557xwp6y.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 7,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Love Is The Foundation",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Come Early Morning",
+      "artist": "Don Williams",
+      "cover": "http://www.billboard.com/images/pref_images/p99491b31tl.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 12,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Walk Softly On The Bridges",
+      "artist": "Mel Street",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 19,
+      "title": "You Were Always There",
+      "artist": "Donna Fargo",
+      "cover": "http://www.billboard.com/images/pref_images/p13015w6eau.jpg",
+      "spotify": "http://open.spotify.com/track/3cj5yzlBRtCUVS7gCruTsK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Drinking Wine Spo-dee O'dee",
+      "artist": "Jerry Lee Lewis",
+      "cover": "http://www.billboard.com/images/pref_images/p14318ix562.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 20,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Just Thank Me",
+      "artist": "David Rogers",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 17,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Sound Of Goodbye/The Song Nobody Sings",
+      "artist": "Jerry Wallace",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 23,
+      "title": "You Give Me You",
+      "artist": "Bobby G. Rice",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 8,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Give A Little, Take A Little",
+      "artist": "Barbara Mandrell",
+      "cover": "http://www.billboard.com/images/pref_images/p14987e704s.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 24,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Thank You For Being You",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 21,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Cheating Game",
+      "artist": "Susan Raye",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 18,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Touch The Morning",
+      "artist": "Don Gibson",
+      "cover": "http://www.billboard.com/images/pref_images/p01350b8647.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Behind Closed Doors",
+      "artist": "Charlie Rich",
+      "cover": "http://www.billboard.com/images/pref_images/p16046hvjwg.jpg",
+      "spotify": "http://open.spotify.com/track/2mTtyrIjXzZ3mf7udOUXxK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 29,
+      "title": "You've Got Me (Right Where You Want Me)",
+      "artist": "Connie Smith",
+      "cover": "http://www.billboard.com/images/pref_images/p85285q666r.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 21,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Traveling Man",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 20,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Top Of The World",
+      "artist": "Lynn Anderson",
+      "spotify": "http://open.spotify.com/track/1mrL0OzvyIe68JOVAOFzIC?utm_campaign=billboard",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Lord, Mr. Ford",
+      "artist": "Jerry Reed",
+      "cover": "http://www.billboard.com/images/pref_images/p16000j9d6d.jpg",
+      "spotify": "http://open.spotify.com/track/2BAIiYvqgrwTuphgr3xtxi?utm_campaign=billboard",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Trip To Heaven",
+      "artist": "Freddie Hart",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Children",
+      "artist": "Johnny Cash",
+      "cover": "http://www.billboard.com/images/pref_images/p17121eolkl.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Slippin' And Slidin'",
+      "artist": "Billy \"Crash\" Craddock",
+      "cover": "http://www.billboard.com/images/pref_images/p04850wk396.jpg",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 14,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Honky Tonk Wine",
+      "artist": "Wayne Kemp",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Your Side Of The Bed",
+      "artist": "Mac Davis",
+      "cover": "http://www.billboard.com/images/pref_images/p11850p6116.jpg",
+      "spotify": "http://open.spotify.com/track/6Zl3dAhehPa3wcqSRoEV6W?utm_campaign=billboard",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 36,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 39,
+      "title": "We Had It All",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 28,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 40,
+      "title": "The Night The Lights Went Out In Georgia",
+      "artist": "Vicki Lawrence",
+      "cover": "http://www.billboard.com/images/pref_images/q14034gb324.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 36,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 41,
+      "title": "She's All Woman",
+      "artist": "David Houston",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 42,
+      "title": "I Can Feel The Leavin' Coming On",
+      "artist": "Cal Smith",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 42,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 43,
+      "title": "The Fool I've Been Today",
+      "artist": "Jack Greene",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 40,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Loving You",
+      "artist": "Tony Booth",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 41,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Here Comes The World Again",
+      "artist": "Johnny Bush",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 38,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Between Me And Blue",
+      "artist": "Ferlin Husky",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 46,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Born A Fool",
+      "artist": "Freddie Hart",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 21,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Don't",
+      "artist": "Sandy Posey",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 39,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Woman Without A Home",
+      "artist": "The Statler Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/p24114v60jy.jpg",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 29,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 50,
+      "title": "That Rain Makin' Baby Of Mine",
+      "artist": "Roy Drusky",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 50,
+        "Wks on Chart": 7
+      }
+    }
+  ]
+}

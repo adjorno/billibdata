@@ -1,0 +1,552 @@
+{
+  "name": "Club",
+  "chart_date": "1987-10-17",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Don't You Want Me (Remix)",
+      "artist": "Jody Watley",
+      "cover": "http://www.billboard.com/images/pref_images/p61870yda3r.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 2,
+      "title": "The Real Thing (Remix)",
+      "artist": "Jellybean Featuring Steven Dante",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Let Me Be The One (Remix)",
+      "artist": "Expose",
+      "cover": "http://www.billboard.com/images/pref_images/p14669tc878.jpg",
+      "spotify": "http://open.spotify.com/track/3t14IyH0Pwz1E7oMJZD1u5?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 4,
+      "title": "True Faith (Remix)",
+      "artist": "New Order",
+      "cover": "http://www.billboard.com/images/pref_images/q05309jgxy1.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Causing A Commotion (Remix)",
+      "artist": "Madonna",
+      "cover": "http://www.billboard.com/images/pref_images/q27984qkq0m.jpg",
+      "spotify": "http://open.spotify.com/track/3sX3c6QUPSAiKf77RZRf5B?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 6,
+      "title": "It's A Sin",
+      "artist": "Pet Shop Boys",
+      "cover": "http://www.billboard.com/images/pref_images/p09885wj4sx.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Just That Type Of Girl",
+      "artist": "Madame X",
+      "cover": "http://www.billboard.com/images/pref_images/p08157b7no1.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 7,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 8,
+      "title": "My Love Is Guaranteed (Remix)",
+      "artist": "Sybil",
+      "cover": "http://www.billboard.com/images/pref_images/p02402p8x68.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Tell It To My Heart",
+      "artist": "Taylor Dayne",
+      "cover": "http://www.billboard.com/images/pref_images/q15353mpk16.jpg",
+      "spotify": "http://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 4,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Always Doesn't Mean Forever",
+      "artist": "Hazell Dean",
+      "cover": "http://www.billboard.com/images/pref_images/p04978a1dha.jpg",
+      "spotify": "http://open.spotify.com/track/38heSB8aDeWA3nOxN3JcnG?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 11,
+      "title": "The Opera House",
+      "artist": "Jack E. Makossa",
+      "spotify": "http://open.spotify.com/track/3hm1E8UTTswZHhZ9q38DLt?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 6,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Something Tells Me",
+      "artist": "Tiger Moon",
+      "spotify": "http://open.spotify.com/track/1dDEeX4GsTZbiVWNkDaoYs?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Dinner With Gershwin (Remix)",
+      "artist": "Donna Summer",
+      "cover": "http://www.billboard.com/images/pref_images/p68632hkm7k.jpg",
+      "spotify": "http://open.spotify.com/track/6k9t5jjtdI35uvbXlySQOZ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 13,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Bad (Remix)",
+      "artist": "Michael Jackson",
+      "cover": "http://www.billboard.com/images/pref_images/q10408h1mg5.jpg",
+      "spotify": "http://open.spotify.com/track/5yWui9wtvNkbbKNcYc5fJG?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 1,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 15,
+      "title": "When You Gonna",
+      "artist": "Rick And Lisa",
+      "spotify": "http://open.spotify.com/track/3B86IKn90wMJzxPjv42ioS?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 11,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Lost In Emotion (Remix)",
+      "artist": "Lisa Lisa & Cult Jam",
+      "cover": "http://www.billboard.com/images/pref_images/p14340lfr2t.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Never Let Me Down (Remix)",
+      "artist": "David Bowie",
+      "cover": "http://www.billboard.com/images/pref_images/q13522mkvt4.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 17,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Military Drums",
+      "artist": "Hubert Kah",
+      "spotify": "http://open.spotify.com/track/3VkFDAr9GGiHx9QPEccUf3?utm_campaign=billboard",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 8,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Victim Of Love (Remix)",
+      "artist": "Erasure",
+      "cover": "http://www.billboard.com/images/pref_images/q11366gdh1l.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Roadblock",
+      "artist": "Stock, Aitken, Waterman",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 9,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Pour It On (Remix)",
+      "artist": "Mason",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Here To Go/Don't Argue",
+      "artist": "Cabaret Voltaire",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 22,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 23,
+      "title": "(Baby Tell Me) Can You Dance",
+      "artist": "Shanice Wilson",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 16,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Lover's Lane (Remix)",
+      "artist": "Georgio",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 21,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Scars Of Love",
+      "artist": "TKA",
+      "cover": "http://www.billboard.com/images/pref_images/p02407lgy03.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 25,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Full Circle (Remix)",
+      "artist": "Company B",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 5,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 27,
+      "title": "You And Me Tonight",
+      "artist": "Deja",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 20,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Hard Day (Remix)",
+      "artist": "George Michael",
+      "cover": "http://www.billboard.com/images/pref_images/q15014qonjo.jpg",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 5,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Catch Me I'm Falling (Remix)",
+      "artist": "Pretty Poison",
+      "cover": "http://www.billboard.com/images/pref_images/p05895sjtn7.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 30,
+      "title": "I Think We're Alone Now (Remix)",
+      "artist": "Tiffany",
+      "cover": "http://www.billboard.com/images/pref_images/p66282i7cnu.jpg",
+      "spotify": "http://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 30,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Is It Good Enough",
+      "artist": "Chanelle",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 31,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Devotion",
+      "artist": "Ten City",
+      "cover": "http://www.billboard.com/images/pref_images/p04348co4tn.jpg",
+      "spotify": "http://open.spotify.com/track/7K8t9RlR5gSMR1a9ouugDK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 17,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 33,
+      "title": "I Said It And I Meant It",
+      "artist": "Carolyn Porter",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 33,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Pump Up The Volume",
+      "artist": "M/A/R/R/S",
+      "spotify": "http://open.spotify.com/track/3CqQIRZng2MVh3k1H2jHHN?utm_campaign=billboard",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Disorderly Conduct/Arabian Knights",
+      "artist": "Latin Rascals",
+      "cover": "http://www.billboard.com/images/pref_images/p08139q50tr.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 22,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Let's Work (Remix)",
+      "artist": "Mick Jagger",
+      "cover": "http://www.billboard.com/images/pref_images/q10383l3m8s.jpg",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 36,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Animal Magic (Remix)",
+      "artist": "Belouis Some",
+      "cover": "http://www.billboard.com/images/pref_images/p08583ht9uy.jpg",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 6,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Call Me Up",
+      "artist": "Process & The Doo Rags",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 38,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Breakout (Remix)",
+      "artist": "Swing Out Sister",
+      "cover": "http://www.billboard.com/images/pref_images/q01398agqxk.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 12,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Because Of You",
+      "artist": "The Cover Girls",
+      "spotify": "http://open.spotify.com/track/5VTPFv2FabHrq96ljcF3Oo?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 16,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Just Like Heaven (Remix)",
+      "artist": "The Cure",
+      "cover": "http://www.billboard.com/images/pref_images/p11806q0w2u.jpg",
+      "spotify": "http://open.spotify.com/track/7C6NcqS3fNDXLgP5L2Kbgp?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 28,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Heart Over Mind (Remix)",
+      "artist": "Jennifer Rush",
+      "cover": "http://www.billboard.com/images/pref_images/p08501bk021.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 42,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Put The Needle To The Record",
+      "artist": "Criminal Element Orchestra",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 10,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 44,
+      "title": "You're No Good For Me",
+      "artist": "Kelly Charles",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 29,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Shake Your Love (Remix)",
+      "artist": "Debbie Gibson",
+      "cover": "http://www.billboard.com/images/pref_images/p22024eb250.jpg",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 6,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Party Your Body",
+      "artist": "Stevie B",
+      "spotify": "http://open.spotify.com/track/5dPhdTPYQAi7Uz9YPuzNB0?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 40,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Love It",
+      "artist": "Society",
+      "spotify": "http://open.spotify.com/track/2N8dnI1YvlJKjMEu0DJsao?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 30,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Funky Nassau",
+      "artist": "Black Britain",
+      "spotify": "http://open.spotify.com/track/4a5cNvT3qOpf4XS468q3JA?utm_campaign=billboard",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 17,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Nothing's Gonna Stop Me Now",
+      "artist": "Samantha Fox",
+      "cover": "http://www.billboard.com/images/pref_images/p13119e065n.jpg",
+      "spotify": "http://open.spotify.com/track/2PMQQwhnI349KGVBYtQSFa?utm_campaign=billboard",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 49,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Secret Rendez-vous (Remix)",
+      "artist": "Cindy Valentine",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 43,
+        "Wks on Chart": 2
+      }
+    }
+  ]
+}

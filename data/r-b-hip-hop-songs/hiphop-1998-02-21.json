@@ -1,0 +1,572 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "1998-02-21",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Nice & Slow",
+      "artist": "Usher",
+      "cover": "http://www.billboard.com/images/pref_images/p99056mvv4y.jpg",
+      "spotify": "http://open.spotify.com/track/5L0KDoZklMgs9GPoonneEl?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 2,
+      "title": "No, No, No",
+      "artist": "Destiny's Child",
+      "cover": "http://www.billboard.com/images/pref_images/q07279l1ucp.jpg",
+      "spotify": "http://open.spotify.com/track/5kHgrRO3hMDPehtH9VhYQc?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 39
+      }
+    },
+    {
+      "rank": 3,
+      "title": "I Don't Ever Want To See You Again",
+      "artist": "Uncle Sam",
+      "cover": "http://www.billboard.com/images/pref_images/p18943lu27i.jpg",
+      "spotify": "http://open.spotify.com/track/4oJEy4qDPwDk5ac26yEMeL?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 4,
+      "title": "What You Want",
+      "artist": "Mase Featuring Total",
+      "cover": "http://www.billboard.com/images/pref_images/p57392bsso9.jpg",
+      "spotify": "http://open.spotify.com/track/2nqVVwUI2MJ7MaphpCF1P3?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 3,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Am I Dreaming",
+      "artist": "Ol Skool [Featuring Keith Sweat & Xscape]",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Dangerous",
+      "artist": "Busta Rhymes",
+      "cover": "http://www.billboard.com/images/pref_images/p70920kv04c.jpg",
+      "spotify": "http://open.spotify.com/track/2cZuNzaAGNFozlZTxSDU1g?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 7,
+      "title": "A Song For Mama",
+      "artist": "Boyz II Men",
+      "cover": "http://www.billboard.com/images/pref_images/q24426t4sq1.jpg",
+      "spotify": "http://open.spotify.com/track/16xiRKYz3neAlPnlznVu4s?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 8,
+      "title": "My Body",
+      "artist": "LSG",
+      "cover": "http://www.billboard.com/images/pref_images/p18619nf608.jpg",
+      "spotify": "http://open.spotify.com/track/6PyLw3l6ndolBrTPQp3Ibm?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 34
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Deja Vu [Uptown Baby]",
+      "artist": "Lord Tariq & Peter Gunz",
+      "cover": "http://www.billboard.com/images/pref_images/p20944b9h74.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 4,
+        "Wks on Chart": 41
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Swing My Way",
+      "artist": "K.P. & Envyi",
+      "spotify": "http://open.spotify.com/track/35KcXRWo7BTYdJiyMOy2Zu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 5,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 11,
+      "title": "We're Not Making Love No More",
+      "artist": "Dru Hill",
+      "cover": "http://www.billboard.com/images/pref_images/p75082jr4qt.jpg",
+      "spotify": "http://open.spotify.com/track/4sAYdImDqJhuBhqxpnu7ex?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 2,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Gone Till November",
+      "artist": "Wyclef Jean",
+      "cover": "http://www.billboard.com/images/pref_images/q07471e3tyz.jpg",
+      "spotify": "http://open.spotify.com/track/0jOXmNowR2j1hVpZMqnz9P?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 9,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Body Bumpin' Yippie-Yi-Yo",
+      "artist": "Public Announcement",
+      "cover": "http://www.billboard.com/images/pref_images/p23607jp4o1.jpg",
+      "spotify": "http://open.spotify.com/track/3fwdTjlq7zfLKplAht06Jc?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 4,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Too Close",
+      "artist": "Next",
+      "spotify": "http://open.spotify.com/track/0P7zvUy9B1Q26SMvUKAhWk?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 1,
+        "Wks on Chart": 60
+      }
+    },
+    {
+      "rank": 15,
+      "title": "They Don't Know/Are U Still Down",
+      "artist": "Jon B",
+      "cover": "http://www.billboard.com/images/pref_images/p23742kyoc1.jpg",
+      "spotify": "http://open.spotify.com/track/6YdEfXtj0YI5IbiJqVyT1c?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 9,
+        "Wks on Chart": 48
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Father",
+      "artist": "LL Cool J",
+      "cover": "http://www.billboard.com/images/pref_images/q08865ou7kp.jpg",
+      "spotify": "http://open.spotify.com/track/7JXFCtDRnftvbZjukyIRRB?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 12,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 17,
+      "title": "All My Love",
+      "artist": "Queen Pen Featuring Eric Williams",
+      "cover": "http://www.billboard.com/images/pref_images/p75561bf4ph.jpg",
+      "spotify": "http://open.spotify.com/track/1rlnJyBKqBSuSj3CQGngRg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Together Again",
+      "artist": "Janet",
+      "cover": "http://www.billboard.com/images/pref_images/q41027rtrxn.jpg",
+      "spotify": "http://open.spotify.com/track/1GrikfH0jDejDvrxo84n4P?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 8,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Make Em' Say Uhh!",
+      "artist": "Master P Feat. Fiend, Silkk The Shocker, Mia X & Mystikal",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 18,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 20,
+      "title": "You Make Me Wanna...",
+      "artist": "Usher",
+      "cover": "http://www.billboard.com/images/pref_images/p99056mvv4y.jpg",
+      "spotify": "http://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 1,
+        "Wks on Chart": 71
+      }
+    },
+    {
+      "rank": 21,
+      "title": "All I Do",
+      "artist": "Somethin' For The People",
+      "cover": "http://www.billboard.com/images/pref_images/p19645spj10.jpg",
+      "spotify": "http://open.spotify.com/track/7gF0J2ixqSDWlOEDnQD1Wo?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 15,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Been Around The World/It's All About The Benjamins",
+      "artist": "Puff Daddy & The Family (Feat. The Notorious B.I.G. & Mase)",
+      "spotify": "http://open.spotify.com/track/1siDRjAa8MdxNoCHTiiQ7B?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 7,
+        "Wks on Chart": 38
+      }
+    },
+    {
+      "rank": 23,
+      "title": "What About Us",
+      "artist": "Total",
+      "cover": "http://www.billboard.com/images/pref_images/p14887pne91.jpg",
+      "spotify": "http://open.spotify.com/track/6Ph7bndA7A5ExoHIZPX4TJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 4,
+        "Wks on Chart": 36
+      }
+    },
+    {
+      "rank": 24,
+      "title": "If You Think I'm Jiggy",
+      "artist": "The Lox",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Strawberries",
+      "artist": "Smooth",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 17,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Burn",
+      "artist": "Militia",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 26,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 27,
+      "title": "4, 3, 2, 1",
+      "artist": "LL Cool J Featuring Method Man, Redman, DMX, Canibus And Master P",
+      "cover": "http://www.billboard.com/images/pref_images/q08865ou7kp.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 24,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Butta Love",
+      "artist": "Next",
+      "spotify": "http://open.spotify.com/track/73VfOqjmCXD7Mf6odqswjR?utm_campaign=billboard",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 4,
+        "Wks on Chart": 32
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Off The Hook",
+      "artist": "Jody Watley",
+      "cover": "http://www.billboard.com/images/pref_images/p61870yda3r.jpg",
+      "spotify": "http://open.spotify.com/track/225pDpISwuz6Cr2rvqeyyH?utm_campaign=billboard",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 23,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 30,
+      "title": "So Long (Well, Well, Well)",
+      "artist": "Phajja",
+      "cover": "http://www.billboard.com/images/pref_images/p19530kqh36.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Nothin' Move But The Money",
+      "artist": "Mic Geronimo Featuring DMX & Black Rob",
+      "spotify": "http://open.spotify.com/track/5Q6RB8C28hLmXMC9tJPoCs?utm_campaign=billboard",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 31,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 32,
+      "title": "I Care `Bout You",
+      "artist": "Milestone",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 10,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Let's Ride",
+      "artist": "Montell Jordan Feat. Master P & Silkk The Shocker",
+      "cover": "http://www.billboard.com/images/pref_images/q05242s805c.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 1,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 34,
+      "title": "My Love Is The Shhh!",
+      "artist": "Somethin' For The People Featuring Trina & Tamara",
+      "cover": "http://www.billboard.com/images/pref_images/p19645spj10.jpg",
+      "spotify": "http://open.spotify.com/track/3TS25nchaYIPb2Y2fw6cbb?utm_campaign=billboard",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 2,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Just Clownin'",
+      "artist": "WC From Westside Connection",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 18,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Feel So Good",
+      "artist": "Mase",
+      "cover": "http://www.billboard.com/images/pref_images/p57392bsso9.jpg",
+      "spotify": "http://open.spotify.com/track/0jyyCvDkMCEza2SpBSvllh?utm_campaign=billboard",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 5,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Sock It 2 Me/The Rain (Supa Dupa Fly)",
+      "artist": "Missy \"Misdemeanor\" Elliott Featuring Da Brat",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 4,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Everything",
+      "artist": "Mary J. Blige",
+      "cover": "http://www.billboard.com/images/pref_images/q24347ishmq.jpg",
+      "spotify": "http://open.spotify.com/track/3CbnA6S33amyRNmgmfi33H?utm_campaign=billboard",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 5,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 39,
+      "title": "In Harm's Way",
+      "artist": "BeBe Winans",
+      "cover": "http://www.billboard.com/images/pref_images/q16660e1pvl.jpg",
+      "spotify": "http://open.spotify.com/track/0tXSYsBNLm04TyMH6LrtcU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 20,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Romeo And Juliet",
+      "artist": "Sylk-E. Fyne Featuring Chill",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 5,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 41,
+      "title": "I Wonder If Heaven Got A Ghetto",
+      "artist": "2Pac",
+      "cover": "http://www.billboard.com/images/pref_images/q14550i10e6.jpg",
+      "spotify": "http://open.spotify.com/track/2dKxXi4c1Y8sbcxavCbkfb?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 14,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Gettin' Jiggy Wit It",
+      "artist": "Will Smith",
+      "cover": "http://www.billboard.com/images/pref_images/p18874xrfy7.jpg",
+      "spotify": "http://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 6,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 43,
+      "title": "So Good",
+      "artist": "Davina",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 23,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Get At Me Dog",
+      "artist": "DMX Featuring Sheek Of The Lox",
+      "cover": "http://www.billboard.com/images/pref_images/p97232ywr1j.jpg",
+      "spotify": "http://open.spotify.com/track/6y1tdcSoVcYZubXtCE0zRO?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 19,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 45,
+      "title": "I'm Not A Player",
+      "artist": "Big Punisher",
+      "cover": "http://www.billboard.com/images/pref_images/p2340412u80.jpg",
+      "spotify": "http://open.spotify.com/track/0JyfYLKuXRmPhMkIPVstu5?utm_campaign=billboard",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 19,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 46,
+      "title": "In My Bed",
+      "artist": "Dru Hill",
+      "cover": "http://www.billboard.com/images/pref_images/p75082jr4qt.jpg",
+      "spotify": "http://open.spotify.com/track/2v9Obh8z41hUXDqnfdhVON?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 1,
+        "Wks on Chart": 63
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Just A Memory",
+      "artist": "7 Mile",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 45,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 48,
+      "title": "They Like It Slow",
+      "artist": "H-Town",
+      "cover": "http://www.billboard.com/images/pref_images/q15361ily0u.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 12,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 49,
+      "title": "A Million And One Questions/The City Is Mine",
+      "artist": "Jay-Z Featuring BLACKstreet",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 37,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 50,
+      "title": "4 Seasons Of Loneliness",
+      "artist": "Boyz II Men",
+      "cover": "http://www.billboard.com/images/pref_images/q24426t4sq1.jpg",
+      "spotify": "http://open.spotify.com/track/0RwDPdfoitpL7Uk2pN7l1K?utm_campaign=billboard",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 2,
+        "Wks on Chart": 25
+      }
+    }
+  ]
+}

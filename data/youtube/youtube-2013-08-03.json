@@ -1,0 +1,304 @@
+{
+  "name": "Youtube",
+  "chart_date": "2013-08-03",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "We Can't Stop",
+      "artist": "Miley Cyrus",
+      "cover": "http://www.billboard.com/images/pref_images/q11643ot6gc.jpg",
+      "spotify": "http://open.spotify.com/track/5ve0BYRZZ2aoHFqZMxqYgt?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Made In The USA",
+      "artist": "Demi Lovato",
+      "cover": "http://www.billboard.com/images/pref_images/q25398vdlbg.jpg",
+      "spotify": "http://open.spotify.com/track/6SjCa7LhEpPNiCxe3bLln4?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 2,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke Featuring T.I. + Pharrell",
+      "cover": "http://www.billboard.com/images/pref_images/q20691jvhkz.jpg",
+      "spotify": "http://open.spotify.com/track/0XzkemXSiXJa7VgDFPfU4S?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Gangnam Style",
+      "artist": "PSY",
+      "cover": "http://www.billboard.com/images/pref_images/q04612uub3s.jpg",
+      "spotify": "http://open.spotify.com/track/1R2SZUOGJqqBiLuvwKOT2Y?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 49
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Just Give Me A Reason",
+      "artist": "P!nk Featuring Nate Ruess",
+      "cover": "http://www.billboard.com/images/pref_images/q13161mgstc.jpg",
+      "spotify": "http://open.spotify.com/track/1qHaLcG3LOeh6ZB8vii5ZZ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Gentleman",
+      "artist": "PSY",
+      "cover": "http://www.billboard.com/images/pref_images/q04612uub3s.jpg",
+      "spotify": "http://open.spotify.com/track/5U8dy2VxCGMXCy5b9ZfzO4?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Wake Me Up!",
+      "artist": "Avicii",
+      "cover": "http://www.billboard.com/images/pref_images/q15575e01b8.jpg",
+      "spotify": "http://open.spotify.com/track/4QRZirU4s1f30iDHzuKncj?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 3,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Can't Hold Us",
+      "artist": "Macklemore & Ryan Lewis Featuring Ray Dalton",
+      "cover": "http://www.billboard.com/images/pref_images/q03110x3no0.jpg",
+      "spotify": "http://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Come & Get It",
+      "artist": "Selena Gomez",
+      "cover": "http://www.billboard.com/images/pref_images/q08674j370m.jpg",
+      "spotify": "http://open.spotify.com/track/7Gkphzdh5ouurEt7JT49Yu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Get Lucky",
+      "artist": "Daft Punk Featuring Pharrell Williams",
+      "cover": "http://www.billboard.com/images/pref_images/q08127rqhk5.jpg",
+      "spotify": "http://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 7,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 11,
+      "title": "La La La",
+      "artist": "Naughty Boy Featuring Sam Smith",
+      "cover": "http://www.billboard.com/images/pref_images/q22752txa2s.jpg",
+      "spotify": "http://open.spotify.com/track/52gvlDnre9craz9dKGObp8?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 6,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Thrift Shop",
+      "artist": "Macklemore & Ryan Lewis Featuring Wanz",
+      "cover": "http://www.billboard.com/images/pref_images/q03110x3no0.jpg",
+      "spotify": "http://open.spotify.com/track/1CmUZGtH29Kx36C1Hleqlz?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 2,
+        "Wks on Chart": 34
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Mirrors",
+      "artist": "Justin Timberlake",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy8248381726264451970.jpg",
+      "spotify": "http://open.spotify.com/track/4rHZZAmHpZrA3iH5zx8frV?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 4,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Radioactive",
+      "artist": "Imagine Dragons",
+      "cover": "http://www.billboard.com/images/pref_images/q26284ht2zs.jpg",
+      "spotify": "http://open.spotify.com/track/6Ep6BzIOB9tz3P4sWqiiAB?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 14,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Play Hard",
+      "artist": "David Guetta Featuring Ne-Yo & Akon",
+      "cover": "http://www.billboard.com/images/pref_images/q23295crm54.jpg",
+      "spotify": "http://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 9,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Heart Attack",
+      "artist": "Demi Lovato",
+      "cover": "http://www.billboard.com/images/pref_images/q25398vdlbg.jpg",
+      "spotify": "http://open.spotify.com/track/7ukQvPuGUBZt88WveKBGAD?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 5,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 17,
+      "title": "When I Was Your Man",
+      "artist": "Bruno Mars",
+      "cover": "http://www.billboard.com/images/pref_images/q11170gagv8.jpg",
+      "spotify": "http://open.spotify.com/track/0nJW01T7XtvILxQgC5J7Wh?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 6,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Treasure",
+      "artist": "Bruno Mars",
+      "cover": "http://www.billboard.com/images/pref_images/q11170gagv8.jpg",
+      "spotify": "http://open.spotify.com/track/55h7vJchibLdUkxdlX3fK7?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 15,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 19,
+      "title": "The Pink Panther Theme",
+      "artist": "Henry Mancini And His Orchestra",
+      "spotify": "http://open.spotify.com/track/3vMwCHwR1UlM6hAV6xQ4aX?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 17,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 20,
+      "title": "The Way",
+      "artist": "Ariana Grande Featuring Mac Miller",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy8029153055372258969.jpg",
+      "spotify": "http://open.spotify.com/track/06EL94D0TA27Ik0Ke5usbj?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 14,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Diamonds",
+      "artist": "Rihanna",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy8678372548017039592.jpg",
+      "spotify": "http://open.spotify.com/track/65YsalQBmQCzIPaay72CzQ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 1,
+        "Wks on Chart": 38
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Scream & Shout",
+      "artist": "will.i.am & Britney Spears",
+      "cover": "http://www.billboard.com/images/pref_images/q07249tnm6w.jpg",
+      "spotify": "http://open.spotify.com/track/054ue8u2erwwGNgSIZLEPq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 2,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Limbo",
+      "artist": "Daddy Yankee",
+      "cover": "http://www.billboard.com/images/pref_images/q00277welwd.jpg",
+      "spotify": "http://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 20,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 24,
+      "title": "El Pollito Pio",
+      "artist": "Pulcino Pio",
+      "spotify": "http://open.spotify.com/track/53nzCt2IL6u0stmOBY0sUf?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 4,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Stay",
+      "artist": "Rihanna Featuring Mikky Ekko",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy8678372548017039592.jpg",
+      "spotify": "http://open.spotify.com/track/5rvSPYxUGL3Bu8BWtLj5Yw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 2,
+        "Wks on Chart": 19
+      }
+    }
+  ]
+}

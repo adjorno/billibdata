@@ -1,0 +1,536 @@
+{
+  "name": "Country",
+  "chart_date": "1970-03-07",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "It's Just A Matter Of Time",
+      "artist": "Sonny James",
+      "spotify": "http://open.spotify.com/track/0SY37QOK0zoT0M94mWDZt9?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 2,
+      "title": "If I Were A Carpenter",
+      "artist": "Johnny Cash & June Carter",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 3,
+      "title": "The Fightin' Side Of Me",
+      "artist": "Merle Haggard And The Strangers",
+      "spotify": "http://open.spotify.com/track/0HkUcVaL31lsArkCAjQ0h3?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 4,
+      "title": "I'll See Him Through",
+      "artist": "Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27879imrhm.jpg",
+      "spotify": "http://open.spotify.com/track/3kLPYEPgPfa5fBROK2qjbP?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Honey Come Back",
+      "artist": "Glen Campbell",
+      "cover": "http://www.billboard.com/images/pref_images/p99857on5ga.jpg",
+      "spotify": "http://open.spotify.com/track/26qDFDKrveLljfIX5ft061?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Welfare Cadilac",
+      "artist": "Guy Drake",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Tennessee Bird Walk",
+      "artist": "Jack Blanchard & Misty Morgan",
+      "spotify": "http://open.spotify.com/track/2etFmDUnoVhahJA2GPNqPF?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Country Girl",
+      "artist": "Jeannie C. Riley",
+      "cover": "http://www.billboard.com/images/pref_images/p16067hm9ue.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 7,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Occasional Wife",
+      "artist": "Faron Young",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 10,
+      "title": "A Week In A Country Jail",
+      "artist": "Tom T. Hall",
+      "cover": "http://www.billboard.com/images/pref_images/p79752rjipk.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 11,
+      "title": "That's When She Started To Stop Loving You",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Once More With Feeling",
+      "artist": "Jerry Lee Lewis",
+      "cover": "http://www.billboard.com/images/pref_images/p14318ix562.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 2,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 13,
+      "title": "My Woman, My Woman, My Wife",
+      "artist": "Marty Robbins",
+      "cover": "http://www.billboard.com/images/pref_images/p2246418kv3.jpg",
+      "spotify": "http://open.spotify.com/track/0AUzBEiq76ZcUUqoE0MOgt?utm_campaign=billboard",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 14,
+      "title": "I'll Make Amends",
+      "artist": "Roy Drusky",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 11,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 15,
+      "title": "A Lover's Question",
+      "artist": "Del Reeves",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 14,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Charlie Brown",
+      "artist": "The Compton Brothers",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 16,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 17,
+      "title": "I've Been Everywhere",
+      "artist": "Lynn Anderson",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 16,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Then He Touched Me",
+      "artist": "Jean Shepard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 19,
+      "title": "She'll Be Hanging 'Round Somewhere",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 20,
+      "title": "All I Have To Do Is Dream",
+      "artist": "Bobbie Gentry & Glen Campbell",
+      "spotify": "http://open.spotify.com/track/5VqLiAgBkGz8Og1wzQ0Cwd?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 6,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Northeast Arkansas Mississippi County Bootlegger",
+      "artist": "Kenny Price",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 17,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Take A Letter Maria",
+      "artist": "Anthony Armstrong Jones",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 8,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Big Mama's Medicine Show",
+      "artist": "Buddy Alan",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 23,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Tomorrow Is Forever",
+      "artist": "Porter Wagoner And Dolly Parton",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 9,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 25,
+      "title": "I'm A Lover (Not A Fighter)",
+      "artist": "Skeeter Davis",
+      "cover": "http://www.billboard.com/images/pref_images/p11866pp0t6.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Hello, I'm A Jukebox",
+      "artist": "George Kent",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 26,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 27,
+      "title": "One Minute Past Eternity",
+      "artist": "Jerry Lee Lewis",
+      "cover": "http://www.billboard.com/images/pref_images/p14318ix562.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Wings Upon Your Horns",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 11,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 29,
+      "title": "We're Gonna Get Together",
+      "artist": "Buck Owens",
+      "cover": "http://www.billboard.com/images/pref_images/p15648l4g42.jpg",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 13,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Brown Eyed Handsome Man",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Then She's A Lover",
+      "artist": "Roy Clark",
+      "cover": "http://www.billboard.com/images/pref_images/p25356bg9ta.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 31,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Put A Little Love In Your Heart",
+      "artist": "Susan Raye",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 33,
+      "title": "She Cheats On Me",
+      "artist": "Glenn Barber",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 28,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Angel Of The Morning",
+      "artist": "Connie",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 34,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Your Husband, My Wife",
+      "artist": "Bobby Bare",
+      "cover": "http://www.billboard.com/images/pref_images/p10912s9s7h.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Husband Hunting",
+      "artist": "Liz Anderson",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 26,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Little Johnny From Down The Street",
+      "artist": "Wilburn Brothers",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 37,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Six White Horses",
+      "artist": "Tommy Cash",
+      "spotify": "http://open.spotify.com/track/7uXALH7GwYAcG0QKz9ipcq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 4,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Don't Cry Daddy",
+      "artist": "Elvis Presley",
+      "cover": "http://www.billboard.com/images/pref_images/q45257y36kp.jpg",
+      "spotify": "http://open.spotify.com/track/3cpKXR95cOXwB1Ija1bWMt?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 13,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Daddy Come And Get Me",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 40,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 41,
+      "title": "I'm Going Home",
+      "artist": "Bobby Lewis",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 41,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 42,
+      "title": "A Girl Who'll Satisfy Her Man",
+      "artist": "Barbara Fairchild",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 26,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Here's A Toast To Mama",
+      "artist": "Charlie Louvin",
+      "cover": "http://www.billboard.com/images/pref_images/p07815wcx46.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 42,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 44,
+      "title": "The Chicago Story",
+      "artist": "Jimmy Snyder",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 30,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 45,
+      "title": "I Heard Our Song",
+      "artist": "Dottie West",
+      "cover": "http://www.billboard.com/images/pref_images/p17951b66f3.jpg",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 45,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 46,
+      "title": "There's A Story (Goin' 'Round)",
+      "artist": "Dottie West",
+      "cover": "http://www.billboard.com/images/pref_images/p17951b66f3.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 7,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Thinking 'Bout You, Babe",
+      "artist": "Billy Walker",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Nobody's Fool/Why Do I Love You (Melody Of Love)",
+      "artist": "Jim Reeves",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 10,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Sittin' In Atlanta Station",
+      "artist": "Nat Stuckey",
+      "cover": "http://www.billboard.com/images/pref_images/p02378kygm5.jpg",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 33,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 50,
+      "title": "The Whole World Holding Hands",
+      "artist": "Freddie Hart",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 27,
+        "Wks on Chart": 10
+      }
+    }
+  ]
+}

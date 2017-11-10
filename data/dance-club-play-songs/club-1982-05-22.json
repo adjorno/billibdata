@@ -1,0 +1,529 @@
+{
+  "name": "Club",
+  "chart_date": "1982-05-22",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "In The Name Of Love",
+      "artist": "Thompson Twins",
+      "cover": "http://charts-static.billboard.com/img/1840/12/thompson-twins-371.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Forget Me Nots",
+      "artist": "Patrice Rushen",
+      "cover": "http://charts-static.billboard.com/img/1976/02/patrice-rushen-byq.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 3,
+      "title": "MURPHY's LAW",
+      "artist": "Cheri",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 4,
+      "title": "I Specialize In Love",
+      "artist": "Sharon Brown",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Don't You Want Me",
+      "artist": "The Human League",
+      "cover": "http://charts-static.billboard.com/img/1981/06/the-human-league-2tr.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 40
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Don't Make Me Wait",
+      "artist": "New York City Peech Boys",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 7,
+      "title": "LET IT WHIP",
+      "artist": "Dazz Band",
+      "cover": "http://charts-static.billboard.com/img/1978/11/dazz-band-isu.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 2,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 8,
+      "title": "GIVE ME JUST A LITTLE MORE TIME",
+      "artist": "Angela Clemmons",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 4,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 9,
+      "title": "(THE BEST PART OF) BREAKIN' UP",
+      "artist": "Roni Griffith",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 2,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 10,
+      "title": "IT's RIGHT",
+      "artist": "Michelle Wallace",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 11,
+      "title": "DON't COME CRYING TO ME/LET IT RIDE",
+      "artist": "Linda Clifford",
+      "cover": "http://charts-static.billboard.com/img/1974/02/linda-clifford-w5t.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 12,
+      "title": "STORMY WEATHER",
+      "artist": "Viola Wills",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 4,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 13,
+      "title": "LOVE PLUS ONE",
+      "artist": "Haircut One Hundred",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 8,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Circles",
+      "artist": "Atlantic Starr",
+      "cover": "http://charts-static.billboard.com/img/1840/12/atlantic-starr-bgz.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 15,
+      "title": "RHYTHM OF THE JUNGLE",
+      "artist": "The Quick",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 16,
+      "title": "DON't STOP YOUR LOVE",
+      "artist": "Booker T. Jones",
+      "cover": "http://charts-static.billboard.com/img/1981/10/booker-t-jones-z2f.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 11,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Try Jah Love",
+      "artist": "Third World",
+      "cover": "http://charts-static.billboard.com/img/1978/11/third-world-fj7.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 18,
+      "title": "JUMP SHOUT",
+      "artist": "Lisa",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 7,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Standing On The Top-Part 1",
+      "artist": "The Temptations Featuring Rick James",
+      "cover": "http://charts-static.billboard.com/img/1840/12/the-temptations-1h0.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 11,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 20,
+      "title": "You Got The Power",
+      "artist": "War",
+      "cover": "http://charts-static.billboard.com/img/1840/12/war-mv8.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Mesopotamia / Deep Sleep / Cake",
+      "artist": "The B-52s",
+      "cover": "http://charts-static.billboard.com/img/2017/04/the-b52s.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 13,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 22,
+      "title": "I Ran (So Far Away)",
+      "artist": "A Flock Of Seagulls",
+      "cover": "http://charts-static.billboard.com/img/2017/01/a-flock-of-seagulls.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 8,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 23,
+      "title": "A NIGHT TO REMEMBER",
+      "artist": "Shalamar",
+      "cover": "http://charts-static.billboard.com/img/1977/01/shalamar-hmv.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 15,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Act Like You Know",
+      "artist": "Fat Larry's Band",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 25,
+      "title": "RUN RUN RUN",
+      "artist": "Funkapolitan",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 22,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Street Corner",
+      "artist": "Ashford & Simpson",
+      "cover": "http://charts-static.billboard.com/img/1840/12/ashford-simpson-s00.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 27,
+      "title": "DON't YOU LOVE IT",
+      "artist": "Maxine Singleton",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 18,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Show You My Love / Go Back",
+      "artist": "Goldie Alexander",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 29,
+      "title": "ROMAN GODS/RIDE YOUR PONY",
+      "artist": "The Fleshtones",
+      "cover": "http://charts-static.billboard.com/img/1982/03/the-fleshtones-k0e.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 29,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Thanks To You",
+      "artist": "Sinnamon",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 31,
+      "title": "LIVE IT UP",
+      "artist": "Time Bandits",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 6,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Cat People (Putting Out Fire)",
+      "artist": "David Bowie",
+      "cover": "http://charts-static.billboard.com/img/2017/07/david-bowie.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 14,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 33,
+      "title": "CENTERFOLD/FLAMETHROWER",
+      "artist": "The J. Geils Band",
+      "cover": "http://charts-static.billboard.com/img/1840/12/the-j-geils-band-aki.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 12,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 34,
+      "title": "DON't TURN YOUR BACK ON LOVE",
+      "artist": "Eloise Whitaker",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 18,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 35,
+      "title": "KEEP ON/YOU'rE THE ONE FOR ME",
+      "artist": "D Train",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 2,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 36,
+      "title": "NATIVE LOVE(STEP BY STEP)",
+      "artist": "Divine",
+      "cover": "http://charts-static.billboard.com/img/1982/03/divine-ous.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 21,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 37,
+      "title": "FEEL IT DON't FIGHT IT",
+      "artist": "Atkins",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 21,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Hold Me Down / Designer Music",
+      "artist": "Lipps, Inc.",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 11,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 39,
+      "title": "DON't TURN YOUR BACK ON ME",
+      "artist": "Front Line Orchestra",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 37,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 40,
+      "title": "ON A JOURNEY(I SING THE FUNK ELECTRIC)",
+      "artist": "Electrik Funk",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 33,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 41,
+      "title": "EARLY IN THE MORNING",
+      "artist": "The Gap Band",
+      "cover": "http://charts-static.billboard.com/img/1840/12/the-gap-band-8ff.jpg",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 13,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 42,
+      "title": "BOSTICH",
+      "artist": "Yello",
+      "cover": "http://charts-static.billboard.com/img/1982/02/yello-dkk.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 23,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 43,
+      "title": "I'LL DO MY BEST(FOR YOU BABY)",
+      "artist": "The Ritchie Family",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 17,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Time",
+      "artist": "Stone",
+      "cover": "http://charts-static.billboard.com/img/1982/01/stone-s9w.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 9,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 45,
+      "title": "THE OTHER WOMAN",
+      "artist": "Ray Parker Jr.",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 24,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Planet Rock",
+      "artist": "Soul Sonic Force",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 3,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 47,
+      "title": "EASE YOUR MIND",
+      "artist": "Touchdown",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 47,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Passion / Calling All Boys",
+      "artist": "The Flirts",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 21,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 49,
+      "title": "The Very Best In You",
+      "artist": "Change",
+      "cover": "http://charts-static.billboard.com/img/1980/03/change-ssn.jpg",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 30,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 50,
+      "title": "THE VISITORS/WHEN ALL IS SAID AND DONE",
+      "artist": "ABBA",
+      "cover": "http://charts-static.billboard.com/img/1974/06/abba-gd5.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 8,
+        "Wks on Chart": 21
+      }
+    }
+  ]
+}

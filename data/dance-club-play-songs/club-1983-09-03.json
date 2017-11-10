@@ -1,0 +1,538 @@
+{
+  "name": "Club",
+  "chart_date": "1983-09-03",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Rockit",
+      "artist": "Herbie Hancock",
+      "cover": "http://charts-static.billboard.com/img/1967/05/herbie-hancock-6gn.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Sweet Dreams (Are Made Of This)",
+      "artist": "Eurythmics",
+      "cover": "http://charts-static.billboard.com/img/1840/12/eurythmics-fm1.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Do It Again/Billie Jean",
+      "artist": "Slingshot",
+      "cover": "http://charts-static.billboard.com/img/1983/07/slingshot-56l.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Speaking In Tongues (all cuts)",
+      "artist": "Talking Heads",
+      "cover": "http://charts-static.billboard.com/img/2017/05/talking-heads.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 5,
+      "title": "STATE FARM/NOBODY's DIARY",
+      "artist": "Yaz",
+      "cover": "http://charts-static.billboard.com/img/1982/06/yaz-p7d.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 6,
+      "title": "JUST BE GOOD TO ME",
+      "artist": "The S.O.S. Band",
+      "cover": "http://charts-static.billboard.com/img/1980/04/the-sos-band-0iz.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 7,
+      "title": "OUT IN THE NIGHT",
+      "artist": "Serge Ponsar",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 8,
+      "title": "BUILD ME A BRIDGE",
+      "artist": "Adele Bertei",
+      "cover": "http://charts-static.billboard.com/img/1983/08/adele-bertei-o4g.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Get It Right",
+      "artist": "Aretha Franklin",
+      "cover": "http://charts-static.billboard.com/img/2017/01/aretha-franklin.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 10,
+      "title": "HOLIDAY/LUCKY STAR",
+      "artist": "Madonna",
+      "cover": "http://charts-static.billboard.com/img/2017/05/madonna.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 11,
+      "title": "She Works Hard For The Money",
+      "artist": "Donna Summer",
+      "cover": "http://charts-static.billboard.com/img/2016/12/donna-summer.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 12,
+      "title": "STAND BACK",
+      "artist": "Stevie Nicks",
+      "cover": "http://charts-static.billboard.com/img/2017/05/stevie-nicks.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 12,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 13,
+      "title": "I DON't WANT TO TALK ABOUT IT",
+      "artist": "Pamala Stanley",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 13,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 14,
+      "title": "I'll Tumble 4 Ya",
+      "artist": "Culture Club",
+      "cover": "http://charts-static.billboard.com/img/1982/11/culture-club-r8c.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 15,
+      "title": "EVERY BREATH YOU TAKE",
+      "artist": "Otis Liggett",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 15,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 16,
+      "title": "SO MANY MEN, SO LITTLE TIME",
+      "artist": "Miquel Brown",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 2,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Pieces Of Ice",
+      "artist": "Diana Ross",
+      "cover": "http://charts-static.billboard.com/img/1840/12/diana-ross-k7w.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Ain't Nobody",
+      "artist": "Chaka Khan",
+      "cover": "http://charts-static.billboard.com/img/1840/12/chaka-khan-kwe.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 6,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 19,
+      "title": "I WANTED TO TELL HER",
+      "artist": "Ministry",
+      "cover": "http://charts-static.billboard.com/img/2016/11/ministry.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 20,
+      "title": "BAND OF GOLD",
+      "artist": "Sylvester",
+      "cover": "http://charts-static.billboard.com/img/1840/12/sylvester-t62.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 18,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 21,
+      "title": "A.E.I.O.U. (SOMETIMES Y)",
+      "artist": "Ebn/ozn",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 20,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Dead Giveaway",
+      "artist": "Shalamar",
+      "cover": "http://charts-static.billboard.com/img/1977/01/shalamar-hmv.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 18,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 23,
+      "title": "I.O.U.",
+      "artist": "Freeez",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 24,
+      "title": "ADDICTED TO THE NIGHT/CHOIR PRACTICE",
+      "artist": "Lipps Inc.",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 8,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Searchin' (I've Gotta Find A Man)",
+      "artist": "Hazell Dean",
+      "cover": "http://charts-static.billboard.com/img/1983/08/hazell-dean-ev8.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 8,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 26,
+      "title": "GUILTY",
+      "artist": "Lime",
+      "cover": "http://charts-static.billboard.com/img/1981/01/lime-xbz.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Cold Blooded",
+      "artist": "Rick James",
+      "cover": "http://charts-static.billboard.com/img/1840/12/rick-james-c9b.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 17,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 28,
+      "title": "TO SIR WITH LOVE",
+      "artist": "Vicki Sue Robinson",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 28,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 29,
+      "title": "MY TURN TO LOVE YOU",
+      "artist": "Lenny White",
+      "cover": "http://charts-static.billboard.com/img/1970/07/lenny-white-owl.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 29,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 30,
+      "title": "LOVE THIS WAY",
+      "artist": "Lee Prentiss",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Put Our Heads Together",
+      "artist": "The O'Jays",
+      "cover": "http://charts-static.billboard.com/img/1840/12/the-ojays-nco.jpg",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 11,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Slang Teacher / Chicken Outlaw",
+      "artist": "Wide Boy Awake",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 12,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 33,
+      "title": "MAJOR TOM (COMING HOME)",
+      "artist": "Peter Schilling",
+      "cover": "http://charts-static.billboard.com/img/1983/08/peter-schilling-q50.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 34,
+      "title": "What's She Got",
+      "artist": "Liquid Gold",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 35,
+      "title": "BAD BOYS",
+      "artist": "Wham!",
+      "cover": "http://charts-static.billboard.com/img/2017/02/wham.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 28,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 36,
+      "title": "HIGH NOON",
+      "artist": "Two Sisters",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 36,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 37,
+      "title": "All Over Your Face",
+      "artist": "Ronnie Dyson",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 16,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Maniac",
+      "artist": "Michael Sembello",
+      "cover": "http://charts-static.billboard.com/img/1983/06/michael-sembello-zf3.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 39,
+      "title": "THE MAN WITH THE 4-WAY HIPS",
+      "artist": "Tom Tom Club",
+      "cover": "http://charts-static.billboard.com/img/1981/09/tom-tom-club-hiq.jpg",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 40,
+      "title": "DANCE TO THE MUSIC",
+      "artist": "Junior Byron",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 30,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 41,
+      "title": "LIES",
+      "artist": "Ben Steele And His Bare Hands",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 34,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 42,
+      "title": "HIGHRISE",
+      "artist": "Ashford & Simpson",
+      "cover": "http://charts-static.billboard.com/img/1840/12/ashford-simpson-s00.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 41,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 43,
+      "title": "STOP AND GO",
+      "artist": "David Grant",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 40,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 44,
+      "title": "BODY WORK",
+      "artist": "Hot Streak",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 45,
+      "title": "YOU BROUGHT THE SUNSHINE",
+      "artist": "The Clark Sisters",
+      "cover": "http://charts-static.billboard.com/img/2016/12/the-clark-sisters.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 27,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Puttin' On The Ritz",
+      "artist": "Taco",
+      "cover": "http://charts-static.billboard.com/img/1983/06/taco-h9l.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 37,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 47,
+      "title": "(Keep Feeling) Fascination",
+      "artist": "The Human League",
+      "cover": "http://charts-static.billboard.com/img/1981/06/the-human-league-2tr.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 48,
+      "title": "GO DEH YAKA (GO TO THE TOP)",
+      "artist": "Monyaka",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 48,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 49,
+      "title": "I LOVE YOU",
+      "artist": "Yello",
+      "cover": "http://charts-static.billboard.com/img/1982/02/yello-dkk.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 16,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Party Time",
+      "artist": "Kurtis Blow",
+      "cover": "http://charts-static.billboard.com/img/1980/06/kurtis-blow-s8q.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 39,
+        "Wks on Chart": 8
+      }
+    }
+  ]
+}

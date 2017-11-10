@@ -1,0 +1,559 @@
+{
+  "name": "Club",
+  "chart_date": "1997-01-25",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Blue Skies",
+      "artist": "BT featuring Tori Amos",
+      "cover": "http://www.billboard.com/images/pref_images/p95240h6ej3.jpg",
+      "spotify": "http://open.spotify.com/track/1UTbUx2vmxa7sImXvuRdVi?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 2,
+      "title": "The Boss",
+      "artist": "The Braxtons",
+      "cover": "http://www.billboard.com/images/pref_images/p17247y5k15.jpg",
+      "spotify": "http://open.spotify.com/track/5mQFDAIr5sHoQHDNgqBfQt?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 3,
+      "title": "No One Can Love You More Than Me",
+      "artist": "Hannah Jones",
+      "spotify": "http://open.spotify.com/track/6DKhHwyEauUYGa2mGINfki?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Never Miss the Water",
+      "artist": "Chaka Khan feat. Me shell Ndegeocello",
+      "cover": "http://www.billboard.com/images/pref_images/p66732tkg76.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Get Up",
+      "artist": "Byron Stingily",
+      "spotify": "http://open.spotify.com/track/2s6f2r72PBVj8T9t3QLETQ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Un-Break My Heart",
+      "artist": "Toni Braxton",
+      "cover": "http://www.billboard.com/images/pref_images/q12070hdlyo.jpg",
+      "spotify": "http://open.spotify.com/track/6xvjsFHiDFJ0eSbFha7C50?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Living In Ecstasy",
+      "artist": "Fonda Rae",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Colour Of Love",
+      "artist": "Amber",
+      "cover": "http://www.billboard.com/images/pref_images/p226673h3u3.jpg",
+      "spotify": "http://open.spotify.com/track/4CT9g5Qr1b7UaW1THXKpy7?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 9,
+      "title": "De La Casa",
+      "artist": "E.K.O.",
+      "spotify": "http://open.spotify.com/track/1etgJ3f3iwraSxVVoqs9pY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Ultra Flava",
+      "artist": "Heller",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Ooh Aah...Just a Little Bit",
+      "artist": "Gina G",
+      "spotify": "http://open.spotify.com/track/3WEdk4BoEaQCSpqEA3JKXM?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 4,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Back Together",
+      "artist": "Urban Soul feat. Sandy B.",
+      "spotify": "http://open.spotify.com/track/5rLYzX5n6ypGcwUBgyQdGQ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 6,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Paradise Is Here",
+      "artist": "Cher",
+      "cover": "http://www.billboard.com/images/pref_images/q23482byq3z.jpg",
+      "spotify": "http://open.spotify.com/track/5FbNfDHaj5fCqHJjM50EGz?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Angel",
+      "artist": "Simply Red",
+      "cover": "http://www.billboard.com/images/pref_images/p08568lk9yb.jpg",
+      "spotify": "http://open.spotify.com/track/258oSUvMltJ4pTCRdp69La?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Cosmic Girl",
+      "artist": "Jamiroquai",
+      "cover": "http://www.billboard.com/images/pref_images/q05878i8ki4.jpg",
+      "spotify": "http://open.spotify.com/track/2fiRJjWb9uk21Gva6oHpKs?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Set Me Free",
+      "artist": "Deep 6",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 14,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Higher",
+      "artist": "Gloria Estefan",
+      "cover": "http://www.billboard.com/images/pref_images/p85016sd453.jpg",
+      "spotify": "http://open.spotify.com/track/3hbov3RpujUxMA4CQFjEHE?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Soul To Bare",
+      "artist": "Joi Cardwell",
+      "spotify": "http://open.spotify.com/track/6VMTz7huOXcU4tkylN2OLm?utm_campaign=billboard",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 2,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Report To The Floor",
+      "artist": "Inner Soul Featuring Sonya Rogers",
+      "spotify": "http://open.spotify.com/track/2R9nIiObaolgHuq9Zr2fS2?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Love Commandments",
+      "artist": "Gisele Jackson",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Only 4 U",
+      "artist": "Cajmere",
+      "cover": "http://www.billboard.com/images/pref_images/q15671c0wj8.jpg",
+      "spotify": "http://open.spotify.com/track/0mMwqGhMg5xWOqleqoox3x?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 15,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Sugar Is Sweeter",
+      "artist": "C.J. Bolland",
+      "spotify": "http://open.spotify.com/track/4pS4XuDCtjzs36PB8U5mjU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Say...If You Feel Alright",
+      "artist": "Crystal Waters",
+      "cover": "http://www.billboard.com/images/pref_images/p69435rk7c1.jpg",
+      "spotify": "http://open.spotify.com/track/1aiRoF638Ov1cjLKUotMbG?utm_campaign=billboard",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Don t Cry for Me Argentina",
+      "artist": "Madonna",
+      "cover": "http://www.billboard.com/images/pref_images/q27984qkq0m.jpg",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Let the Beat Hit Em",
+      "artist": "Sheryl Jay",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 25,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Lunatix",
+      "artist": "Doc Martin Presents Blakdoktor",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 24,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Indestructible",
+      "artist": "Reign",
+      "cover": "http://www.billboard.com/images/pref_images/p17554k73m2.jpg",
+      "spotify": "http://open.spotify.com/track/42jvK3cjTjtYvytXbJjVcD?utm_campaign=billboard",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 16,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Step By Step",
+      "artist": "Whitney Houston",
+      "cover": "http://www.billboard.com/images/pref_images/q26597ryqib.jpg",
+      "spotify": "http://open.spotify.com/track/3w7qtrmqgUSj4CEEWuVllr?utm_campaign=billboard",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 29,
+      "title": "You Can Do It (Baby)",
+      "artist": "NuYorican Soul Featuring George Benson",
+      "spotify": "http://open.spotify.com/track/0zdAC8j82cVwQByudZhP0y?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 26,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 30,
+      "title": "La Habanera",
+      "artist": "Hands On Yello",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Because You Loved Me",
+      "artist": "Suzann Rye",
+      "spotify": "http://open.spotify.com/track/2WxWsCIyEKr1Pt7lyuxn8i?utm_campaign=billboard",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 19,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Don t Stop Movin",
+      "artist": "Livin Joy",
+      "cover": "http://www.billboard.com/images/pref_images/p18604g4vvv.jpg",
+      "spotify": "http://open.spotify.com/track/5InAjrEudN5hvky4XhhIMg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 33,
+      "title": "He s On The Phone",
+      "artist": "Saint Etienne",
+      "cover": "http://www.billboard.com/images/pref_images/p95518e6ht5.jpg",
+      "spotify": "http://open.spotify.com/track/2thpIZ4e8ttgf7PX1v5FNJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Runaway",
+      "artist": "NuYorican Soul Featuring India",
+      "spotify": "http://open.spotify.com/track/5mL3zJy9Q8yOGU8nsq4uP3?utm_campaign=billboard",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Pumpin",
+      "artist": "Proyecto Uno",
+      "spotify": "http://open.spotify.com/track/5kOGilliSITkadKUWECJW9?utm_campaign=billboard",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 25,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Holding On To Your Love",
+      "artist": "Stephanie Cooke",
+      "spotify": "http://open.spotify.com/track/7glwitUFCgFP8tB9u1oPhy?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Shout",
+      "artist": "Staxx Of Joy",
+      "spotify": "http://open.spotify.com/track/4Dzg0xKxWGD8ZlETi9BsDP?utm_campaign=billboard",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Take Me Over",
+      "artist": "House Of Glass Featuring Judy Albanese",
+      "spotify": "http://open.spotify.com/track/2NklYRuFc3kyiXJ9OWY6mv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 36,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Moments...",
+      "artist": "Noise Maker",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 7,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Say Yeah",
+      "artist": "Strobe Presents La Casa Grande",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 22,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Let Freedom Ring",
+      "artist": "Pretty Poison",
+      "cover": "http://www.billboard.com/images/pref_images/p05895sjtn7.jpg",
+      "spotify": "http://open.spotify.com/track/6hXK9ThjjDhksai07tFojY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 33,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 42,
+      "title": "The Gift",
+      "artist": "Way Out West feat. Miss Joanna Law",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 39,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Hot",
+      "artist": "Tzant featuring Verna Francis",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 38,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Touch",
+      "artist": "France Joli",
+      "spotify": "http://open.spotify.com/track/6lCD8VcIw2p9HPSiXNmyrp?utm_campaign=billboard",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 24,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 45,
+      "title": "It s Just Another Groove",
+      "artist": "The Mighty Dub Katz",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 16,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Let s Groove",
+      "artist": "George Morel Featuring Heather Wildman",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 33,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Pressure",
+      "artist": "The Bomb Squad",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 40,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Insomnia",
+      "artist": "Faithless",
+      "cover": "http://www.billboard.com/images/pref_images/p24175k8oly.jpg",
+      "spotify": "http://open.spotify.com/track/0J4aeU5RjeYdfyHqRKtF8Z?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Sinful Wishes",
+      "artist": "Outta Control",
+      "spotify": "http://open.spotify.com/track/5wxPNyq778rB0BdE6w6RdX?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 45,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 50,
+      "title": "One And One",
+      "artist": "Robert Miles Feat. Maria Nayler",
+      "cover": "http://www.billboard.com/images/pref_images/p17486s548j.jpg",
+      "spotify": "http://open.spotify.com/track/5QkXjRlxeYGFBqpMuaO9xq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    }
+  ]
+}

@@ -1,0 +1,539 @@
+{
+  "name": "Country",
+  "chart_date": "1973-04-21",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Superman",
+      "artist": "Donna Fargo",
+      "cover": "http://www.billboard.com/images/pref_images/p13015w6eau.jpg",
+      "spotify": "http://open.spotify.com/track/4LVLLa9tcEB7UooyfaPxDF?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 2,
+      "title": "A Shoulder To Cry On",
+      "artist": "Charley Pride",
+      "cover": "http://www.billboard.com/images/pref_images/p14590oax26.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Behind Closed Doors",
+      "artist": "Charlie Rich",
+      "cover": "http://www.billboard.com/images/pref_images/p16046hvjwg.jpg",
+      "spotify": "http://open.spotify.com/track/2mTtyrIjXzZ3mf7udOUXxK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 4,
+      "title": "I Love You More And More Everyday",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 5,
+      "title": "If You Can Live With It (I Can Live Without It)",
+      "artist": "Bill Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/q13686h7qps.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 2,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Come Live With Me",
+      "artist": "Roy Clark",
+      "cover": "http://www.billboard.com/images/pref_images/p25356bg9ta.jpg",
+      "spotify": "http://open.spotify.com/track/7LRmVvfL2B5Mm61Oi5Rx4Q?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 7,
+      "title": "You Can Have Her",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 7,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Super Kind Of Woman",
+      "artist": "Freddie Hart",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 9,
+      "title": "The Emptiest Arms In The World",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Something About You I Love",
+      "artist": "Johnny Paycheck",
+      "cover": "http://www.billboard.com/images/pref_images/p254763h3u3.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 10,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Take Time To Love Her",
+      "artist": "Nat Stuckey",
+      "cover": "http://www.billboard.com/images/pref_images/p02378kygm5.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Nobody Wins",
+      "artist": "Brenda Lee",
+      "cover": "http://www.billboard.com/images/pref_images/p17067c80qj.jpg",
+      "spotify": "http://open.spotify.com/track/1EyMWpmFLaA53YYRyLPuPK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 5,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 13,
+      "title": "What My Woman Can't Do",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Teddy Bear Song",
+      "artist": "Barbara Fairchild",
+      "spotify": "http://open.spotify.com/track/6KforFtWsO3NWwKz5LBVrr?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Walking Piece Of Heaven",
+      "artist": "Marty Robbins",
+      "cover": "http://www.billboard.com/images/pref_images/p2246418kv3.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Neither One Of Us",
+      "artist": "Bob Luman",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 7,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 17,
+      "title": "What's Your Mama's Name",
+      "artist": "Tanya Tucker",
+      "cover": "http://www.billboard.com/images/pref_images/p18935d0o2l.jpg",
+      "spotify": "http://open.spotify.com/track/5hC81R9fHMNKRZ5QeT3qBr?utm_campaign=billboard",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Keep Me In Mind",
+      "artist": "Lynn Anderson",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Dueling Banjos",
+      "artist": "Eric Weissberg & Steve Mandell",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Keep On Truckin'",
+      "artist": "Dave Dudley",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 19,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Good News",
+      "artist": "Jody Miller",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 9,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Say When",
+      "artist": "Diana Trask",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 15,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 23,
+      "title": "No More Hanging On",
+      "artist": "Jerry Lee Lewis",
+      "cover": "http://www.billboard.com/images/pref_images/p14318ix562.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 24,
+      "title": "After You",
+      "artist": "Hank Williams Jr.",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 23,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Walk Softly On The Bridges",
+      "artist": "Mel Street",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Baby's Gone",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 2,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 27,
+      "title": "If You're Goin' Girl",
+      "artist": "Don Gibson",
+      "cover": "http://www.billboard.com/images/pref_images/p01350b8647.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 26,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Orange Blossom Special",
+      "artist": "Charlie Mccoy",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 26,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Bring It On Home (To Your Woman)",
+      "artist": "Joe Stampley",
+      "cover": "http://www.billboard.com/images/pref_images/p16557xwp6y.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 7,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 30,
+      "title": "We Found It",
+      "artist": "Porter Wagoner And Dolly Parton",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 30,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Ain't It Amazing, Gracie",
+      "artist": "Buck Owens",
+      "cover": "http://www.billboard.com/images/pref_images/p15648l4g42.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 14,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 32,
+      "title": "You Always Come Back (To Hurting Me)",
+      "artist": "Johnny Rodriguez",
+      "cover": "http://www.billboard.com/images/pref_images/p16108d457b.jpg",
+      "spotify": "http://open.spotify.com/track/39drG15YBT09tEKaBaZQ0b?utm_campaign=billboard",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Honky Tonk Wine",
+      "artist": "Wayne Kemp",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 17,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 34,
+      "title": "My Mind Hangs On To You",
+      "artist": "Billy Walker",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 34,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Satin Sheets",
+      "artist": "Jeanne Pruett",
+      "spotify": "http://open.spotify.com/track/2R7rVo4IEzwaOdJ243fY0s?utm_campaign=billboard",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 36,
+      "title": "My Whole World Is Falling Down",
+      "artist": "O.B. Mcclinton",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 36,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Chained",
+      "artist": "Johnny Russell",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 31,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Don't Be Angry",
+      "artist": "Billy \"Crash\" Craddock",
+      "cover": "http://www.billboard.com/images/pref_images/p04850wk396.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Daisy A Day",
+      "artist": "Jud Strunk",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 33,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Sweet Country Woman",
+      "artist": "Johnny Duncan",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 6,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Brush Arbor Meeting",
+      "artist": "Brush Arbor",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 41,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 42,
+      "title": "You've Got Me (Right Where You Want Me)",
+      "artist": "Connie Smith",
+      "cover": "http://www.billboard.com/images/pref_images/p85285q666r.jpg",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 21,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Kids Say The Darndest Things",
+      "artist": "Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27879imrhm.jpg",
+      "spotify": "http://open.spotify.com/track/3CLACvBhxpZaWNw4ZtffR1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 44,
+      "title": "When Love Has Gone Away",
+      "artist": "Jeannie C. Riley",
+      "cover": "http://www.billboard.com/images/pref_images/p16067hm9ue.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 44,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Cheating Game",
+      "artist": "Susan Raye",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 18,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Crying Over You",
+      "artist": "Dickey Lee",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 43,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Daisy May (And Daisy May Not)",
+      "artist": "Terri Lane",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 37,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Let's Build A World Together",
+      "artist": "George Jones & Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27759yi6aw.jpg",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 32,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Yellow Ribbon",
+      "artist": "Johnny Carver",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 5,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Workin' On A Feelin'",
+      "artist": "Tommy Cash",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 37,
+        "Wks on Chart": 10
+      }
+    }
+  ]
+}

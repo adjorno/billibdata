@@ -1,0 +1,560 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "1974-10-12",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Papa Don't Take No Mess (Part I)",
+      "artist": "James Brown",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Do It ('Til You're Satisfied)",
+      "artist": "B.T. Express",
+      "spotify": "http://open.spotify.com/track/39YO9m1p8gX1OXs46FIjL4?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 3,
+      "title": "You Haven't Done Nothin'",
+      "artist": "Stevie Wonder",
+      "cover": "http://www.billboard.com/images/pref_images/q10766ptu75.jpg",
+      "spotify": "http://open.spotify.com/track/5QPThKhv9gRA5J9TYC9jGx?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Higher Plane",
+      "artist": "Kool & The Gang",
+      "cover": "http://www.billboard.com/images/pref_images/p14100g5q4p.jpg",
+      "spotify": "http://open.spotify.com/track/1vwzTgzIYWxgnx23zJlTM6?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Skin Tight",
+      "artist": "Ohio Players",
+      "cover": "http://www.billboard.com/images/pref_images/q15515hh3v8.jpg",
+      "spotify": "http://open.spotify.com/track/4s0w6nWq11enkUj2dW7lZx?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Ain't Nothing Like The Real Thing",
+      "artist": "Aretha Franklin",
+      "cover": "http://www.billboard.com/images/pref_images/q10399wqplt.jpg",
+      "spotify": "http://open.spotify.com/track/3hgjapCqv6G4096hIItxNf?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 7,
+      "title": "The Player - Part 1",
+      "artist": "First Choice",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 7,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Can't Get Enough Of Your Love, Babe",
+      "artist": "Barry White",
+      "cover": "http://www.billboard.com/images/pref_images/p07212j6940.jpg",
+      "spotify": "http://open.spotify.com/track/3ky8x7UQb6XGpD8CC4xAnu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Careful Man",
+      "artist": "John Edwards",
+      "cover": "http://www.billboard.com/images/pref_images/p16513x8062.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Let's Straighten It Out",
+      "artist": "Latimore",
+      "cover": "http://www.billboard.com/images/pref_images/p17441efrfv.jpg",
+      "spotify": "http://open.spotify.com/track/0Sw8zsQEVnokODurZKG8ys?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 11,
+      "title": "In The Bottle",
+      "artist": "Brother To Brother",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Virgin Man",
+      "artist": "Smokey Robinson",
+      "cover": "http://www.billboard.com/images/pref_images/p09614fw13r.jpg",
+      "spotify": "http://open.spotify.com/track/1Y8AvLeZSxETdXFAbxJrbY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 12,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Blood Is Thicker Than Water",
+      "artist": "William DeVaughn",
+      "spotify": "http://open.spotify.com/track/12awx8RkNZ2pFHPpzppBQe?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 10,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Party Down - Part 1",
+      "artist": "Little Beaver",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 2,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Do It Baby",
+      "artist": "The Miracles",
+      "cover": "http://www.billboard.com/images/pref_images/p94483f1ryn.jpg",
+      "spotify": "http://open.spotify.com/track/6nQC6wctxdGNtIuTqUa5Bk?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 4,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 16,
+      "title": "You Got To Be The One",
+      "artist": "The Chi-lites",
+      "cover": "http://www.billboard.com/images/pref_images/p11501vvs80.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 15,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Let This Be A Lesson To You",
+      "artist": "The Independents",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 7,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Ain't No Love In The Heart Of The City",
+      "artist": "Bobby Bland",
+      "cover": "http://www.billboard.com/images/pref_images/q27740km52v.jpg",
+      "spotify": "http://open.spotify.com/track/4whTrWuc6vxKzWxWwU5dxO?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 9,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Tell Her Love Has Felt The Need",
+      "artist": "Eddie Kendricks",
+      "cover": "http://www.billboard.com/images/pref_images/p13409m9s6f.jpg",
+      "spotify": "http://open.spotify.com/track/5H4IYzBpFikdlBnus1rmOW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 8,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Don't Send Nobody Else",
+      "artist": "Ace Spectrum",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 20,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Live It Up Part 1",
+      "artist": "The Isley Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/q33955pzux3.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 4,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 22,
+      "title": "You Little Trustmaker",
+      "artist": "The Tymes",
+      "spotify": "http://open.spotify.com/track/50wvCcotIPLIvY7O2Yz7VU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 20,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Love Don't Love Nobody - Pt. I",
+      "artist": "The Spinners",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 4,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Midnight Flower",
+      "artist": "Four Tops",
+      "spotify": "http://open.spotify.com/track/3Wwrn9V4jZPaMpzpQZTnuU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 5,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Hang On In There Baby",
+      "artist": "Johnny Bristol",
+      "spotify": "http://open.spotify.com/track/03ZrvcYZGCYpimu6dYdhPY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 2,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Learning To Love You Was Easy (It's So Hard Trying To Get Over You)",
+      "artist": "The Dells",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 18,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Hell Of A Fix",
+      "artist": "Marion",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 26,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Then Came You",
+      "artist": "Dionne Warwicke & Spinners",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Everlasting Love",
+      "artist": "Carl Carlton",
+      "cover": "http://www.billboard.com/images/pref_images/p11373qi0x4.jpg",
+      "spotify": "http://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Do It, Fluid",
+      "artist": "The Blackbyrds",
+      "cover": "http://www.billboard.com/images/pref_images/p04622q8m10.jpg",
+      "spotify": "http://open.spotify.com/track/6QRwCMzf1iDap6V8vvTzE9?utm_campaign=billboard",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Happiness Is Being With You",
+      "artist": "Tyrone Davis",
+      "cover": "http://www.billboard.com/images/pref_images/p59361cd40k.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 27,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Sugar Pie Guy Pt. 1",
+      "artist": "The Joneses",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 33,
+      "title": "I Shot The Sheriff",
+      "artist": "Eric Clapton",
+      "cover": "http://www.billboard.com/images/pref_images/q10758kl3iw.jpg",
+      "spotify": "http://open.spotify.com/track/0UOxp1BpnD8uPQMKU4wKjz?utm_campaign=billboard",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 33,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Door To Your Heart",
+      "artist": "The Dramatics",
+      "cover": "http://www.billboard.com/images/pref_images/p12028s7e6c.jpg",
+      "spotify": "http://open.spotify.com/track/5nY4DUTcMpTDY2yyLqxvcs?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 25,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Nothing From Nothing",
+      "artist": "Billy Preston",
+      "cover": "http://www.billboard.com/images/pref_images/p55359a8vcj.jpg",
+      "spotify": "http://open.spotify.com/track/5n9QhVJS3XSjSc9kNJNEIU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 8,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Let's Put It All Together",
+      "artist": "The Stylistics",
+      "cover": "http://www.billboard.com/images/pref_images/p24792ob6df.jpg",
+      "spotify": "http://open.spotify.com/track/6ljkOGPZUydnN0kj5dA1xg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Ask Me",
+      "artist": "Ecstasy, Passion & Pain",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 19,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 38,
+      "title": "What's Your Name",
+      "artist": "Moments",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 28,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Hooked, Hogtied & Collared",
+      "artist": "Paul Kelly",
+      "cover": "http://www.billboard.com/images/pref_images/p01693xniuv.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 30,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 40,
+      "title": "You Can't Go Halfway",
+      "artist": "Johnny Nash",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 38,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Happiness Is",
+      "artist": "New York City",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 20,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Devotion",
+      "artist": "Earth, Wind & Fire",
+      "cover": "http://www.billboard.com/images/pref_images/q34482u4lsc.jpg",
+      "spotify": "http://open.spotify.com/track/5zgZtLzvSKac5EmWMmvCyQ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 23,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Something's Mighty, Mighty Wrong",
+      "artist": "The Impressions",
+      "cover": "http://www.billboard.com/images/pref_images/p14912ab6n1.jpg",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 28,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Feel Like Makin' Love",
+      "artist": "Roberta Flack",
+      "cover": "http://www.billboard.com/images/pref_images/q13175ohr80.jpg",
+      "spotify": "http://open.spotify.com/track/5E8F36Cdn4lyOFI7gnN5c7?utm_campaign=billboard",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Up For The Down Stroke",
+      "artist": "Parliament",
+      "cover": "http://www.billboard.com/images/pref_images/p06768g258o.jpg",
+      "spotify": "http://open.spotify.com/track/0kGzxqkgW3uHRQ09LCVgzC?utm_campaign=billboard",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 10,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Sha-La-La (Make Me Happy)",
+      "artist": "Al Green",
+      "cover": "http://www.billboard.com/images/pref_images/p89755u55ya.jpg",
+      "spotify": "http://open.spotify.com/track/2wqF1ipfXE204LdA1QmoXa?utm_campaign=billboard",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 2,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 47,
+      "title": "You",
+      "artist": "Bill Withers",
+      "cover": "http://www.billboard.com/images/pref_images/p55753c5jbt.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 15,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Hey Pocky A-Way",
+      "artist": "The Meters",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 31,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 49,
+      "title": "She's Gone",
+      "artist": "Tavares",
+      "cover": "http://www.billboard.com/images/pref_images/p01338r0lv6.jpg",
+      "spotify": "http://open.spotify.com/track/5glv2dxchrL66mSD9FAUB9?utm_campaign=billboard",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Keep On Steppin'",
+      "artist": "The Fatback Band",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 50,
+        "Wks on Chart": 9
+      }
+    }
+  ]
+}

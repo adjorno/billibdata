@@ -1,0 +1,550 @@
+{
+  "name": "Country",
+  "chart_date": "1975-07-05",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Lizzie And The Rainman",
+      "artist": "Tanya Tucker",
+      "cover": "http://www.billboard.com/images/pref_images/p18935d0o2l.jpg",
+      "spotify": "http://open.spotify.com/track/67YzEM7p3vWQaGKEexyc1r?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Reconsider Me",
+      "artist": "Narvel Felts",
+      "cover": "http://www.billboard.com/images/pref_images/p13035lrgy1.jpg",
+      "spotify": "http://open.spotify.com/track/2LS8HlcmNDcktN2VJO7y1M?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Movin' On",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Touch The Hand",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Little Band Of Gold",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Tryin' To Beat The Morning Home",
+      "artist": "T.G. Sheppard",
+      "cover": "http://www.billboard.com/images/pref_images/p58023clds0.jpg",
+      "spotify": "http://open.spotify.com/track/4d0fnMH6nVEELXOgqey68c?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 7,
+      "title": "You're My Best Friend",
+      "artist": "Don Williams",
+      "cover": "http://www.billboard.com/images/pref_images/p99491b31tl.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 8,
+      "title": "That's When My Woman Begins",
+      "artist": "Tommy Overstreet",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 6,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Just Get Up And Close The Door",
+      "artist": "Johnny Rodriguez",
+      "cover": "http://www.billboard.com/images/pref_images/p16108d457b.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Dreaming My Dreams With You",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Freda Comes, Freda Goes",
+      "artist": "Bobby G. Rice",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 12,
+      "title": "T-R-O-U-B-L-E",
+      "artist": "Elvis Presley",
+      "cover": "http://www.billboard.com/images/pref_images/q45257y36kp.jpg",
+      "spotify": "http://open.spotify.com/track/3sJt3chkXSgTxkTCW4Jdv0?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Classified",
+      "artist": "C.W. McCall",
+      "cover": "http://www.billboard.com/images/pref_images/p14430k2875.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 13,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Every Time You Touch Me (I Get High)",
+      "artist": "Charlie Rich",
+      "cover": "http://www.billboard.com/images/pref_images/p16046hvjwg.jpg",
+      "spotify": "http://open.spotify.com/track/3ydvQ1vczAWHdXA5h9yToW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Hello I Love You",
+      "artist": "Johnny Russell",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 13,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Why Don't You Love Me",
+      "artist": "Connie Smith",
+      "cover": "http://www.billboard.com/images/pref_images/p85285q666r.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 15,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Pictures On Paper",
+      "artist": "Jeris Ross",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 17,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 18,
+      "title": "What Time Of Day",
+      "artist": "Billy Thunderkloud & The Chieftones",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 16,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Deal",
+      "artist": "Tom T. Hall",
+      "cover": "http://www.billboard.com/images/pref_images/p79752rjipk.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 8,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Love In The Hot Afternoon",
+      "artist": "Gene Watson",
+      "cover": "http://www.billboard.com/images/pref_images/p71339bw5t3.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 3,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Please Mr. Please",
+      "artist": "Olivia Newton-John",
+      "cover": "http://www.billboard.com/images/pref_images/q33925ccwag.jpg",
+      "spotify": "http://open.spotify.com/track/1lL1jDnZTH60djVb6vKIQj?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 5,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 22,
+      "title": "There I Said It",
+      "artist": "Margo Smith",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 23,
+      "title": "The Seeker",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Farthest Thing From My Mind",
+      "artist": "Ray Price",
+      "cover": "http://www.billboard.com/images/pref_images/q19116tvh88.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 17,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 25,
+      "title": "I Want To Hold You In My Dreams Tonight",
+      "artist": "Stella Parton",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 9,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 26,
+      "title": "When Will I Be Loved",
+      "artist": "Linda Ronstadt",
+      "cover": "http://www.billboard.com/images/pref_images/q37805wrnbl.jpg",
+      "spotify": "http://open.spotify.com/track/2MCiAzjR2Uo9cZUnWhGIRI?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 27,
+      "title": "w/ Tammy Wynette",
+      "artist": "George Jones & Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27759yi6aw.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 25,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Wasted Days And Wasted Nights",
+      "artist": "Freddy Fender",
+      "cover": "http://www.billboard.com/images/pref_images/p02648g80gy.jpg",
+      "spotify": "http://open.spotify.com/track/4pvb6DyuoMyftAGT1GXoA8?utm_campaign=billboard",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Hello Little Bluebird",
+      "artist": "Donna Fargo",
+      "cover": "http://www.billboard.com/images/pref_images/p13015w6eau.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 14,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Rhinestone Cowboy",
+      "artist": "Glen Campbell",
+      "cover": "http://www.billboard.com/images/pref_images/p99857on5ga.jpg",
+      "spotify": "http://open.spotify.com/track/7gLfHqt7KdwGHGReT8VPRH?utm_campaign=billboard",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Feelins'",
+      "artist": "Loretta Lynn & Conway Twitty",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Molly (I Ain't Gettin' Any Younger)",
+      "artist": "Dorsey Burnette",
+      "cover": "http://www.billboard.com/images/pref_images/p11252pahoa.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 28,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Word Games",
+      "artist": "Billy Walker",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 34,
+      "title": "She Talked A Lot About Texas",
+      "artist": "Cal Smith",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 35,
+      "title": "This House Runs On Sunshine",
+      "artist": "La Costa",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 19,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Dear Woman",
+      "artist": "Joe Stampley",
+      "cover": "http://www.billboard.com/images/pref_images/p16557xwp6y.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 37,
+      "title": "The Devil In Mrs. Jones",
+      "artist": "Billy Larkin",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Mr. Right And Mrs. Wrong",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 32,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Early Sunday Morning",
+      "artist": "Chip Taylor With Ghost Train",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 28,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Woman In The Back Of My Mind",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 4,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Unchained Melody",
+      "artist": "Joe Stampley",
+      "cover": "http://www.billboard.com/images/pref_images/p16557xwp6y.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 41,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 42,
+      "title": "My Honky Tonk Ways",
+      "artist": "Kenny O'Dell",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 37,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 43,
+      "title": "I Don't Love Her Anymore",
+      "artist": "Johnny Paycheck",
+      "cover": "http://www.billboard.com/images/pref_images/p254763h3u3.jpg",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 38,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 44,
+      "title": "I Love The Blues And The Boogie Woogie",
+      "artist": "Billy \"Crash\" Craddock",
+      "cover": "http://www.billboard.com/images/pref_images/p04850wk396.jpg",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Searchin' (For Someone Like You)",
+      "artist": "Melba Montgomery",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 45,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Country D.J.",
+      "artist": "Bill Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/q13686h7qps.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 36,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Spring",
+      "artist": "Tanya Tucker",
+      "cover": "http://www.billboard.com/images/pref_images/p18935d0o2l.jpg",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 18,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Misty",
+      "artist": "Ray Stevens",
+      "cover": "http://www.billboard.com/images/pref_images/q17292j8u2e.jpg",
+      "spotify": "http://open.spotify.com/track/4Hbv3smUgteZqLb0Gnh1Ki?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Honey On His Hands",
+      "artist": "Jeanne Pruett",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 41,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Burnin' Thing",
+      "artist": "Mac Davis",
+      "cover": "http://www.billboard.com/images/pref_images/p11850p6116.jpg",
+      "spotify": "http://open.spotify.com/track/2uqzvuJgVLuMc6vwmhOxur?utm_campaign=billboard",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 31,
+        "Wks on Chart": 12
+      }
+    }
+  ]
+}

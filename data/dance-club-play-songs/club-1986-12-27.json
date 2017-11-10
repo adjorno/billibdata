@@ -1,0 +1,548 @@
+{
+  "name": "Club",
+  "chart_date": "1986-12-27",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Control (Remix)",
+      "artist": "Janet Jackson",
+      "cover": "http://www.billboard.com/images/pref_images/p83801vds75.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Musique Non Stop",
+      "artist": "Kraftwerk",
+      "cover": "http://www.billboard.com/images/pref_images/q03743ju2gi.jpg",
+      "spotify": "http://open.spotify.com/track/5PKFJx9mXZQo84XQsASKrB?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Someone Like You",
+      "artist": "Sylvester",
+      "cover": "http://www.billboard.com/images/pref_images/q14410d67aj.jpg",
+      "spotify": "http://open.spotify.com/track/2Za105gyohvSVfaPVeXMnW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Bizarre Love Triangle (Remix)/State Of The Nation (Remix)",
+      "artist": "New Order",
+      "cover": "http://www.billboard.com/images/pref_images/q05309jgxy1.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Misunderstanding",
+      "artist": "James D-Train Williams",
+      "spotify": "http://open.spotify.com/track/5v2VBKylEfNm9J6dkf6eBp?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Brand New Lover",
+      "artist": "Dead Or Alive",
+      "cover": "http://www.billboard.com/images/pref_images/p11883he2l4.jpg",
+      "spotify": "http://open.spotify.com/track/4JO49IxCMeGdWVtBU5ESAO?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Come Go With Me",
+      "artist": "Expose",
+      "cover": "http://www.billboard.com/images/pref_images/p14669tc878.jpg",
+      "spotify": "http://open.spotify.com/track/5CMfppUYFwdvH8pZ5HRJbS?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Goldmine (Remix)/Sexual Power",
+      "artist": "The Pointer Sisters",
+      "cover": "http://www.billboard.com/images/pref_images/p15808se500.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Once In A Lifetime Groove (Remix)",
+      "artist": "New Edition",
+      "cover": "http://www.billboard.com/images/pref_images/q06264sb66t.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Everybody Have Fun Tonight (Remix)",
+      "artist": "Wang Chung",
+      "cover": "http://www.billboard.com/images/pref_images/p17882j8lkg.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 11,
+      "title": "I m Not Perfect (But I m Perfect For You) (Remix)",
+      "artist": "Grace Jones",
+      "cover": "http://www.billboard.com/images/pref_images/p05366my14n.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 4,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Showing Out (Get Fresh At The Weekend)/System",
+      "artist": "Mel",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Crazay (Remix)",
+      "artist": "Jesse Johnson (Featuring Sly Stone)",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Boy Toy (Remix)",
+      "artist": "Tia",
+      "cover": "http://www.billboard.com/images/pref_images/p20598po3f1.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 15,
+      "title": "C est La Vie (Remix)",
+      "artist": "Robbie Nevil",
+      "cover": "http://www.billboard.com/images/pref_images/p15355k4y7y.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Unfaithful So Much (Remix)",
+      "artist": "Full Force",
+      "cover": "http://www.billboard.com/images/pref_images/p05036tl472.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 16,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Talk To Me (Remix)",
+      "artist": "Chico DeBarge",
+      "cover": "http://www.billboard.com/images/pref_images/p76596f8lhx.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 11,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 18,
+      "title": "We Connect (Remix)",
+      "artist": "Stacey Q",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 14,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 19,
+      "title": "C mon Every Beatbox (Remix)/Badrock City",
+      "artist": "Big Audio",
+      "cover": "http://www.billboard.com/images/pref_images/p10043c799l.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 19,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Memories",
+      "artist": "Carolyn Harding",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 20,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Too Much Or Nothing (Remix)",
+      "artist": "General Public",
+      "cover": "http://www.billboard.com/images/pref_images/p20384fxu45.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 22,
+      "title": "This Time",
+      "artist": "Private Possession Featuring Hunter Hayes",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 22,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 23,
+      "title": "I m A Man",
+      "artist": "Jimmy Lifton",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 23,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Every Lover s Sign (Remix)",
+      "artist": "The Lover Speaks",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 6,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Good Things Come To Those Who Wait",
+      "artist": "Nayobe",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 15,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Heat Stroke",
+      "artist": "Janice Christie",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 26,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 27,
+      "title": "What You See Is What You Get (Remix)",
+      "artist": "Brenda K. Starr",
+      "spotify": "http://open.spotify.com/track/24evA71Fq0cHhjinJAzEHI?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 6,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Come Get My Love (Remix)",
+      "artist": "TKA",
+      "cover": "http://www.billboard.com/images/pref_images/p02407lgy03.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 8,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Freak In The Street (Remix)",
+      "artist": "The Untouchables",
+      "cover": "http://www.billboard.com/images/pref_images/p08744pd63g.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 29,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 30,
+      "title": "In The Heat Of A Passionate Moment (Remix)",
+      "artist": "Princess",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 30,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Boys (Remix)",
+      "artist": "Leah Landis",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 29,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Say You Really Want Me (Remix)",
+      "artist": "Kim Wilde",
+      "cover": "http://www.billboard.com/images/pref_images/q08564w4v37.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 32,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Ever Fallen In Love (Remix)",
+      "artist": "Fine Young Cannibals",
+      "cover": "http://www.billboard.com/images/pref_images/p17369a205g.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 11,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Girl From Ipanema Goes To Greenland (Remix)",
+      "artist": "The B-52 s",
+      "cover": "http://www.billboard.com/images/pref_images/p78144breiw.jpg",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 10,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Victory (Remix)",
+      "artist": "Kool",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 35,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Open Your Heart (Remix)",
+      "artist": "Madonna",
+      "cover": "http://www.billboard.com/images/pref_images/q27984qkq0m.jpg",
+      "spotify": "http://open.spotify.com/track/3kme5Qos8h04yrKxsgur79?utm_campaign=billboard",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Band Of Gold (Remix)",
+      "artist": "Belinda Carlisle Featuring Freda Payne",
+      "cover": "http://www.billboard.com/images/pref_images/q15255v6x5d.jpg",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 26,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Fingertips (Remix)/The Scene (Remix)",
+      "artist": "Sparks",
+      "cover": "http://www.billboard.com/images/pref_images/q19716ny8nt.jpg",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 38,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Don t Let Me Be The One",
+      "artist": "Nu Shooz",
+      "cover": "http://www.billboard.com/images/pref_images/p08314ip83h.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 39,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Disco (EP)",
+      "artist": "Pet Shop Boys",
+      "cover": "http://www.billboard.com/images/pref_images/p09885wj4sx.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 12,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Facts Of Love (Remix)",
+      "artist": "Jeff Lorber",
+      "cover": "http://www.billboard.com/images/pref_images/p93342bqa0f.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Notorious (Remix)",
+      "artist": "Duran Duran",
+      "cover": "http://www.billboard.com/images/pref_images/p97235qmz26.jpg",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 26,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Change Of Heart (Remix)",
+      "artist": "Cyndi Lauper",
+      "cover": "http://www.billboard.com/images/pref_images/q18061xxi3h.jpg",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 4,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 44,
+      "title": "You Be Illin",
+      "artist": "Run-D.M.C.",
+      "cover": "http://www.billboard.com/images/pref_images/p97720byyu6.jpg",
+      "spotify": "http://open.spotify.com/track/5m8WUAOtjHLt3y8UVPXUIm?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 44,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Time Keeps Movin On",
+      "artist": "Calvin",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 37,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Touch Me (I Want Your Body)",
+      "artist": "Samantha Fox",
+      "cover": "http://www.billboard.com/images/pref_images/p13119e065n.jpg",
+      "spotify": "http://open.spotify.com/track/5AE6Ms50U9Hh3TtANtAnut?utm_campaign=billboard",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 41,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Set Me Free (Remix)",
+      "artist": "Jaki Graham",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 15,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 48,
+      "title": "World Domination (Remix)",
+      "artist": "The Belle Stars",
+      "cover": "http://www.billboard.com/images/pref_images/p10991yki1k.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 2,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 49,
+      "title": "World Machine (Remix)",
+      "artist": "Level 42",
+      "cover": "http://www.billboard.com/images/pref_images/p78205jru71.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 23,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Traction",
+      "artist": "Ampersand",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 23,
+        "Wks on Chart": 10
+      }
+    }
+  ]
+}

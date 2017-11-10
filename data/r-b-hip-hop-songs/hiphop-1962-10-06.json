@@ -1,0 +1,350 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "1962-10-06",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Sherry",
+      "artist": "The 4 Seasons",
+      "spotify": "http://open.spotify.com/track/0VZ9Hx80VWLgsMHy18poxL?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Green Onions",
+      "artist": "Booker T. & The MG's",
+      "cover": "http://www.billboard.com/images/pref_images/p21153jp7tv.jpg",
+      "spotify": "http://open.spotify.com/track/6KKcey1w86oP0qxN8frbfD?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Lie To Me",
+      "artist": "Brook Benton",
+      "spotify": "http://open.spotify.com/track/0JVYfputoqLRJw18NMWkEf?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Do You Love Me",
+      "artist": "The Contours",
+      "spotify": "http://open.spotify.com/track/1edFHVlMWwl2LNI2RNp6NK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Stormy Monday Blues",
+      "artist": "Bobby Bland",
+      "cover": "http://www.billboard.com/images/pref_images/q27740km52v.jpg",
+      "spotify": "http://open.spotify.com/track/1sJGtV7PxmmmtI2or35Cb9?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 5,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 6,
+      "title": "You Beat Me To The Punch",
+      "artist": "Mary Wells",
+      "cover": "http://www.billboard.com/images/pref_images/p55587ugkxq.jpg",
+      "spotify": "http://open.spotify.com/track/3VRJw6auiee1W1GWjS9f7n?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Don't You Worry",
+      "artist": "Don Gardner And Dee Dee Ford",
+      "spotify": "http://open.spotify.com/track/31TNoPT95P1gVEGwZTnOPA?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 7,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 8,
+      "title": "The Loco-Motion",
+      "artist": "Little Eva",
+      "spotify": "http://open.spotify.com/track/759254iRgR4r5Io5yPHaJb?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Beechwood 4-5789",
+      "artist": "The Marvelettes",
+      "cover": "http://www.billboard.com/images/pref_images/p15060tjd40.jpg",
+      "spotify": "http://open.spotify.com/track/13HcIv5IFQcG2y0gzRU6KK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 7,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Yield Not To Temptation",
+      "artist": "Bobby Bland",
+      "cover": "http://www.billboard.com/images/pref_images/q27740km52v.jpg",
+      "spotify": "http://open.spotify.com/track/3nGu5XKFai29qj7aaA2cSJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 10,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Sheila",
+      "artist": "Tommy Roe",
+      "spotify": "http://open.spotify.com/track/1E1iUNpqcbXK96AXHbV9oP?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Ramblin' Rose",
+      "artist": "Nat King Cole",
+      "cover": "http://www.billboard.com/images/pref_images/p03630r3lrp.jpg",
+      "spotify": "http://open.spotify.com/track/6bZlab0NrNteVppLu9C2Zy?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 7,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Party Lights",
+      "artist": "Claudine Clark",
+      "spotify": "http://open.spotify.com/track/0Kb1OykZK7OYNqQ58KZ0rj?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Rinky Dink",
+      "artist": "Baby Cortez",
+      "spotify": "http://open.spotify.com/track/3gr60MamXLLy4hiNl1TZqU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 15,
+      "title": "You Don't Know Me",
+      "artist": "Ray Charles",
+      "cover": "http://www.billboard.com/images/pref_images/p11455g13jh.jpg",
+      "spotify": "http://open.spotify.com/track/6OzS0wbTMo9EepLStp7Xyn?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 5,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Patches",
+      "artist": "Dickey Lee",
+      "spotify": "http://open.spotify.com/track/5tmAvE09ermsesCnefm1zK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 10,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Twist And Shout",
+      "artist": "The Isley Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/q33955pzux3.jpg",
+      "spotify": "http://open.spotify.com/track/7xnXsZXqzNmgx8b7KGlWrA?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 2,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Someday, Someway",
+      "artist": "The Marvelettes",
+      "cover": "http://www.billboard.com/images/pref_images/p15060tjd40.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 8,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Monster Mash",
+      "artist": "Bobby \"Boris\" Pickett And The Crypt-Kickers",
+      "spotify": "http://open.spotify.com/track/27VgWZa0fpjSXJhtdNrdbW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 9,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Bring It On Home To Me",
+      "artist": "Sam Cooke",
+      "cover": "http://www.billboard.com/images/pref_images/p20336md4wd.jpg",
+      "spotify": "http://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 2,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Mashed Potatoes U.S.A.",
+      "artist": "James Brown And The Famous Flames",
+      "spotify": "http://open.spotify.com/track/0HETk32VsqmUw3qQcTjFdx?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 22,
+      "title": "You Can't Judge A Book By The Cover",
+      "artist": "Bo Diddley",
+      "cover": "http://www.billboard.com/images/pref_images/p90950yqlch.jpg",
+      "spotify": "http://open.spotify.com/track/3LrP4dzkwOHBOD4OoO0BYY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 21,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Point Of No Return",
+      "artist": "Gene McDaniels",
+      "spotify": "http://open.spotify.com/track/3Z05xMKFPEwR8YadgcDPWH?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 23,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Stop The Wedding",
+      "artist": "Etta James",
+      "cover": "http://www.billboard.com/images/pref_images/q35461oeowk.jpg",
+      "spotify": "http://open.spotify.com/track/4hb4ZDW5N9iMD6tLiixtUD?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 6,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Broken Heart",
+      "artist": "The Fiestas",
+      "spotify": "http://open.spotify.com/track/7lLCSawvmXWEtFk58cfUd4?utm_campaign=billboard",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 18,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 26,
+      "title": "She's Not You",
+      "artist": "Elvis Presley With The Jordanaires",
+      "spotify": "http://open.spotify.com/track/4Kwe7prEqGhqGJth6GmEmz?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Stubborn Kind Of Fellow",
+      "artist": "Marvin Gaye",
+      "cover": "http://www.billboard.com/images/pref_images/q10427clu6r.jpg",
+      "spotify": "http://open.spotify.com/track/34cQg8lc0RDGSnDKSRE7St?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 8,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 28,
+      "title": "He's A Rebel",
+      "artist": "The Crystals",
+      "cover": "http://www.billboard.com/images/pref_images/p99135jstfb.jpg",
+      "spotify": "http://open.spotify.com/track/289eZjBYrqbS5eFATs6EEz?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 2,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Sweet Sixteen Bars",
+      "artist": "Earl Grant",
+      "spotify": "http://open.spotify.com/track/4epoSl8BTGb5yfvkqdhyhv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 9,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Breaking Up Is Hard To Do",
+      "artist": "Neil Sedaka",
+      "cover": "http://www.billboard.com/images/pref_images/q08307iglsb.jpg",
+      "spotify": "http://open.spotify.com/track/7GZn8VwNyFr62ZeSNPLV03?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 12,
+        "Wks on Chart": 6
+      }
+    }
+  ]
+}

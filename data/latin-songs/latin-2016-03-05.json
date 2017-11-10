@@ -1,0 +1,593 @@
+{
+  "name": "Latin",
+  "chart_date": "2016-03-05",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Ginza",
+      "artist": "J Balvin",
+      "cover": "http://www.billboard.com/images/pref_images/q46002vgx6k.jpg",
+      "spotify": "http://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Solo Con Verte",
+      "artist": "Banda Sinaloense MS de Sergio Lizarraga",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy3661993815953753056.jpg",
+      "spotify": "http://open.spotify.com/track/1B1hZXrHPMMqjVFHnOljRk?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Hasta El Amanecer",
+      "artist": "Nicky Jam",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy5684756258624871207.jpg",
+      "spotify": "http://open.spotify.com/track/4wFHfY9IILHLNwakPuFogD?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 4,
+      "title": "El Perdon",
+      "artist": "Nicky Jam & Enrique Iglesias",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy5684756258624871207.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 55
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Borro Cassette",
+      "artist": "Maluma",
+      "cover": "http://www.billboard.com/images/pref_images/q45258vgxg1.jpg",
+      "spotify": "http://open.spotify.com/track/2ocDZVhBiGCaaZRNW3fmSd?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Encantadora",
+      "artist": "Yandel",
+      "cover": "http://www.billboard.com/images/pref_images/q46872jjkhz.jpg",
+      "spotify": "http://open.spotify.com/track/6orQZTTBvgRem8OZFbDYdT?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 7,
+      "title": "?Por Que Terminamos?",
+      "artist": "Gerardo Ortiz",
+      "cover": "http://www.billboard.com/images/pref_images/p98673sxywz.jpg",
+      "spotify": "http://open.spotify.com/track/6pKaxr33CLPGB5Jz3kpb60?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Ya Te Perdi La Fe",
+      "artist": "La Arrolladora Banda el Limon de Rene Camacho",
+      "cover": "http://www.billboard.com/images/pref_images/p76000vxsfw.jpg",
+      "spotify": "http://open.spotify.com/track/0rH8r9ozxgEJVftuPOmAqg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 7,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Culpa Al Corazon",
+      "artist": "Prince Royce",
+      "spotify": "http://open.spotify.com/track/0KBfGeUKLjNaernyUDUqgM?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Despues de Ti Quien",
+      "artist": "La Adictiva Banda San Jose de Mesillas",
+      "cover": "http://www.billboard.com/images/pref_images/q40698lbmt2.jpg",
+      "spotify": "http://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 3,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Pisteare",
+      "artist": "Banda Los Recoditos",
+      "cover": "http://www.billboard.com/images/pref_images/q45837ir1wi.jpg",
+      "spotify": "http://open.spotify.com/track/4zwQ07kD03LHSGzmXzfvhY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Hablemos",
+      "artist": "Ariel Camacho y Los Plebes del Rancho",
+      "cover": "http://www.billboard.com/images/pref_images/q38259v8f3y.jpg",
+      "spotify": "http://open.spotify.com/track/71aT33Muvsuim800OqZ0st?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 7,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Las Cosas de La Vida",
+      "artist": "Carlos Vives",
+      "cover": "http://www.billboard.com/images/pref_images/q05583l6prh.jpg",
+      "spotify": "http://open.spotify.com/track/48HqUBK9EkPcA7x26mr7El?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 13,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Por Que Me Ilusionaste?",
+      "artist": "Remmy Valenzuela",
+      "spotify": "http://open.spotify.com/track/3qGhD4DuVif0EQU2zmJ5Fz?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 12,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Traidora",
+      "artist": "Gente de Zona Featuring Marc Anthony",
+      "cover": "http://www.billboard.com/images/pref_images/q46871klgps.jpg",
+      "spotify": "http://open.spotify.com/track/3k9bjeWZUd1FkP6qmyhRqQ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Obsesionado",
+      "artist": "Farruko",
+      "cover": "http://www.billboard.com/images/pref_images/q42761yb0be.jpg",
+      "spotify": "http://open.spotify.com/track/5Jt4zdXTd9y1zxihiNYQI1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 4,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 17,
+      "title": "DEL Negociante",
+      "artist": "Los Plebes del Rancho de Ariel Camacho",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy592632282378585201.jpg",
+      "spotify": "http://open.spotify.com/track/0OzfCNTKtjTuHqTu4W835G?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 11,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 18,
+      "title": "El Taxi",
+      "artist": "Pitbull Featuring Sensato, Lil Jon & Osmani Garcia",
+      "cover": "http://www.billboard.com/images/pref_images/q29328k7yxu.jpg",
+      "spotify": "http://open.spotify.com/track/501PoxE6Qti2ekECimQeXK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 18,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Bronche de Oro",
+      "artist": "La Trakalosa de Monterrey",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Tomen Nota",
+      "artist": "Adriel Favela Featuring Los del Arroyo",
+      "cover": "http://www.billboard.com/images/pref_images/q37384srgeq.jpg",
+      "spotify": "http://open.spotify.com/track/2CToHe1tZ53HTTFQgy6G1h?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 11,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Te Busco",
+      "artist": "Cosculluela / Nicky Jam",
+      "spotify": "http://open.spotify.com/track/2M2WWJE863upPYUrzCRjN6?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 7,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Como Lo Hacia Yo",
+      "artist": "Ken-Y & Nicky Jam",
+      "spotify": "http://open.spotify.com/track/1zLfz9O5D7ujqRlnghuUsM?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 14,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Vaiven",
+      "artist": "Daddy Yankee",
+      "cover": "http://www.billboard.com/images/pref_images/q31580waksi.jpg",
+      "spotify": "http://open.spotify.com/track/0OnqFl8tNKgkIl489RdfuK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 7,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Hasta Que Se Seque El Malecon",
+      "artist": "Jacob Forever",
+      "cover": "http://www.billboard.com/images/pref_images/q48197byb3a.jpg",
+      "spotify": "http://open.spotify.com/track/1YZcVj2DS28xK00k5U7YqT?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 10,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Perdoname",
+      "artist": "Ricky Martin",
+      "cover": "http://www.billboard.com/images/pref_images/q35066jykoi.jpg",
+      "spotify": "http://open.spotify.com/track/63I0BWAZ6HxEoiR18ZEmAn?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 25,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 26,
+      "title": "No Soy Una De Esas",
+      "artist": "Jesse & Joy Featuring Alejandro Sanz",
+      "cover": "http://www.billboard.com/images/pref_images/q38645d038t.jpg",
+      "spotify": "http://open.spotify.com/track/3QjkcFDVHOB4Z43esP5A8N?utm_campaign=billboard",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 22,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Que Caro Estoy Pagando",
+      "artist": "Los Plebes del Rancho de Ariel Camacho",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy592632282378585201.jpg",
+      "spotify": "http://open.spotify.com/track/0P1AxJdoShJYQxRSVSUi7x?utm_campaign=billboard",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 15,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 28,
+      "title": "El Error",
+      "artist": "Reykon",
+      "cover": "http://www.billboard.com/images/pref_images/q44405uf6pl.jpg",
+      "spotify": "http://open.spotify.com/track/0GicYo0VzbYTvOlEv7JJ7N?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 26,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 29,
+      "title": "La Llamada de Mi Ex",
+      "artist": "Chiquito Team Band",
+      "spotify": "http://open.spotify.com/track/5vnmv44tuzQlmDsvDtoOlw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 29,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Me Quede Con Las Ganas",
+      "artist": "Tito \"El Bambino\" El Patron",
+      "cover": "http://www.billboard.com/images/pref_images/q30982mtesi.jpg",
+      "spotify": "http://open.spotify.com/track/1jls2cLUJS277ypVyzB1r9?utm_campaign=billboard",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 27,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 31,
+      "title": "El Rey de Corazones",
+      "artist": "Ariel Camacho y Los Plebes del Rancho",
+      "cover": "http://www.billboard.com/images/pref_images/q38259v8f3y.jpg",
+      "spotify": "http://open.spotify.com/track/27au5ylh2e2mQDNi54y2fi?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 30,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Embriagame",
+      "artist": "Zion & Lennox",
+      "cover": "http://www.billboard.com/images/pref_images/q27003vakor.jpg",
+      "spotify": "http://open.spotify.com/track/6VOOxQlOwtzGWwHKrnExiI?utm_campaign=billboard",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 11,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Nadie Como Tu",
+      "artist": "Banda Clave Nueva de Max Peraza",
+      "spotify": "http://open.spotify.com/track/6dzAfPiNNGAikAsjhjsWxs?utm_campaign=billboard",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 22,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Me Empezo A Valer",
+      "artist": "La Septima Banda",
+      "cover": "http://www.billboard.com/images/pref_images/q29275xjdb1.jpg",
+      "spotify": "http://open.spotify.com/track/5cNYSJyYprfwbbmlBs0RbW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 27,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Ganas de Ti",
+      "artist": "Zion & Lennox",
+      "cover": "http://www.billboard.com/images/pref_images/q27003vakor.jpg",
+      "spotify": "http://open.spotify.com/track/6OByZogwWbqK9rOvKcJdFR?utm_campaign=billboard",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 36,
+      "title": "50 Sombras de Austin",
+      "artist": "Arcangel & DJ Luian",
+      "cover": "http://www.billboard.com/images/pref_images/q12829sn1cc.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 21,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Quien Fue",
+      "artist": "Larry Hernandez",
+      "cover": "http://www.billboard.com/images/pref_images/q40515tqx5x.jpg",
+      "spotify": "http://open.spotify.com/track/3eFbttnYSMjp6JqCWIp0n0?utm_campaign=billboard",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 31,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 38,
+      "title": "En Esta No",
+      "artist": "Sin Bandera",
+      "cover": "http://www.billboard.com/images/pref_images/q46289lzwx8.jpg",
+      "spotify": "http://open.spotify.com/track/4hfRodALOf1cvYYxEf0dFo?utm_campaign=billboard",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 32,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Vale La Pena",
+      "artist": "Roberto Tapia",
+      "cover": "http://www.billboard.com/images/pref_images/q42961bvwca.jpg",
+      "spotify": "http://open.spotify.com/track/7IAS0vokgFM7fZ6EqPsQhh?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 27,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Desde Esa Noche",
+      "artist": "Thalia Featuring Maluma",
+      "spotify": "http://open.spotify.com/track/7cJaRc4y64x0YWBJmpRzO2?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 16,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Prestamela A Mi",
+      "artist": "Calibre 50",
+      "cover": "http://www.billboard.com/images/pref_images/q18523mjuei.jpg",
+      "spotify": "http://open.spotify.com/track/2009O2lDpfRSEFzwJf654I?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 8,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 42,
+      "title": "La Miel de Su Saliva",
+      "artist": "Banda El Recodo de Cruz Lizarraga",
+      "cover": "http://www.billboard.com/images/pref_images/q22145vbo8i.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 25,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Panchito El F1",
+      "artist": "Los Tucanes de Tijuana",
+      "cover": "http://www.billboard.com/images/pref_images/q45207k2dbe.jpg",
+      "spotify": "http://open.spotify.com/track/6KWV5zVfeaiDAgMXul8Az1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 35,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Nada Que Hacer aka Chuy Verduras",
+      "artist": "Grupo H-100",
+      "spotify": "http://open.spotify.com/track/1JeuV9jn0hzMm7Mpw2d7IG?utm_campaign=billboard",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 37,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Mayor Que Yo 3",
+      "artist": "Luny Tunes, Daddy Yankee, Wisin, Don Omar, Yandel",
+      "cover": "http://www.billboard.com/images/pref_images/p62611tve23.jpg",
+      "spotify": "http://open.spotify.com/track/00AoRZ8103mVeOVfpTfGuR?utm_campaign=billboard",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 20,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 46,
+      "title": "El Senor de Los Cielos",
+      "artist": "Ariel Camacho y Los Plebes del Rancho",
+      "cover": "http://www.billboard.com/images/pref_images/q38259v8f3y.jpg",
+      "spotify": "http://open.spotify.com/track/19PIq4WexQkhQfOUWNV1bl?utm_campaign=billboard",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 40,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Moneda Sin Valor",
+      "artist": "Pesado",
+      "cover": "http://www.billboard.com/images/pref_images/p76087hdemw.jpg",
+      "spotify": "http://open.spotify.com/track/6BkM5cVn2abCWWP3y7yvWl?utm_campaign=billboard",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 37,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Tan Facil",
+      "artist": "CNCO",
+      "cover": "http://www.billboard.com/images/pref_images/q47513rw58h.jpg",
+      "spotify": "http://open.spotify.com/track/4VzTgFuvibkLxImiYIiG59?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 5,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Ironia",
+      "artist": "Mana",
+      "cover": "http://www.billboard.com/images/pref_images/q31617d0ric.jpg",
+      "spotify": "http://open.spotify.com/track/4oxZZfntmwfN35llkS74fU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 33,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Mi Nina Adorada",
+      "artist": "Saul \"El Jaguar\" Alarcon",
+      "cover": "http://www.billboard.com/images/pref_images/q24629atmbd.jpg",
+      "spotify": "http://open.spotify.com/track/1xdwDWYCwseUtQBzlIh8hi?utm_campaign=billboard",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 37,
+        "Wks on Chart": 10
+      }
+    }
+  ]
+}

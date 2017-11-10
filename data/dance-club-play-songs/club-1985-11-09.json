@@ -1,0 +1,563 @@
+{
+  "name": "Club",
+  "chart_date": "1985-11-09",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "You",
+      "artist": "The Flirts",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Part-Time Lover (Remix)",
+      "artist": "Stevie Wonder",
+      "cover": "http://www.billboard.com/images/pref_images/q10765tbaqv.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Eaten Alive",
+      "artist": "Diana Ross",
+      "cover": "http://www.billboard.com/images/pref_images/p83824otubm.jpg",
+      "spotify": "http://open.spotify.com/track/0GuK8tx8QGPTLcTIYMLxYq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Who s Zoomin Who? (Remix)",
+      "artist": "Aretha Franklin",
+      "cover": "http://www.billboard.com/images/pref_images/q10399wqplt.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 5,
+      "title": "You Wear It Well (Remix)",
+      "artist": "El DeBarge With DeBarge",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Perfect Way (Remix)",
+      "artist": "Scritti Politti",
+      "cover": "http://www.billboard.com/images/pref_images/p16297mv9s2.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 7,
+      "title": "A Love Bizarre",
+      "artist": "Sheila E",
+      "spotify": "http://open.spotify.com/track/5R6ol4f8WCUCWNrB7Ymf99?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 8,
+      "title": "I m Gonna Tear Your Playhouse Down",
+      "artist": "Paul Young",
+      "cover": "http://www.billboard.com/images/pref_images/q15038iubg7.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 8,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Music Is The Key",
+      "artist": "J.M. Silk",
+      "spotify": "http://open.spotify.com/track/5eUbi29x4sgQdbDhFoWAdW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 9,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Seduction",
+      "artist": "Val Young",
+      "spotify": "http://open.spotify.com/track/1BeVODz7xJQormxtSr6X5b?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 7,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Takes A Little Time",
+      "artist": "Total Contrast",
+      "cover": "http://www.billboard.com/images/pref_images/p08698e45de.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 12,
+      "title": "I Like You",
+      "artist": "Phyllis Nelson",
+      "spotify": "http://open.spotify.com/track/29CKNR4h0A3DBnYejTmADJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Lover Come Back To Me (Remix)",
+      "artist": "Dead Or Alive",
+      "cover": "http://www.billboard.com/images/pref_images/p11883he2l4.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Stop Playing On Me",
+      "artist": "Vikki Love With Nuance",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 14,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Fall Down (Spirit Of Love)",
+      "artist": "Tramaine",
+      "spotify": "http://open.spotify.com/track/0PuseHBEtJPRmbwSajqPSJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Baby Talk",
+      "artist": "Alisha",
+      "spotify": "http://open.spotify.com/track/1JYfHi3cPAR8983cL45bLp?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Conga",
+      "artist": "Miami Sound Machine",
+      "cover": "http://www.billboard.com/images/pref_images/p08252h8c56.jpg",
+      "spotify": "http://open.spotify.com/track/0KxTWgl64TNOQXiGFJYc6t?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 7,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 18,
+      "title": "The Oak Tree",
+      "artist": "Morris Day",
+      "cover": "http://www.billboard.com/images/pref_images/p11871s0xl3.jpg",
+      "spotify": "http://open.spotify.com/track/3M51z9DUFbxkvOHIFz9gsM?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 19,
+      "title": "One Of The Living",
+      "artist": "Tina Turner",
+      "cover": "http://www.billboard.com/images/pref_images/p90206pu5ye.jpg",
+      "spotify": "http://open.spotify.com/track/7wFjrruuRzT6tE82AiBUio?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 6,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Running Up That Hill",
+      "artist": "Kate Bush",
+      "cover": "http://www.billboard.com/images/pref_images/p77700amkcm.jpg",
+      "spotify": "http://open.spotify.com/track/02dNNEGEwm7zoAs21gYoSU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 13,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Say It Again",
+      "artist": "The Danse Society",
+      "cover": "http://www.billboard.com/images/pref_images/p04962u7916.jpg",
+      "spotify": "http://open.spotify.com/track/6eynLAX9wMwgPJkTwJwHpl?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Say I m Your Number One",
+      "artist": "Princess",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Money s Too Tight To Mention",
+      "artist": "Simply Red",
+      "cover": "http://www.billboard.com/images/pref_images/p08568lk9yb.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 2,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Everybody Dance",
+      "artist": "Ta Mara",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Love Oasis",
+      "artist": "Patris",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 25,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Single Life",
+      "artist": "Cameo",
+      "cover": "http://www.billboard.com/images/pref_images/p09435vafk4.jpg",
+      "spotify": "http://open.spotify.com/track/6PqvBPholDH0mgDVvuaHAM?utm_campaign=billboard",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 26,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Whisper To A Scream",
+      "artist": "Bobby O. With Claudja Barry",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 27,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Boy In The Box (Remix)",
+      "artist": "Corey Hart",
+      "cover": "http://www.billboard.com/images/pref_images/p13459q2b9q.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 19,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Como Tu Te Llama?",
+      "artist": "Sly Fox",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 13,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Miami Vice Theme",
+      "artist": "Jan Hammer",
+      "cover": "http://www.billboard.com/images/pref_images/p2325366i1l.jpg",
+      "spotify": "http://open.spotify.com/track/2lNm3PtNIj5DDZa96edje6?utm_campaign=billboard",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 23,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Honey For The Bees",
+      "artist": "Patti Austin",
+      "cover": "http://www.billboard.com/images/pref_images/p74914i02ag.jpg",
+      "spotify": "http://open.spotify.com/track/2KLB9bEq2thD4Gfa5LonAR?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 15,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Your Personal Touch",
+      "artist": "Evelyn \"Champagne\" King",
+      "cover": "http://www.billboard.com/images/pref_images/p14037f4bc1.jpg",
+      "spotify": "http://open.spotify.com/track/1iG0CIxhB25pdBuj2Ud9IT?utm_campaign=billboard",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 5,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Hell In Paradise",
+      "artist": "Yoko Ono",
+      "cover": "http://www.billboard.com/images/pref_images/q18500n8lq1.jpg",
+      "spotify": "http://open.spotify.com/track/2KJtGmHHS9NtuJDGV5PzaA?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 12,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Alice, I Want You Just For Me",
+      "artist": "Full Force",
+      "cover": "http://www.billboard.com/images/pref_images/p05036tl472.jpg",
+      "spotify": "http://open.spotify.com/track/113diaZRZ4pPSwesXWdd5e?utm_campaign=billboard",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 34,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 35,
+      "title": "My Obsession",
+      "artist": "Meri D. Marshall",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 18,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Party All The Time",
+      "artist": "Eddie Murphy",
+      "cover": "http://www.billboard.com/images/pref_images/p15316fn23b.jpg",
+      "spotify": "http://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B?utm_campaign=billboard",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 19,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 37,
+      "title": "One Love",
+      "artist": "Janice Christie",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 35,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 38,
+      "title": "I Touch Roses",
+      "artist": "Book Of Love",
+      "cover": "http://www.billboard.com/images/pref_images/p2369766i1l.jpg",
+      "spotify": "http://open.spotify.com/track/54KZBYmE7MUlwxM2bUzSVY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 8,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Hold Me",
+      "artist": "Laura Branigan",
+      "cover": "http://www.billboard.com/images/pref_images/p11167oc41j.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 39,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Shouldn t Do That",
+      "artist": "Kaja",
+      "cover": "http://www.billboard.com/images/pref_images/p13977yp7p5.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 37,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 41,
+      "title": "(Krush Groove) Can t Stop The Street",
+      "artist": "Chaka Khan",
+      "cover": "http://www.billboard.com/images/pref_images/p66732tkg76.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Blue Kiss",
+      "artist": "Jane Wiedlin",
+      "cover": "http://www.billboard.com/images/pref_images/p18005qmy7h.jpg",
+      "spotify": "http://open.spotify.com/track/1vkqIBgI8WDMrZrDLFUiLY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 30,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Vive Le Rock (Remix)",
+      "artist": "Adam Ant",
+      "cover": "http://www.billboard.com/images/pref_images/q05534i87xc.jpg",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 29,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Get Up Offa That Thang",
+      "artist": "Screamin Tony Baxter",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 44,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 45,
+      "title": "This Is For You",
+      "artist": "The System",
+      "cover": "http://www.billboard.com/images/pref_images/p09598g2543.jpg",
+      "spotify": "http://open.spotify.com/track/4FIcFaVMgpv1V65MLVjuvd?utm_campaign=billboard",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 43,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Lay Your Hands On Me (Remix)",
+      "artist": "Thompson Twins",
+      "cover": "http://www.billboard.com/images/pref_images/p18631ucw4a.jpg",
+      "spotify": "http://open.spotify.com/track/2bfXIY8f38PYFStQRDVEPS?utm_campaign=billboard",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 46,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 47,
+      "title": "In Between Days",
+      "artist": "The Cure",
+      "cover": "http://www.billboard.com/images/pref_images/p11806q0w2u.jpg",
+      "spotify": "http://open.spotify.com/track/0q657mODPO13AQ40XrQ5Bl?utm_campaign=billboard",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 39,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Break It Up (Remix)",
+      "artist": "Mary Jane Girls",
+      "cover": "http://www.billboard.com/images/pref_images/p07837w966x.jpg",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 33,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Limit Of Your Loving/Don t Let It Up",
+      "artist": "Well Red",
+      "cover": "http://www.billboard.com/images/pref_images/p08811a3025.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 17,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 50,
+      "title": "The Heat In Me (Remix)",
+      "artist": "Linda Clifford",
+      "cover": "http://www.billboard.com/images/pref_images/p02917m6xic.jpg",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 17,
+        "Wks on Chart": 7
+      }
+    }
+  ]
+}

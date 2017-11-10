@@ -1,0 +1,539 @@
+{
+  "name": "Country",
+  "chart_date": "1965-02-06",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "You're The Only World I Know",
+      "artist": "Sonny James",
+      "spotify": "http://open.spotify.com/track/0ogwKoeumVNrnXnE2OahZZ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Once A Day",
+      "artist": "Connie Smith",
+      "cover": "http://www.billboard.com/images/pref_images/p85285q666r.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 3,
+      "title": "I Won't Forget You",
+      "artist": "Jim Reeves",
+      "cover": "http://www.billboard.com/images/pref_images/p06780ig50x.jpg",
+      "spotify": "http://open.spotify.com/track/0y4WLsDFcdhGEiyGrTXwV0?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Happy Birthday",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 5,
+      "title": "It Ain't Me, Babe",
+      "artist": "Johnny Cash",
+      "cover": "http://www.billboard.com/images/pref_images/p17121eolkl.jpg",
+      "spotify": "http://open.spotify.com/track/7hJBjMGJHHQ4cR4Jhzp1d1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Ode To The Little Brown Shack Out Back",
+      "artist": "Billy Edd Wheeler",
+      "spotify": "http://open.spotify.com/track/4hvbI3SydZQ66lNlWs8hz6?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 3,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 7,
+      "title": "The Race Is On",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "spotify": "http://open.spotify.com/track/5uiqNMiidQDffMaBoRRtgC?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 3,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Three A.M.",
+      "artist": "Bill Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/q13686h7qps.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 8,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Sittin' In An All Nite Cafe",
+      "artist": "Warner Mack",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 4,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Four Strong Winds",
+      "artist": "Bobby Bare",
+      "cover": "http://www.billboard.com/images/pref_images/p10912s9s7h.jpg",
+      "spotify": "http://open.spotify.com/track/2DhT1bCyuYmBkV1kGDAgrH?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 11,
+      "title": "I'll Repossess My Heart",
+      "artist": "Kitty Wells",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 8,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Cross The Brazos At Waco",
+      "artist": "Billy Walker",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 2,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 13,
+      "title": "I Don't Care (Just As Long As You Love Me)",
+      "artist": "Buck Owens",
+      "cover": "http://www.billboard.com/images/pref_images/p15648l4g42.jpg",
+      "spotify": "http://open.spotify.com/track/7hBAHbVg5jXpeLFBAFWpWp?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 1,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Pushed In A Corner",
+      "artist": "Ernest",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 11,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 15,
+      "title": "I've Got A Tiger By The Tail",
+      "artist": "Buck Owens",
+      "cover": "http://www.billboard.com/images/pref_images/p15648l4g42.jpg",
+      "spotify": "http://open.spotify.com/track/1GDAvJth0ebssC2XkG7RYM?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Truck Driving Man",
+      "artist": "George Hamilton IV",
+      "cover": "http://www.billboard.com/images/pref_images/p01348pqkh9.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 11,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 17,
+      "title": "The Lumberjack",
+      "artist": "[Champagne]",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 18,
+      "title": "I Thank My Lucky Stars",
+      "artist": "Eddy Arnold",
+      "cover": "http://www.billboard.com/images/pref_images/p08903vh77v.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 8,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 19,
+      "title": "I'll Go Down Swinging",
+      "artist": "Porter Wagoner",
+      "cover": "http://www.billboard.com/images/pref_images/p15682u239j.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 11,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Do-Wacka-Do",
+      "artist": "Roger Miller",
+      "cover": "http://www.billboard.com/images/pref_images/p21348sl623.jpg",
+      "spotify": "http://open.spotify.com/track/6Smv2PMetrqpQjpLLoNg59?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Close All The Honky Tonks",
+      "artist": "Charlie",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 17,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Do What You Do Do Well",
+      "artist": "Ned Miller",
+      "spotify": "http://open.spotify.com/track/2lUgiKN1sOIpXhkde5C0Qk?utm_campaign=billboard",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 7,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Then And Only Then",
+      "artist": "Connie Smith",
+      "cover": "http://www.billboard.com/images/pref_images/p85285q666r.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 4,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 24,
+      "title": "(My Friends Are Gonna Be) Strangers",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 10,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 25,
+      "title": "One Of These Days",
+      "artist": "Marty Robbins",
+      "cover": "http://www.billboard.com/images/pref_images/p2246418kv3.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 8,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 26,
+      "title": "What I Need Most",
+      "artist": "[Champagne]",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 21,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 27,
+      "title": "(From Now On All My Friends Are Gonna Be) Strangers",
+      "artist": "Roy Drusky",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 6,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Go Cat Go",
+      "artist": "Norma Jean",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 8,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Cause I Believe In You",
+      "artist": "Don Gibson",
+      "cover": "http://www.billboard.com/images/pref_images/p01350b8647.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Multiply The Heartaches",
+      "artist": "George Jones & Melba Montgomery",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 25,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Just Between The Two Of Us",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 28,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 32,
+      "title": "What Makes A Man Wander?",
+      "artist": "Jan Howard",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 25,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Half Of This, Half Of That",
+      "artist": "Wynn Stewart",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 30,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 34,
+      "title": "I'll Wander Back To You",
+      "artist": "[Champagne]",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 30,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 35,
+      "title": "I'm Gonna Tie One On Tonight",
+      "artist": "Wilburn Brothers",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 19,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Don't Be Angry",
+      "artist": "Stonewall Jackson",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 4,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 37,
+      "title": "A Tiger In My Tank",
+      "artist": "Jim Nesbitt",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 15,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Less And Less",
+      "artist": "Charlie Louvin",
+      "cover": "http://www.billboard.com/images/pref_images/p07815wcx46.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 27,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Least Of All",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 15,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Walk Tall",
+      "artist": "Faron Young",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 10,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 41,
+      "title": "When It's Over",
+      "artist": "Carl Smith",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 26,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 42,
+      "title": "That's Where My Money Goes",
+      "artist": "Webb Pierce",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 26,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Ringo",
+      "artist": "Lorne Greene",
+      "spotify": "http://open.spotify.com/track/4e4mVldgBm6ji18rNdM8dI?utm_campaign=billboard",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 21,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Pass The Booze",
+      "artist": "Ernest Tubb",
+      "cover": "http://www.billboard.com/images/pref_images/p02509s361g.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 15,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Tiny Blue Transistor Radio",
+      "artist": "Connie Smith",
+      "cover": "http://www.billboard.com/images/pref_images/p85285q666r.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 25,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 46,
+      "title": "A Tear Dropped By",
+      "artist": "Jean Shepard",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 38,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Broken Engagement",
+      "artist": "Webb Pierce",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 46,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Anne Of A Thousand Days",
+      "artist": "Leroy Van Dyke",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 40,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Sweet, Sweet Judy",
+      "artist": "David Houston",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 18,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 50,
+      "title": "10 Little Bottles",
+      "artist": "Johnny Bond",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 2,
+        "Wks on Chart": 21
+      }
+    }
+  ]
+}

@@ -1,0 +1,563 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "1980-12-06",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Master Blaster (Jammin')",
+      "artist": "Stevie Wonder",
+      "cover": "http://www.billboard.com/images/pref_images/q10766ptu75.jpg",
+      "spotify": "http://open.spotify.com/track/617n3ZavEbdQMnkWrrCWL1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Love T.K.O.",
+      "artist": "Teddy Pendergrass",
+      "cover": "http://www.billboard.com/images/pref_images/p07070d312s.jpg",
+      "spotify": "http://open.spotify.com/track/5H5dwGderltbKca1OKrbKE?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Celebration",
+      "artist": "Kool & The Gang",
+      "cover": "http://www.billboard.com/images/pref_images/p14100g5q4p.jpg",
+      "spotify": "http://open.spotify.com/track/1pGCWtHyUUUx2RMjYnaCGw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Lovely One",
+      "artist": "The Jacksons",
+      "cover": "http://www.billboard.com/images/pref_images/p13788c97bo.jpg",
+      "spotify": "http://open.spotify.com/track/5BjzGu57rKpYRWBCWMtWqp?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Uptown",
+      "artist": "Prince And The Revolution",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy6495871972193697421.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 6,
+      "title": "More Bounch To The Ounce",
+      "artist": "Zapp",
+      "cover": "http://www.billboard.com/images/pref_images/p18208r92c1.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Keep It Hot",
+      "artist": "Cameo",
+      "cover": "http://www.billboard.com/images/pref_images/p09435vafk4.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 4,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Another One Bites The Dust",
+      "artist": "Queen",
+      "cover": "http://www.billboard.com/images/pref_images/q10200d46m2.jpg",
+      "spotify": "http://open.spotify.com/track/2R7m44ZyDZX4SMybSgBpHB?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 2,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Love X Love",
+      "artist": "George Benson",
+      "cover": "http://www.billboard.com/images/pref_images/q14951wyjfz.jpg",
+      "spotify": "http://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 9,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 10,
+      "title": "I'm Coming Out",
+      "artist": "Diana Ross",
+      "cover": "http://www.billboard.com/images/pref_images/q33884lgsbc.jpg",
+      "spotify": "http://open.spotify.com/track/5rVLJ7iNaD6CCBvhuUd5Uq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 6,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 11,
+      "title": "I Need Your Lovin'",
+      "artist": "Teena Marie",
+      "cover": "http://www.billboard.com/images/pref_images/p08180wbxih.jpg",
+      "spotify": "http://open.spotify.com/track/55HXB3JqztILTqnFqbp0Gq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Remote Control",
+      "artist": "The Reddings",
+      "cover": "http://www.billboard.com/images/pref_images/p15997xx383.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 6,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 13,
+      "title": "The Wanderer",
+      "artist": "Donna Summer",
+      "cover": "http://www.billboard.com/images/pref_images/q35210dzifc.jpg",
+      "spotify": "http://open.spotify.com/track/4RqK4cmwm2TxYlkvhQxi7U?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 14,
+      "title": "When We Get Married",
+      "artist": "Larry Graham",
+      "cover": "http://www.billboard.com/images/pref_images/p15491v0a37.jpg",
+      "spotify": "http://open.spotify.com/track/5wmI3VbYOrXrJdveuDQx0R?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 9,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 15,
+      "title": "I'll Never Find Another (Find Another Like You)",
+      "artist": "The Manhattans",
+      "cover": "http://www.billboard.com/images/pref_images/p14999tog0m.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 12,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Funkin' For Jamaica (N.Y.)",
+      "artist": "Tom Browne",
+      "cover": "http://www.billboard.com/images/pref_images/p00808u7puy.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Where Did We Go Wrong",
+      "artist": "LTD",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 7,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 18,
+      "title": "United Together",
+      "artist": "Aretha Franklin",
+      "cover": "http://www.billboard.com/images/pref_images/q10399wqplt.jpg",
+      "spotify": "http://open.spotify.com/track/61ln7T1dcCrsOUOIGfkh6g?utm_campaign=billboard",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 3,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Look Up",
+      "artist": "Patrice Rushen",
+      "cover": "http://www.billboard.com/images/pref_images/p19595lisfr.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 13,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Love Uprising",
+      "artist": "Tavares",
+      "cover": "http://www.billboard.com/images/pref_images/p01338r0lv6.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 17,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 21,
+      "title": "It's My Turn",
+      "artist": "Diana Ross",
+      "cover": "http://www.billboard.com/images/pref_images/q33884lgsbc.jpg",
+      "spotify": "http://open.spotify.com/track/36BuvbZJHxCZorNYVongtf?utm_campaign=billboard",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 14,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Happy Anniversary",
+      "artist": "Ray, Goodman & Brown",
+      "cover": "http://www.billboard.com/images/pref_images/p08126c3i2u.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 16,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 23,
+      "title": "You",
+      "artist": "Earth, Wind & Fire",
+      "cover": "http://www.billboard.com/images/pref_images/q34482u4lsc.jpg",
+      "spotify": "http://open.spotify.com/track/3Uac2LXOc10m9nA3rhl75b?utm_campaign=billboard",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 10,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Kid Stuff",
+      "artist": "Twennynine With Lenny White",
+      "cover": "http://www.billboard.com/images/pref_images/p08726vdd05.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Fantastic Voyage",
+      "artist": "Lakeside",
+      "cover": "http://www.billboard.com/images/pref_images/p09218eq505.jpg",
+      "spotify": "http://open.spotify.com/track/1T9HKDlRpLItsK5fs8Q6KF?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 1,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Love Over And Over Again",
+      "artist": "Switch",
+      "cover": "http://www.billboard.com/images/pref_images/q12185rtbet.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 9,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Gangsters Of The Groove",
+      "artist": "Heatwave",
+      "cover": "http://www.billboard.com/images/pref_images/p16963j474w.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 21,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 28,
+      "title": "What Cha Doin'",
+      "artist": "Seawind",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 18,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 29,
+      "title": "How Long",
+      "artist": "Lipps Inc.",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 29,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Could I Be Dreaming",
+      "artist": "The Pointer Sisters",
+      "cover": "http://www.billboard.com/images/pref_images/p15808se500.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 22,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Freak To Freak",
+      "artist": "Sweat Band",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 25,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Prove It",
+      "artist": "Michael Henderson",
+      "cover": "http://www.billboard.com/images/pref_images/q08914oupky.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 27,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 33,
+      "title": "THE REAL THANG",
+      "artist": "Narada",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Shine On",
+      "artist": "LTD",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 19,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Happy Endings",
+      "artist": "Ashford & Simpson",
+      "cover": "http://www.billboard.com/images/pref_images/p10802ub787.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 35,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Hurry Up This Way Again",
+      "artist": "The Stylistics",
+      "cover": "http://www.billboard.com/images/pref_images/p24792ob6df.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 18,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 37,
+      "title": "I Go Crazy",
+      "artist": "Lou Rawls",
+      "cover": "http://www.billboard.com/images/pref_images/p15980w67ph.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 37,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Agony Of Defeet",
+      "artist": "Parliament",
+      "cover": "http://www.billboard.com/images/pref_images/p06768g258o.jpg",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 7,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Mug Push",
+      "artist": "Bootsy",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 25,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Heavenly Body",
+      "artist": "The Chi-lites",
+      "cover": "http://www.billboard.com/images/pref_images/p11501vvs80.jpg",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 36,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Now That You're Mine Again",
+      "artist": "The Spinners",
+      "cover": "http://www.billboard.com/images/pref_images/q15287uvx22.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 25,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Do Me Right",
+      "artist": "Dynasty",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 34,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Shoot Your Best Shot",
+      "artist": "Linda Clifford",
+      "cover": "http://www.billboard.com/images/pref_images/p02917m6xic.jpg",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 43,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 44,
+      "title": "We Never Said Goodbye/easy Love",
+      "artist": "Dionne Warwick",
+      "cover": "http://www.billboard.com/images/pref_images/p2313112u80.jpg",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 41,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 45,
+      "title": "If You Feel The Funk",
+      "artist": "LaToya Jackson",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 40,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Never Knew Love Like This Before",
+      "artist": "Stephanie Mills",
+      "cover": "http://www.billboard.com/images/pref_images/p25984thctt.jpg",
+      "spotify": "http://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 12,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 47,
+      "title": "He's So Shy",
+      "artist": "The Pointer Sisters",
+      "cover": "http://www.billboard.com/images/pref_images/p15808se500.jpg",
+      "spotify": "http://open.spotify.com/track/6R9NqD0WX9sJYs6PbA5onu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 10,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Once Is Not Enough",
+      "artist": "The O'Jays",
+      "cover": "http://www.billboard.com/images/pref_images/p15585k09po.jpg",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 44,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Inherit The Wind",
+      "artist": "Wilton Felder",
+      "cover": "http://www.billboard.com/images/pref_images/p13032t7y42.jpg",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 35,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Too Tight",
+      "artist": "ConFunkShun",
+      "spotify": "http://open.spotify.com/track/2bdWyUgcDQweQrxp4Z1zmG?utm_campaign=billboard",
+      "position": {
+        "Last Week": "63",
+        "Peak Position": 8,
+        "Wks on Chart": 20
+      }
+    }
+  ]
+}

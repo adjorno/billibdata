@@ -1,0 +1,485 @@
+{
+  "name": "Pop",
+  "chart_date": "2015-02-21",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Uptown Funk!",
+      "artist": "Mark Ronson Featuring Bruno Mars",
+      "cover": "http://www.billboard.com/images/pref_images/q25997evaur.jpg",
+      "spotify": "http://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Thinking Out Loud",
+      "artist": "Ed Sheeran",
+      "cover": "http://www.billboard.com/images/pref_images/q22197yyx2z.jpg",
+      "spotify": "http://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Take Me To Church",
+      "artist": "Hozier",
+      "cover": "http://www.billboard.com/images/pref_images/q16962oob3u.jpg",
+      "spotify": "http://open.spotify.com/track/7dS5EaCoMnN7DzlpT6aRn2?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Lips Are Movin",
+      "artist": "Meghan Trainor",
+      "cover": "http://www.billboard.com/images/pref_images/q24213mn5do.jpg",
+      "spotify": "http://open.spotify.com/track/357p2KRTBXeGGw6YfUI1nH?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "cover": "http://www.billboard.com/images/pref_images/q18128ghf4v.jpg",
+      "spotify": "http://open.spotify.com/track/1v3PfBCAaH2uV0TXmYjLz8?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 6,
+      "title": "I'm Not The Only One",
+      "artist": "Sam Smith",
+      "cover": "http://www.billboard.com/images/pref_images/q28161qe21s.jpg",
+      "spotify": "http://open.spotify.com/track/0fioLzGM8ngbD1w6fMmm45?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Jealous",
+      "artist": "Nick Jonas",
+      "cover": "http://www.billboard.com/images/pref_images/q25309d1720.jpg",
+      "spotify": "http://open.spotify.com/track/3JiockjOTd8m2VGcTGkmew?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 2,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Time Of Our Lives",
+      "artist": "Pitbull & Ne-Yo",
+      "cover": "http://www.billboard.com/images/pref_images/q12878gnzu5.jpg",
+      "spotify": "http://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 4,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Prayer In C",
+      "artist": "Lillywood & Robin Schulz",
+      "cover": "http://www.billboard.com/images/pref_images/q25261hxqxh.jpg",
+      "spotify": "http://open.spotify.com/track/4MteadAdoJXNnuBIa0Q1ZK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 7,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Style",
+      "artist": "Taylor Swift",
+      "cover": "http://www.billboard.com/images/pref_images/q18128ghf4v.jpg",
+      "spotify": "http://open.spotify.com/track/4UsqUhsBoXhfRjz1GwrD1s?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 1,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Sugar",
+      "artist": "Maroon 5",
+      "cover": "http://www.billboard.com/images/pref_images/q23288tuz17.jpg",
+      "spotify": "http://open.spotify.com/track/3A5PPBScaxdOaZRxApGHAr?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 1,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Ghost",
+      "artist": "Ella Henderson",
+      "cover": "http://www.billboard.com/images/pref_images/q27280uv4m7.jpg",
+      "spotify": "http://open.spotify.com/track/2FiceoWDJ67rrmb5tGBpgE?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 11,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 13,
+      "title": "The Heart Wants What It Wants",
+      "artist": "Selena Gomez",
+      "cover": "http://www.billboard.com/images/pref_images/q08674j370m.jpg",
+      "spotify": "http://open.spotify.com/track/2jcPoPin36hyNRSi4ZsqeB?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 7,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Centuries",
+      "artist": "Fall Out Boy",
+      "cover": "http://www.billboard.com/images/pref_images/q27394ewjzz.jpg",
+      "spotify": "http://open.spotify.com/track/3r0NMcEl7lxAHkSlDk8b7U?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Love Me Harder",
+      "artist": "Ariana Grande & The Weeknd",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy8029153055372258969.jpg",
+      "spotify": "http://open.spotify.com/track/0e5q6Z47J4oU5S0gvfjKpi?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 3,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 16,
+      "title": "FourFiveSeconds",
+      "artist": "Rihanna & Kanye West & Paul McCartney",
+      "cover": "http://www.billboard.com/images/pref_images/q03760hm8js.jpg",
+      "spotify": "http://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y?utm_campaign=billboard",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 6,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Stuck On A Feeling",
+      "artist": "Prince Royce Featuring Snoop Dogg",
+      "spotify": "http://open.spotify.com/track/467EtYDw801TKMxMtGCsFO?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Outside",
+      "artist": "Calvin Harris Featuring Ellie Goulding",
+      "cover": "http://www.billboard.com/images/pref_images/q17776gzf8s.jpg",
+      "spotify": "http://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 8,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 19,
+      "title": "I Lived",
+      "artist": "OneRepublic",
+      "cover": "http://www.billboard.com/images/pref_images/q17060cnuv6.jpg",
+      "spotify": "http://open.spotify.com/track/7D49Iig0avHre9RFSUMkd2?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 18,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "cover": "http://www.billboard.com/images/pref_images/q12674cnylt.jpg",
+      "spotify": "http://open.spotify.com/track/6NkRjdInQuM5qRgeYUDCZe?utm_campaign=billboard",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 1,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Animals",
+      "artist": "Maroon 5",
+      "cover": "http://www.billboard.com/images/pref_images/q23288tuz17.jpg",
+      "spotify": "http://open.spotify.com/track/0ePNlUmwg2IN5JRPlLplF4?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Night Changes",
+      "artist": "One Direction",
+      "cover": "http://www.billboard.com/images/pref_images/q24968m0lnw.jpg",
+      "spotify": "http://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 14,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 23,
+      "title": "I Don't Mind",
+      "artist": "Usher Featuring Juicy J",
+      "cover": "http://www.billboard.com/images/pref_images/p99056mvv4y.jpg",
+      "spotify": "http://open.spotify.com/track/7aXuop4Qambx5Oi3ynsKQr?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 17,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 24,
+      "title": "She Knows",
+      "artist": "Ne-Yo Featuring Juicy J",
+      "cover": "http://www.billboard.com/images/pref_images/q28149ek0vk.jpg",
+      "spotify": "http://open.spotify.com/track/0YfA79zrPI3JTmpVBbACt2?utm_campaign=billboard",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 19,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Heartbeat Song",
+      "artist": "Kelly Clarkson",
+      "cover": "http://www.billboard.com/images/pref_images/q28615l00mt.jpg",
+      "spotify": "http://open.spotify.com/track/53b7YqVw2Vc1oRrYeOm7z7?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 19,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Somebody",
+      "artist": "Natalie La Rose Featuring Jeremih",
+      "cover": "http://www.billboard.com/images/pref_images/q28321rwxm1.jpg",
+      "spotify": "http://open.spotify.com/track/0pn6qyOJYNwP9nhGg3L7dV?utm_campaign=billboard",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 3,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Riptide",
+      "artist": "Vance Joy",
+      "cover": "http://www.billboard.com/images/pref_images/q22859jkptf.jpg",
+      "spotify": "http://open.spotify.com/track/423RKXolCbgBbkF8WanOwA?utm_campaign=billboard",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 18,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Chains",
+      "artist": "Nick Jonas",
+      "cover": "http://www.billboard.com/images/pref_images/q25309d1720.jpg",
+      "spotify": "http://open.spotify.com/track/1SfoXU9q0EZtlgSLlrYBju?utm_campaign=billboard",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 6,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Sledgehammer",
+      "artist": "Fifth Harmony",
+      "cover": "http://www.billboard.com/images/pref_images/q24467d1h0y.jpg",
+      "spotify": "http://open.spotify.com/track/0QvdM0mzQpphLZVCqVGGjC?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 21,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 30,
+      "title": "The Hanging Tree",
+      "artist": "James Newton Howard Featuring Jennifer Lawrence",
+      "cover": "http://www.billboard.com/images/pref_images/84598376.jpg",
+      "spotify": "http://open.spotify.com/track/5ONu4EF5vxDOCmBbQI6s0M?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 10,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Tuesday",
+      "artist": "I LOVE MAKONNEN Featuring Drake",
+      "cover": "http://www.billboard.com/images/pref_images/q26750tgmh2.jpg",
+      "spotify": "http://open.spotify.com/track/0VUciMnzRE044CMn8FYeCY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 23,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Talking Body",
+      "artist": "Tove Lo",
+      "cover": "http://www.billboard.com/images/pref_images/q24314hv6wg.jpg",
+      "spotify": "http://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 4,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 33,
+      "title": "All About It",
+      "artist": "Hoodie Allen Featuring Ed Sheeran",
+      "cover": "http://www.billboard.com/images/pref_images/q26646vsnyo.jpg",
+      "spotify": "http://open.spotify.com/track/358NczqtEEgwL6CCsowgmz?utm_campaign=billboard",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 28,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Masterpiece",
+      "artist": "Jessie J",
+      "cover": "http://www.billboard.com/images/pref_images/q24623rgrot.jpg",
+      "spotify": "http://open.spotify.com/track/4QnDtVAQlf30wqCLaI5415?utm_campaign=billboard",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 30,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Can't Stop Dancin'",
+      "artist": "Becky G",
+      "cover": "http://www.billboard.com/images/pref_images/q12103m5bcd.jpg",
+      "spotify": "http://open.spotify.com/track/5NetSTs4dgiR6GLrZOQcwJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 34,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Truffle Butter",
+      "artist": "Nicki Minaj Featuring Drake & Lil Wayne",
+      "cover": "http://www.billboard.com/images/pref_images/p72863w2ogt.jpg",
+      "spotify": "http://open.spotify.com/track/3keUgTGEoZJt0QkzTB6kHg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 37,
+      "title": "I Bet My Life",
+      "artist": "Imagine Dragons",
+      "cover": "http://www.billboard.com/images/pref_images/q26284ht2zs.jpg",
+      "spotify": "http://open.spotify.com/track/2Ex5M7OjJhkH38JvCUzwXR?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 28,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 38,
+      "title": "G.D.F.R.",
+      "artist": "Flo Rida Featuring Sage The Gemini & Lookas",
+      "cover": "http://www.billboard.com/images/pref_images/q00120e8szk.jpg",
+      "spotify": "http://open.spotify.com/track/6N9ZOtguCnnrvwH7zD82WJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 8,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 39,
+      "title": "I Don't F**k With You",
+      "artist": "Big Sean Featuring E-40",
+      "cover": "http://www.billboard.com/images/pref_images/q09883u4w3g.jpg",
+      "spotify": "http://open.spotify.com/track/7p54iuWHqvdeN224OglZ9t?utm_campaign=billboard",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 27,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Weekend",
+      "artist": "Priory",
+      "cover": "http://www.billboard.com/images/pref_images/q21026og62z.jpg",
+      "spotify": "http://open.spotify.com/track/6Drh25cclvIvKj2xyzqiwp?utm_campaign=billboard",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 37,
+        "Wks on Chart": 2
+      }
+    }
+  ]
+}

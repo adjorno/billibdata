@@ -1,0 +1,602 @@
+{
+  "chart_date": "2017-05-06",
+  "name": "Rock",
+  "tracks": [
+    {
+      "artist": "Imagine Dragons",
+      "cover": "http://www.billboard.com/images/pref_images/q26284ht2zs.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      },
+      "rank": 1,
+      "spotify": "http://open.spotify.com/track/05KfyCEE6otdlT1pp2VIjP?utm_campaign=billboard",
+      "title": "Believer"
+    },
+    {
+      "artist": "twenty one pilots",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy7523195216953225748.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 44
+      },
+      "rank": 2,
+      "spotify": "http://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr?utm_campaign=billboard",
+      "title": "Heathens"
+    },
+    {
+      "artist": "Linkin Park Featuring Kiiara",
+      "cover": "http://www.billboard.com/images/pref_images/q62405v4l28.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 10
+      },
+      "rank": 3,
+      "spotify": "http://open.spotify.com/track/32bqxZEJRJObeNyc8bEiPt?utm_campaign=billboard",
+      "title": "Heavy"
+    },
+    {
+      "artist": "twenty one pilots",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy7523195216953225748.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 92
+      },
+      "rank": 4,
+      "spotify": "http://open.spotify.com/track/2Z8WuEywRWYTKe1NybPQEW?utm_campaign=billboard",
+      "title": "Ride"
+    },
+    {
+      "artist": "Lord Huron",
+      "cover": "http://www.billboard.com/images/pref_images/q28686b8nxe.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 3
+      },
+      "rank": 5,
+      "title": "The Night We Met"
+    },
+    {
+      "artist": "Rag'n'Bone Man",
+      "cover": "http://www.billboard.com/images/pref_images/q58056tghsd.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 21
+      },
+      "rank": 6,
+      "spotify": "http://open.spotify.com/track/3erAiWBiKsbVG39cqCrsI0?utm_campaign=billboard",
+      "title": "Human"
+    },
+    {
+      "artist": "Lana Del Rey Featuring The Weeknd",
+      "cover": "http://www.billboard.com/images/pref_images/q39022dzfa8.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      },
+      "rank": 7,
+      "spotify": "http://open.spotify.com/track/5hzey1kBGjy3B8tDGcyRTY?utm_campaign=billboard",
+      "title": "Lust For Life"
+    },
+    {
+      "artist": "Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors",
+      "cover": "http://www.billboard.com/images/pref_images/q52102onwz2.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 3,
+        "Wks on Chart": 43
+      },
+      "rank": 8,
+      "spotify": "http://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB?utm_campaign=billboard",
+      "title": "Sucker For Pain"
+    },
+    {
+      "artist": "Kaleo",
+      "cover": "http://www.billboard.com/images/pref_images/q46066lngks.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 5,
+        "Wks on Chart": 52
+      },
+      "rank": 9,
+      "spotify": "http://open.spotify.com/track/7aUuoq4oMfLxaLa5GVUDHi?utm_campaign=billboard",
+      "title": "Way Down We Go"
+    },
+    {
+      "artist": "Paramore",
+      "cover": "http://www.billboard.com/images/pref_images/q43092syomq.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      },
+      "rank": 10,
+      "spotify": "http://open.spotify.com/track/5hHudNsfZXmdgefWxAX2LG?utm_campaign=billboard",
+      "title": "Hard Times"
+    },
+    {
+      "artist": "The Revivalists",
+      "cover": "http://www.billboard.com/images/pref_images/q42278sjl0y.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 9,
+        "Wks on Chart": 21
+      },
+      "rank": 11,
+      "spotify": "http://open.spotify.com/track/7jpP6QKGSJDpSFkAy3nKxG?utm_campaign=billboard",
+      "title": "Wish I Knew You"
+    },
+    {
+      "artist": "Bob Pressner",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 12,
+        "Wks on Chart": 1
+      },
+      "rank": 12,
+      "title": "American Dream"
+    },
+    {
+      "artist": "John Mayer",
+      "cover": "http://www.billboard.com/images/pref_images/q62636jk27k.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      },
+      "rank": 13,
+      "spotify": "http://open.spotify.com/track/77Y57qRJBvkGCUw9qs0qMg?utm_campaign=billboard",
+      "title": "In The Blood"
+    },
+    {
+      "artist": "Portugal. The Man",
+      "cover": "http://www.billboard.com/images/pref_images/q30437t4fzv.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 7
+      },
+      "rank": 14,
+      "spotify": "http://open.spotify.com/track/7FESgYLcOufHqKlwrvJN60?utm_campaign=billboard",
+      "title": "Feel It Still"
+    },
+    {
+      "artist": "Linkin Park Featuring Pusha T & Stormzy",
+      "cover": "http://www.billboard.com/images/pref_images/q62405v4l28.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 15,
+        "Wks on Chart": 1
+      },
+      "rank": 15,
+      "spotify": "http://open.spotify.com/track/0wT2QRF3Z9jiKKd7Gjs4sq?utm_campaign=billboard",
+      "title": "Good Goodbye"
+    },
+    {
+      "artist": "Ocean Park Standoff",
+      "cover": "http://www.billboard.com/images/pref_images/q63623ocqyl.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 14,
+        "Wks on Chart": 6
+      },
+      "rank": 16,
+      "spotify": "http://open.spotify.com/track/3BWFeMmngcxUY4MyacK8YI?utm_campaign=billboard",
+      "title": "Good News"
+    },
+    {
+      "artist": "Gorillaz Featuring Popcaan",
+      "cover": "http://www.billboard.com/images/pref_images/q15976h04ns.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 5,
+        "Wks on Chart": 4
+      },
+      "rank": 17,
+      "spotify": "http://open.spotify.com/track/2oJInAFXiQYLgz0jh9MrXf?utm_campaign=billboard",
+      "title": "Saturnz Barz"
+    },
+    {
+      "artist": "John Mayer",
+      "cover": "http://www.billboard.com/images/pref_images/q62636jk27k.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      },
+      "rank": 18,
+      "spotify": "http://open.spotify.com/track/5KsLlcmWDoHUoJFzRw14wD?utm_campaign=billboard",
+      "title": "Rosie"
+    },
+    {
+      "artist": "Lana Del Rey",
+      "cover": "http://www.billboard.com/images/pref_images/q39022dzfa8.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 2,
+        "Wks on Chart": 9
+      },
+      "rank": 19,
+      "spotify": "http://open.spotify.com/track/5zGPITTmaPqluxoPFYRsOY?utm_campaign=billboard",
+      "title": "Love"
+    },
+    {
+      "artist": "John Mayer",
+      "cover": "http://www.billboard.com/images/pref_images/q62636jk27k.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 13,
+        "Wks on Chart": 6
+      },
+      "rank": 20,
+      "spotify": "http://open.spotify.com/track/3pdWCmUno1bWzYIdYwoiMM?utm_campaign=billboard",
+      "title": "Still Feel Like Your Man"
+    },
+    {
+      "artist": "NEEDTOBREATHE",
+      "cover": "http://www.billboard.com/images/pref_images/q51174oq07g.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 14,
+        "Wks on Chart": 23
+      },
+      "rank": 21,
+      "spotify": "http://open.spotify.com/track/5OpjJ9qy54D3PzQJ1s4Q9X?utm_campaign=billboard",
+      "title": "Testify"
+    },
+    {
+      "artist": "MISSIO",
+      "cover": "http://www.billboard.com/images/pref_images/q62578ln6pz.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 18,
+        "Wks on Chart": 11
+      },
+      "rank": 22,
+      "spotify": "http://open.spotify.com/track/6C9qVh9LBE3UlMLHRvqWVl?utm_campaign=billboard",
+      "title": "Middle Fingers"
+    },
+    {
+      "artist": "Cold War Kids",
+      "cover": "http://www.billboard.com/images/pref_images/q55821mqzir.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 11
+      },
+      "rank": 23,
+      "spotify": "http://open.spotify.com/track/4RJnzmVL12aIuWpMoXu2u4?utm_campaign=billboard",
+      "title": "Love Is Mystical"
+    },
+    {
+      "artist": "Papa Roach",
+      "cover": "http://www.billboard.com/images/pref_images/q25010pkyj6.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 15,
+        "Wks on Chart": 9
+      },
+      "rank": 24,
+      "spotify": "http://open.spotify.com/track/2arL1Kf2JBS7ms00JAz4w0?utm_campaign=billboard",
+      "title": "Help"
+    },
+    {
+      "artist": "John Mayer",
+      "cover": "http://www.billboard.com/images/pref_images/q62636jk27k.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      },
+      "rank": 25,
+      "spotify": "http://open.spotify.com/track/3TQbr3G3U5wlwEJejmqC1F?utm_campaign=billboard",
+      "title": "Never On The Day You Leave"
+    },
+    {
+      "artist": "Gorillaz Featuring D.R.A.M.",
+      "cover": "http://www.billboard.com/images/pref_images/q15976h04ns.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 9,
+        "Wks on Chart": 4
+      },
+      "rank": 26,
+      "spotify": "http://open.spotify.com/track/0V5zAGdvO780GT3gtdxzLt?utm_campaign=billboard",
+      "title": "Andromeda"
+    },
+    {
+      "artist": "Gorillaz Featuring Mavis Staples & Pusha T",
+      "cover": "http://www.billboard.com/images/pref_images/q15976h04ns.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 3
+      },
+      "rank": 27,
+      "spotify": "http://open.spotify.com/track/3CCS6y9BPowg2jYiaY94UZ?utm_campaign=billboard",
+      "title": "Let Me Out"
+    },
+    {
+      "artist": "Bleachers",
+      "cover": "http://www.billboard.com/images/pref_images/q18542mmagz.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 16,
+        "Wks on Chart": 3
+      },
+      "rank": 28,
+      "spotify": "http://open.spotify.com/track/0d3BJRrklQ6sTfbmrojuZI?utm_campaign=billboard",
+      "title": "Don't Take The Money"
+    },
+    {
+      "artist": "John Mayer",
+      "cover": "http://www.billboard.com/images/pref_images/q62636jk27k.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 8,
+        "Wks on Chart": 6
+      },
+      "rank": 29,
+      "spotify": "http://open.spotify.com/track/1CdEcheLJU6SgxnbFEj2WX?utm_campaign=billboard",
+      "title": "Moving On And Getting Over"
+    },
+    {
+      "artist": "Cage The Elephant",
+      "cover": "http://www.billboard.com/images/pref_images/q43481m3k8n.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 26,
+        "Wks on Chart": 12
+      },
+      "rank": 30,
+      "title": "Cold Cold Cold"
+    },
+    {
+      "artist": "alt-J",
+      "cover": "http://www.billboard.com/images/pref_images/q20033nrhsr.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 19,
+        "Wks on Chart": 3
+      },
+      "rank": 31,
+      "spotify": "http://open.spotify.com/track/6sIvAyM1AtnSGz3anRLcDo?utm_campaign=billboard",
+      "title": "In Cold Blood"
+    },
+    {
+      "artist": "Bastille",
+      "cover": "http://www.billboard.com/images/pref_images/q56319xuknq.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 10
+      },
+      "rank": 32,
+      "spotify": "http://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH?utm_campaign=billboard",
+      "title": "Blame"
+    },
+    {
+      "artist": "John Mayer",
+      "cover": "http://www.billboard.com/images/pref_images/q62636jk27k.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 10,
+        "Wks on Chart": 3
+      },
+      "rank": 33,
+      "spotify": "http://open.spotify.com/track/2uuupTirBvf7iQ8mWN7v1O?utm_campaign=billboard",
+      "title": "You're Gonna Live Forever In Me"
+    },
+    {
+      "artist": "Starset",
+      "cover": "http://www.billboard.com/images/pref_images/q32032fjif3.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 27,
+        "Wks on Chart": 17
+      },
+      "rank": 34,
+      "spotify": "http://open.spotify.com/track/6vBVkRVnVuguXXES422YbS?utm_campaign=billboard",
+      "title": "Monster"
+    },
+    {
+      "artist": "Sir Sly",
+      "cover": "http://www.billboard.com/images/pref_images/q24579gzkeh.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 35,
+        "Wks on Chart": 4
+      },
+      "rank": 35,
+      "spotify": "http://open.spotify.com/track/0Ji6UviVtG3hVK86PwlQmI?utm_campaign=billboard",
+      "title": "High"
+    },
+    {
+      "artist": "The Lumineers",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy8920730921949645965.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 15,
+        "Wks on Chart": 32
+      },
+      "rank": 36,
+      "spotify": "http://open.spotify.com/track/5bodDpPolC3xlame0SVcDY?utm_campaign=billboard",
+      "title": "Angela"
+    },
+    {
+      "artist": "John Mayer",
+      "cover": "http://www.billboard.com/images/pref_images/q62636jk27k.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      },
+      "rank": 37,
+      "spotify": "http://open.spotify.com/track/1G4s7WkhgmdQvYaGCHjw1G?utm_campaign=billboard",
+      "title": "Theme From \"The Search For Everything\""
+    },
+    {
+      "artist": "Gorillaz Featuring Vince Staples",
+      "cover": "http://www.billboard.com/images/pref_images/q15976h04ns.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 11,
+        "Wks on Chart": 4
+      },
+      "rank": 38,
+      "spotify": "http://open.spotify.com/track/4xmauQDU8n3QZ2kzfa3wTH?utm_campaign=billboard",
+      "title": "Ascension"
+    },
+    {
+      "artist": "John Mayer",
+      "cover": "http://www.billboard.com/images/pref_images/q62636jk27k.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 23,
+        "Wks on Chart": 2
+      },
+      "rank": 39,
+      "spotify": "http://open.spotify.com/track/7pYdMupCkVcwZ6kOKmWFfj?utm_campaign=billboard",
+      "title": "Emoji Of A Wave"
+    },
+    {
+      "artist": "John Mayer",
+      "cover": "http://www.billboard.com/images/pref_images/q62636jk27k.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 21,
+        "Wks on Chart": 2
+      },
+      "rank": 40,
+      "spotify": "http://open.spotify.com/track/3ooKsUCAz3EgEjZAPRwtCm?utm_campaign=billboard",
+      "title": "Helpless"
+    },
+    {
+      "artist": "DREAMERS",
+      "cover": "http://www.billboard.com/images/pref_images/q56366e5vko.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 7
+      },
+      "rank": 41,
+      "spotify": "http://open.spotify.com/track/7bEDDsy2LFC0KSqhZp5nPE?utm_campaign=billboard",
+      "title": "Sweet Disaster"
+    },
+    {
+      "artist": "Shinedown",
+      "cover": "http://www.billboard.com/images/pref_images/q39202rq588.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 17,
+        "Wks on Chart": 19
+      },
+      "rank": 42,
+      "spotify": "http://open.spotify.com/track/2le5xHvcWF8PDp608d4L8D?utm_campaign=billboard",
+      "title": "How Did You Love"
+    },
+    {
+      "artist": "Seether",
+      "cover": "http://www.billboard.com/images/pref_images/q63014jj6w6.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 25,
+        "Wks on Chart": 8
+      },
+      "rank": 43,
+      "spotify": "http://open.spotify.com/track/2oXfe1se6IhWYcGtnUjD2e?utm_campaign=billboard",
+      "title": "Let You Down"
+    },
+    {
+      "artist": "Kaleo",
+      "cover": "http://www.billboard.com/images/pref_images/q46066lngks.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 24,
+        "Wks on Chart": 16
+      },
+      "rank": 44,
+      "spotify": "http://open.spotify.com/track/2eiY8qXiV6yReXSeuoplns?utm_campaign=billboard",
+      "title": "All The Pretty Girls"
+    },
+    {
+      "artist": "Royal Blood",
+      "cover": "http://www.billboard.com/images/pref_images/q15354xzyzu.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      },
+      "rank": 45,
+      "spotify": "http://open.spotify.com/track/3mkmTUcZtQxuKpyM44lGj6?utm_campaign=billboard",
+      "title": "Lights Out"
+    },
+    {
+      "artist": "Kings Of Leon",
+      "cover": "http://www.billboard.com/images/pref_images/q58897g2xio.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 20,
+        "Wks on Chart": 6
+      },
+      "rank": 46,
+      "spotify": "http://open.spotify.com/track/5cm47Nc1MWBVIkRFaXxvHY?utm_campaign=billboard",
+      "title": "Reverend"
+    },
+    {
+      "artist": "John Mayer",
+      "cover": "http://www.billboard.com/images/pref_images/q62636jk27k.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 33,
+        "Wks on Chart": 2
+      },
+      "rank": 47,
+      "spotify": "http://open.spotify.com/track/5V4uopcRycrRYdibnLZ3uH?utm_campaign=billboard",
+      "title": "Roll It On Home"
+    },
+    {
+      "artist": "Gorillaz Featuring Jehnny Beth",
+      "cover": "http://www.billboard.com/images/pref_images/q15976h04ns.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 13,
+        "Wks on Chart": 4
+      },
+      "rank": 48,
+      "spotify": "http://open.spotify.com/track/7eOGidOoCqWAp4p1tnEdyG?utm_campaign=billboard",
+      "title": "We Got The Power"
+    },
+    {
+      "artist": "John Mayer",
+      "cover": "http://www.billboard.com/images/pref_images/q62636jk27k.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 12,
+        "Wks on Chart": 3
+      },
+      "rank": 49,
+      "spotify": "http://open.spotify.com/track/0GWS6wkQrqZd0BAhq28haq?utm_campaign=billboard",
+      "title": "Changing"
+    },
+    {
+      "artist": "Spoon",
+      "cover": "http://www.billboard.com/images/pref_images/q61781v7mpc.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 21,
+        "Wks on Chart": 8
+      },
+      "rank": 50,
+      "spotify": "http://open.spotify.com/track/2FMvTIIIVIS70zsLWOSwOT?utm_campaign=billboard",
+      "title": "Hot Thoughts"
+    }
+  ]
+}

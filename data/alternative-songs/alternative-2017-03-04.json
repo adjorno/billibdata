@@ -1,0 +1,444 @@
+{
+  "name": "Alternative",
+  "chart_date": "2017-03-04",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Still Breathing",
+      "artist": "Green Day",
+      "cover": "http://charts-static.billboard.com/img/2016/10/green-day.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Cleopatra",
+      "artist": "The Lumineers",
+      "cover": "http://charts-static.billboard.com/img/2017/01/the-lumineers.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Human",
+      "artist": "Rag'n'Bone Man",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 36
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Heavydirtysoul",
+      "artist": "twenty one pilots",
+      "cover": "http://charts-static.billboard.com/img/2017/02/twenty-one-pilots.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 2,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Somebody Else",
+      "artist": "The 1975",
+      "cover": "http://charts-static.billboard.com/img/2017/03/the-1975.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Blood In The Cut",
+      "artist": "k.flay",
+      "cover": "http://charts-static.billboard.com/img/2017/04/kflay.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 7,
+      "title": "She's Out Of Her Mind",
+      "artist": "Blink-182",
+      "cover": "http://charts-static.billboard.com/img/2017/04/blink182.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Waste A Moment",
+      "artist": "Kings Of Leon",
+      "cover": "http://charts-static.billboard.com/img/2016/09/kings-of-leon-iqk.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Take It All Back",
+      "artist": "Judah & The Lion",
+      "cover": "http://charts-static.billboard.com/img/2017/03/judah-and-the-lion.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 1,
+        "Wks on Chart": 39
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Fire Escape",
+      "artist": "Andrew McMahon In The Wilderness",
+      "cover": "http://charts-static.billboard.com/img/2016/10/andrew-mcmahon-in-the-wilderness-R7D.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 4,
+        "Wks on Chart": 32
+      }
+    },
+    {
+      "rank": 11,
+      "title": "7",
+      "artist": "Catfish And The Bottlemen",
+      "cover": "http://charts-static.billboard.com/img/2017/06/catfish-and-the-bottlemen.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 8,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "cover": "http://charts-static.billboard.com/img/1840/12/imagine-dragons-hy6.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 1,
+        "Wks on Chart": 40
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Go Robot",
+      "artist": "Red Hot Chili Peppers",
+      "cover": "http://charts-static.billboard.com/img/1984/09/red-hot-chili-peppers-v42.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Trouble",
+      "artist": "Cage The Elephant",
+      "cover": "http://charts-static.billboard.com/img/2017/07/cage-the-elephant.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 51
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Wish I Knew You",
+      "artist": "The Revivalists",
+      "cover": "http://charts-static.billboard.com/img/2014/12/the-revivalists-ce5.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 1,
+        "Wks on Chart": 52
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Love Is Mystical",
+      "artist": "Cold War Kids",
+      "cover": "http://charts-static.billboard.com/img/2017/02/cold-war-kids.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 2,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Blame",
+      "artist": "Bastille",
+      "cover": "http://charts-static.billboard.com/img/2017/01/bastille.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 4,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Middle Fingers",
+      "artist": "MISSIO",
+      "cover": "http://charts-static.billboard.com/img/2017/02/missio.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 9,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Cold Cold Cold",
+      "artist": "Cage The Elephant",
+      "cover": "http://charts-static.billboard.com/img/2017/01/cage-the-elephant.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 5,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Tearing Me Up",
+      "artist": "Bob Moses",
+      "cover": "http://charts-static.billboard.com/img/2014/06/bob-moses-na4.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 16,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Wild Horses",
+      "artist": "Bishop Briggs",
+      "cover": "http://charts-static.billboard.com/img/2017/05/bishop-briggs.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 17,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Sweet Disaster",
+      "artist": "DREAMERS",
+      "cover": "http://charts-static.billboard.com/img/2016/11/dreamers.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 7,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Cocoon",
+      "artist": "Milky Chance",
+      "cover": "http://charts-static.billboard.com/img/2016/12/milky-chance.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 18,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 24,
+      "title": "On Hold",
+      "artist": "The xx",
+      "cover": "http://charts-static.billboard.com/img/2016/11/the-xx.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 21,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 25,
+      "title": "My Name Is Human",
+      "artist": "Highly Suspect",
+      "cover": "http://charts-static.billboard.com/img/2016/09/highly-suspect-m33.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 20,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 26,
+      "title": "All The Pretty Girls",
+      "artist": "Kaleo",
+      "cover": "http://charts-static.billboard.com/img/2017/04/kaleo.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 17,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Shine",
+      "artist": "Mondo Cozmo",
+      "cover": "http://charts-static.billboard.com/img/2016/11/mondo-cozmo.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 17,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Down",
+      "artist": "Marian Hill",
+      "cover": "http://charts-static.billboard.com/img/2017/03/marian-hill.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 16,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Silvertongue",
+      "artist": "Young The Giant",
+      "cover": "http://charts-static.billboard.com/img/2016/12/young-the-giant.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 21,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Roll Up",
+      "artist": "Fitz And The Tantrums",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 19,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Name For You",
+      "artist": "The Shins",
+      "cover": "http://charts-static.billboard.com/img/2017/01/the-shins.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 30,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Hot Thoughts",
+      "artist": "Spoon",
+      "cover": "http://charts-static.billboard.com/img/2017/02/spoon.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 19,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Hurt Like Hell",
+      "artist": "The Heydaze",
+      "cover": "http://charts-static.billboard.com/img/2017/02/the-heydaze.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 33,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Same Old Blues",
+      "artist": "Phantogram",
+      "cover": "http://charts-static.billboard.com/img/2016/12/phantogram.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 34,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Lost On You",
+      "artist": "LP",
+      "cover": "http://charts-static.billboard.com/img/2016/10/lp-X4C.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 34,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Heavy",
+      "artist": "Linkin Park Featuring Kiiara",
+      "cover": "http://charts-static.billboard.com/img/2017/03/linkin-park.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 22,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Latchkey Kids",
+      "artist": "Silversun Pickups",
+      "cover": "http://charts-static.billboard.com/img/2016/12/silversun-pickups.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 33,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Pork Soda",
+      "artist": "Glass Animals",
+      "cover": "http://charts-static.billboard.com/img/2017/02/glass-animals.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 33,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Rhythm & Blues",
+      "artist": "The Head And The Heart",
+      "cover": "http://charts-static.billboard.com/img/2016/11/the-head-and-the-heart.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 21,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Nimble Bastard",
+      "artist": "Incubus",
+      "cover": "http://charts-static.billboard.com/img/2017/03/incubus.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 22,
+        "Wks on Chart": 13
+      }
+    }
+  ]
+}

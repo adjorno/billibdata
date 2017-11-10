@@ -1,0 +1,573 @@
+{
+  "name": "Latin",
+  "chart_date": "2006-06-03",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Hips Don't Lie",
+      "artist": "Shakira Featuring Wyclef Jean",
+      "cover": "http://www.billboard.com/images/pref_images/q13811lsqw8.jpg",
+      "spotify": "http://open.spotify.com/track/0G2Y2OA5jv093bMMg3dJ80?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Down",
+      "artist": "Rakim & Ken-Y",
+      "spotify": "http://open.spotify.com/track/2N5zMZX7YeL1tico8oQxa9?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Caile",
+      "artist": "Tito El Bambino",
+      "cover": "http://www.billboard.com/images/pref_images/p74810xfc5a.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Angelito",
+      "artist": "Don Omar",
+      "cover": "http://www.billboard.com/images/pref_images/p74705sk6v3.jpg",
+      "spotify": "http://open.spotify.com/track/7zo8XAMYBG6nGpqGiIudBc?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Lo Que Son Las Cosas",
+      "artist": "Anais",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Machucando",
+      "artist": "Daddy Yankee",
+      "cover": "http://www.billboard.com/images/pref_images/q00277welwd.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Noche De Sexo",
+      "artist": "Wisin & Yandel Featuring Aventura",
+      "cover": "http://www.billboard.com/images/pref_images/p74707u4nyz.jpg",
+      "spotify": "http://open.spotify.com/track/4kAtRwNRLMKuoCbxMSxUGI?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Un Beso",
+      "artist": "Aventura",
+      "cover": "http://www.billboard.com/images/pref_images/p75162vgxom.jpg",
+      "spotify": "http://open.spotify.com/track/3hauOiCQQ4qXVsdf1ENihe?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 6,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Volverte A Amar",
+      "artist": "Alejandra Guzman",
+      "cover": "http://www.billboard.com/images/pref_images/p89303jawy5.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 6,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Aliado Del Tiempo",
+      "artist": "Mariano Barba",
+      "spotify": "http://open.spotify.com/track/5zBDFHoRuFeCJpveoO0Lhv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 6,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Temperature",
+      "artist": "Sean Paul",
+      "cover": "http://www.billboard.com/images/pref_images/q00236rsz8p.jpg",
+      "spotify": "http://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 10,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Uno Y Uno Es Igual A Tres",
+      "artist": "Jeremias",
+      "cover": "http://www.billboard.com/images/pref_images/p61694epjub.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 12,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Lo Que Me Gusta A Mi",
+      "artist": "Juanes",
+      "cover": "http://www.billboard.com/images/pref_images/q12853bj3xt.jpg",
+      "spotify": "http://open.spotify.com/track/722QPOI0pGJJ0Y0P6ETzgE?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 2,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 14,
+      "title": "De Contrabando",
+      "artist": "Jenni Rivera",
+      "cover": "http://www.billboard.com/images/pref_images/p74819hac33.jpg",
+      "spotify": "http://open.spotify.com/track/0t1MwPitC30TLGr45GoKaJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 14,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Llame Pa' Verte",
+      "artist": "Wisin & Yandel",
+      "cover": "http://www.billboard.com/images/pref_images/p74707u4nyz.jpg",
+      "spotify": "http://open.spotify.com/track/5SgN4mSGVEZ8TZQ5YSsKKb?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 1,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Muneca De Trapo",
+      "artist": "La Oreja De Van Gogh",
+      "cover": "http://www.billboard.com/images/pref_images/p88906ck6qm.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 12,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Rompe",
+      "artist": "Daddy Yankee",
+      "cover": "http://www.billboard.com/images/pref_images/q00277welwd.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Here We Go Yo",
+      "artist": "Hector \"El Father\" Featuring El Presidente",
+      "spotify": "http://open.spotify.com/track/610Lmk9rAPvfAQwAiSx682?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 18,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Atrevete Te, Te!",
+      "artist": "Calle 13",
+      "cover": "http://www.billboard.com/images/pref_images/p66178t9otq.jpg",
+      "spotify": "http://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 15,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Te Echo De Menos",
+      "artist": "Chayanne",
+      "cover": "http://www.billboard.com/images/pref_images/p96892y6vxz.jpg",
+      "spotify": "http://open.spotify.com/track/15kXTNLAsdBPwSIknDKrFO?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 15,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Algo De Mi",
+      "artist": "Conjunto Primavera",
+      "cover": "http://www.billboard.com/images/pref_images/p75508aolnx.jpg",
+      "spotify": "http://open.spotify.com/track/06WecehO0wgP8jJIoCURKl?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 7,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Adios A Mi Amante",
+      "artist": "Grupo Montez De Durango",
+      "cover": "http://www.billboard.com/images/pref_images/p75506nrlb1.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 18,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Insensible A Ti (Me Pone A Mil)",
+      "artist": "Alicia Villarreal",
+      "cover": "http://www.billboard.com/images/pref_images/p70989xkal1.jpg",
+      "spotify": "http://open.spotify.com/track/2ulXeeu94qdoG5c9kZ2slR?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 19,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Como Duele (Barrera de Amor)",
+      "artist": "Noelia",
+      "cover": "http://www.billboard.com/images/pref_images/q03322rr5nz.jpg",
+      "spotify": "http://open.spotify.com/track/1YZaItrX5lLL5HVOxsM6vc?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 8,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Que Lastima",
+      "artist": "Alfredo Ramirez Corral",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 11,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Que Me Alcance La Vida",
+      "artist": "Sin Bandera",
+      "cover": "http://www.billboard.com/images/pref_images/p56599s583a.jpg",
+      "spotify": "http://open.spotify.com/track/7Bpuw2PRlgtIcJIDUtbVph?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 19,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Nuestro Amor Se Ha Vuelto Ayer",
+      "artist": "Victor Manuelle Featuring Yuridia",
+      "spotify": "http://open.spotify.com/track/60WZxc5FAONc5qw8BoiUjb?utm_campaign=billboard",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 8,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Alguien Te Va A Hacer Llorar",
+      "artist": "Intocable",
+      "cover": "http://www.billboard.com/images/pref_images/q22654lwi0n.jpg",
+      "spotify": "http://open.spotify.com/track/1OYoXMNCUYlpDyMONw2sNc?utm_campaign=billboard",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 17,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Payaso Loco",
+      "artist": "Patrulla 81",
+      "cover": "http://www.billboard.com/images/pref_images/p79723pk78f.jpg",
+      "spotify": "http://open.spotify.com/track/3rqcCroKH9U8FtDmaHDDkq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 19,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Sin Tu Amor",
+      "artist": "Ana Gabriel",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 30,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Dejate Llevar",
+      "artist": "Ricky Martin",
+      "cover": "http://www.billboard.com/images/pref_images/q27836b04u6.jpg",
+      "spotify": "http://open.spotify.com/track/4uWcSeV46sxjWzhVEtplG6?utm_campaign=billboard",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 21,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Una Cancion Que Te Enamore",
+      "artist": "Servando Y Florentino",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 13,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Me Pregunto",
+      "artist": "Belanova",
+      "cover": "http://www.billboard.com/images/pref_images/p74824p7atc.jpg",
+      "spotify": "http://open.spotify.com/track/49EAN1FCYDbxfEHS3xJvby?utm_campaign=billboard",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 33,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Te Extrano",
+      "artist": "Xtreme",
+      "spotify": "http://open.spotify.com/track/7cpc9v4MC13AYoxe4aXowG?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 31,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 35,
+      "title": "No Es Brujeria",
+      "artist": "Ana Barbara",
+      "cover": "http://www.billboard.com/images/pref_images/p75598l8ziy.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 25,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Por Una Mujer",
+      "artist": "Luis Fonsi",
+      "cover": "http://www.billboard.com/images/pref_images/q24394mcj0t.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 16,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Para Que Regreses",
+      "artist": "El Chapo De Sinaloa",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 23,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Voy A Llorar Por Ti",
+      "artist": "Los Rieleros Del Norte",
+      "spotify": "http://open.spotify.com/track/3wEIvdnkr9oP1TrB0bRdQq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 20,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Hay De Mi",
+      "artist": "Noriega Featuring Baby Rasta",
+      "cover": "http://www.billboard.com/images/pref_images/q24463fmxup.jpg",
+      "spotify": "http://open.spotify.com/track/2PmDXRpErL9jTqxvhpS5yU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 39,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Libertad",
+      "artist": "Ivy Queen",
+      "cover": "http://www.billboard.com/images/pref_images/p74821l1xia.jpg",
+      "spotify": "http://open.spotify.com/track/3c7BegrSclxwPWWesBfQSq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 13,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Tu Amor Me Hace Bien",
+      "artist": "Marc Anthony",
+      "cover": "http://www.billboard.com/images/pref_images/q35029aou0n.jpg",
+      "spotify": "http://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 41,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Abrazame",
+      "artist": "Camila",
+      "cover": "http://www.billboard.com/images/pref_images/q23339j3ltk.jpg",
+      "spotify": "http://open.spotify.com/track/2wPtduhfQ0qg118X4dCC18?utm_campaign=billboard",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 30,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Viva El Amor",
+      "artist": "Control",
+      "spotify": "http://open.spotify.com/track/6LAQUj7pE8rHe7Qairvk4g?utm_campaign=billboard",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 31,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Como Me Duele",
+      "artist": "Valentin Elizalde",
+      "cover": "http://www.billboard.com/images/pref_images/p75876f45rr.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Si Yo Fuera Tu Amor",
+      "artist": "Alacranes Musical",
+      "spotify": "http://open.spotify.com/track/3xEhELRs8fo2ba3r8OQaMz?utm_campaign=billboard",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 14,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Frikitona",
+      "artist": "Plan B",
+      "cover": "http://www.billboard.com/images/pref_images/q00809a0dn2.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Cuanto Tengo Que Esperar",
+      "artist": "Zion & Lennox",
+      "cover": "http://www.billboard.com/images/pref_images/q27003vakor.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 35,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Muchachita De Ojos Tristes",
+      "artist": "Sergio Vega",
+      "cover": "http://www.billboard.com/images/pref_images/p02092m437d.jpg",
+      "spotify": "http://open.spotify.com/track/0imVQmXZyESypKfQM4QNzX?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 29,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Te Hago El Amor",
+      "artist": "Eliel",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 48,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Pensando En Ti",
+      "artist": "Beto Y Sus Canarios",
+      "cover": "http://www.billboard.com/images/pref_images/p75594i46a1.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 41,
+        "Wks on Chart": 11
+      }
+    }
+  ]
+}

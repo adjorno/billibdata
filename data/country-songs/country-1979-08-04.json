@@ -1,0 +1,544 @@
+{
+  "name": "Country",
+  "chart_date": "1979-08-04",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "You're The Only One",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "spotify": "http://open.spotify.com/track/72c9An3Uf1iUhJVO4JUVzu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Coca Cola Cowboy",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Suspicions",
+      "artist": "Eddie Rabbitt",
+      "cover": "http://www.billboard.com/images/pref_images/p15953cykua.jpg",
+      "spotify": "http://open.spotify.com/track/7c1k1B7Od1hWfM37GZp9gA?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Save The Last Dance For Me",
+      "artist": "Emmylou Harris",
+      "cover": "http://www.billboard.com/images/pref_images/q30586nn412.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Family Tradition",
+      "artist": "Hank Williams Jr.",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 6,
+      "title": "(ghost)riders In The Sky",
+      "artist": "Johnny Cash",
+      "cover": "http://www.billboard.com/images/pref_images/p17121eolkl.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 7,
+      "title": "No One Else In The World",
+      "artist": "Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27879imrhm.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 7,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Pick The Wildwood Flower",
+      "artist": "Gene Watson",
+      "cover": "http://www.billboard.com/images/pref_images/p71339bw5t3.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 5,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 9,
+      "title": "The Devil Went Down To Georgia",
+      "artist": "The Charlie Daniels Band",
+      "cover": "http://www.billboard.com/images/pref_images/p67328tt4pg.jpg",
+      "spotify": "http://open.spotify.com/track/6KjJGpDZ4wdshirWmqBcT3?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Barstool Moutain",
+      "artist": "Moe Bandy",
+      "cover": "http://www.billboard.com/images/pref_images/p10901ruw7x.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Stay With Me",
+      "artist": "Dave Rowland And Sugar",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 6,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Heartbreak Hotel",
+      "artist": "Willie Nelson And Leon Russell",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Don't Let Me Cross Over",
+      "artist": "Jim Reeves",
+      "cover": "http://www.billboard.com/images/pref_images/p06780ig50x.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Liberated Woman",
+      "artist": "John Wesley Ryles",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 14,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Till I Can Make It On My Own",
+      "artist": "Kenny Rogers And Dottie West",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 16,
+      "title": "I May Never Get To Heaven",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 17,
+      "title": "All Around Cowboy",
+      "artist": "Marty Robbins",
+      "cover": "http://www.billboard.com/images/pref_images/p2246418kv3.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 16,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 18,
+      "title": "That's The Only Way To Say Good Morning",
+      "artist": "Ray Price",
+      "cover": "http://www.billboard.com/images/pref_images/q19116tvh88.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 18,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 19,
+      "title": "You're My Jamaica",
+      "artist": "Charley Pride",
+      "cover": "http://www.billboard.com/images/pref_images/p14590oax26.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 20,
+      "title": "I Love How You Love Me",
+      "artist": "Lynn Anderson",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 18,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Here We Are Again",
+      "artist": "The Statler Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/p24114v60jy.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Slip Away",
+      "artist": "Dottsy",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 22,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Yours",
+      "artist": "Freddy Fender",
+      "cover": "http://www.billboard.com/images/pref_images/p02648g80gy.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 22,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Just Good Ol' Boys",
+      "artist": "Moe Bandy & Joe Stampley",
+      "cover": "http://www.billboard.com/images/pref_images/p10900rt898.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Your Kisses Will",
+      "artist": "Crystal Gayle",
+      "cover": "http://www.billboard.com/images/pref_images/q00098ngkyq.jpg",
+      "spotify": "http://open.spotify.com/track/4SlCUqW9YoZkSlvZ3ua1gU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 7,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Fools For Each Other",
+      "artist": "Johnny Rodriguez",
+      "cover": "http://www.billboard.com/images/pref_images/p16108d457b.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 17,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Someday My Day Will Come",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 22,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Shadows In The Moonlight",
+      "artist": "Anne Murray",
+      "cover": "http://www.billboard.com/images/pref_images/p17487bo9ca.jpg",
+      "spotify": "http://open.spotify.com/track/5qujByYxjT21vCeRIaOoqI?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 29,
+      "title": "I Know A Heartache When I See One",
+      "artist": "Jennifer Warnes",
+      "cover": "http://www.billboard.com/images/pref_images/p17888md871.jpg",
+      "spotify": "http://open.spotify.com/track/28nvEhqtzbtPlXzQrRsuoB?utm_campaign=billboard",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 10,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Play Her Back To Yesterday",
+      "artist": "Mel McDaniel",
+      "cover": "http://www.billboard.com/images/pref_images/p14484uqy1x.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 24,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Daddy",
+      "artist": "Donna Fargo",
+      "cover": "http://www.billboard.com/images/pref_images/p13015w6eau.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 14,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Let's Try Again",
+      "artist": "Janie Frickie",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 28,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 33,
+      "title": "My Silver Lining",
+      "artist": "Mickey Gilley",
+      "cover": "http://www.billboard.com/images/pref_images/p02761l7p22.jpg",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Love Me Like A Stranger",
+      "artist": "Cliff Cochron",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 35,
+      "title": "That Makes Two Of Us",
+      "artist": "Jack Ward And Reba McEntire",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 26,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Tower Of Strength",
+      "artist": "Narvel Felts",
+      "cover": "http://www.billboard.com/images/pref_images/p13035lrgy1.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 33,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 37,
+      "title": "All I Want And Need Forever",
+      "artist": "Vern Gosdin",
+      "cover": "http://www.billboard.com/images/pref_images/p13318kds78.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 21,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 38,
+      "title": "You Are My Rainbow",
+      "artist": "David Rogers",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 36,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Only Love Can Break A Heart",
+      "artist": "Kenny Dale",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 40,
+      "title": "I Could Sure Use The Feeling",
+      "artist": "Earl Scruggs Revue",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 30,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Who Will The Next Fool Be",
+      "artist": "Jerry Lee Lewis",
+      "cover": "http://www.billboard.com/images/pref_images/p14318ix562.jpg",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 20,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Once In A Blue Moon",
+      "artist": "Zella Lehr",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 34,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Reunited",
+      "artist": "Louise Mandrell And R.C.Bannon",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 13,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 44,
+      "title": "The Letter",
+      "artist": "Sammi Smith",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 27,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Fools",
+      "artist": "Jim Ed Brown And Helen Cornelius",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 3,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 46,
+      "title": "When A Love Ain't Right",
+      "artist": "Charly McClain",
+      "cover": "http://www.billboard.com/images/pref_images/p14477s10g9.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Amanda",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "spotify": "http://open.spotify.com/track/32PVUuslgVBliRHn96gwbW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Don't Feel Like The Lone Ranger",
+      "artist": "Leon Everette",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Just When I Needed You Most",
+      "artist": "Diana",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 40,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 50,
+      "title": "It Must Be Love",
+      "artist": "Don Williams",
+      "cover": "http://www.billboard.com/images/pref_images/p99491b31tl.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "2001-06-09",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Fiesta",
+      "artist": "R. Kelly Featuring Jay-Z",
+      "cover": "http://www.billboard.com/images/pref_images/p97712tbynu.jpg",
+      "spotify": "http://open.spotify.com/track/50aYYSNIEfwUjCvjDgkrQe?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 2,
+      "title": "My Baby",
+      "artist": "Lil' Romeo",
+      "cover": "http://www.billboard.com/images/pref_images/p75255iggzg.jpg",
+      "spotify": "http://open.spotify.com/track/0s9A4pUBLw68E76vY8LU9K?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Peaches & Cream",
+      "artist": "112",
+      "cover": "http://www.billboard.com/images/pref_images/p56495xzkhl.jpg",
+      "spotify": "http://open.spotify.com/track/6iajHa34cSiD5s42Cq9miJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Get Ur Freak On",
+      "artist": "Missy \"Misdemeanor\" Elliott",
+      "spotify": "http://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Superwoman Pt. II",
+      "artist": "Lil' Mo Featuring Fabolous",
+      "cover": "http://www.billboard.com/images/pref_images/p59875pbroz.jpg",
+      "spotify": "http://open.spotify.com/track/3xYwc8Jjv47NbtnYGn8Bvt?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Let Me Blow Ya Mind",
+      "artist": "Eve Featuring Gwen Stefani",
+      "cover": "http://www.billboard.com/images/pref_images/q09133si5nj.jpg",
+      "spotify": "http://open.spotify.com/track/3RmKpob8xzv1pzHEQrMJah?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 6,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Missing You",
+      "artist": "Case",
+      "cover": "http://www.billboard.com/images/pref_images/p55791id3ep.jpg",
+      "spotify": "http://open.spotify.com/track/0CmXXEwul09Kf8X68lPA5l?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Heard It All Before",
+      "artist": "Sunshine Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/p75284fqoy8.jpg",
+      "spotify": "http://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 3,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Love",
+      "artist": "Musiq Soulchild",
+      "cover": "http://www.billboard.com/images/pref_images/p77022g1rpn.jpg",
+      "spotify": "http://open.spotify.com/track/298YCGgr7lnrG9EHQhX9tv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 2,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Wait A Minute",
+      "artist": "Ray J Featuring Lil' Kim",
+      "cover": "http://www.billboard.com/images/pref_images/p18799jer3e.jpg",
+      "spotify": "http://open.spotify.com/track/2Nc7IN8hd1G9zGiuWv2HLG?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 8,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Music",
+      "artist": "Erick Sermon Featuring Marvin Gaye",
+      "cover": "http://www.billboard.com/images/pref_images/p14651j77j3.jpg",
+      "spotify": "http://open.spotify.com/track/2g4SumkFZpHOypfF5xng9Z?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 2,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 12,
+      "title": "I Cry",
+      "artist": "Ja Rule Featuring Lil' Mo",
+      "cover": "http://www.billboard.com/images/pref_images/p56481wjlv7.jpg",
+      "spotify": "http://open.spotify.com/track/1CP0DS790dxOfCXXp7WHDP?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 11,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Maybe I Deserve",
+      "artist": "Tank",
+      "cover": "http://www.billboard.com/images/pref_images/q11205k1tqy.jpg",
+      "spotify": "http://open.spotify.com/track/0FyEt5WBZdCR6OHTcoA1Lk?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 7,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Where The Party At",
+      "artist": "Jagged Edge With Nelly",
+      "spotify": "http://open.spotify.com/track/5mNV8Mz59bzyuQ53gTw0c0?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 1,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 15,
+      "title": "I Like Them Girls",
+      "artist": "Tyrese",
+      "cover": "http://www.billboard.com/images/pref_images/p82680inyrb.jpg",
+      "spotify": "http://open.spotify.com/track/3NJQ1KdbMLE1CEEVNjs9IO?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 15,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Can't Believe",
+      "artist": "Faith Evans Featuring Carl Thomas",
+      "cover": "http://www.billboard.com/images/pref_images/p73114pu06f.jpg",
+      "spotify": "http://open.spotify.com/track/2423gyT9B3zNqC9ZD8QfSu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 14,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Survivor",
+      "artist": "Destiny's Child",
+      "cover": "http://www.billboard.com/images/pref_images/q07279l1ucp.jpg",
+      "spotify": "http://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Let's Get It",
+      "artist": "Three The... G. Dep, P. Diddy & Black Rob",
+      "spotify": "http://open.spotify.com/track/7oJx0X8oh4VYb7ywclvzJg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 18,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Video",
+      "artist": "India.Arie",
+      "cover": "http://www.billboard.com/images/pref_images/p78387c2nsl.jpg",
+      "spotify": "http://open.spotify.com/track/4oiAlcisfimXQc1wyAtX9a?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 14,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 20,
+      "title": "So Fresh, So Clean",
+      "artist": "OutKast",
+      "cover": "http://www.billboard.com/images/pref_images/q07386jmrbb.jpg",
+      "spotify": "http://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 10,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 21,
+      "title": "We Need A Resolution",
+      "artist": "Aaliyah Featuring Timbaland",
+      "cover": "http://www.billboard.com/images/pref_images/p17228chqhg.jpg",
+      "spotify": "http://open.spotify.com/track/6atXVmQLlEOnYDqBHlzYV2?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 15,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 22,
+      "title": "What Would You Do?",
+      "artist": "City High",
+      "cover": "http://www.billboard.com/images/pref_images/p2424512u80.jpg",
+      "spotify": "http://open.spotify.com/track/1tJkic0TURTCXw3rBhYgWu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 23,
+      "title": "All For You",
+      "artist": "Janet",
+      "cover": "http://www.billboard.com/images/pref_images/q41027rtrxn.jpg",
+      "spotify": "http://open.spotify.com/track/0UdqZQEbRWTkNXlh5kl2L8?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Hit 'Em Up Style (Oops!)",
+      "artist": "Blu Cantrell",
+      "cover": "http://www.billboard.com/images/pref_images/p56761tz9e5.jpg",
+      "spotify": "http://open.spotify.com/track/5k3sanOGourYTSWNvphUnz?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 6,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Until The End Of Time",
+      "artist": "2Pac",
+      "cover": "http://www.billboard.com/images/pref_images/q14550i10e6.jpg",
+      "spotify": "http://open.spotify.com/track/5avQSAKB1dOEeIQBqV4jgW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 21,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 26,
+      "title": "U Remind Me",
+      "artist": "Usher",
+      "cover": "http://www.billboard.com/images/pref_images/p99056mvv4y.jpg",
+      "spotify": "http://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL?utm_campaign=billboard",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 1,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 27,
+      "title": "I Do!!",
+      "artist": "Toya",
+      "cover": "http://www.billboard.com/images/pref_images/p2429212u80.jpg",
+      "spotify": "http://open.spotify.com/track/610sx23crS0FOQISsn2e49?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 25,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 28,
+      "title": "There She Goes",
+      "artist": "Babyface",
+      "cover": "http://www.billboard.com/images/pref_images/q13523cg5zq.jpg",
+      "spotify": "http://open.spotify.com/track/7dO7S7cAUqTUiVRqQ2v9zh?utm_campaign=billboard",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 10,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Southern Hospitality",
+      "artist": "Ludacris",
+      "cover": "http://www.billboard.com/images/pref_images/p73615ac4sb.jpg",
+      "spotify": "http://open.spotify.com/track/4cNhx6OO1XpvwT6xZnb83B?utm_campaign=billboard",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 6,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Oochie Wally",
+      "artist": "QB Finest Featuring Nas And Bravehearts",
+      "spotify": "http://open.spotify.com/track/5bCxcsT08RAtM4AvK9Gryi?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 11,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Lay Low",
+      "artist": "Snoop Dogg Featuring Master P, Nate Dogg, Butch Cassidy & Tha Eastsidaz",
+      "cover": "http://www.billboard.com/images/pref_images/p74755hujea.jpg",
+      "spotify": "http://open.spotify.com/track/4QNJd8ma02Oy9PBenHErs1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 20,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 32,
+      "title": "She's All I Got",
+      "artist": "Jimmy Cozier",
+      "spotify": "http://open.spotify.com/track/7Dz53nFiCeMD3cCjcvg7IR?utm_campaign=billboard",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 4,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Take You Out",
+      "artist": "Luther Vandross",
+      "cover": "http://www.billboard.com/images/pref_images/p97977pk4se.jpg",
+      "spotify": "http://open.spotify.com/track/391iCHoWz3EPkXh1A2v42F?utm_campaign=billboard",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 7,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 34,
+      "title": "A Long Walk",
+      "artist": "Jill Scott",
+      "cover": "http://www.billboard.com/images/pref_images/q00272j1o65.jpg",
+      "spotify": "http://open.spotify.com/track/1CeizRCGEYPWooEeVfmyFL?utm_campaign=billboard",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 9,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Stranger In My House",
+      "artist": "Tamia",
+      "cover": "http://www.billboard.com/images/pref_images/q02166li7d4.jpg",
+      "spotify": "http://open.spotify.com/track/08GOEVXupC6ECbulhPGQKm?utm_campaign=billboard",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 3,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Bizounce",
+      "artist": "Olivia",
+      "cover": "http://www.billboard.com/images/pref_images/p61270co64r.jpg",
+      "spotify": "http://open.spotify.com/track/0UaFVjNd7WxSb8hHHL6eql?utm_campaign=billboard",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 4,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Just In Case",
+      "artist": "Jaheim",
+      "cover": "http://www.billboard.com/images/pref_images/q11185bj28a.jpg",
+      "spotify": "http://open.spotify.com/track/6VC6nUEHorjCm6XBXIiCES?utm_campaign=billboard",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 15,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Stutter",
+      "artist": "Joe Featuring Mystikal",
+      "cover": "http://www.billboard.com/images/pref_images/p83683b8e0j.jpg",
+      "spotify": "http://open.spotify.com/track/7C5XOHS3FXH8PWbAB9WdWS?utm_campaign=billboard",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 1,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 39,
+      "title": "The Way",
+      "artist": "Jill Scott",
+      "cover": "http://www.billboard.com/images/pref_images/q00272j1o65.jpg",
+      "spotify": "http://open.spotify.com/track/49aUxrufliNDGj7MTm7pNU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 15,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 40,
+      "title": "There It Is",
+      "artist": "Ginuwine",
+      "cover": "http://www.billboard.com/images/pref_images/q03213kvxfo.jpg",
+      "spotify": "http://open.spotify.com/track/2bTN76FOzs9L55HQgvP6P8?utm_campaign=billboard",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 18,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Put It On Me",
+      "artist": "Ja Rule Featuring Lil' Mo & Vita",
+      "cover": "http://www.billboard.com/images/pref_images/p56481wjlv7.jpg",
+      "spotify": "http://open.spotify.com/track/5gqLrmlLQBxTPUITaF1Jz3?utm_campaign=billboard",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 2,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 42,
+      "title": "What It Is",
+      "artist": "Busta Rhymes",
+      "cover": "http://www.billboard.com/images/pref_images/p70920kv04c.jpg",
+      "spotify": "http://open.spotify.com/track/3xuobJ0EyP0Boajt7p8xWq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 37,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Fill Me In",
+      "artist": "Craig David",
+      "cover": "http://www.billboard.com/images/pref_images/q19619kidab.jpg",
+      "spotify": "http://open.spotify.com/track/2LJ58vWuLhFQ2bJPqzhveL?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Promise",
+      "artist": "Jagged Edge",
+      "cover": "http://www.billboard.com/images/pref_images/q25306csl27.jpg",
+      "spotify": "http://open.spotify.com/track/1X1KDnhTnb28tpJlgOV3lD?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 1,
+        "Wks on Chart": 32
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Fallin'",
+      "artist": "Alicia Keys",
+      "cover": "http://www.billboard.com/images/pref_images/q02930nk8fk.jpg",
+      "spotify": "http://open.spotify.com/track/3unsLiH5FXmaDWtT5Imolu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 1,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 46,
+      "title": "After Party",
+      "artist": "Koffee Brown",
+      "spotify": "http://open.spotify.com/track/2VgRBzWsYYeOsMH66MTbxY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 10,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Take Care Of Home",
+      "artist": "Dave Hollister",
+      "cover": "http://www.billboard.com/images/pref_images/p56377fpms6.jpg",
+      "spotify": "http://open.spotify.com/track/5i3lYkjBeJdbdNY383bJ1f?utm_campaign=billboard",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 39,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Let's Get Dirty (I Can't Get In Da Club)",
+      "artist": "Redman Featuring DJ Kool",
+      "cover": "http://www.billboard.com/images/pref_images/p74554fv51r.jpg",
+      "spotify": "http://open.spotify.com/track/5BlLqiaTwttKiqzLhBrN1v?utm_campaign=billboard",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 46,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Ride Wit Me",
+      "artist": "Nelly Featuring City Spud",
+      "cover": "http://www.billboard.com/images/pref_images/q09622kdgbh.jpg",
+      "spotify": "http://open.spotify.com/track/06iMqWThw4w8fTFyccvOwr?utm_campaign=billboard",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 34,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Could It Be",
+      "artist": "Jaheim",
+      "cover": "http://www.billboard.com/images/pref_images/q11185bj28a.jpg",
+      "spotify": "http://open.spotify.com/track/556km3BelncJTpFbO9HpLR?utm_campaign=billboard",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 2,
+        "Wks on Chart": 29
+      }
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "name": "Country",
+  "chart_date": "1974-08-17",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "As Soon As I Hang Up The Phone",
+      "artist": "Loretta Lynn & Conway Twitty",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Old Man From The Mountain",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 3,
+      "title": "The Grand Tour",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 4,
+      "title": "The Want-To's",
+      "artist": "Freddie Hart",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Rub It In",
+      "artist": "Billy \"Crash\" Craddock",
+      "cover": "http://www.billboard.com/images/pref_images/p04850wk396.jpg",
+      "spotify": "http://open.spotify.com/track/2wK6I8IMdNKO27YYn2eXm1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Dance With Me (Just One More Time)",
+      "artist": "Johnny Rodriguez",
+      "cover": "http://www.billboard.com/images/pref_images/p16108d457b.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 2,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 7,
+      "title": "You Can't Be A Beacon (if Your Light Don't Shine)",
+      "artist": "Donna Fargo",
+      "cover": "http://www.billboard.com/images/pref_images/p13015w6eau.jpg",
+      "spotify": "http://open.spotify.com/track/2aeag0FGVN0NCLr2aa5bvk?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Annie's Song",
+      "artist": "John Denver",
+      "cover": "http://www.billboard.com/images/pref_images/q05672uic4u.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 10,
+      "title": "My Wife's House",
+      "artist": "Jerry Wallace",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 11,
+      "title": "The Man That Turned My Mama On",
+      "artist": "Tanya Tucker",
+      "cover": "http://www.billboard.com/images/pref_images/p18935d0o2l.jpg",
+      "spotify": "http://open.spotify.com/track/7MLwJApVQ7DJkuslbcK7d9?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 12,
+      "title": "That Song Is Driving Me Crazy",
+      "artist": "Tom T. Hall",
+      "cover": "http://www.billboard.com/images/pref_images/p79752rjipk.jpg",
+      "spotify": "http://open.spotify.com/track/3HuGze9WDn5MEBc056Nw6n?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Talkin' To The Wall",
+      "artist": "Lynn Anderson",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 7,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Sundown",
+      "artist": "Gordon Lightfoot",
+      "cover": "http://www.billboard.com/images/pref_images/p73361d7mxq.jpg",
+      "spotify": "http://open.spotify.com/track/6RiS7zda9WbHDrT9SAO3X9?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 15,
+      "title": "This Time I Almost Made It",
+      "artist": "Barbara Mandrell",
+      "cover": "http://www.billboard.com/images/pref_images/p14987e704s.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 12,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 16,
+      "title": "I'll Think Of Something",
+      "artist": "Hank Williams Jr.",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 7,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Marie Laveau",
+      "artist": "Bobby Bare",
+      "cover": "http://www.billboard.com/images/pref_images/p10912s9s7h.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Tell Tale Signs",
+      "artist": "Jerry Lee Lewis",
+      "cover": "http://www.billboard.com/images/pref_images/p14318ix562.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 18,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 19,
+      "title": "I Never Knew (What That Song Meant Before)",
+      "artist": "Connie Smith",
+      "cover": "http://www.billboard.com/images/pref_images/p85285q666r.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 13,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Drinkin' Thing",
+      "artist": "Gary Stewart",
+      "cover": "http://www.billboard.com/images/pref_images/p16594wqivi.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 10,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 21,
+      "title": "I Wouldn't Want To Live If You Didn't Love Me",
+      "artist": "Don Williams",
+      "cover": "http://www.billboard.com/images/pref_images/p99491b31tl.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Standing In Your Line",
+      "artist": "Barbara Fairchild",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 17,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Makin' The Best Of A Bad Situation",
+      "artist": "Dick Feller",
+      "spotify": "http://open.spotify.com/track/1c6kr4bZlra1FjIJ3HEVlG?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 11,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Stomp Them Grapes",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Don't You Think",
+      "artist": "Marty Robbins",
+      "cover": "http://www.billboard.com/images/pref_images/p2246418kv3.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 12,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 26,
+      "title": "A Field Of Yellow Daisies",
+      "artist": "Charlie Rich",
+      "cover": "http://www.billboard.com/images/pref_images/p16046hvjwg.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Please Don't Tell Me How The Story Ends",
+      "artist": "Ronnie Milsap",
+      "cover": "http://www.billboard.com/images/pref_images/p64915ixv56.jpg",
+      "spotify": "http://open.spotify.com/track/1LqhyYgkWvAIvENanhOwvb?utm_campaign=billboard",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 28,
+      "title": "(It's A) Monsters' Holiday",
+      "artist": "Buck Owens",
+      "cover": "http://www.billboard.com/images/pref_images/p15648l4g42.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 6,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 29,
+      "title": "I'll Do Anything It Takes (To Stay With You)",
+      "artist": "Jean Shepard",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 17,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Old Home Filler-up An' Keep On-a-truckin' Cafe",
+      "artist": "C.W. McCall",
+      "cover": "http://www.billboard.com/images/pref_images/p14430k2875.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 19,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Keep On Lovin' Me",
+      "artist": "Johnny Paycheck",
+      "cover": "http://www.billboard.com/images/pref_images/p254763h3u3.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 23,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Let Me Make The Bright Lights Shine For You",
+      "artist": "Bob Luman",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 25,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Big Four Poster Bed",
+      "artist": "Brenda Lee",
+      "cover": "http://www.billboard.com/images/pref_images/p17067c80qj.jpg",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Thank You World",
+      "artist": "The Statler Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/p24114v60jy.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Statue Of A Fool",
+      "artist": "Brian Collins",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 10,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 36,
+      "title": "The Wrong In Loving You",
+      "artist": "Faron Young",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 20,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 37,
+      "title": "I'm Not Through Loving You Yet",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 38,
+      "title": "He Thinks I Still Care",
+      "artist": "Anne Murray",
+      "cover": "http://www.billboard.com/images/pref_images/p17487bo9ca.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 39,
+      "title": "I'll Come Back",
+      "artist": "Red Sovine",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 16,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 40,
+      "title": "We Loved It Away",
+      "artist": "George Jones & Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27759yi6aw.jpg",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 8,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Who Left The Door To Heaven Open",
+      "artist": "Hank Thompson",
+      "cover": "http://www.billboard.com/images/pref_images/q02016v668k.jpg",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 10,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 42,
+      "title": "You Make Me Feel More Like A Man",
+      "artist": "Mel Street",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 15,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Hello Out There",
+      "artist": "Lawanda Lindsey",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 28,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Boogie Woogie (a/k/a T.D.'s Boogie Woogie)",
+      "artist": "Charlie McCoy & Barefoot Jerry",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 22,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Sexy Lady",
+      "artist": "Freddy Weller",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 21,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 46,
+      "title": "That's You And Me",
+      "artist": "Hank Snow",
+      "cover": "http://www.billboard.com/images/pref_images/q14091j81bu.jpg",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 36,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Can I Come Home To You",
+      "artist": "Bill Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/q13686h7qps.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 24,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Stop And Smell The Roses",
+      "artist": "Henson Cargill",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 29,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 49,
+      "title": "House Of Love",
+      "artist": "Dottie West",
+      "cover": "http://www.billboard.com/images/pref_images/p17951b66f3.jpg",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 21,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 50,
+      "title": "A Mi Esposa Con Amor (To My Wife With Love)",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 4,
+        "Wks on Chart": 17
+      }
+    }
+  ]
+}

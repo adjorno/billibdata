@@ -1,0 +1,541 @@
+{
+  "name": "Country",
+  "chart_date": "1979-06-09",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "She Believes In Me",
+      "artist": "Kenny Rogers",
+      "cover": "http://www.billboard.com/images/pref_images/q40062jmnf1.jpg",
+      "spotify": "http://open.spotify.com/track/5ggOAMsJCAYDHnyoqJ0xAD?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Sail Away",
+      "artist": "The Oak Ridge Boys",
+      "cover": "http://www.billboard.com/images/pref_images/p25357h6var.jpg",
+      "spotify": "http://open.spotify.com/track/0sfWDQdSEBXRFYcKl4m4LF?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 3,
+      "title": "When I Dream",
+      "artist": "Crystal Gayle",
+      "cover": "http://www.billboard.com/images/pref_images/q00098ngkyq.jpg",
+      "spotify": "http://open.spotify.com/track/7g4wbMlnzlkfxnUGYrEE5h?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Red Bandana/i Must Have Done Something Bad",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Nobody Likes Sad Songs",
+      "artist": "Ronnie Milsap",
+      "cover": "http://www.billboard.com/images/pref_images/p64915ixv56.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 6,
+      "title": "You Feel Good All Over",
+      "artist": "T.G. Sheppard",
+      "cover": "http://www.billboard.com/images/pref_images/p58023clds0.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Amanda",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "spotify": "http://open.spotify.com/track/32PVUuslgVBliRHn96gwbW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 8,
+      "title": "If Love Had A Face",
+      "artist": "Razzy Bailey",
+      "cover": "http://www.billboard.com/images/pref_images/p10870wh0ye.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 6,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Me And My Broken Heart",
+      "artist": "Rex Allen Jr.",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 9,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Sweet Melinda",
+      "artist": "Randy Barlow",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Are You Sincere/solitaire",
+      "artist": "Elvis Presley",
+      "cover": "http://www.billboard.com/images/pref_images/q45257y36kp.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 10,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Two Steps Foward And Three Steps Back",
+      "artist": "Susie Allanson",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 6,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 13,
+      "title": "If I Said You Have A Beautiful Body Would You Hold It Against Me",
+      "artist": "Bellamy Brothers",
+      "spotify": "http://open.spotify.com/track/6vLjsQo3bD6gTHJTsplDz0?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Just Like Real People",
+      "artist": "The Kendalls",
+      "cover": "http://www.billboard.com/images/pref_images/p14005t2axu.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 11,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 15,
+      "title": "September Song",
+      "artist": "Willie Nelson",
+      "cover": "http://www.billboard.com/images/pref_images/q35964lfjxb.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 16,
+      "title": "I Can't Feel You Anymore",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Down To Earth Woman",
+      "artist": "Kenny Dale",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 16,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 18,
+      "title": "I'm The Singer,you're The Song",
+      "artist": "Tanya Tucker",
+      "cover": "http://www.billboard.com/images/pref_images/p18935d0o2l.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 18,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 19,
+      "title": "I Don't Lie",
+      "artist": "Joe Stampley",
+      "cover": "http://www.billboard.com/images/pref_images/p16557xwp6y.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 12,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 20,
+      "title": "If I Give My Heart To You",
+      "artist": "Margo Smith",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 10,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 21,
+      "title": "What In Her World Did I Do",
+      "artist": "Eddy Arnold",
+      "cover": "http://www.billboard.com/images/pref_images/p08903vh77v.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 22,
+      "title": "I Will Survive",
+      "artist": "Billie Jo Spears",
+      "cover": "http://www.billboard.com/images/pref_images/p08594ts05k.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 21,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Shadows In The Moonlight",
+      "artist": "Anne Murray",
+      "cover": "http://www.billboard.com/images/pref_images/p17487bo9ca.jpg",
+      "spotify": "http://open.spotify.com/track/5qujByYxjT21vCeRIaOoqI?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Simple Little Words",
+      "artist": "Christy Lane",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 25,
+      "title": "You're The Only One",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "spotify": "http://open.spotify.com/track/72c9An3Uf1iUhJVO4JUVzu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Touch Me (i'll Be Your Fool Once More)",
+      "artist": "Big Al Downing",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 18,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Steady As The Rain",
+      "artist": "Stella Parton",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 26,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 28,
+      "title": "World's Most Perfect Woman",
+      "artist": "Ronnie McDowell",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 18,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 29,
+      "title": "My Mama Never Heard Me Sing",
+      "artist": "Billy \"Crash\" Craddock",
+      "cover": "http://www.billboard.com/images/pref_images/p04850wk396.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 28,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Play Together Again Again",
+      "artist": "Buck Owens With Emmylou Harris",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 31,
+      "title": "(ghost)riders In The Sky",
+      "artist": "Johnny Cash",
+      "cover": "http://www.billboard.com/images/pref_images/p17121eolkl.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 32,
+      "title": "There Is A Miracle In You",
+      "artist": "Tom T. Hall",
+      "cover": "http://www.billboard.com/images/pref_images/p79752rjipk.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 20,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 33,
+      "title": "When A Love Ain't Right",
+      "artist": "Charly McClain",
+      "cover": "http://www.billboard.com/images/pref_images/p14477s10g9.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 11,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Spanish Eyes",
+      "artist": "Charlie Rich",
+      "cover": "http://www.billboard.com/images/pref_images/p16046hvjwg.jpg",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 20,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 35,
+      "title": "I'll Never Let You Down",
+      "artist": "Tommy Overstreet",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 27,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Runaway Heart",
+      "artist": "Reba McEntire",
+      "cover": "http://www.billboard.com/images/pref_images/q42182iddfw.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 36,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Della And The Dealer",
+      "artist": "Hoyt Axton",
+      "cover": "http://www.billboard.com/images/pref_images/p55433a2q8m.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 17,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 38,
+      "title": "My Heart Is Not My Own",
+      "artist": "Mundo Earwood",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 38,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 39,
+      "title": "She's Been Keepin' Me Up Nights",
+      "artist": "Bobby Lewis",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 39,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Save The Last Dance For Me",
+      "artist": "Emmylou Harris",
+      "cover": "http://www.billboard.com/images/pref_images/q30586nn412.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 41,
+      "title": "You Can Have Her",
+      "artist": "George Jones & Johnny Paycheck",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 14,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Since I Fell For You",
+      "artist": "Con Hunley",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 20,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Breakin' In A Brand New Broken Heart",
+      "artist": "Debby Boone",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 25,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 44,
+      "title": "I Just Wanna Feel The Magic",
+      "artist": "Bobby Borchers",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 43,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Lying In Love With You",
+      "artist": "Jim Ed Brown And Helen Cornelius",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 2,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Lay Down Beside Me",
+      "artist": "Don Williams",
+      "cover": "http://www.billboard.com/images/pref_images/p99491b31tl.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Cheaper Crude Or No More Food",
+      "artist": "Bobby So Fine Butler",
+      "position": {
+        "Last Week": "65",
+        "Peak Position": 46,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 48,
+      "title": "How To Be A Country Star",
+      "artist": "The Statler Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/p24114v60jy.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 7,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Nadine",
+      "artist": "Freddy Weller",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 40,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Reunited",
+      "artist": "Louise Mandrell And R.C.Bannon",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 13,
+        "Wks on Chart": 12
+      }
+    }
+  ]
+}

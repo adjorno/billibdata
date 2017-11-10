@@ -1,0 +1,548 @@
+{
+  "name": "Club",
+  "chart_date": "1987-03-07",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Fascinated",
+      "artist": "Company B",
+      "spotify": "http://open.spotify.com/track/3IgFp6UqtV0kavptQaRRhw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 2,
+      "title": "One Look (One Look Was Enough)",
+      "artist": "Paul Parker",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Let The Music Take Control (Remix)",
+      "artist": "J.M. Silk",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 2,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Show Me (Remix)",
+      "artist": "The Cover Girls",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 4,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Turn Me Loose",
+      "artist": "Wally Jump Jr./Criminal Element",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Jump Into My Life (Remix)",
+      "artist": "Stacy Lattisaw",
+      "cover": "http://www.billboard.com/images/pref_images/p14263ou904.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 7,
+      "title": "No Lies (Remix)",
+      "artist": "The S.O.S. Band",
+      "cover": "http://www.billboard.com/images/pref_images/q01730f1e7c.jpg",
+      "spotify": "http://open.spotify.com/track/4Ap2WDauABGO1s2DvOoJXg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Looking For A New Love (Remix)",
+      "artist": "Jody Watley",
+      "cover": "http://www.billboard.com/images/pref_images/p61870yda3r.jpg",
+      "spotify": "http://open.spotify.com/track/7BeV8s7R68eqPelMmvp5tu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Ego Maniac (Remix)",
+      "artist": "Jocelyn Brown",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 5,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Something Special (Is Gonna Happen Tonight) (Remix)",
+      "artist": "Patti LaBelle",
+      "cover": "http://www.billboard.com/images/pref_images/q10440papx7.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 10,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Showing Out (Get Fresh At The Weekend)/System",
+      "artist": "Mel",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Feels Like The First Time (Remix)",
+      "artist": "Sinitta",
+      "cover": "http://www.billboard.com/images/pref_images/p04365he6ku.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 4,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Only In My Dreams (Remix)",
+      "artist": "Debbie Gibson",
+      "cover": "http://www.billboard.com/images/pref_images/p22024eb250.jpg",
+      "spotify": "http://open.spotify.com/track/6EoAUmLaog9mUTMDtdVudr?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 12,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Candy (Remix)",
+      "artist": "Cameo",
+      "cover": "http://www.billboard.com/images/pref_images/p09435vafk4.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Desire (Come And Get It) (Remix)",
+      "artist": "Gene Loves Jezebel",
+      "cover": "http://www.billboard.com/images/pref_images/p05183b4407.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Cry Wolf (Remix)",
+      "artist": "A-Ha",
+      "cover": "http://www.billboard.com/images/pref_images/p94674q2yty.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 14,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 17,
+      "title": "We Love You (Remix)",
+      "artist": "Orchestral Manoeuvres In The Dark",
+      "cover": "http://www.billboard.com/images/pref_images/q12581anm4w.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Lowdown So",
+      "artist": "Rainy Davis",
+      "cover": "http://www.billboard.com/images/pref_images/p04945r216k.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Open Your Heart (Remix)",
+      "artist": "Madonna",
+      "cover": "http://www.billboard.com/images/pref_images/q27984qkq0m.jpg",
+      "spotify": "http://open.spotify.com/track/3kme5Qos8h04yrKxsgur79?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Infected (Remix)",
+      "artist": "The The",
+      "cover": "http://www.billboard.com/images/pref_images/p23455pupb6.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 18,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 21,
+      "title": "The Honeythief (Remix)",
+      "artist": "Hipsway",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Pick It Up",
+      "artist": "Sofonda C",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 10,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Move Out (Remix)",
+      "artist": "Nancy Martinez",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 12,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Do The Dance (Remix)",
+      "artist": "Trance-Dance",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 8,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Change Of Heart (Remix)",
+      "artist": "Cyndi Lauper",
+      "cover": "http://www.billboard.com/images/pref_images/q18061xxi3h.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 4,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Licensed To Ill (LP Cuts)",
+      "artist": "Beastie Boys",
+      "cover": "http://www.billboard.com/images/pref_images/p89321ud6vl.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 24,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 27,
+      "title": "C mon Every Beatbox (Remix)/Badrock City",
+      "artist": "Big Audio",
+      "cover": "http://www.billboard.com/images/pref_images/p10043c799l.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 19,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Knock Me Senseless",
+      "artist": "Eastbound Expressway",
+      "spotify": "http://open.spotify.com/track/76SkcPOxcjOVeQjkzKtIa3?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Keep Your Eye On Me (Remix)",
+      "artist": "Herb Alpert",
+      "cover": "http://www.billboard.com/images/pref_images/q22929xvsod.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 3,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 30,
+      "title": "You Keep Me Hangin On (Remix)",
+      "artist": "Kim Wilde",
+      "cover": "http://www.billboard.com/images/pref_images/q08564w4v37.jpg",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 6,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Heartbreak Beat (Remix)",
+      "artist": "Psychedelic Furs",
+      "cover": "http://www.billboard.com/images/pref_images/p18778g2ir2.jpg",
+      "spotify": "http://open.spotify.com/track/3IrDvRNvGtY9EOGe854cQH?utm_campaign=billboard",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 14,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 32,
+      "title": "If You Only Knew",
+      "artist": "Chip E.",
+      "spotify": "http://open.spotify.com/track/3A0NvKt7C10PabkPZOF3cN?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 32,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Something About You (Remix)",
+      "artist": "Vesta",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 21,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Whatcha Gonna Do",
+      "artist": "Blaze",
+      "spotify": "http://open.spotify.com/track/6PYT9uddbdjP2gHXBiCri9?utm_campaign=billboard",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 17,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 35,
+      "title": "So Cold The Night (Remix)",
+      "artist": "The Communards",
+      "cover": "http://www.billboard.com/images/pref_images/p11666ca76g.jpg",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 25,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Contenders (Remix)",
+      "artist": "Heaven 17",
+      "cover": "http://www.billboard.com/images/pref_images/p13497ib75i.jpg",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 6,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Lean On Me (Remix)",
+      "artist": "Club Nouveau",
+      "cover": "http://www.billboard.com/images/pref_images/p11600we3lh.jpg",
+      "spotify": "http://open.spotify.com/track/6bKqSvTOPxkqv9rc1tRZSx?utm_campaign=billboard",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Don t Need A Gun (Remix)",
+      "artist": "Billy Idol",
+      "cover": "http://www.billboard.com/images/pref_images/q25059a6232.jpg",
+      "spotify": "http://open.spotify.com/track/1RBOtvFC2nJJyE1BliGwzr?utm_campaign=billboard",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 39,
+      "title": "She (I Can t Resist) (Remix)",
+      "artist": "Jesse Johnson",
+      "cover": "http://www.billboard.com/images/pref_images/p05374q6ns2.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 18,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 40,
+      "title": "The Way To My Heart",
+      "artist": "Matt Warren",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 40,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Stop To Love (Remix)",
+      "artist": "Luther Vandross",
+      "cover": "http://www.billboard.com/images/pref_images/p97977pk4se.jpg",
+      "spotify": "http://open.spotify.com/track/33Vl2I9D7OXIem3KjNuM1C?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 27,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Ever Fallen In Love (Remix)",
+      "artist": "Fine Young Cannibals",
+      "cover": "http://www.billboard.com/images/pref_images/p17369a205g.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 11,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Let s Go! (Remix)",
+      "artist": "Wang Chung",
+      "cover": "http://www.billboard.com/images/pref_images/p17882j8lkg.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 41,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 44,
+      "title": "What You See Is What You Get (Remix)",
+      "artist": "Brenda K. Starr",
+      "spotify": "http://open.spotify.com/track/24evA71Fq0cHhjinJAzEHI?utm_campaign=billboard",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 6,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Face It",
+      "artist": "Master C",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 45,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 46,
+      "title": "On The House (Remix)",
+      "artist": "Midnight Sunrise Featuring Jackie Rawe",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 39,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Sexappeal (Remix)",
+      "artist": "Georgio",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 8,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Come Go With Me",
+      "artist": "Expose",
+      "cover": "http://www.billboard.com/images/pref_images/p14669tc878.jpg",
+      "spotify": "http://open.spotify.com/track/5CMfppUYFwdvH8pZ5HRJbS?utm_campaign=billboard",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Did It Feel Like Love (Remix)",
+      "artist": "Genuine Parts",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 32,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Let s Get Brutal",
+      "artist": "Nitro Deluxe",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 34,
+        "Wks on Chart": 8
+      }
+    }
+  ]
+}

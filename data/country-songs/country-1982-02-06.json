@@ -1,0 +1,547 @@
+{
+  "name": "Country",
+  "chart_date": "1982-02-06",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Lonely Nights",
+      "artist": "Mickey Gilley",
+      "cover": "http://www.billboard.com/images/pref_images/p02761l7p22.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Someone Could Lose A Heart Tonight",
+      "artist": "Eddie Rabbitt",
+      "cover": "http://www.billboard.com/images/pref_images/p15953cykua.jpg",
+      "spotify": "http://open.spotify.com/track/4jFLFsNWbRNa0GeY3sMLo8?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Only One You",
+      "artist": "T.G. Sheppard",
+      "cover": "http://www.billboard.com/images/pref_images/p58023clds0.jpg",
+      "spotify": "http://open.spotify.com/track/3PNjO38a82yQCSlAp61Myh?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Lord, I Hope This Day Is Good",
+      "artist": "Don Williams",
+      "cover": "http://www.billboard.com/images/pref_images/p99491b31tl.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Watchin' Girls Go By",
+      "artist": "Ronnie McDowell",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 6,
+      "title": "You're The Best Break This Old Heart Ever Had",
+      "artist": "Ed Bruce",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Shine",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 8,
+      "title": "I Just Came Home To Count The Memories",
+      "artist": "John Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/q30952eie3t.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 7,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Midnight Rodeo",
+      "artist": "Leon Everette",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 9,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Diamonds In The Stars",
+      "artist": "Ray Price",
+      "cover": "http://www.billboard.com/images/pref_images/q19116tvh88.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 9,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Blue Moon With Heartache",
+      "artist": "Rosanne Cash",
+      "cover": "http://www.billboard.com/images/pref_images/q11810tv5mr.jpg",
+      "spotify": "http://open.spotify.com/track/4TDX7TaAUcdb7Emfgh5Vif?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Everybody Makes Mistakes/Wild Turkey",
+      "artist": "Lacy J. Dalton",
+      "cover": "http://www.billboard.com/images/pref_images/p11818bened.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Mountain Of Love",
+      "artist": "Charley Pride",
+      "cover": "http://www.billboard.com/images/pref_images/p14590oax26.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Do Me With Love",
+      "artist": "Janie Frickie",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 4,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Only You (and You Alone)",
+      "artist": "Reba McEntire",
+      "cover": "http://www.billboard.com/images/pref_images/q42182iddfw.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 13,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 16,
+      "title": "It's Who You Love",
+      "artist": "Kieran Kane",
+      "cover": "http://www.billboard.com/images/pref_images/p19875ra25v.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 16,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 17,
+      "title": "She Left Love All Over Me",
+      "artist": "Razzy Bailey",
+      "cover": "http://www.billboard.com/images/pref_images/p10870wh0ye.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 18,
+      "title": "The Very Best Is You",
+      "artist": "Charly McClain",
+      "cover": "http://www.billboard.com/images/pref_images/p14477s10g9.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 5,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Stuck Right In The Middle Of Your Love",
+      "artist": "Billy Swan",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 19,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 20,
+      "title": "The Sweetest Thing (I've Ever Known)",
+      "artist": "Juice Newton",
+      "cover": "http://www.billboard.com/images/pref_images/p20963qhwvq.jpg",
+      "spotify": "http://open.spotify.com/track/3EFgVWb1TAYP3CF17BB4fU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 21,
+      "title": "If You're Waiting On Me (You're Backing Up)",
+      "artist": "The Kendalls",
+      "cover": "http://www.billboard.com/images/pref_images/p14005t2axu.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 10,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Bobbie Sue",
+      "artist": "The Oak Ridge Boys",
+      "cover": "http://www.billboard.com/images/pref_images/p25357h6var.jpg",
+      "spotify": "http://open.spotify.com/track/1CjwDdKiMksJ5UfUeWirc0?utm_campaign=billboard",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 23,
+      "title": "When You Were Blue And I Was Green",
+      "artist": "Kin Vassy",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 21,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Big City",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Mis'ry River",
+      "artist": "Terri Gibbs",
+      "cover": "http://www.billboard.com/images/pref_images/p05178f31d9.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 12,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Have You Ever Been Lonely (Have You Ever Been Blue)",
+      "artist": "Jim Reeves And Patsy Cline",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Another Sleepless Night",
+      "artist": "Anne Murray",
+      "cover": "http://www.billboard.com/images/pref_images/p17487bo9ca.jpg",
+      "spotify": "http://open.spotify.com/track/24r9lkO9G0fs4IVKrFswsh?utm_campaign=billboard",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 4,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 28,
+      "title": "The Clown",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 29,
+      "title": "When A Man Loves A Woman",
+      "artist": "Jack Grayson",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 18,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Innocent Lies",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 19,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Love Was Born",
+      "artist": "Randy Barlow",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 30,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 32,
+      "title": "No Relief In Sight",
+      "artist": "Con Hunley",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 20,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Tennessee Rose",
+      "artist": "Emmylou Harris",
+      "cover": "http://www.billboard.com/images/pref_images/q30586nn412.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 9,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 34,
+      "title": "If Something Should Come Between Us",
+      "artist": "The Burrito Brothers",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 27,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Lies On Your Lips",
+      "artist": "Christy Lane",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 22,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Sweet Yesterday",
+      "artist": "Sylvia 1",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 12,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Be There For Me Baby",
+      "artist": "Johnny Lee",
+      "cover": "http://www.billboard.com/images/pref_images/q28510fbm26.jpg",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 10,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 38,
+      "title": "A Country Boy Can Survive",
+      "artist": "Hank Williams Jr.",
+      "spotify": "http://open.spotify.com/track/5jVGZTrDusSvwhRDPmZMSB?utm_campaign=billboard",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 2,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Blaze Of Glory",
+      "artist": "Kenny Rogers",
+      "cover": "http://www.billboard.com/images/pref_images/q40062jmnf1.jpg",
+      "spotify": "http://open.spotify.com/track/3aKDWoVZYFPHm7B9bSd9DZ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 40,
+      "title": "You Look Like The One I Love",
+      "artist": "Deborah Allen",
+      "cover": "http://www.billboard.com/images/pref_images/p82944jov15.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 33,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 41,
+      "title": "I Lie",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 9,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Through The Years",
+      "artist": "Kenny Rogers",
+      "cover": "http://www.billboard.com/images/pref_images/q40062jmnf1.jpg",
+      "spotify": "http://open.spotify.com/track/4QqaYMCqf9vtxxaUAvrvJi?utm_campaign=billboard",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Who Do You Know In California",
+      "artist": "Eddy Raven",
+      "cover": "http://www.billboard.com/images/pref_images/p24889qhctt.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Crying My Heart Out Over You",
+      "artist": "Ricky Skaggs",
+      "cover": "http://www.billboard.com/images/pref_images/p73206pxghy.jpg",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 1,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Don't Ever Leave Me Again",
+      "artist": "Vern Gosdin",
+      "cover": "http://www.billboard.com/images/pref_images/p13318kds78.jpg",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 28,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Guilty Eyes",
+      "artist": "Bandana",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 37,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 47,
+      "title": "But It's Cheating",
+      "artist": "Family Brown",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 30,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Running On Love",
+      "artist": "Don King",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 40,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Preaching Up A Storm",
+      "artist": "Mel McDaniel",
+      "cover": "http://www.billboard.com/images/pref_images/p14484uqy1x.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Same Ole Me",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 5,
+        "Wks on Chart": 19
+      }
+    }
+  ]
+}

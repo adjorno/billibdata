@@ -1,0 +1,544 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "1997-11-08",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "You Make Me Wanna...",
+      "artist": "Usher",
+      "cover": "http://charts-static.billboard.com/img/2017/01/usher.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 71
+      }
+    },
+    {
+      "rank": 2,
+      "title": "My Love Is The Shhh!",
+      "artist": "Somethin' For The People Featuring Trina & Tamara",
+      "cover": "http://charts-static.billboard.com/img/1995/10/trina-boq.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 3,
+      "title": "My Body",
+      "artist": "LSG",
+      "cover": "http://charts-static.billboard.com/img/1840/12/gerald-levert-z25.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 34
+      }
+    },
+    {
+      "rank": 4,
+      "title": "4 Seasons Of Loneliness",
+      "artist": "Boyz II Men",
+      "cover": "http://charts-static.billboard.com/img/2016/12/boyz-ii-men.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Feel So Good",
+      "artist": "Mase",
+      "cover": "http://charts-static.billboard.com/img/1996/11/mase-24b.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 5,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 6,
+      "title": "What About Us",
+      "artist": "Total",
+      "cover": "http://charts-static.billboard.com/img/1995/04/total-e5i.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 36
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Sock It 2 Me/The Rain (Supa Dupa Fly)",
+      "artist": "Missy \"Misdemeanor\" Elliott Featuring Da Brat",
+      "cover": "http://charts-static.billboard.com/img/2017/02/missy-elliott.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 4,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Butta Love",
+      "artist": "Next",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 32
+      }
+    },
+    {
+      "rank": 9,
+      "title": "You Should Be Mine (Don't Waste Your Time)",
+      "artist": "Brian McKnight Featuring Mase",
+      "cover": "http://charts-static.billboard.com/img/2017/04/brian-mcknight.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Everything",
+      "artist": "Mary J. Blige",
+      "cover": "http://charts-static.billboard.com/img/2017/07/mary-j-blige.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 11,
+      "title": "I Care `Bout You",
+      "artist": "Milestone",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 12,
+      "title": "The One I Gave My Heart To",
+      "artist": "Aaliyah",
+      "cover": "http://charts-static.billboard.com/img/1840/12/aaliyah-wsb.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 8,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 13,
+      "title": "All Cried Out",
+      "artist": "Allure Featuring 112",
+      "cover": "http://charts-static.billboard.com/img/1840/12/112-b9p.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 9,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 14,
+      "title": "They Like It Slow",
+      "artist": "H-Town",
+      "cover": "http://charts-static.billboard.com/img/1992/12/h-town-rli.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 12,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Last Night's Letter",
+      "artist": "K-Ci & JoJo",
+      "cover": "http://charts-static.billboard.com/img/1996/05/k-ci-jojo-wpa.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Never Make A Promise",
+      "artist": "Dru Hill",
+      "cover": "http://charts-static.billboard.com/img/1840/12/dru-hill-j5q.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 1,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Honey",
+      "artist": "Mariah Carey",
+      "cover": "http://charts-static.billboard.com/img/2017/02/mariah-carey.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 2,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Phenomenon",
+      "artist": "LL Cool J",
+      "cover": "http://charts-static.billboard.com/img/1840/12/ll-cool-j-kyv.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 16,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 19,
+      "title": "I Miss My Homies",
+      "artist": "Master P Featuring Pimp C And The Shocker",
+      "cover": "http://charts-static.billboard.com/img/1995/03/master-p-fza.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 16,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Mo Money Mo Problems",
+      "artist": "The Notorious B.I.G. Featuring Puff Daddy & Mase",
+      "cover": "http://charts-static.billboard.com/img/2017/06/the-notorious-big.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 2,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Up Jumps Da Boogie",
+      "artist": "Magoo And Timbaland",
+      "cover": "http://charts-static.billboard.com/img/2016/11/timbaland.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 4,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 22,
+      "title": "I Can Love You/Love Is All We Need",
+      "artist": "Mary J. Blige",
+      "cover": "http://charts-static.billboard.com/img/2017/07/mary-j-blige.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 2,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 23,
+      "title": "If I Could Teach The World",
+      "artist": "Bone Thugs-N-Harmony",
+      "cover": "http://charts-static.billboard.com/img/2017/07/bone-thugsnharmony.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 20,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Backyard Boogie",
+      "artist": "Mack 10",
+      "cover": "http://charts-static.billboard.com/img/1995/05/mack-10-3ic.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Too Gone, Too Long",
+      "artist": "En Vogue",
+      "cover": "http://charts-static.billboard.com/img/1990/03/en-vogue-ps1.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 25,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 26,
+      "title": "For You",
+      "artist": "Kenny Lattimore",
+      "cover": "http://charts-static.billboard.com/img/2016/12/kenny-lattimore.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 6,
+        "Wks on Chart": 40
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Not Tonight",
+      "artist": "Lil' Kim Feat. Da Brat, Left Eye, Missy Elliott & Angie Mar",
+      "cover": "http://charts-static.billboard.com/img/1994/05/da-brat-nfx.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 3,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 28,
+      "title": "So Good",
+      "artist": "Davina",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 23,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 29,
+      "title": "In My Bed",
+      "artist": "Dru Hill",
+      "cover": "http://charts-static.billboard.com/img/1840/12/dru-hill-j5q.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 1,
+        "Wks on Chart": 63
+      }
+    },
+    {
+      "rank": 30,
+      "title": "How Ya Do Dat",
+      "artist": "Sons Of Funk",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 29,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 31,
+      "title": "After 12, Before 6",
+      "artist": "Sam Salter",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 19,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 32,
+      "title": "I Don't Ever Want To See You Again",
+      "artist": "Uncle Sam",
+      "cover": "http://charts-static.billboard.com/img/1997/08/uncle-sam-81y.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 2,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 33,
+      "title": "In Harm's Way",
+      "artist": "BeBe Winans",
+      "cover": "http://charts-static.billboard.com/img/1985/01/bebe-winans-znx.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 20,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 34,
+      "title": "I'll Be Missing You",
+      "artist": "Puff Daddy & Faith Evans Featuring 112",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 1,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 35,
+      "title": "I'm Not A Player",
+      "artist": "Big Punisher",
+      "cover": "http://charts-static.billboard.com/img/2017/04/big-punisher.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 19,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Big Bad Mamma",
+      "artist": "Foxy Brown Featuring Dru Hill",
+      "cover": "http://charts-static.billboard.com/img/1990/01/foxy-brown-3ur.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 10,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 37,
+      "title": "G.H.E.T.T.O.U.T.",
+      "artist": "Changing Faces",
+      "cover": "http://charts-static.billboard.com/img/1994/07/changing-faces-6vg.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 1,
+        "Wks on Chart": 32
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Sunshine",
+      "artist": "Jay-Z Featuring Babyface And Foxy Brown",
+      "cover": "http://charts-static.billboard.com/img/1990/01/foxy-brown-3ur.jpg",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 37,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Have A Little Mercy",
+      "artist": "4.0",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 28,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Someone",
+      "artist": "SWV (Featuring Puff Daddy)",
+      "cover": "http://charts-static.billboard.com/img/2017/03/swv.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 5,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Do You Like This",
+      "artist": "Rome",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 10,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 42,
+      "title": "The Joint",
+      "artist": "EPMD",
+      "cover": "http://charts-static.billboard.com/img/1988/04/epmd-8cw.jpg",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 42,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Me And My Crazy World",
+      "artist": "Lost Boyz",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 23,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Avenues",
+      "artist": "Refugee Camp All Stars Featuring Pras (With Ky-mani)",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 28,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 45,
+      "title": "When You Talk About Love",
+      "artist": "Patti LaBelle",
+      "cover": "http://charts-static.billboard.com/img/2017/05/patti-labelle.jpg",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 12,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 46,
+      "title": "All Of My Days",
+      "artist": "Changing Faces (Featuring Jay-Z)",
+      "cover": "http://charts-static.billboard.com/img/1994/07/changing-faces-6vg.jpg",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 38,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Baby You Know",
+      "artist": "The O'Jays",
+      "cover": "http://charts-static.billboard.com/img/1840/12/the-ojays-nco.jpg",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 34,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Don't Stop The Music",
+      "artist": "Playa",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 26,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Can We",
+      "artist": "SWV",
+      "cover": "http://charts-static.billboard.com/img/2017/03/swv.jpg",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 31,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 50,
+      "title": "True To Myself",
+      "artist": "Eric Benet",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 43,
+        "Wks on Chart": 15
+      }
+    }
+  ]
+}

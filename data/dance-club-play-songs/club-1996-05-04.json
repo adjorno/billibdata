@@ -1,0 +1,557 @@
+{
+  "name": "Club",
+  "chart_date": "1996-05-04",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Make The World Go Round",
+      "artist": "Sandy B",
+      "spotify": "http://open.spotify.com/track/3ynyCemcJU7rkpowzHfxRl?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 2,
+      "title": "The Sound",
+      "artist": "X-Press 2",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Sunday Afternoons",
+      "artist": "Vanessa Daou",
+      "cover": "http://www.billboard.com/images/pref_images/p69862e8tg0.jpg",
+      "spotify": "http://open.spotify.com/track/6aEDrN9GQfe5LBuB8MET1o?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Sweet Dreams",
+      "artist": "La Bouche",
+      "cover": "http://www.billboard.com/images/pref_images/p98418kavfo.jpg",
+      "spotify": "http://open.spotify.com/track/2l7HMphwSGD35ixqfKaBcO?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Sexuality",
+      "artist": "k.d. lang",
+      "cover": "http://www.billboard.com/images/pref_images/q00431hot28.jpg",
+      "spotify": "http://open.spotify.com/track/03WnBcDINaTjiGmrjdxb1r?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 3,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 6,
+      "title": "One More Try",
+      "artist": "Kristine W",
+      "cover": "http://www.billboard.com/images/pref_images/p69070ypg4d.jpg",
+      "spotify": "http://open.spotify.com/track/4fMPX87j0CHJCOJ3QtKe5P?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Hyper-Ballad",
+      "artist": "Bjork",
+      "cover": "http://www.billboard.com/images/pref_images/q17780m6myv.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Movin'",
+      "artist": "Mone",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Strange World",
+      "artist": "Ke",
+      "cover": "http://www.billboard.com/images/pref_images/p12405nmmgb.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 10,
+      "title": "What A Sensation",
+      "artist": "Kenlou",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Tell It To My Heart",
+      "artist": "Taylor Dayne",
+      "cover": "http://www.billboard.com/images/pref_images/q15353mpk16.jpg",
+      "spotify": "http://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 4,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Love Has No Name",
+      "artist": "Babble",
+      "cover": "http://www.billboard.com/images/pref_images/p20250h1378.jpg",
+      "spotify": "http://open.spotify.com/track/73c8zWH0kBGTXeWtV0L8LV?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Can't Stop Love",
+      "artist": "Soul Solution",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 3,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Mighty Power Of Love",
+      "artist": "Leee John",
+      "cover": "http://www.billboard.com/images/pref_images/p04879vmpcc.jpg",
+      "spotify": "http://open.spotify.com/track/6hoXubIzupNWp1PCamZpyA?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Land Of Dreaming",
+      "artist": "Masterboy",
+      "spotify": "http://open.spotify.com/track/3CdNc2Hm8UPYCtVmWgSFru?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Inside Out",
+      "artist": "Culture Beat",
+      "cover": "http://www.billboard.com/images/pref_images/p76363qfv3x.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Wham Bam",
+      "artist": "Candy Girls Featuring Sweet Pussy Pauline",
+      "spotify": "http://open.spotify.com/track/7rfe0VcdO1UHnSJRwsWZp1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 7,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Feels So Good (Show Me Your Love)",
+      "artist": "Lina Santiago",
+      "spotify": "http://open.spotify.com/track/0SaHDg4oySbJ0OVgPz52uC?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 6,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Viciosa",
+      "artist": "Sueno Latino Featuring Valeria Vix",
+      "spotify": "http://open.spotify.com/track/4yNsLR6QJEfxvdVTdcLQvF?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 18,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 20,
+      "title": "You'll Never Find",
+      "artist": "Meechie",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 14,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Giv Me Luv",
+      "artist": "Alcatraz",
+      "spotify": "http://open.spotify.com/track/0B76vHSJ4KOICWSKCnmJWd?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Ooh Boy",
+      "artist": "Real McCoy",
+      "cover": "http://www.billboard.com/images/pref_images/p04195t18s2.jpg",
+      "spotify": "http://open.spotify.com/track/2ktTPYj1Ir7hiVCMHZnJaA?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Love Can Change It",
+      "artist": "Frankie Knuckles Featuring Adeva",
+      "cover": "http://www.billboard.com/images/pref_images/p10520pu2tp.jpg",
+      "spotify": "http://open.spotify.com/track/3f0V9NjUxPa2forcAHt0zG?utm_campaign=billboard",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 18,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Dirty Love",
+      "artist": "Lonnie Gordon",
+      "cover": "http://www.billboard.com/images/pref_images/p03921l627l.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 6,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Reach",
+      "artist": "Gloria Estefan",
+      "cover": "http://www.billboard.com/images/pref_images/p85016sd453.jpg",
+      "spotify": "http://open.spotify.com/track/3cc96YHa9DfNBwIFzSYtEf?utm_campaign=billboard",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Light Years",
+      "artist": "Jamiroquai",
+      "cover": "http://www.billboard.com/images/pref_images/q05878i8ki4.jpg",
+      "spotify": "http://open.spotify.com/track/5wE3wotNV8ex9rBt8xuCb1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Reachin'",
+      "artist": "Instinct",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 28,
+      "title": "1979",
+      "artist": "The Smashing Pumpkins",
+      "cover": "http://www.billboard.com/images/pref_images/p97023au20f.jpg",
+      "spotify": "http://open.spotify.com/track/5KRRcT67VNIZUygEbMoIC1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 17,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 29,
+      "title": "America (I Love America)",
+      "artist": "Full Intention",
+      "spotify": "http://open.spotify.com/track/1tSTnCLG1OeU1nN6gfVvUv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Reap (What You Sow)",
+      "artist": "Vernessa Mitchell",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 19,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 31,
+      "title": "A Mystical Journey",
+      "artist": "Galaxy People",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 32,
+      "title": "StopGo",
+      "artist": "D'Still'D",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 6,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Do What's Good For Me",
+      "artist": "2 Unlimited",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 33,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Tres Deseos (Three Wishes)",
+      "artist": "Gloria Estefan",
+      "cover": "http://www.billboard.com/images/pref_images/p85016sd453.jpg",
+      "spotify": "http://open.spotify.com/track/3cXaIapjSttDzuJQiuN77V?utm_campaign=billboard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 35,
+      "title": "I Never Needed",
+      "artist": "Alexia Phillips",
+      "spotify": "http://open.spotify.com/track/6LvyF8MjWYW8zuUByTesUC?utm_campaign=billboard",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 34,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Salva Mea (Save Me)",
+      "artist": "Faithless",
+      "cover": "http://www.billboard.com/images/pref_images/p24175k8oly.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 37,
+      "title": "I Will Survive",
+      "artist": "Diana Ross",
+      "cover": "http://www.billboard.com/images/pref_images/p83824otubm.jpg",
+      "spotify": "http://open.spotify.com/track/3d1wRt44cDsU5ncYFLpXkn?utm_campaign=billboard",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 37,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 38,
+      "title": "No Reason To Cry",
+      "artist": "Judy Torres",
+      "cover": "http://www.billboard.com/images/pref_images/p09152s1n69.jpg",
+      "spotify": "http://open.spotify.com/track/5xMiDylGydqGI7v6W9kC4K?utm_campaign=billboard",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 30,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 39,
+      "title": "The Captain Of The Ship",
+      "artist": "Ratpack",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 15,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Children",
+      "artist": "Robert Miles",
+      "cover": "http://www.billboard.com/images/pref_images/p17486s548j.jpg",
+      "spotify": "http://open.spotify.com/track/4wtR6HB3XekEengMX17cpc?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Ain't Nobody",
+      "artist": "Diana King",
+      "cover": "http://www.billboard.com/images/pref_images/p88993f2cdy.jpg",
+      "spotify": "http://open.spotify.com/track/67EJJfVy93Hlyo3Z742Ka7?utm_campaign=billboard",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Rumour",
+      "artist": "Bel Canto",
+      "cover": "http://www.billboard.com/images/pref_images/p14722oo260.jpg",
+      "spotify": "http://open.spotify.com/track/1LZVxImTFciYCw1OBbNz7M?utm_campaign=billboard",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 8,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Think Twice",
+      "artist": "Alana Dante",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 42,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Theme From Mission: Impossible",
+      "artist": "Adam Clayton & Larry Mullen",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 2,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Justify",
+      "artist": "The Girl Next Door",
+      "spotify": "http://open.spotify.com/track/5wuv35xLAetX6dxeUi5t6R?utm_campaign=billboard",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 19,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Never Stop",
+      "artist": "Reflexion Featuring Laura Alford",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 26,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Reach Higher",
+      "artist": "Unknown Society",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 22,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Don't Stop (Wiggle Wiggle)",
+      "artist": "The Outhere Brothers",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 22,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 49,
+      "title": "This Is The Way",
+      "artist": "E-Type",
+      "spotify": "http://open.spotify.com/track/3mOFZUng9FjxXCwDeAQjmU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 15,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Everybody's Groovin'",
+      "artist": "Max-A-Million",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 45,
+        "Wks on Chart": 3
+      }
+    }
+  ]
+}

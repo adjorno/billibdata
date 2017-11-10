@@ -1,0 +1,438 @@
+{
+  "name": "Latin",
+  "chart_date": "1987-02-21",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "De mi enamorate",
+      "artist": "Daniela Romo",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 36
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Tu dama de hierro",
+      "artist": "Marisela",
+      "cover": "http://www.billboard.com/images/pref_images/p20786uil96.jpg",
+      "spotify": "http://open.spotify.com/track/4rXC717kTEqepVyGxXMuEM?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 34
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Es mi mujer",
+      "artist": "Emmanuel",
+      "cover": "http://www.billboard.com/images/pref_images/q03507ezqvp.jpg",
+      "spotify": "http://open.spotify.com/track/1bC7Q8eFcy0gWOLc1JvE59?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 39
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Quedate conmigo esta noche",
+      "artist": "Rocio Durcal",
+      "cover": "http://www.billboard.com/images/pref_images/p20347m8767.jpg",
+      "spotify": "http://open.spotify.com/track/0QTJFY7wrFxL9JlJfQvJzv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 5,
+      "title": "y quien puede ser",
+      "artist": "Jose Jose",
+      "spotify": "http://open.spotify.com/track/4XUoa0naqHa7ouslS7ZmbR?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 6,
+      "title": "La hora del adios",
+      "artist": "Dyango y Rocio Durcal",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Macumba",
+      "artist": "Veronica Castro",
+      "cover": "http://www.billboard.com/images/pref_images/p06390pbf4h.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 2,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Te amare",
+      "artist": "Jose Feliciano",
+      "cover": "http://www.billboard.com/images/pref_images/p06387ykr84.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 4,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 9,
+      "title": "El hombre de mi vida",
+      "artist": "Angelica Maria",
+      "spotify": "http://open.spotify.com/track/2FiiK8q3JxIeOnZLIEQp0H?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 10,
+      "title": "En bancarrota",
+      "artist": "Braulio",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 1,
+        "Wks on Chart": 39
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Este adios",
+      "artist": "Los Bukis",
+      "spotify": "http://open.spotify.com/track/3AKlvROAuPIeeIecsjb3YG?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Timido",
+      "artist": "Flans",
+      "spotify": "http://open.spotify.com/track/2m0rV14r7Idr8B8mVfSr6S?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 9,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Tu sin mi",
+      "artist": "Ednita Nazario",
+      "spotify": "http://open.spotify.com/track/0m9ADM3cUKRw0i0chYNZLr?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 9,
+        "Wks on Chart": 42
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Hoy platique con mi gallo",
+      "artist": "Vicente Fernandez",
+      "spotify": "http://open.spotify.com/track/6CbX9wJqaIX3Mdp1Bp2c0o?utm_campaign=billboard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 11,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Que lastima",
+      "artist": "Juan Gabriel",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy7964831082931223740.jpg",
+      "spotify": "http://open.spotify.com/track/0CjSmU0I9QOfo77avvPnIO?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 9,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Que locura enamorarme de ti",
+      "artist": "Eddie Santiago",
+      "spotify": "http://open.spotify.com/track/4Ih0JljQ3X3PbHfmuk05PR?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 13,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Corre y ve con el",
+      "artist": "Jose Jose",
+      "spotify": "http://open.spotify.com/track/1ZVW3SHwc1FiJYAoAelk0i?utm_campaign=billboard",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 4,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Acariciame",
+      "artist": "La Patrulla",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 18,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Me hace falta una flor",
+      "artist": "Pimpinela",
+      "spotify": "http://open.spotify.com/track/6l1qZCpwvSZR73CzQHojka?utm_campaign=billboard",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 19,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Vivir lo nuestro",
+      "artist": "Basilio",
+      "spotify": "http://open.spotify.com/track/6yk3wInGEoAHEUaLSHbFOd?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 11,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 21,
+      "title": "De color de rosa",
+      "artist": "Prisma",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 3,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Hasta cuando",
+      "artist": "Beatriz Adriana",
+      "spotify": "http://open.spotify.com/track/4AIAWFRxllIDotVoQosaKq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 5,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Oiga",
+      "artist": "Joan Sebastian y Prisma",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 4,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Castigame",
+      "artist": "Lucia Mendez",
+      "cover": "http://www.billboard.com/images/pref_images/p98651l6gti.jpg",
+      "spotify": "http://open.spotify.com/track/74xooZsGpJ2Aw7LJzj6IDw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 4,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Solo el y yo",
+      "artist": "Pandora",
+      "spotify": "http://open.spotify.com/track/3XqGZy8cCCFRDD1i84cSGA?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 3,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Fuera de mi vida",
+      "artist": "Valeria Lynch",
+      "spotify": "http://open.spotify.com/track/68ko14Y2ro7mjP21VofB9A?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 27,
+      "title": "La quiero a morir",
+      "artist": "Los Hijos del Rey",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 22,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Sueltame",
+      "artist": "Maria Conchita Alonso",
+      "spotify": "http://open.spotify.com/track/1K8FXGKmhs5W7Gg68tUfdu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 22,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Toda la vida",
+      "artist": "Franco",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 1,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Era la primera vez",
+      "artist": "Lucerito",
+      "spotify": "http://open.spotify.com/track/7BWvfsSEFMPQqK9hqTMSMj?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 17,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Juguete de nadie",
+      "artist": "Braulio",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 7,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Alguien llena mi lugar",
+      "artist": "Pandora",
+      "spotify": "http://open.spotify.com/track/1gSv0v8ph00KKzH0XelilB?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 25,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 33,
+      "title": "A cual piso",
+      "artist": "Johnny Ventura",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 33,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 34,
+      "title": "La guirnalda",
+      "artist": "Rocio Durcal",
+      "cover": "http://www.billboard.com/images/pref_images/p20347m8767.jpg",
+      "spotify": "http://open.spotify.com/track/2JXFzgLGZtVHukb110isXV?utm_campaign=billboard",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Hasta que te conoci",
+      "artist": "Juan Gabriel",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy7964831082931223740.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 2,
+        "Wks on Chart": 45
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Corazon vacio",
+      "artist": "Los Yonic s",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 6,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Amigos",
+      "artist": "Gerardo Reyes y Lorenzo de Monteclaro",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 37,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 38,
+      "title": "La hierva se movia",
+      "artist": "Tropicalisimo Apache",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 12,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Hoy vine con ella",
+      "artist": "Lissette y Manoella Torres",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 16,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Los hijos de Hernandez",
+      "artist": "Los Tigres Del Norte",
+      "cover": "http://www.billboard.com/images/pref_images/q22666owdhk.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 29,
+        "Wks on Chart": 11
+      }
+    }
+  ]
+}

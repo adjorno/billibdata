@@ -1,0 +1,555 @@
+{
+  "name": "Club",
+  "chart_date": "2013-07-06",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Heart Attack",
+      "artist": "Demi Lovato",
+      "cover": "http://www.billboard.com/images/pref_images/q25398vdlbg.jpg",
+      "spotify": "http://open.spotify.com/track/7ukQvPuGUBZt88WveKBGAD?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 2,
+      "title": "This Is My Goodbye",
+      "artist": "Antoine Clamaran Featuring Fenja",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 2,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Heartbeat",
+      "artist": "Tony Moran VS Deborah Cooper",
+      "cover": "http://www.billboard.com/images/pref_images/q28243dgpst.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Come & Get It",
+      "artist": "Selena Gomez",
+      "cover": "http://www.billboard.com/images/pref_images/q08674j370m.jpg",
+      "spotify": "http://open.spotify.com/track/7Gkphzdh5ouurEt7JT49Yu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 1,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Get Lucky",
+      "artist": "Daft Punk Featuring Pharrell Williams",
+      "cover": "http://www.billboard.com/images/pref_images/q08127rqhk5.jpg",
+      "spotify": "http://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 6,
+      "title": "People Like Us",
+      "artist": "Kelly Clarkson",
+      "cover": "http://www.billboard.com/images/pref_images/q12086k0jt8.jpg",
+      "spotify": "http://open.spotify.com/track/6yycpXzFKgEeCMXbDwj9bg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Live It Up",
+      "artist": "Jennifer Lopez Featuring Pitbull",
+      "cover": "http://www.billboard.com/images/pref_images/p76527yw3p8.jpg",
+      "spotify": "http://open.spotify.com/track/4WVhv7DuK29A1o6zCGdjQK?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 1,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Reload",
+      "artist": "Sebastian Ingrosso/Tommy Trash/John Martin",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 4,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Hold On",
+      "artist": "NERVO",
+      "cover": "http://www.billboard.com/images/pref_images/q08727hhk4q.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Play Hard",
+      "artist": "David Guetta Featuring Ne-Yo & Akon",
+      "cover": "http://www.billboard.com/images/pref_images/q23295crm54.jpg",
+      "spotify": "http://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Bullet",
+      "artist": "Rokelle Featuring Dave Aude",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 2,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 12,
+      "title": "U B The Bass",
+      "artist": "Luciana",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 6,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Easy",
+      "artist": "Mat Zo & Porter Robinson",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 11,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Body Party",
+      "artist": "Ciara",
+      "cover": "http://www.billboard.com/images/pref_images/q03274v8ag5.jpg",
+      "spotify": "http://open.spotify.com/track/16C3J2WNhVYSNkpIQRtG2A?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 1,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 15,
+      "title": "It's Not Over",
+      "artist": "Chaka Khan Featuring LeCrae",
+      "cover": "http://www.billboard.com/images/pref_images/q37182ncyek.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 7,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Again",
+      "artist": "Jessica Sutta Featuring Kemal Golden",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 14,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Alive",
+      "artist": "Empire Of The Sun",
+      "cover": "http://www.billboard.com/images/pref_images/q06591ebtu0.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 1,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Make Some Noise",
+      "artist": "Inaya Day & DJ Escape",
+      "cover": "http://www.billboard.com/images/pref_images/q47780eml7l.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 4,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Good 4 It",
+      "artist": "Wallpaper.",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 18,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 20,
+      "title": "What You Are",
+      "artist": "Bex",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Surrender",
+      "artist": "Bouvier & Barona Featuring Abigail",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 22,
+      "title": "#thatPOWER",
+      "artist": "will.i.am Featuring Justin Bieber",
+      "cover": "http://www.billboard.com/images/pref_images/q07249tnm6w.jpg",
+      "spotify": "http://open.spotify.com/track/6LuHcIZmMG5LU2hiqxscNb?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 10,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Let's Just Dance",
+      "artist": "D'Manti",
+      "spotify": "http://open.spotify.com/track/32mn8ZrL1rP5Js7KH4racB?utm_campaign=billboard",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 5,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 24,
+      "title": "It's Our Night",
+      "artist": "Jason Dottley",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 22,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Messiah",
+      "artist": "Monsta",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 19,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Heartbreaker",
+      "artist": "Mia Martina",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 25,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Blurred Lines",
+      "artist": "Robin Thicke Featuring T.I. + Pharrell",
+      "cover": "http://www.billboard.com/images/pref_images/q20691jvhkz.jpg",
+      "spotify": "http://open.spotify.com/track/0XzkemXSiXJa7VgDFPfU4S?utm_campaign=billboard",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 3,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Hands Up",
+      "artist": "Keenan Cahill And Electrovamp",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 14,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Tonight I'm Getting Over You",
+      "artist": "Carly Rae Jepsen",
+      "cover": "http://www.billboard.com/images/pref_images/p92098vdtca.jpg",
+      "spotify": "http://open.spotify.com/track/4w2sOKmotzKsdGDLHic94B?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 26,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 30,
+      "title": "You Never Know",
+      "artist": "Audio Playground Featuring Snoop Lion",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 5,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Need U (100%)",
+      "artist": "Duke Dumont Featuring A*M*E",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 1,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Everybody Loves The Night",
+      "artist": "Ultra Nate",
+      "cover": "http://www.billboard.com/images/pref_images/p65009k2q13.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 29,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Get Up (Rattle)",
+      "artist": "Bingo Players Featuring Far East Movement",
+      "cover": "http://www.billboard.com/images/pref_images/q15658ft76d.jpg",
+      "spotify": "http://open.spotify.com/track/31uVkBW9owvinAad4yIB04?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Run Dat Back",
+      "artist": "Jadagrace",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 20,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 35,
+      "title": "This Is What It Feels Like",
+      "artist": "Armin van Buuren Featuring Trevor Guthrie",
+      "cover": "http://www.billboard.com/images/pref_images/q08880vvvqg.jpg",
+      "spotify": "http://open.spotify.com/track/6NdkzOSCLzmyV9Qc4DKhJ2?utm_campaign=billboard",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 35,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Can't Hold Us",
+      "artist": "Macklemore & Ryan Lewis Featuring Ray Dalton",
+      "cover": "http://www.billboard.com/images/pref_images/q03110x3no0.jpg",
+      "spotify": "http://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn?utm_campaign=billboard",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 31,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Stars",
+      "artist": "Kat DeLuna",
+      "cover": "http://www.billboard.com/images/pref_images/q20461hs2qm.jpg",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 2,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 38,
+      "title": "I Can't Wait",
+      "artist": "Namy & Barbara Tucker",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 9,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Crazy Kids",
+      "artist": "Ke$ha Featuring will.i.am Or Juicy J",
+      "cover": "http://www.billboard.com/images/pref_images/q03701neg6s.jpg",
+      "spotify": "http://open.spotify.com/track/19vqpjwWDbPmizICIUFinw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 32,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Need You Now (How Many Times)",
+      "artist": "Plumb",
+      "cover": "http://www.billboard.com/images/pref_images/q08174uxhro.jpg",
+      "spotify": "http://open.spotify.com/track/3oCy1o9lrIvgFC1T7kfTNv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 4,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Gentleman",
+      "artist": "PSY",
+      "cover": "http://www.billboard.com/images/pref_images/q04612uub3s.jpg",
+      "spotify": "http://open.spotify.com/track/5U8dy2VxCGMXCy5b9ZfzO4?utm_campaign=billboard",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Don't Take Your Love Away",
+      "artist": "Yulianna",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 42,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 43,
+      "title": "I Love It",
+      "artist": "Icona Pop Featuring Charli XCX",
+      "cover": "http://www.billboard.com/images/pref_images/q22187hm5wo.jpg",
+      "spotify": "http://open.spotify.com/track/3VZQshi4COChhXaz7cLP02?utm_campaign=billboard",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 25,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Glowing",
+      "artist": "Nikki Williams",
+      "spotify": "http://open.spotify.com/track/2q2IvYjfidmDUXag3batKZ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 45,
+      "title": "This Is Our Love",
+      "artist": "Sophi",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 5,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 46,
+      "title": "One Last Kiss",
+      "artist": "Irina Featuring Dave Aude",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Soothe My Soul",
+      "artist": "Depeche Mode",
+      "cover": "http://www.billboard.com/images/pref_images/p89868hqoo3.jpg",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 48,
+      "title": "I Need Your Love",
+      "artist": "Calvin Harris Featuring Ellie Goulding",
+      "cover": "http://www.billboard.com/images/pref_images/yyyy2692105048585419784.jpg",
+      "spotify": "http://open.spotify.com/track/05SBRd4fXgn8FX7bf8BCAE?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Sexual Religion",
+      "artist": "Rod Stewart",
+      "cover": "http://www.billboard.com/images/pref_images/q01635cjpyn.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 50,
+      "title": "City Of Dreams",
+      "artist": "Dirty South & Alesso Featuring Ruben Haze",
+      "cover": "http://www.billboard.com/images/pref_images/q21675tmp7n.jpg",
+      "spotify": "http://open.spotify.com/track/5hvXP3n724pq9Cx0FR3AAY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
+    }
+  ]
+}

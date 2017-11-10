@@ -1,0 +1,532 @@
+{
+  "name": "Country",
+  "chart_date": "1966-09-17",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Almost Persuaded",
+      "artist": "David Houston",
+      "spotify": "http://open.spotify.com/track/3BXAg0OZ7nAu6AVY0cvdL7?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 2,
+      "title": "A Million And One",
+      "artist": "Billy Walker",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 3,
+      "title": "The Tip Of My Fingers",
+      "artist": "Eddy Arnold",
+      "cover": "http://www.billboard.com/images/pref_images/p08903vh77v.jpg",
+      "spotify": "http://open.spotify.com/track/6YsUv2Ba4GsAo4NO4eYDRp?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Blue Side Of Lonesome",
+      "artist": "Jim Reeves",
+      "cover": "http://www.billboard.com/images/pref_images/p06780ig50x.jpg",
+      "spotify": "http://open.spotify.com/track/0lX5P9TSfOZ0htz3ITYQtF?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 5,
+      "title": "You Ain't Woman Enough",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 6,
+      "title": "The Shoe Goes On The Other Foot Tonight",
+      "artist": "Marty Robbins",
+      "cover": "http://www.billboard.com/images/pref_images/p2246418kv3.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Four-O-Thirty Three",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 8,
+      "title": "The Streets Of Baltimore",
+      "artist": "Bobby Bare",
+      "cover": "http://www.billboard.com/images/pref_images/p10912s9s7h.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Room In Your Heart",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 2,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 10,
+      "title": "The World Is Round",
+      "artist": "Roy Drusky",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Open Up Your Heart",
+      "artist": "Buck Owens",
+      "cover": "http://www.billboard.com/images/pref_images/p15648l4g42.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 12,
+      "title": "The Lovin' Machine",
+      "artist": "Johnny Paycheck",
+      "cover": "http://www.billboard.com/images/pref_images/p254763h3u3.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Think Of Me",
+      "artist": "Buck Owens and The Buckaroos",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 14,
+      "title": "It's All Over (But The Crying)",
+      "artist": "Kitty Wells",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Walking On New Grass",
+      "artist": "Kenny Price",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 7,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 16,
+      "title": "If Teardrops Were Silver",
+      "artist": "Jean Shepard",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 10,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 17,
+      "title": "I Can't Keep Away From You",
+      "artist": "Wilburn Brothers",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Standing In The Shadows",
+      "artist": "Hank Williams Jr.",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 5,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 19,
+      "title": "The Bottle Let Me Down",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 3,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Swinging Doors",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 5,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Lonelyville",
+      "artist": "Dave Dudley",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 22,
+      "title": "At Ease Heart",
+      "artist": "[Champagne]",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 13,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 23,
+      "title": "I Hear Little Rock Calling",
+      "artist": "Ferlin Husky",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 17,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Mean Old Woman",
+      "artist": "Claude Gray",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 22,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Blues Plus Booze (Means I Lose)",
+      "artist": "Stonewall Jackson",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 12,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 26,
+      "title": "A Taste Of Heaven",
+      "artist": "Jim Edward Brown",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 23,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 27,
+      "title": "I Get The Fever",
+      "artist": "Bill Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/q13686h7qps.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Ain't Had No Lovin'",
+      "artist": "Connie Smith",
+      "cover": "http://www.billboard.com/images/pref_images/p85285q666r.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 2,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 29,
+      "title": "It Takes A Lot Of Money",
+      "artist": "Warner Mack",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 4,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Love's Something (I Can't Understand)",
+      "artist": "Webb Pierce",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 25,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Mommy, Can I Still Call Him Daddy",
+      "artist": "Dottie West",
+      "cover": "http://www.billboard.com/images/pref_images/p17951b66f3.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 24,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 32,
+      "title": "The Great El Tigre (The Tiger)",
+      "artist": "Stu Phillips",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 30,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Little Pedro",
+      "artist": "Carl Butler & Pearl",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 34,
+      "title": "(That's What You Get) For Lovin' Me",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 9,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 35,
+      "title": "The Company You Keep",
+      "artist": "Bill Phillips",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 8,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Get Your Lie The Way You Want It",
+      "artist": "Bonnie Guitar",
+      "cover": "http://www.billboard.com/images/pref_images/p97965kpvp8.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 14,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 37,
+      "title": "It's Only Love",
+      "artist": "Jeannie Seely",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 15,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 38,
+      "title": "I'd Just Be Fool Enough",
+      "artist": "The Browns",
+      "cover": "http://www.billboard.com/images/pref_images/p11216tt63s.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 16,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Boa Constrictor",
+      "artist": "Johnny Cash",
+      "cover": "http://www.billboard.com/images/pref_images/p17121eolkl.jpg",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 39,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Pursuing Happiness",
+      "artist": "Norma Jean",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 28,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Look Into My Teardrops",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 36,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Early Morning Rain",
+      "artist": "George Hamilton IV",
+      "cover": "http://www.billboard.com/images/pref_images/p01348pqkh9.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 9,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Heck Of A Fix In 66",
+      "artist": "Jim Nesbitt",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 38,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 44,
+      "title": "No One Will Ever Know",
+      "artist": "Frank Ifield",
+      "cover": "http://www.billboard.com/images/pref_images/q10723qdldp.jpg",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 42,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Man With A Plan",
+      "artist": "Carl Smith",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 42,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Sweet Thang",
+      "artist": "Nat Stuckey",
+      "cover": "http://www.billboard.com/images/pref_images/p02378kygm5.jpg",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 4,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 47,
+      "title": "This Gun Don't Care",
+      "artist": "Wanda Jackson",
+      "cover": "http://www.billboard.com/images/pref_images/q00488hhgza.jpg",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 46,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 48,
+      "title": "I'm Gonna Leave You",
+      "artist": "[Champagne]",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 44,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Who Licked The Red Off Your Candy",
+      "artist": "\"Little\" Jimmy Dickens",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 41,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Evil Off My Mind",
+      "artist": "Burl Ives",
+      "cover": "http://www.billboard.com/images/pref_images/p55644icvkn.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 47,
+        "Wks on Chart": 6
+      }
+    }
+  ]
+}

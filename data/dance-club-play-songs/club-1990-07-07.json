@@ -1,0 +1,556 @@
+{
+  "name": "Club",
+  "chart_date": "1990-07-07",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Don t You Love Me",
+      "artist": "49-ers",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Hold On",
+      "artist": "En Vogue",
+      "cover": "http://www.billboard.com/images/pref_images/p18449kt5q9.jpg",
+      "spotify": "http://open.spotify.com/track/6BjqF9DTiAubeE34grUKVq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 3,
+      "title": "This Beat Is Technotronic",
+      "artist": "Technotronic",
+      "cover": "http://www.billboard.com/images/pref_images/p09702a167g.jpg",
+      "spotify": "http://open.spotify.com/track/51rGjP2EthY9uPqBIUg98n?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 4,
+      "title": "A Dreams A Dream/Courtney Blows",
+      "artist": "Soul II Soul",
+      "cover": "http://www.billboard.com/images/pref_images/q00031ommxz.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 5,
+      "title": "You Can t Deny It",
+      "artist": "Lisa Stansfield",
+      "cover": "http://www.billboard.com/images/pref_images/p76567ugwsq.jpg",
+      "spotify": "http://open.spotify.com/track/2RRYjmsQ4rIibo35biTxrJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 2,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 6,
+      "title": "The Lover Who Rocks You (All Night)",
+      "artist": "India",
+      "cover": "http://www.billboard.com/images/pref_images/p56588ocznd.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Can t Hold Back",
+      "artist": "Doug Lazy",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 5,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Talking With Myself (Remix)",
+      "artist": "Electribe 101",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 8,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Bad Of The Heart",
+      "artist": "George LaMond",
+      "cover": "http://www.billboard.com/images/pref_images/p01761lxw0a.jpg",
+      "spotify": "http://open.spotify.com/track/24cgj4IkAnd1Shd4PevYuW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Bounce Back",
+      "artist": "Alisha",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Amado Mio/Crack Attack",
+      "artist": "Grace Jones",
+      "cover": "http://www.billboard.com/images/pref_images/p05366my14n.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 11,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Star",
+      "artist": "Erasure",
+      "cover": "http://www.billboard.com/images/pref_images/q11366gdh1l.jpg",
+      "spotify": "http://open.spotify.com/track/1TZEmqnl9AZngqhVDjTRfD?utm_campaign=billboard",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 4,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Policy Of Truth",
+      "artist": "Depeche Mode",
+      "cover": "http://www.billboard.com/images/pref_images/p89868hqoo3.jpg",
+      "spotify": "http://open.spotify.com/track/0C6EIiQu8CS4eYtOCMEiAd?utm_campaign=billboard",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 2,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Everybody Everybody",
+      "artist": "Black Box",
+      "spotify": "http://open.spotify.com/track/53t0qoKIstEnyoqUFKicpH?utm_campaign=billboard",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 15,
+      "title": "That s The Way Of The World",
+      "artist": "D-Mob With Cathy Dennis",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Rub You The Right Way",
+      "artist": "Johnny Gill",
+      "cover": "http://www.billboard.com/images/pref_images/p83689alnpy.jpg",
+      "spotify": "http://open.spotify.com/track/40xz60ciGIpsRtDqRfPKBE?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 16,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Take Your Time/Don t You Want More",
+      "artist": "Mantronix",
+      "cover": "http://www.billboard.com/images/pref_images/p08174c74wt.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 15,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 18,
+      "title": "FX",
+      "artist": "A Guy Called Gerald",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 7,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Sunshine/I Feel Love",
+      "artist": "Fax Yourself",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Talk About Rockin",
+      "artist": "2 Girls",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 20,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Count To Three/Give Me Your Hand",
+      "artist": "Red Flag",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 13,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 22,
+      "title": "What U Waitin 4?",
+      "artist": "Jungle Brothers",
+      "spotify": "http://open.spotify.com/track/0ehXKX6msltAmBw8Zxwtbe?utm_campaign=billboard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Brooklyn-Queens",
+      "artist": "3rd Bass",
+      "cover": "http://www.billboard.com/images/pref_images/p08926c44l8.jpg",
+      "spotify": "http://open.spotify.com/track/2mNGQ9uJH4VqCSrCPS2hBw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 20,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Pineapple Face",
+      "artist": "Revenge",
+      "cover": "http://www.billboard.com/images/pref_images/p09609m5o43.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 10,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Black Betty",
+      "artist": "Ram Jam",
+      "spotify": "http://open.spotify.com/track/0MnI39P9Dze0PSUjetb8Va?utm_campaign=billboard",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 13,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Dirty Cash (Money Talks)",
+      "artist": "The Adventures Of Stevie V",
+      "spotify": "http://open.spotify.com/track/1fAmdNTh75i29Q0satYPeH?utm_campaign=billboard",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Infinity",
+      "artist": "Guru Josh",
+      "spotify": "http://open.spotify.com/track/7vseIfb8ooQmXzisuinchZ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Sittin In The Lap Of Luxury",
+      "artist": "Louie Louie",
+      "cover": "http://www.billboard.com/images/pref_images/p01856x8bmc.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 11,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Moments In Soul",
+      "artist": "J.T. And The Big Family",
+      "spotify": "http://open.spotify.com/track/6xloyQF8ZsiKk3g3buM6V0?utm_campaign=billboard",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 28,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Pump That Body",
+      "artist": "Mr. Lee",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Will You Be There",
+      "artist": "Celebrate The Nun",
+      "spotify": "http://open.spotify.com/track/418twlsCM53QYdLrQe3qUb?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 5,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 32,
+      "title": "I Can Handle It",
+      "artist": "Mr. Mixi",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 12,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Make You Sweat",
+      "artist": "Keith Sweat",
+      "cover": "http://www.billboard.com/images/pref_images/p25817ob6df.jpg",
+      "spotify": "http://open.spotify.com/track/6G9rDpbpGIf87oZyY9hS2O?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 5,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Fame 90",
+      "artist": "David Bowie With Queen Latifah",
+      "spotify": "http://open.spotify.com/track/2nTzdRgrfRkY2KQk4DpRX8?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 6,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Strike To The Body/Jackhammer",
+      "artist": "Die Warzau",
+      "cover": "http://www.billboard.com/images/pref_images/p04916l935g.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Truth Is Out Of Style",
+      "artist": "MC 900 Ft. Jesus With DJ Zero",
+      "cover": "http://www.billboard.com/images/pref_images/p07829yjy21.jpg",
+      "spotify": "http://open.spotify.com/track/4dSDmbSuLEyuQSpJKVCi8S?utm_campaign=billboard",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 24,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Get Crazy/Clap Your Hands",
+      "artist": "White Knight",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 26,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 38,
+      "title": "The Warning/The Final Frontier",
+      "artist": "Logic",
+      "cover": "http://www.billboard.com/images/pref_images/q43505gex62.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 33,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 39,
+      "title": "The Power",
+      "artist": "Snap",
+      "cover": "http://www.billboard.com/images/pref_images/p09576n36n1.jpg",
+      "spotify": "http://open.spotify.com/track/04Mh4OWSBUBn5Vpna4DXrA?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Crazy Earth",
+      "artist": "Fortran 5",
+      "spotify": "http://open.spotify.com/track/4BJQGbbNifjde5VZ1h8dWD?utm_campaign=billboard",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 31,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Ooops Up/Believe The Hype",
+      "artist": "Snap",
+      "cover": "http://www.billboard.com/images/pref_images/p09576n36n1.jpg",
+      "spotify": "http://open.spotify.com/track/4thY8PpJPZFieWjfzI4NVO?utm_campaign=billboard",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 4,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 42,
+      "title": "I Don t Love You (But I Like You)",
+      "artist": "Annette Taylor",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 30,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 43,
+      "title": "The Blues",
+      "artist": "Tony Toni Tone",
+      "spotify": "http://open.spotify.com/track/4yEm2XJnOo81v1ogSjCsMl?utm_campaign=billboard",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 43,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 44,
+      "title": "I Sit On Acid",
+      "artist": "Lords Of Acid",
+      "cover": "http://www.billboard.com/images/pref_images/p09231v3223.jpg",
+      "spotify": "http://open.spotify.com/track/3F9kV8MiHSbtqo4Srkhw8n?utm_campaign=billboard",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 44,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 45,
+      "title": "God Tonight",
+      "artist": "Real Life",
+      "cover": "http://www.billboard.com/images/pref_images/p08430lvr55.jpg",
+      "spotify": "http://open.spotify.com/track/4Up3Ta9cjD21dQyWmnOhiq?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 46,
+      "title": "I ll Admit It",
+      "artist": "Laurie Saunders",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 19,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Tell Me Something",
+      "artist": "Indecent Obsession",
+      "cover": "http://www.billboard.com/images/pref_images/p04041r25l6.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 39,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Fools Gold",
+      "artist": "The Stone Roses",
+      "cover": "http://www.billboard.com/images/pref_images/q21698v5foi.jpg",
+      "spotify": "http://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 27,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Mangous Ye",
+      "artist": "Boom Tribe",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 45,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 50,
+      "title": "You Do Me",
+      "artist": "Ryuichi Sakamoto",
+      "cover": "http://www.billboard.com/images/pref_images/q08827hkgpb.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 28,
+        "Wks on Chart": 6
+      }
+    }
+  ]
+}

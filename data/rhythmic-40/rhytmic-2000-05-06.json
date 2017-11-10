@@ -1,0 +1,443 @@
+{
+  "name": "Rhytmic",
+  "chart_date": "2000-05-06",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Thong Song",
+      "artist": "Sisqo",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Try Again",
+      "artist": "Aaliyah",
+      "cover": "http://charts-static.billboard.com/img/1840/12/aaliyah-wsb.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 3,
+      "title": "I Wanna Know",
+      "artist": "Joe",
+      "cover": "http://charts-static.billboard.com/img/2017/04/joe.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 36
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Forgot About Dre",
+      "artist": "Dr. Dre Featuring Eminem",
+      "cover": "http://charts-static.billboard.com/img/1840/12/dr-dre-pyn.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Say My Name",
+      "artist": "Destiny's Child",
+      "cover": "http://charts-static.billboard.com/img/1840/12/destinys-child-dy0.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 6,
+      "title": "There You Go",
+      "artist": "P!nk",
+      "cover": "http://charts-static.billboard.com/img/2017/04/pnk.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Bye Bye Bye",
+      "artist": "'N Sync",
+      "cover": "http://charts-static.billboard.com/img/1840/12/n-sync-yuh.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Jumpin', Jumpin'",
+      "artist": "Destiny's Child",
+      "cover": "http://charts-static.billboard.com/img/1840/12/destinys-child-dy0.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 3,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Party Up (Up In Here)",
+      "artist": "DMX",
+      "cover": "http://charts-static.billboard.com/img/1997/11/dmx-ras.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 7,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 10,
+      "title": "It Feels So Good",
+      "artist": "Sonique",
+      "cover": "http://charts-static.billboard.com/img/1999/12/sonique-fu9.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 9,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 11,
+      "title": "I Turn To You",
+      "artist": "Christina Aguilera",
+      "cover": "http://charts-static.billboard.com/img/1840/12/christina-aguilera-2gr.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 10,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 12,
+      "title": "He Wasn't Man Enough",
+      "artist": "Toni Braxton",
+      "cover": "http://charts-static.billboard.com/img/1840/12/toni-braxton-asw.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 10,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Maria Maria",
+      "artist": "Santana Featuring The Product G&B",
+      "cover": "http://charts-static.billboard.com/img/2017/05/santana.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 7,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Better Off Alone",
+      "artist": "Alice Deejay",
+      "cover": "http://charts-static.billboard.com/img/2000/01/alice-deejay-clw.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 14,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Oops!...I Did It Again",
+      "artist": "Britney Spears",
+      "cover": "http://charts-static.billboard.com/img/2017/02/britney-spears.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 8,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Get It On Tonite",
+      "artist": "Montell Jordan",
+      "cover": "http://charts-static.billboard.com/img/1840/12/montell-jordan-21z.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 4,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Hot Boyz",
+      "artist": "Missy \"Misdemeanor\" Elliott Featuring NAS, EVE & Q-Tip",
+      "cover": "http://charts-static.billboard.com/img/2017/02/missy-elliott.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 7,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Big Pimpin'",
+      "artist": "Jay-Z Featuring UGK",
+      "cover": "http://charts-static.billboard.com/img/1840/12/jay-z-kpy.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 1,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 19,
+      "title": "It Wasn't Me",
+      "artist": "Sole Featuring Ginuwine",
+      "cover": "http://charts-static.billboard.com/img/1999/03/sole-sk6.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 19,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Best Of Me",
+      "artist": "Mya Featuring Jadakiss",
+      "cover": "http://charts-static.billboard.com/img/1997/03/mya-qrh.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 18,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 21,
+      "title": "What A Girl Wants",
+      "artist": "Christina Aguilera",
+      "cover": "http://charts-static.billboard.com/img/1840/12/christina-aguilera-2gr.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 1,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Be With You",
+      "artist": "Enrique Iglesias",
+      "cover": "http://charts-static.billboard.com/img/2017/03/enrique-iglesias.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 16,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Until We Rich",
+      "artist": "Ice Cube Featuring Krayzie Bone",
+      "cover": "http://charts-static.billboard.com/img/2017/07/ice-cube.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 21,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 24,
+      "title": "3 Little Words",
+      "artist": "Nu Flavor",
+      "cover": "http://charts-static.billboard.com/img/1997/03/nu-flavor-lhu.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 14,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Whoa!",
+      "artist": "Black Rob",
+      "cover": "http://charts-static.billboard.com/img/1997/11/black-rob-wjb.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Monica",
+      "artist": "Before Dark",
+      "cover": "http://charts-static.billboard.com/img/1999/01/before-dark-2za.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 22,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 27,
+      "title": "You Sang To Me",
+      "artist": "Marc Anthony",
+      "cover": "http://charts-static.billboard.com/img/2017/02/marc-anthony.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 27,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 28,
+      "title": "That's What I'm Looking For",
+      "artist": "Da Brat",
+      "cover": "http://charts-static.billboard.com/img/1994/05/da-brat-nfx.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 27,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Shackles (Praise You)",
+      "artist": "Mary Mary",
+      "cover": "http://charts-static.billboard.com/img/2000/02/mary-mary-9di.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 25,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Graduation (Friends Forever)",
+      "artist": "Vitamin C",
+      "cover": "http://charts-static.billboard.com/img/1999/07/vitamin-c-tg8.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 23,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 31,
+      "title": "The Real Slim Shady",
+      "artist": "Eminem",
+      "cover": "http://charts-static.billboard.com/img/2017/02/eminem.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 32,
+      "title": "U Don't Love Me",
+      "artist": "Kumbia Kings Featuring A.B. Quintanilla",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 12,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Resurrection (Paper, Paper)",
+      "artist": "Bone Thugs-N-Harmony",
+      "cover": "http://charts-static.billboard.com/img/2017/07/bone-thugsnharmony.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 25,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 34,
+      "title": "When U Think About Me",
+      "artist": "Voice V",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 17,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 35,
+      "title": "The Bad Touch",
+      "artist": "Bloodhound Gang",
+      "cover": "http://charts-static.billboard.com/img/1996/12/bloodhound-gang-psi.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 29,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Baby Don't Cry (Keep Ya Head Up II)",
+      "artist": "2Pac + Outlawz",
+      "cover": "http://charts-static.billboard.com/img/1840/12/2pac-d38.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 16,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 37,
+      "title": "This I Promise You",
+      "artist": "'N Sync",
+      "cover": "http://charts-static.billboard.com/img/1840/12/n-sync-yuh.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 12,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Riddle",
+      "artist": "En Vogue",
+      "cover": "http://charts-static.billboard.com/img/1990/03/en-vogue-ps1.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 32,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Show Me The Meaning Of Being Lonely",
+      "artist": "Backstreet Boys",
+      "cover": "http://charts-static.billboard.com/img/1840/12/backstreet-boys-7gl.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 8,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 40,
+      "title": "I Like It",
+      "artist": "Sammie",
+      "cover": "http://charts-static.billboard.com/img/2016/12/sammie.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 22,
+        "Wks on Chart": 13
+      }
+    }
+  ]
+}

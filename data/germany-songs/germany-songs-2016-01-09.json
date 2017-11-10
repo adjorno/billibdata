@@ -1,0 +1,115 @@
+{
+  "name": "Germany",
+  "chart_date": "2016-01-09",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Hello",
+      "artist": "Adele",
+      "cover": "http://charts-static.billboard.com/img/2016/12/adele.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Catch & Release",
+      "artist": "Matt Simons",
+      "cover": "http://charts-static.billboard.com/img/2013/02/matt-simons-6to.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Show Me Love",
+      "artist": "Robin Schulz & J.U.D.G.E.",
+      "cover": "http://charts-static.billboard.com/img/2017/06/robin-schulz.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Geiles Leben",
+      "artist": "Glasperlenspiel",
+      "cover": "http://charts-static.billboard.com/img/2011/10/glasperlenspiel-lyl.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 2,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Adventure Of A Lifetime",
+      "artist": "Coldplay",
+      "cover": "http://charts-static.billboard.com/img/2017/08/coldplay.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 5,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Lush Life",
+      "artist": "Zara Larsson",
+      "cover": "http://charts-static.billboard.com/img/2017/04/zara-larsson.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Stimme",
+      "artist": "EFF",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Light It Up",
+      "artist": "Major Lazer Featuring Nyla & Fuse ODG",
+      "cover": "http://charts-static.billboard.com/img/2017/07/major-lazer.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 4,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Sorry",
+      "artist": "Justin Bieber",
+      "cover": "http://charts-static.billboard.com/img/2017/07/justin-bieber.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Love Yourself",
+      "artist": "Justin Bieber",
+      "cover": "http://charts-static.billboard.com/img/2017/07/justin-bieber.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 3,
+        "Wks on Chart": 21
+      }
+    }
+  ]
+}

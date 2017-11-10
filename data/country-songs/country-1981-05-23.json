@@ -1,0 +1,548 @@
+{
+  "name": "Country",
+  "chart_date": "1981-05-23",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Seven Year Ache",
+      "artist": "Rosanne Cash",
+      "cover": "http://www.billboard.com/images/pref_images/q11810tv5mr.jpg",
+      "spotify": "http://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Elvira",
+      "artist": "The Oak Ridge Boys",
+      "cover": "http://www.billboard.com/images/pref_images/p25357h6var.jpg",
+      "spotify": "http://open.spotify.com/track/60BR6aEDWHarcmF49YQkli?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Friends/Anywhere There's A Jukebox",
+      "artist": "Razzy Bailey",
+      "cover": "http://www.billboard.com/images/pref_images/p10870wh0ye.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 4,
+      "title": "What Are We Doin' In Love",
+      "artist": "Dottie West w/ Kenny Rogers",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 5,
+      "title": "I'm Just An Old Chunk Of Coal",
+      "artist": "John Anderson",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 6,
+      "title": "But You Know I Love You",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "spotify": "http://open.spotify.com/track/3fXbKjYkF5noST0XF33Jco?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 7,
+      "title": "I Loved 'em Every One",
+      "artist": "T.G. Sheppard",
+      "cover": "http://www.billboard.com/images/pref_images/p58023clds0.jpg",
+      "spotify": "http://open.spotify.com/track/4td6tN1J2QlESZyUhlD77m?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Blessed Are The Believers",
+      "artist": "Anne Murray",
+      "cover": "http://www.billboard.com/images/pref_images/p17487bo9ca.jpg",
+      "spotify": "http://open.spotify.com/track/3mHYjCQLAE0gzVmf4Wantw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Louisiana Saturday Night",
+      "artist": "Mel McDaniel",
+      "cover": "http://www.billboard.com/images/pref_images/p14484uqy1x.jpg",
+      "spotify": "http://open.spotify.com/track/50PU05RTGva8laKDwxED9Y?utm_campaign=billboard",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 7,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 10,
+      "title": "A Million Old Goodbyes",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 8,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 11,
+      "title": "The Baron",
+      "artist": "Johnny Cash",
+      "cover": "http://www.billboard.com/images/pref_images/p17121eolkl.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 10,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Am I Losing You",
+      "artist": "Ronnie Milsap",
+      "cover": "http://www.billboard.com/images/pref_images/p64915ixv56.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 13,
+      "title": "I Don't Think Love Ought To Be That Way",
+      "artist": "Reba McEntire",
+      "cover": "http://www.billboard.com/images/pref_images/q42182iddfw.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 13,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Mona Lisa",
+      "artist": "Willie Nelson",
+      "cover": "http://www.billboard.com/images/pref_images/q35964lfjxb.jpg",
+      "spotify": "http://open.spotify.com/track/1OBY296ylNOW8cGxAqnD5p?utm_campaign=billboard",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 11,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 15,
+      "title": "It's A Lovely, Lovely World",
+      "artist": "Gail Davies",
+      "cover": "http://www.billboard.com/images/pref_images/p11846f4575.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 5,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Whisper",
+      "artist": "Lacy J. Dalton",
+      "cover": "http://www.billboard.com/images/pref_images/p11818bened.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 10,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Lovin' Arms/You Asked Me To",
+      "artist": "Elvis Presley",
+      "cover": "http://www.billboard.com/images/pref_images/q45257y36kp.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 8,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Fire And Smoke",
+      "artist": "Earl Thomas Conley",
+      "cover": "http://www.billboard.com/images/pref_images/p11674y0b5j.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 19,
+      "title": "By Now",
+      "artist": "Steve Wariner",
+      "cover": "http://www.billboard.com/images/pref_images/p01226ih5vq.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 6,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Surround Me With Love",
+      "artist": "Charly McClain",
+      "cover": "http://www.billboard.com/images/pref_images/p14477s10g9.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 5,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Do I Have To Draw A Picture",
+      "artist": "Billy Swan",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 18,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Hey Joe (hey Moe)",
+      "artist": "Moe Bandy & Joe Stampley",
+      "cover": "http://www.billboard.com/images/pref_images/p10900rt898.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 23,
+      "title": "I Was Country When Country Wasn't Cool",
+      "artist": "Barbara Mandrell",
+      "cover": "http://www.billboard.com/images/pref_images/p14987e704s.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 24,
+      "title": "I Want You Tonight",
+      "artist": "Johnny Rodriguez",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 22,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Evil Angel",
+      "artist": "Ed Bruce",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 24,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 26,
+      "title": "The Matador",
+      "artist": "Sylvia 1",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 7,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 27,
+      "title": "My Woman Loves The Devil Out Of Me",
+      "artist": "Moe Bandy",
+      "cover": "http://www.billboard.com/images/pref_images/p10901ruw7x.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 15,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Getting Over You Again",
+      "artist": "Ray Price",
+      "cover": "http://www.billboard.com/images/pref_images/q19116tvh88.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 28,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Love Dies Hard",
+      "artist": "Randy Barlow",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 13,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Lovin' Her Was Easier (Than Anything I'll Ever Do Again)",
+      "artist": "The Glaser Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/q02257xk6kz.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Pride",
+      "artist": "Janie Frickie",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Does She Wish She Was Single Again",
+      "artist": "The Burrito Brothers",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 20,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 33,
+      "title": "You're Crazy Man",
+      "artist": "Freddie Hart",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 31,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Darlin'",
+      "artist": "Tom Jones",
+      "cover": "http://www.billboard.com/images/pref_images/p95541yt0ea.jpg",
+      "spotify": "http://open.spotify.com/track/3T8mdFybzI5BSlEMtq5rWg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 19,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Your Wife Is Cheatin' On Us Again",
+      "artist": "Wayne Kemp",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 35,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Some Love Songs Never Die",
+      "artist": "B.J. Thomas",
+      "cover": "http://www.billboard.com/images/pref_images/q09081kih7s.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 27,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Love To Love You",
+      "artist": "Christy Lane",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 21,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Good Ol' Girls",
+      "artist": "Sonny Curtis",
+      "cover": "http://www.billboard.com/images/pref_images/p11811yt7r3.jpg",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 15,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Learning To Live Again",
+      "artist": "Bobby Bare",
+      "cover": "http://www.billboard.com/images/pref_images/p10912s9s7h.jpg",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 28,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Fool By Your Side",
+      "artist": "Dave Rowland And Sugar",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Hooked On Music",
+      "artist": "Mac Davis",
+      "cover": "http://www.billboard.com/images/pref_images/p11850p6116.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Don't Bother To Knock",
+      "artist": "Jim Ed Brown And Helen Cornelius",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Spread My Wings",
+      "artist": "Tim Rex And Oklahoma",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 43,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Feels So Right",
+      "artist": "Alabama",
+      "cover": "http://www.billboard.com/images/pref_images/q39352bz52b.jpg",
+      "spotify": "http://open.spotify.com/track/1MMWUySfGjH6sS8TBmxWCh?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Just Like Me",
+      "artist": "Terry Gregory",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 16,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Love Knows We Tried",
+      "artist": "Tanya Tucker",
+      "cover": "http://www.billboard.com/images/pref_images/p18935d0o2l.jpg",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 40,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 47,
+      "title": "The All New Me",
+      "artist": "Tom T. Hall",
+      "cover": "http://www.billboard.com/images/pref_images/p79752rjipk.jpg",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 41,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Don't Get Above Your Raising",
+      "artist": "Ricky Skaggs",
+      "cover": "http://www.billboard.com/images/pref_images/p73206pxghy.jpg",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 16,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Here's To The Horses",
+      "artist": "Johnny Russell",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 49,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Cowboys Don't Shoot Straight",
+      "artist": "Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27879imrhm.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 12
+      }
+    }
+  ]
+}

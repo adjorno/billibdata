@@ -1,0 +1,557 @@
+{
+  "name": "Club",
+  "chart_date": "1990-04-07",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Touch Me",
+      "artist": "49-ers",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Keep It Together",
+      "artist": "Madonna",
+      "cover": "http://www.billboard.com/images/pref_images/q27984qkq0m.jpg",
+      "spotify": "http://open.spotify.com/track/04tSWZo4MLebMbf7RwSmyE?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Heartbeat/Free Your Body",
+      "artist": "Seduction",
+      "cover": "http://www.billboard.com/images/pref_images/p09557a2034.jpg",
+      "spotify": "http://open.spotify.com/track/3PFFwk0K0TrFmBC9ZEZaeg?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 4,
+      "title": "All Around The World",
+      "artist": "Lisa Stansfield",
+      "cover": "http://www.billboard.com/images/pref_images/p76567ugwsq.jpg",
+      "spotify": "http://open.spotify.com/track/6IRozXIZuRcf4oEgBHQyfw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Room At The Top",
+      "artist": "Adam Ant",
+      "cover": "http://www.billboard.com/images/pref_images/q05534i87xc.jpg",
+      "spotify": "http://open.spotify.com/track/1g5yk9XKqP0B5MS3P27myM?utm_campaign=billboard",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Most Wanted",
+      "artist": "Fast Eddie",
+      "spotify": "http://open.spotify.com/track/4cW8nWsG0grlWpLaXCHTUs?utm_campaign=billboard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Hello",
+      "artist": "The Beloved",
+      "cover": "http://www.billboard.com/images/pref_images/p03275l6nfr.jpg",
+      "spotify": "http://open.spotify.com/track/43YiYb6ysVVZKzIUmohpJQ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 4,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Let There Be House",
+      "artist": "Deskee",
+      "spotify": "http://open.spotify.com/track/7CzcybHpHqSw8hznHFUjF1?utm_campaign=billboard",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Heaven",
+      "artist": "The Chimes",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Beach Bump",
+      "artist": "Baby Ford",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 11,
+      "title": "The Breeze",
+      "artist": "Two Without Hats",
+      "spotify": "http://open.spotify.com/track/4YjPsRtZXTk1Lt1w1SPSOt?utm_campaign=billboard",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Living In Oblivion",
+      "artist": "Anything Box",
+      "spotify": "http://open.spotify.com/track/4RB8ehU7cmdYyI5v5WsQdp?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 10,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Sweat",
+      "artist": "Jay Williams",
+      "spotify": "http://open.spotify.com/track/1L3jECTbKqWNxJlDLtng79?utm_campaign=billboard",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 13,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 14,
+      "title": "It s Me, Cathy (Follow My Heart)/The Picture",
+      "artist": "Hubert Kah",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 14,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Get Up! (Before The Night Is Over)",
+      "artist": "Technotronic",
+      "cover": "http://www.billboard.com/images/pref_images/p09702a167g.jpg",
+      "spotify": "http://open.spotify.com/track/2MOOJh1xUgND4rLjB6h4jY?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Motherland",
+      "artist": "Tribal House",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Getting Away With It",
+      "artist": "Electronic",
+      "cover": "http://www.billboard.com/images/pref_images/p02599f61du.jpg",
+      "spotify": "http://open.spotify.com/track/5X6xgzFxKXOLyxifNBGjAJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 7,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Do What You Want/Take Me Away",
+      "artist": "2 In A Room",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 18,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Thumbs Up",
+      "artist": "Bardeux",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 17,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 20,
+      "title": "You ll Never Stop Me From Loving You",
+      "artist": "Sonia",
+      "cover": "http://www.billboard.com/images/pref_images/p75251uiajk.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 10,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Wild Women Do (Remix)",
+      "artist": "Natalie Cole",
+      "cover": "http://www.billboard.com/images/pref_images/q06948gfm0o.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 8,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 22,
+      "title": "I m Going Straight To Heaven",
+      "artist": "MC 900 Ft. Jesus With DJ Zero",
+      "cover": "http://www.billboard.com/images/pref_images/p07829yjy21.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 22,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Move (Dance All Night)",
+      "artist": "Slam Slam",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 13,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 24,
+      "title": "What Goes Down",
+      "artist": "Hunter Hayes",
+      "cover": "http://www.billboard.com/images/pref_images/q40957l8cty.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 22,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Insect",
+      "artist": "Boxcar",
+      "spotify": "http://open.spotify.com/track/2O9mV3vk3NelnS5A16mBSJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 20,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 26,
+      "title": "I Want You - You Want Me",
+      "artist": "Starpoint",
+      "cover": "http://www.billboard.com/images/pref_images/p05894fc6f1.jpg",
+      "spotify": "http://open.spotify.com/track/3S8CaTXgPbCCgufJmtZHh5?utm_campaign=billboard",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 9,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Roam",
+      "artist": "The B-52 s",
+      "cover": "http://www.billboard.com/images/pref_images/p78144breiw.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 10,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 28,
+      "title": "You re The Only Woman",
+      "artist": "The Brat Pack",
+      "cover": "http://www.billboard.com/images/pref_images/p76516mdyad.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 27,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Don t Wanna Fall In Love",
+      "artist": "Jane Child",
+      "cover": "http://www.billboard.com/images/pref_images/p03525fjg28.jpg",
+      "spotify": "http://open.spotify.com/track/6eozUVzr02EXMji1vuxgiP?utm_campaign=billboard",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 11,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Spin That Wheel",
+      "artist": "Hi Tek 3 Featuring Ya Kid K",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 3,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 31,
+      "title": "The Humpty Dance",
+      "artist": "Digital Underground",
+      "cover": "http://www.billboard.com/images/pref_images/p18414l0usr.jpg",
+      "spotify": "http://open.spotify.com/track/4WxQGUmWBRNovxlF2g8Xdv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 20,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Got To Get",
+      "artist": "Leila K With Rob N Raz",
+      "spotify": "http://open.spotify.com/track/3Atr2OBXJVIpQ96zxuActC?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 8,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Every Little Word",
+      "artist": "Flesh For Lulu",
+      "cover": "http://www.billboard.com/images/pref_images/p13070k9md6.jpg",
+      "spotify": "http://open.spotify.com/track/19eYTjAZ0PI19tVaJ4wmmv?utm_campaign=billboard",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 14,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Street Tuff",
+      "artist": "Rebel MC",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 5,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Hide And Seek",
+      "artist": "Pajama Party",
+      "spotify": "http://open.spotify.com/track/34DQNlufkpoXUeSaKopJjE?utm_campaign=billboard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 33,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Escapade (Remix)",
+      "artist": "Janet Jackson",
+      "cover": "http://www.billboard.com/images/pref_images/p83801vds75.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Get Into It",
+      "artist": "Tony Scott",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 36,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Vulnerable",
+      "artist": "De De O Neal",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 16,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 39,
+      "title": "All About Love",
+      "artist": "Joyce Sims",
+      "spotify": "http://open.spotify.com/track/6L5UPxI6TQXO9a108rDWvx?utm_campaign=billboard",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 34,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Italo House Mix",
+      "artist": "Rococo",
+      "spotify": "http://open.spotify.com/track/1iE1HdYrYXtJxn1JxjYbfy?utm_campaign=billboard",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 40,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Come Together As One",
+      "artist": "Will Downing",
+      "cover": "http://www.billboard.com/images/pref_images/p36668d6i1l.jpg",
+      "spotify": "http://open.spotify.com/track/1zJRJn9MHSqcd4MXDnCK7k?utm_campaign=billboard",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 40,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Enjoy The Silence",
+      "artist": "Depeche Mode",
+      "cover": "http://www.billboard.com/images/pref_images/p89868hqoo3.jpg",
+      "spotify": "http://open.spotify.com/track/12Gbz1qkaCAFPGlYVVw6xZ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 6,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Sweet And Low",
+      "artist": "Deborah Harry",
+      "spotify": "http://open.spotify.com/track/4WTVHVNEdOWWTNXMzNxRvm?utm_campaign=billboard",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 17,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Expression",
+      "artist": "Salt-N-Pepa",
+      "cover": "http://www.billboard.com/images/pref_images/p20920s9v0r.jpg",
+      "spotify": "http://open.spotify.com/track/3JempQ95v2ScWFBAGko352?utm_campaign=billboard",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 32,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 45,
+      "title": "We re All In This Together",
+      "artist": "David Peaston",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 45,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Alright (Remix)",
+      "artist": "Janet Jackson",
+      "cover": "http://www.billboard.com/images/pref_images/p83801vds75.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 47,
+      "title": "The Omen",
+      "artist": "Mysterious Art",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 32,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Free",
+      "artist": "Big Audio",
+      "cover": "http://www.billboard.com/images/pref_images/p10043c799l.jpg",
+      "spotify": "http://open.spotify.com/track/31lBymU0MdK0CsCvlgclsr?utm_campaign=billboard",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 47,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Come Into My House",
+      "artist": "Queen Latifah",
+      "cover": "http://www.billboard.com/images/pref_images/p66841mw1dt.jpg",
+      "spotify": "http://open.spotify.com/track/1CQekFocOpDKDGHKa1Bxav?utm_campaign=billboard",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 7,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 50,
+      "title": "I ll Do Anything (Remix)",
+      "artist": "Crown Heights Affair",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 43,
+        "Wks on Chart": 4
+      }
+    }
+  ]
+}

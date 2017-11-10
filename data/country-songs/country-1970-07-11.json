@@ -1,0 +1,535 @@
+{
+  "name": "Country",
+  "chart_date": "1970-07-11",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "He Loves Me All The Way",
+      "artist": "Tammy Wynette",
+      "cover": "http://www.billboard.com/images/pref_images/q27879imrhm.jpg",
+      "spotify": "http://open.spotify.com/track/0pQWm4CYpw6S6fyF5djgTW?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Wonder Could I Live There Anymore",
+      "artist": "Charley Pride",
+      "cover": "http://www.billboard.com/images/pref_images/p14590oax26.jpg",
+      "spotify": "http://open.spotify.com/track/4HBI9mzsd47u28V5cSnwnu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Hello Darlin'",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "spotify": "http://open.spotify.com/track/2pBujdahncP0E1CGgEE8BC?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 4,
+      "title": "The Kansas City Song",
+      "artist": "Buck Owens",
+      "cover": "http://www.billboard.com/images/pref_images/p15648l4g42.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 5,
+      "title": "If I Ever Fall In Love (With A Honky Tonk Girl)",
+      "artist": "Faron Young",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Long Long Texas Road",
+      "artist": "Roy Drusky",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 7,
+      "title": "She's A Little Bit Country",
+      "artist": "George Hamilton IV",
+      "cover": "http://www.billboard.com/images/pref_images/p01348pqkh9.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Heart Over Mind",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 9,
+      "title": "I Never Picked Cotton",
+      "artist": "Roy Clark",
+      "cover": "http://www.billboard.com/images/pref_images/p25356bg9ta.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 5,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 10,
+      "title": "I Never Once Stopped Loving You",
+      "artist": "Connie Smith",
+      "cover": "http://www.billboard.com/images/pref_images/p85285q666r.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 5,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Jesus, Take A Hold",
+      "artist": "Merle Haggard And The Strangers",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Someday We'll Be Together",
+      "artist": "Bill Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/q13686h7qps.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 4,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 13,
+      "title": "For The Good Times/Grazin' In Greener Pastures",
+      "artist": "Ray Price",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Heavenly Sunshine",
+      "artist": "Ferlin Husky",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 15,
+      "title": "I Can't Seem To Say Goodbye",
+      "artist": "Jerry Lee Lewis",
+      "cover": "http://www.billboard.com/images/pref_images/p14318ix562.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Humphrey The Camel",
+      "artist": "Jack Blanchard & Misty Morgan",
+      "spotify": "http://open.spotify.com/track/5EZvlHSeAVjAV8TeGkbdIu?utm_campaign=billboard",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 5,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 17,
+      "title": "You Wanna Give Me A Lift",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Playin' Around With Love",
+      "artist": "Barbara Mandrell",
+      "cover": "http://www.billboard.com/images/pref_images/p14987e704s.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 18,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 19,
+      "title": "I Do My Swinging At Home",
+      "artist": "David Houston",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Land Mark Tavern",
+      "artist": "Del Reeves",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 20,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Rocky Top",
+      "artist": "Lynn Anderson",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 17,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 22,
+      "title": "I Wish I Had A Mommy Like You",
+      "artist": "Patti Page",
+      "cover": "http://www.billboard.com/images/pref_images/p23936ob6df.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Hello Mary Lou",
+      "artist": "Bobby Lewis",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 14,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 24,
+      "title": "My Love",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Lovin' Man (Oh Pretty Woman)",
+      "artist": "Arlene",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Togetherness",
+      "artist": "Buck Owens",
+      "cover": "http://www.billboard.com/images/pref_images/p15648l4g42.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 12,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 27,
+      "title": "I'm Leavin' It Up To You",
+      "artist": "Johnny & Jonie Mosby",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 18,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 28,
+      "title": "The Most Uncomplicated Goodbye I've Ever Heard",
+      "artist": "Henson Cargill",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 18,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Tell Me My Lying Eyes Are Wrong",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Singer Of Sad Songs",
+      "artist": "Waylon Jennings",
+      "cover": "http://www.billboard.com/images/pref_images/p01620e84qv.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 12,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 31,
+      "title": "When A Man Loves A Woman (The Way That I Love You)",
+      "artist": "Billy Walker",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 3,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 32,
+      "title": "A Man's Kind Of Woman/Living Under Pressure",
+      "artist": "Eddy Arnold",
+      "cover": "http://www.billboard.com/images/pref_images/p08903vh77v.jpg",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 28,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 33,
+      "title": "I'll Be Your Baby Tonight",
+      "artist": "Claude King",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 34,
+      "title": "A Good Thing",
+      "artist": "Bill Wilbourn & Kathy Morrison",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 34,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Don't Keep Me Hangin' On",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Warmth Of The Wine",
+      "artist": "Johnny Bush",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 25,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 37,
+      "title": "You And Me Against The World",
+      "artist": "Bobby Lord",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 15,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Mule Skinner Blues (Blue Yodel No. 8)",
+      "artist": "Dolly Parton",
+      "cover": "http://www.billboard.com/images/pref_images/q34373oxf7y.jpg",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 39,
+      "title": "What Is Truth",
+      "artist": "Johnny Cash",
+      "cover": "http://www.billboard.com/images/pref_images/p17121eolkl.jpg",
+      "spotify": "http://open.spotify.com/track/3Ah0R5gi4TC1pB66DlCEBa?utm_campaign=billboard",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 40,
+      "title": "It Don't Take But One Mistake",
+      "artist": "Luke The Drifter, Jr",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 36,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Duty Not Desire",
+      "artist": "Jeannie C. Riley",
+      "cover": "http://www.billboard.com/images/pref_images/p16067hm9ue.jpg",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 21,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 42,
+      "title": "A Perfect Mountain",
+      "artist": "Don Gibson",
+      "cover": "http://www.billboard.com/images/pref_images/p01350b8647.jpg",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 16,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Luziana River",
+      "artist": "Van Trevor",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 42,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 44,
+      "title": "The Wonder Of You",
+      "artist": "Elvis Presley",
+      "cover": "http://www.billboard.com/images/pref_images/q45257y36kp.jpg",
+      "spotify": "http://open.spotify.com/track/2idwfh8BvwqdPGxdF0JPby?utm_campaign=billboard",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 37,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Removing The Shadow",
+      "artist": "Hank Williams, Jr. & Lois Johnson",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 23,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Son Of A Coal Man",
+      "artist": "Del Reeves",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 41,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Lilacs And Fire",
+      "artist": "George Morgan",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 17,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Do It To Someone You Love",
+      "artist": "Norro Wilson",
+      "position": {
+        "Last Week": "70",
+        "Peak Position": 20,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Street Singer",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 9,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Drivin' Home",
+      "artist": "Jerry Smith and his Pianos",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 44,
+        "Wks on Chart": 9
+      }
+    }
+  ]
+}

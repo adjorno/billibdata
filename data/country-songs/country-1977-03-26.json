@@ -1,0 +1,543 @@
+{
+  "name": "Country",
+  "chart_date": "1977-03-26",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Southern Nights",
+      "artist": "Glen Campbell",
+      "cover": "http://www.billboard.com/images/pref_images/p99857on5ga.jpg",
+      "spotify": "http://open.spotify.com/track/4c68Z9wLdHc36y3CNjwQKM?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Lucille",
+      "artist": "Kenny Rogers",
+      "cover": "http://www.billboard.com/images/pref_images/q40062jmnf1.jpg",
+      "spotify": "http://open.spotify.com/track/42lAZKaWTWOC2pJe7eQDGw?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 3,
+      "title": "It Couldn't Have Been Any Better",
+      "artist": "Johnny Duncan",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Adios Amigo",
+      "artist": "Marty Robbins",
+      "cover": "http://www.billboard.com/images/pref_images/p2246418kv3.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 5,
+      "title": "She's Just An Old Love Turned Memory",
+      "artist": "Charley Pride",
+      "cover": "http://www.billboard.com/images/pref_images/p14590oax26.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Don't Throw It All Away",
+      "artist": "Dave & Sugar",
+      "spotify": "http://open.spotify.com/track/5ifxV2wDeNj9w1j5eyZRCH?utm_campaign=billboard",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Paper Rosie",
+      "artist": "Gene Watson",
+      "cover": "http://www.billboard.com/images/pref_images/p71339bw5t3.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 8,
+      "title": "She's Pulling Me Back Again",
+      "artist": "Mickey Gilley",
+      "cover": "http://www.billboard.com/images/pref_images/p02761l7p22.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 9,
+      "title": "You're Free To Go",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 10,
+      "title": "She's Got You",
+      "artist": "Loretta Lynn",
+      "cover": "http://www.billboard.com/images/pref_images/p24477zhvt1.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 11,
+      "title": "I'm Not Easy",
+      "artist": "Billie Jo Spears",
+      "cover": "http://www.billboard.com/images/pref_images/p08594ts05k.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Easy Look",
+      "artist": "Charlie Rich",
+      "cover": "http://www.billboard.com/images/pref_images/p16046hvjwg.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 12,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Mockingbird Hill",
+      "artist": "Donna Fargo",
+      "cover": "http://www.billboard.com/images/pref_images/p13015w6eau.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 9,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Wrap Your Love All Around Your Man",
+      "artist": "Lynn Anderson",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Slide Off Of Your Satin Sheets",
+      "artist": "Johnny Paycheck",
+      "cover": "http://www.billboard.com/images/pref_images/p254763h3u3.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 7,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 16,
+      "title": "(you Never Can Tell) C'est La Vie",
+      "artist": "Emmylou Harris",
+      "cover": "http://www.billboard.com/images/pref_images/q30586nn412.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 6,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Desperado",
+      "artist": "Johnny Rodriguez",
+      "cover": "http://www.billboard.com/images/pref_images/p16108d457b.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Play Guitar Play",
+      "artist": "Conway Twitty",
+      "cover": "http://www.billboard.com/images/pref_images/p08728g070j.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Loving Arms",
+      "artist": "Sammi Smith",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 19,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Anything But Leavin'",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 12,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Torn Between Two Lovers",
+      "artist": "Mary Macgregor",
+      "spotify": "http://open.spotify.com/track/6mPXHCKVEWZNXjfQewzb9M?utm_campaign=billboard",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Some Broken Hearts Never Mend",
+      "artist": "Don Williams",
+      "cover": "http://www.billboard.com/images/pref_images/p99491b31tl.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 23,
+      "title": "I Just Came Home To Count The Memories",
+      "artist": "Cal Smith",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 24,
+      "title": "He'll Play The Music (but You Can't Make Him Dance",
+      "artist": "Little David Wilkins",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Heart Healer",
+      "artist": "Mel Tillis",
+      "cover": "http://www.billboard.com/images/pref_images/q17333k7ds0.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 26,
+      "title": "The Movies",
+      "artist": "The Statler Brothers",
+      "cover": "http://www.billboard.com/images/pref_images/p24114v60jy.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 10,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Lovin' On",
+      "artist": "T.G. Sheppard",
+      "cover": "http://www.billboard.com/images/pref_images/p58023clds0.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 20,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Yesterday's Gone",
+      "artist": "Vern Gosdin",
+      "cover": "http://www.billboard.com/images/pref_images/p13318kds78.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 9,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 29,
+      "title": "The Feeling's Right",
+      "artist": "Narvel Felts",
+      "cover": "http://www.billboard.com/images/pref_images/p13035lrgy1.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 19,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 30,
+      "title": "I've Got You (to Come Home To)",
+      "artist": "Don King",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 16,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Texas Angel",
+      "artist": "Jacky Ward",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 31,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 32,
+      "title": "I'm Living A Lie",
+      "artist": "Jeanne Pruett",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 30,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Say You'll Stay Until Tomorrow",
+      "artist": "Tom Jones",
+      "cover": "http://www.billboard.com/images/pref_images/p95541yt0ea.jpg",
+      "spotify": "http://open.spotify.com/track/2WbCBrUB1C9H5cWdN5PN6F?utm_campaign=billboard",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Your Pretty Roses Came Too Late",
+      "artist": "Lois Johnson",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 20,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 35,
+      "title": "I'm Sorry For You, My Friend",
+      "artist": "Moe Bandy",
+      "cover": "http://www.billboard.com/images/pref_images/p10901ruw7x.jpg",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Right Time Of The Night",
+      "artist": "Jennifer Warnes",
+      "cover": "http://www.billboard.com/images/pref_images/p17888md871.jpg",
+      "spotify": "http://open.spotify.com/track/51DAF8ruk6NwGb1we5QQfF?utm_campaign=billboard",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 17,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Semolita",
+      "artist": "Jerry Reed",
+      "cover": "http://www.billboard.com/images/pref_images/p16000j9d6d.jpg",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 19,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 38,
+      "title": "I'm Gonna Love You Right Out Of This World",
+      "artist": "David Rogers",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 21,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Love's Explosion",
+      "artist": "Margo Smith",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 12,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 40,
+      "title": "The Last Gunfighter Ballad",
+      "artist": "Johnny Cash",
+      "cover": "http://www.billboard.com/images/pref_images/p17121eolkl.jpg",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 38,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 41,
+      "title": "If Love Was A Bottle Of Wine",
+      "artist": "Tommy Overstreet",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Moody Blue/she Thinks I Still Care",
+      "artist": "Elvis Presley",
+      "cover": "http://www.billboard.com/images/pref_images/q45257y36kp.jpg",
+      "spotify": "http://open.spotify.com/track/7BdxraAY6N2zeTcfRp0gqU?utm_campaign=billboard",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 43,
+      "title": "(i Need You) All The Time",
+      "artist": "Eddy Arnold",
+      "cover": "http://www.billboard.com/images/pref_images/p08903vh77v.jpg",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 22,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Just A Little Thing",
+      "artist": "Billy \"Crash\" Craddock",
+      "cover": "http://www.billboard.com/images/pref_images/p04850wk396.jpg",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 28,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Cheatin' Overtime",
+      "artist": "Mary Lou Turner",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 41,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Bluest Heartache Of The Year",
+      "artist": "Kenny Dale",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 11,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Me And The Elephant",
+      "artist": "Kenny Starr",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 43,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Look Who I'm Cheating On Tonight/if You Think I'm",
+      "artist": "Bobby Bare",
+      "cover": "http://www.billboard.com/images/pref_images/p10912s9s7h.jpg",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 21,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Lately I've Been Thinking Too Much Lately",
+      "artist": "David Allan Coe",
+      "cover": "http://www.billboard.com/images/pref_images/q25600om1jf.jpg",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 49,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Living Next Door To Alice",
+      "artist": "Johnny Carver",
+      "position": {
+        "Last Week": "63",
+        "Peak Position": 29,
+        "Wks on Chart": 10
+      }
+    }
+  ]
+}

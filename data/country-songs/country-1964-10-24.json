@@ -1,0 +1,531 @@
+{
+  "name": "Country",
+  "chart_date": "1964-10-24",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "I Don't Care (Just As Long As You Love Me)",
+      "artist": "Buck Owens",
+      "cover": "http://www.billboard.com/images/pref_images/p15648l4g42.jpg",
+      "spotify": "http://open.spotify.com/track/7hBAHbVg5jXpeLFBAFWpWp?utm_campaign=billboard",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 2,
+      "title": "I Guess I'm Crazy",
+      "artist": "Jim Reeves",
+      "cover": "http://www.billboard.com/images/pref_images/p06780ig50x.jpg",
+      "spotify": "http://open.spotify.com/track/6EfOPpIA2YiCxtIdpW8kUJ?utm_campaign=billboard",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Once A Day",
+      "artist": "Connie Smith",
+      "cover": "http://www.billboard.com/images/pref_images/p85285q666r.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Chug-A-Lug",
+      "artist": "Roger Miller",
+      "cover": "http://www.billboard.com/images/pref_images/p21348sl623.jpg",
+      "spotify": "http://open.spotify.com/track/3vMwtAfDNM8dDBWMvS78pn?utm_campaign=billboard",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 5,
+      "title": "The Race Is On",
+      "artist": "George Jones",
+      "cover": "http://www.billboard.com/images/pref_images/q27831lscyh.jpg",
+      "spotify": "http://open.spotify.com/track/5uiqNMiidQDffMaBoRRtgC?utm_campaign=billboard",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 3,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Don't Be Angry",
+      "artist": "Stonewall Jackson",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 7,
+      "title": "I Don't Love You Anymore",
+      "artist": "Charlie Louvin",
+      "cover": "http://www.billboard.com/images/pref_images/p07815wcx46.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Mad",
+      "artist": "Dave Dudley",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 6,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Please Talk To My Heart",
+      "artist": "Ray Price",
+      "cover": "http://www.billboard.com/images/pref_images/q19116tvh88.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 7,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Cross The Brazos At Waco",
+      "artist": "Billy Walker",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 2,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Give Me 40 Acres (To Turn This Rig Around)",
+      "artist": "Willis",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 9,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Fort Worth, Dallas Or Houston",
+      "artist": "George Hamilton IV",
+      "cover": "http://www.billboard.com/images/pref_images/p01348pqkh9.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Mr. And Mrs. Used To Be",
+      "artist": "Ernest Tubb & Loretta Lynn",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Here Comes My Baby",
+      "artist": "Dottie West",
+      "cover": "http://www.billboard.com/images/pref_images/p17951b66f3.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Dern Ya",
+      "artist": "Ruby Wright",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 16,
+      "title": "The Ballad Of Ira Hayes",
+      "artist": "Johnny Cash",
+      "cover": "http://www.billboard.com/images/pref_images/p17121eolkl.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 3,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Dang Me",
+      "artist": "Roger Miller",
+      "cover": "http://www.billboard.com/images/pref_images/p21348sl623.jpg",
+      "spotify": "http://open.spotify.com/track/20iH1uibQIUqNFk3wzG7AG?utm_campaign=billboard",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 1,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 18,
+      "title": "I Love To Dance With Annie",
+      "artist": "Ernest",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 4,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Sam Hill",
+      "artist": "Claude King",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 11,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Finally",
+      "artist": "Kitty Wells",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 9,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Mother-In-Law",
+      "artist": "Jim Nesbitt",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 20,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Go Cat Go",
+      "artist": "Norma Jean",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 8,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Forbidden Street",
+      "artist": "Carl Butler & Pearl",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 24,
+      "title": "My Friend On The Right",
+      "artist": "Faron Young",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 11,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 25,
+      "title": "I'll Go Down Swinging",
+      "artist": "Porter Wagoner",
+      "cover": "http://www.billboard.com/images/pref_images/p15682u239j.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 11,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 26,
+      "title": "The Cowboy In The Continental Suit",
+      "artist": "Marty Robbins",
+      "cover": "http://www.billboard.com/images/pref_images/p2246418kv3.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 3,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 27,
+      "title": "In The Middle Of A Memory",
+      "artist": "[Champagne]",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 23,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 28,
+      "title": "How The Other Half Lives",
+      "artist": "Johnny A.",
+      "cover": "http://www.billboard.com/images/pref_images/q21718tyrq5.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 21,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Password",
+      "artist": "Kitty Wells",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 4,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Stop Me",
+      "artist": "Bill Phillips",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 26,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Me",
+      "artist": "Bill Anderson",
+      "cover": "http://www.billboard.com/images/pref_images/q13686h7qps.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 8,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Then I'll Stop Loving You",
+      "artist": "The Browns",
+      "cover": "http://www.billboard.com/images/pref_images/p11216tt63s.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 12,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Love Looks Good On You",
+      "artist": "David Houston",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 17,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Chit Akins, Make Me A Star",
+      "artist": "Don Bowman",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 14,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Second Fiddle (To An Old Guitar)",
+      "artist": "Jean Shepard",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 5,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Lonely Girl",
+      "artist": "Carl Smith",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 14,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Workin' It Out",
+      "artist": "Flatt & Scruggs",
+      "cover": "http://www.billboard.com/images/pref_images/p13063m854c.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 21,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 38,
+      "title": "The French Song",
+      "artist": "Marion Worth",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 25,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Just Between The Two Of Us",
+      "artist": "Merle Haggard",
+      "cover": "http://www.billboard.com/images/pref_images/q32370gyxsk.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 28,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Bad News",
+      "artist": "Johnny Cash",
+      "cover": "http://www.billboard.com/images/pref_images/p17121eolkl.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 8,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Tears And Roses",
+      "artist": "George Morgan",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 37,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 42,
+      "title": "One If For Him, Two If For Me",
+      "artist": "David Houston",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 11,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Don't Let Her Know",
+      "artist": "Buck Owens",
+      "cover": "http://www.billboard.com/images/pref_images/p15648l4g42.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 33,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Ask Marie",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 19,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Th' Wife",
+      "artist": "John D. Loudermilk",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 45,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Memory #1",
+      "artist": "Webb Pierce",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 2,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Stronger Than Dirt",
+      "artist": "Glenn Barber",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 27,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 48,
+      "title": "The Bible In Her Hand",
+      "artist": "[Champagne]",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Talking To The Night Lights",
+      "artist": "Del Reeves",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 41,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Take My Ring Off Your Finger",
+      "artist": "Carl Smith",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 15,
+        "Wks on Chart": 20
+      }
+    }
+  ]
+}

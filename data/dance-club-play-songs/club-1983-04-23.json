@@ -1,0 +1,534 @@
+{
+  "name": "Club",
+  "chart_date": "1983-04-23",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Angel Man (G.A.)",
+      "artist": "Rhetta Hughes",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 2,
+      "title": "You Can't Hide (Your Love From Me)",
+      "artist": "David Joseph",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Jeopardy",
+      "artist": "Greg Kihn Band",
+      "cover": "http://charts-static.billboard.com/img/1978/09/greg-kihn-band-0ch.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Thriller (all cuts)",
+      "artist": "Michael Jackson (all cuts)",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 36
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Let's Dance",
+      "artist": "David Bowie",
+      "cover": "http://charts-static.billboard.com/img/2017/07/david-bowie.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 6,
+      "title": "LOVE ON YOUR SIDE",
+      "artist": "Thompson Twins",
+      "cover": "http://charts-static.billboard.com/img/1840/12/thompson-twins-371.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 7,
+      "title": "She Blinded Me With Science",
+      "artist": "Thomas Dolby",
+      "cover": "http://charts-static.billboard.com/img/1982/09/thomas-dolby-wum.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Sex (I'm A...)",
+      "artist": "Berlin",
+      "cover": "http://charts-static.billboard.com/img/1983/02/berlin-974.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Electric Avenue",
+      "artist": "Eddy Grant",
+      "cover": "http://charts-static.billboard.com/img/1979/11/eddy-grant-yc0.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 6,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 10,
+      "title": "The Musics Got Me",
+      "artist": "Visual",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 11,
+      "title": "That's Good / Speed Racer",
+      "artist": "Devo",
+      "cover": "http://charts-static.billboard.com/img/1978/10/devo-eui.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 12,
+      "title": "WEEKEND",
+      "artist": "Class Action",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 13,
+      "title": "KISS ME",
+      "artist": "Tin Tin",
+      "cover": "http://charts-static.billboard.com/img/1971/04/tin-tin-ns0.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 13,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 14,
+      "title": "BLUE MONDAY/THE BEACH",
+      "artist": "New Order",
+      "cover": "http://charts-static.billboard.com/img/1840/12/new-order-75y.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 5,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 15,
+      "title": "BABY DOLL",
+      "artist": "Girls Can't Help It",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 7,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 16,
+      "title": "GOTCHA WHERE I WANT YOU",
+      "artist": "Stereo Fun Inc",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Candy Girl",
+      "artist": "New Edition",
+      "cover": "http://charts-static.billboard.com/img/2017/02/new-edition.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Burning Up / Physical Attraction",
+      "artist": "Madonna",
+      "cover": "http://charts-static.billboard.com/img/2017/05/madonna.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 19,
+      "title": "LUCKY",
+      "artist": "Ellie Hope",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 14,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 20,
+      "title": "So Wrong",
+      "artist": "Patrick Simmons",
+      "cover": "http://charts-static.billboard.com/img/1983/03/patrick-simmons-vxs.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 8,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Young Guns (Go For It)",
+      "artist": "Wham!",
+      "cover": "http://charts-static.billboard.com/img/2017/02/wham.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 21,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 22,
+      "title": "DER KOMMISSAR (THE COMMISSIONER)",
+      "artist": "Falco",
+      "cover": "http://charts-static.billboard.com/img/2017/03/falco.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Nobody Can Be You",
+      "artist": "Steve Arrington's Hall Of Fame",
+      "cover": "http://charts-static.billboard.com/img/1982/09/steve-arrington-qvb.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 24,
+      "title": "TELEPHONE OPERATOR",
+      "artist": "Pete Shelley",
+      "cover": "http://charts-static.billboard.com/img/1981/10/pete-shelley-pkp.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 22,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 25,
+      "title": "He's A Pretender",
+      "artist": "High Inergy",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 25,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Keep It Confidential",
+      "artist": "Nona Hendryx",
+      "cover": "http://charts-static.billboard.com/img/1981/06/nona-hendryx-7d4.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 25,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 27,
+      "title": "I EAT CANNIBALS",
+      "artist": "Total Coelo",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 27,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 28,
+      "title": "I Just Gotta Have You (Lover Turn Me On)",
+      "artist": "Kashif",
+      "cover": "http://charts-static.billboard.com/img/1983/02/kashif-bai.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 28,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 29,
+      "title": "THE HARDER THEY COME",
+      "artist": "Rocker's Revenge",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 30,
+      "title": "TONIGHT/CAN WE TRY AGAIN",
+      "artist": "Technique",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 29,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 31,
+      "title": "LET ME GO",
+      "artist": "Heaven 17",
+      "cover": "http://charts-static.billboard.com/img/1981/04/heaven-17-krg.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 4,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Too Tough",
+      "artist": "Angela Bofill",
+      "cover": "http://charts-static.billboard.com/img/1979/02/angela-bofill-n0k.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Candy Man / All Night Long / Boys",
+      "artist": "Mary Jane Girls",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 8,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 34,
+      "title": "I CONFESS",
+      "artist": "The English Beat",
+      "cover": "http://charts-static.billboard.com/img/1980/08/the-english-beat-y2u.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 34,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 35,
+      "title": "PARTY",
+      "artist": "Julius Brown",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 36,
+      "title": "WORKING GIRL",
+      "artist": "Cheri",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 27,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 37,
+      "title": "We Got The Juice",
+      "artist": "Attitude",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 26,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Reach Out",
+      "artist": "Narada",
+      "cover": "http://charts-static.billboard.com/img/1977/04/narada-michael-walden-tat.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 19,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 39,
+      "title": "This Is Your Time",
+      "artist": "Change",
+      "cover": "http://charts-static.billboard.com/img/1980/03/change-ssn.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 39,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Tearin' It Up",
+      "artist": "Chaka Khan",
+      "cover": "http://charts-static.billboard.com/img/1840/12/chaka-khan-kwe.jpg",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 26,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 41,
+      "title": "DER KOMMISSAR",
+      "artist": "After The Fire",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 17,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 42,
+      "title": "NEW YEAR's DAY",
+      "artist": "U2",
+      "cover": "http://charts-static.billboard.com/img/2017/05/u2.jpg",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 38,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Connect Up To Me / Prove",
+      "artist": "Ric Ocasek",
+      "cover": "http://charts-static.billboard.com/img/1983/01/ric-ocasek-l1x.jpg",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 37,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Atomic Dog",
+      "artist": "George Clinton Featuring Coolio",
+      "cover": "http://charts-static.billboard.com/img/1982/10/george-clinton-7qp.jpg",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 38,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Light Years Away",
+      "artist": "Warp 9",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 21,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Here Comes My Love",
+      "artist": "Rocket",
+      "position": {
+        "Last Week": "70",
+        "Peak Position": 27,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 47,
+      "title": "UNDER MY THUMB",
+      "artist": "Fast Radio",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 47,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 48,
+      "title": "SHOT IN THE NIGHT",
+      "artist": "Paul Parker",
+      "position": {
+        "Last Week": "67",
+        "Peak Position": 15,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 49,
+      "title": "One More Shot",
+      "artist": "C-Bank",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 5,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Who's Getting It Now",
+      "artist": "Chocolate Milk",
+      "cover": "http://charts-static.billboard.com/img/1975/06/chocolate-milk-lyt.jpg",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 50,
+        "Wks on Chart": 8
+      }
+    }
+  ]
+}
