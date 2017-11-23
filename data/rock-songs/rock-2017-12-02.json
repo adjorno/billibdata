@@ -1,0 +1,551 @@
+{
+  "name": "Rock",
+  "chart_date": "2017-12-02",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Thunder",
+      "artist": "Imagine Dragons",
+      "cover": "https://charts-static.billboard.com/img/1840/12/imagine-dragons-hy6.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Feel It Still",
+      "artist": "Portugal. The Man",
+      "cover": "https://charts-static.billboard.com/img/2007/08/portugal-the-man-l5z.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 37
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Believer",
+      "artist": "Imagine Dragons",
+      "cover": "https://charts-static.billboard.com/img/1840/12/imagine-dragons-hy6.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 42
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Rx (Medicate)",
+      "artist": "Theory Of A Deadman",
+      "cover": "https://charts-static.billboard.com/img/2016/12/theory-of-a-deadman.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Wish I Knew You",
+      "artist": "The Revivalists",
+      "cover": "https://charts-static.billboard.com/img/2014/12/the-revivalists-ce5.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 51
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Immigrant Song",
+      "artist": "Led Zeppelin",
+      "cover": "https://charts-static.billboard.com/img/2016/12/led-zeppelin.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Walk On Water",
+      "artist": "Thirty Seconds To Mars",
+      "cover": "https://charts-static.billboard.com/img/2002/08/thirty-seconds-to-mars-8ig.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 8,
+      "title": "One Foot",
+      "artist": "WALK THE MOON",
+      "cover": "https://charts-static.billboard.com/img/1840/12/walk-the-moon-mpm.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 6,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Old Church Choir",
+      "artist": "Zach Williams",
+      "cover": "https://charts-static.billboard.com/img/2017/04/zach-williams.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 7,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Angela",
+      "artist": "The Lumineers",
+      "cover": "https://charts-static.billboard.com/img/2017/01/the-lumineers.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 59
+      }
+    },
+    {
+      "rank": 11,
+      "title": "The Sky Is A Neighborhood",
+      "artist": "Foo Fighters",
+      "cover": "https://charts-static.billboard.com/img/2017/06/foo-fighters.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 11,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 12,
+      "title": "One More Light",
+      "artist": "Linkin Park",
+      "cover": "https://charts-static.billboard.com/img/2017/06/linkin-park.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 6,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Lay It On Me",
+      "artist": "Vance Joy",
+      "cover": "https://charts-static.billboard.com/img/2017/08/vance-joy.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 12,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Up All Night",
+      "artist": "Beck",
+      "cover": "https://charts-static.billboard.com/img/1993/12/beck-sev.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 11,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 15,
+      "title": "No Roots",
+      "artist": "Alice Merton",
+      "cover": "https://charts-static.billboard.com/img/2017/06/alice-merton.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 15,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 16,
+      "title": "You're The Best Thing About Me",
+      "artist": "U2",
+      "cover": "https://charts-static.billboard.com/img/2017/05/u2.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 5,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 17,
+      "title": "The Man",
+      "artist": "The Killers",
+      "cover": "https://charts-static.billboard.com/img/2017/07/the-killers.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 5,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 18,
+      "title": "World Gone Mad",
+      "artist": "Bastille",
+      "cover": "https://charts-static.billboard.com/img/2017/01/bastille.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Come Together",
+      "artist": "Gary Clark Jr.",
+      "cover": "https://charts-static.billboard.com/img/2017/10/gary-clark-jr-bld.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 19,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Sit Next To Me",
+      "artist": "Foster The People",
+      "cover": "https://charts-static.billboard.com/img/2017/05/foster-the-people.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 20,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Vacation",
+      "artist": "The Dirty Heads",
+      "cover": "https://charts-static.billboard.com/img/2017/07/the-dirty-heads.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 20,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 22,
+      "title": "The Last Of The Real Ones",
+      "artist": "Fall Out Boy",
+      "cover": "https://charts-static.billboard.com/img/2017/07/fall-out-boy.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 5,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Go To War",
+      "artist": "Nothing More",
+      "cover": "https://charts-static.billboard.com/img/2017/07/nothing-more.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 23,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Highway Tune",
+      "artist": "Greta Van Fleet",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 23,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Whole Wide World",
+      "artist": "Cage The Elephant",
+      "cover": "https://charts-static.billboard.com/img/2017/07/cage-the-elephant.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 25,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Good Times",
+      "artist": "All Time Low",
+      "cover": "https://charts-static.billboard.com/img/2017/06/all-time-low.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 27,
+      "title": "In The Air Tonight",
+      "artist": "Noah Mac",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 27,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Kamikaze",
+      "artist": "WALK THE MOON",
+      "cover": "https://charts-static.billboard.com/img/1840/12/walk-the-moon-mpm.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 28,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 29,
+      "title": "The Resistance",
+      "artist": "Skillet",
+      "cover": "https://charts-static.billboard.com/img/1970/04/skillet-kqp.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 29,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 30,
+      "title": "So Tied Up",
+      "artist": "Cold War Kids Featuring Bishop Briggs",
+      "cover": "https://charts-static.billboard.com/img/2017/04/cold-war-kids.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 30,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Two High",
+      "artist": "Moon Taxi",
+      "cover": "https://charts-static.billboard.com/img/2017/07/moon-taxi.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 26,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Ahead Of Myself",
+      "artist": "X Ambassadors",
+      "cover": "https://charts-static.billboard.com/img/2016/11/x-ambassadors.jpg",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 24,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 33,
+      "title": "The Thunder Rolls",
+      "artist": "All That Remains",
+      "cover": "https://charts-static.billboard.com/img/2017/05/all-that-remains.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 26,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Lions",
+      "artist": "Skillet",
+      "cover": "https://charts-static.billboard.com/img/1970/04/skillet-kqp.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 34,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Judas",
+      "artist": "Fozzy",
+      "cover": "https://charts-static.billboard.com/img/2017/05/fozzy.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 35,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Trouble",
+      "artist": "Five Finger Death Punch",
+      "cover": "https://charts-static.billboard.com/img/2007/08/five-finger-death-punch-tza.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 10,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Live In The Moment",
+      "artist": "Portugal. The Man",
+      "cover": "https://charts-static.billboard.com/img/2007/08/portugal-the-man-l5z.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Edge Of Darkness",
+      "artist": "Greta Van Fleet",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Imperfection",
+      "artist": "Evanescence",
+      "cover": "https://charts-static.billboard.com/img/2017/03/evanescence.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 40,
+      "title": "The Gold",
+      "artist": "Manchester Orchestra",
+      "cover": "https://charts-static.billboard.com/img/2017/07/manchester-orchestra.jpg",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 40,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Walking The Wire",
+      "artist": "Imagine Dragons",
+      "cover": "https://charts-static.billboard.com/img/1840/12/imagine-dragons-hy6.jpg",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 6,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Happy Hour",
+      "artist": "Weezer",
+      "cover": "https://charts-static.billboard.com/img/2017/04/weezer.jpg",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 35,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Legend",
+      "artist": "The Score",
+      "cover": "https://charts-static.billboard.com/img/2017/02/the-score.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 42,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Safari Song",
+      "artist": "Greta Van Fleet",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Legendary",
+      "artist": "Welshly Arms",
+      "cover": "https://charts-static.billboard.com/img/2017/07/welshly-arms.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Angel From Montgomery",
+      "artist": "Addison Agen",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Betray And Degrade",
+      "artist": "Seether",
+      "cover": "https://charts-static.billboard.com/img/2017/06/seether.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 48,
+      "title": "I Only Lie When I Love You",
+      "artist": "Royal Blood",
+      "cover": "https://charts-static.billboard.com/img/2017/08/royal-blood.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Bring Me To Life (Synthesis)",
+      "artist": "Evanescence",
+      "cover": "https://charts-static.billboard.com/img/2017/03/evanescence.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 31,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Tennessee Mountain Top",
+      "artist": "Kid Rock",
+      "cover": "https://charts-static.billboard.com/img/2017/08/kid-rock.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 10,
+        "Wks on Chart": 5
+      }
+    }
+  ]
+}
