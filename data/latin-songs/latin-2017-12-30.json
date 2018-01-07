@@ -1,0 +1,544 @@
+{
+  "name": "Latin",
+  "chart_date": "2017-12-30",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Mi Gente",
+      "artist": "J Balvin & Willy William Featuring Beyonce",
+      "cover": "https://charts-static.billboard.com/img/2017/07/j-balvin.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Despacito",
+      "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
+      "cover": "https://charts-static.billboard.com/img/2017/01/luis-fonsi-rkx-despacito-4j3.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 48
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Echame La Culpa",
+      "artist": "Luis Fonsi & Demi Lovato",
+      "cover": "https://charts-static.billboard.com/img/1840/12/luis-fonsi-j22.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Mayores",
+      "artist": "Becky G Featuring Bad Bunny",
+      "cover": "https://charts-static.billboard.com/img/2017/08/becky-g.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Escapate Conmigo",
+      "artist": "Wisin Featuring Ozuna",
+      "cover": "https://charts-static.billboard.com/img/2017/04/wisin-o6d.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 38
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Felices Los 4",
+      "artist": "Maluma",
+      "cover": "https://charts-static.billboard.com/img/2017/05/maluma.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 2,
+        "Wks on Chart": 34
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Bella y Sensual",
+      "artist": "Romeo Santos Featuring Nicky Jam & Daddy Yankee",
+      "cover": "https://charts-static.billboard.com/img/2017/07/romeo-santos.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Criminal",
+      "artist": "Natti Natasha x Ozuna",
+      "cover": "https://charts-static.billboard.com/img/2017/09/natti-natasha-s18.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 6,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Krippy Kush",
+      "artist": "Farruko, Nicki Minaj, Bad Bunny, 21 Savage & Rvssian",
+      "cover": "https://charts-static.billboard.com/img/2010/05/farruko-z29.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Perro Fiel",
+      "artist": "Shakira Featuring Nicky Jam",
+      "cover": "https://charts-static.billboard.com/img/2017/06/shakira.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Sensualidad",
+      "artist": "DJ Luian & Mambo Kingz Presentan: Bad Bunny, J Balvin & Prince Royce",
+      "cover": "https://charts-static.billboard.com/img/2017/06/dj-luian.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 8,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Corazon",
+      "artist": "Maluma X Nego do Borel",
+      "cover": "https://charts-static.billboard.com/img/2017/08/maluma.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 12,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Corrido de Juanito",
+      "artist": "Calibre 50",
+      "cover": "https://charts-static.billboard.com/img/2017/06/calibre-50.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 7,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 14,
+      "title": "El Farsante",
+      "artist": "Ozuna",
+      "cover": "https://charts-static.billboard.com/img/2017/07/ozuna.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Robarte Un Beso",
+      "artist": "Carlos Vives & Sebastian Yatra",
+      "cover": "https://charts-static.billboard.com/img/2017/02/carlos-vives.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Se Preparo",
+      "artist": "Ozuna",
+      "cover": "https://charts-static.billboard.com/img/2017/07/ozuna.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 16,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Que Va",
+      "artist": "Alex Sensation + Ozuna",
+      "cover": "https://charts-static.billboard.com/img/2016/11/alex-sensation.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 17,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Vuelve",
+      "artist": "Daddy Yankee & Bad Bunny",
+      "cover": "https://charts-static.billboard.com/img/2002/07/daddy-yankee-1tx.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 11,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Como Antes",
+      "artist": "Yandel Featuring Wisin",
+      "cover": "https://charts-static.billboard.com/img/2017/07/yandel.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 7,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Imitadora",
+      "artist": "Romeo Santos",
+      "cover": "https://charts-static.billboard.com/img/2017/07/romeo-santos.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 5,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Loco Enamorado",
+      "artist": "Remmy Valenzuela",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 21,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Si Tu La Ves",
+      "artist": "Nicky Jam Featuring Wisin",
+      "cover": "https://charts-static.billboard.com/img/2017/07/nicky-jam-hn0.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 18,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Si No Estas Tu",
+      "artist": "Banda La Misma Tierra",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Ahora Me Llama",
+      "artist": "Karol G X Bad Bunny",
+      "cover": "https://charts-static.billboard.com/img/2017/07/karol-g.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 10,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Rafa Caro",
+      "artist": "T3r Elemento",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 25,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Chambea (Wooo!)",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 26,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Loco Enamorado",
+      "artist": "Abraham Mateo, Farruko & Christian Daniel",
+      "cover": "https://charts-static.billboard.com/img/2017/07/abraham-mateo.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 27,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Downtown",
+      "artist": "Anitta & J Balvin",
+      "cover": "https://charts-static.billboard.com/img/2017/06/anitta.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 24,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 29,
+      "title": "No Te Pido Mucho",
+      "artist": "Alta Consigna",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 29,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Entre Beso y Beso",
+      "artist": "La Arrolladora Banda el Limon de Rene Camacho",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 29,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Palma Salazar",
+      "artist": "Gerardo Ortiz",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 27,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 32,
+      "title": "El Color de Tus Ojos",
+      "artist": "Banda Sinaloense MS de Sergio Lizarraga",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 28,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 33,
+      "title": "3 A.M.",
+      "artist": "Jesse & Joy Featuring Gente de Zona",
+      "cover": "https://charts-static.billboard.com/img/2017/06/jesse-and-joy.jpg",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 30,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 34,
+      "title": "La Formula",
+      "artist": "De La Ghetto, Daddy Yankee, Ozuna & Chris Jeday",
+      "cover": "https://charts-static.billboard.com/img/2017/03/de-la-ghetto.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 23,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Siguelo Bailando",
+      "artist": "Ozuna",
+      "cover": "https://charts-static.billboard.com/img/2017/07/ozuna.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 29,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Como No Adorarla",
+      "artist": "Banda Carnaval",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 28,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Amor, Amor, Amor",
+      "artist": "Jennifer Lopez Featuring Wisin",
+      "cover": "https://charts-static.billboard.com/img/2017/07/jennifer-lopez.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 10,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Casate Conmigo",
+      "artist": "Silvestre Dangond x Nicky Jam",
+      "cover": "https://charts-static.billboard.com/img/2017/06/silvestre-dangond.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 38,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Me Deje Llevar",
+      "artist": "Christian Nodal",
+      "cover": "https://charts-static.billboard.com/img/2017/07/christian-nodal.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 39,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Todo Comienza En La Disco",
+      "artist": "Wisin Featuring Yandel & Daddy Yankee",
+      "cover": "https://charts-static.billboard.com/img/2004/02/wisin-o6d.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 40,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 41,
+      "title": "GPS",
+      "artist": "Maluma Featuring French Montana",
+      "cover": "https://charts-static.billboard.com/img/2017/08/maluma.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 35,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Te Perdono",
+      "artist": "Intocable",
+      "cover": "https://charts-static.billboard.com/img/2017/08/intocable.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 41,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Corona de Rosas",
+      "artist": "Kevin Ortiz Featuring Ulices Chaidez",
+      "cover": "https://charts-static.billboard.com/img/2017/08/kevin-ortiz.jpg",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 28,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Explicale",
+      "artist": "Yandel Featuring Bad Bunny",
+      "cover": "https://charts-static.billboard.com/img/2017/07/yandel.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 29,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Dejala Que Vuelva",
+      "artist": "Piso 21 Featuring Manuel Turizo",
+      "cover": "https://charts-static.billboard.com/img/2017/05/piso-21.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Una Lady Como Tu",
+      "artist": "Manuel Turizo",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 32,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Fire Up",
+      "artist": "T3r Elemento",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 46,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Esta Es Tu Cancion",
+      "artist": "La Adictiva Banda San Jose de Mesillas",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 46,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Queria Que Lloraras",
+      "artist": "Ulices Chaidez y Sus Plebes",
+      "cover": "https://charts-static.billboard.com/img/2017/08/ulices-chaidez-y-sus-plebes.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 49,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Choka Choka",
+      "artist": "Chayanne Featuring Ozuna",
+      "cover": "https://charts-static.billboard.com/img/2017/05/chayanne.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 41,
+        "Wks on Chart": 3
+      }
+    }
+  ]
+}

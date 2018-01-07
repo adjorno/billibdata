@@ -1,12 +1,12 @@
 package com.m14n.billib.data.html;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import com.m14n.billib.data.BB;
 import com.m14n.billib.data.model.BBChart;
 import com.m14n.billib.data.model.BBChartMetadata;
 import com.m14n.billib.data.model.BBJournalMetadata;
 import com.m14n.billib.data.model.BBTrack;
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 import com.m14n.ex.Ex;
 
 import org.jsoup.nodes.Document;
@@ -27,7 +27,7 @@ public class AllBBReader {
 
     static {
         try {
-            TODAY = BB.CHART_DATE_FORMAT.parse("2017-12-09");
+            TODAY = BB.CHART_DATE_FORMAT.parse("2018-01-13");
         } catch (ParseException e) {
             e.printStackTrace();
         }
@@ -54,7 +54,9 @@ public class AllBBReader {
         final Calendar theCalendar = Calendar.getInstance();
         theCalendar.setTime(TODAY);
         while (theSkip <= POSSIBLE_SKIPPED_WEEKS_IN_ROW) {
-            theCalendar.add(Calendar.DATE, -7);
+            String theCurrent = BB.CHART_DATE_FORMAT.format(theCalendar.getTime());
+            theCalendar.add(Calendar.DATE,
+                    "2018-01-06".equals(theCurrent) ? -3 : "2018-01-03".equals(theCurrent) ? -4 : -7);
             final String theFormatDate = BB.CHART_DATE_FORMAT.format(theCalendar.getTime());
             System.out.print(theChartMetadata.getName() + " " + theFormatDate + " ");
             final File theChartFile = new File(theChartDir,
