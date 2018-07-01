@@ -1,0 +1,109 @@
+{
+  "name": "France",
+  "chart_date": "2018-05-05",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "La Meme",
+      "artist": "Maitre Gims Con Duo Avec Vianney",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Flames",
+      "artist": "David Guetta & Sia",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Mafiosa",
+      "artist": "Lartiste Featuring Caroliina",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 4,
+      "title": "X",
+      "artist": "Nicky Jam x J Balvin",
+      "cover": "https://charts-static.billboard.com/img/2018/03/nicky-jam-ip7.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Ipseite",
+      "artist": "Damso",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 5,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Va Bene",
+      "artist": "L'Algernio",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Zombie",
+      "artist": "Bad Wolves",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 7,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Leave A Light On",
+      "artist": "Tom Walker",
+      "cover": "https://charts-static.billboard.com/img/2018/01/tom-walker-tru.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Defiler (Bande Originale de La Capsule No. 5 Mosaert)",
+      "artist": "Stromae",
+      "cover": "https://charts-static.billboard.com/img/2018/05/stromae-wcn.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 9,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Ta Mariniere",
+      "artist": "Hoshi",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 8,
+        "Wks on Chart": 3
+      }
+    }
+  ]
+}

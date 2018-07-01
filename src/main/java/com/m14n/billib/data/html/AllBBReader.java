@@ -27,7 +27,7 @@ public class AllBBReader {
 
     static {
         try {
-            TODAY = BB.CHART_DATE_FORMAT.parse("2018-01-13");
+            TODAY = BB.CHART_DATE_FORMAT.parse("2018-07-07");
         } catch (ParseException e) {
             e.printStackTrace();
         }

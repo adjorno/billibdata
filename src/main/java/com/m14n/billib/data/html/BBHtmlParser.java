@@ -2,8 +2,8 @@ package com.m14n.billib.data.html;
 
 import com.m14n.billib.data.model.BBChartMetadata;
 import com.m14n.billib.data.model.BBJournalMetadata;
-import com.m14n.billib.data.model.BBTrack;
 import com.m14n.billib.data.model.BBPositionInfo;
+import com.m14n.billib.data.model.BBTrack;
 import com.m14n.ex.Ex;
 
 import org.jsoup.Jsoup;
@@ -23,7 +23,7 @@ public class BBHtmlParser {
         if (Ex.isNotEmpty(date)) {
             theUrl += "/" + date;
         }
-        final Document theDocument = Jsoup.connect(theUrl).timeout(10 * 1000).get();
+        final Document theDocument = Jsoup.connect(theUrl).userAgent("Mozilla").timeout(10 * 1000).get();
         return theDocument;
     }
 

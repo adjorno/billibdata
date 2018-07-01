@@ -1,0 +1,538 @@
+{
+  "name": "Club",
+  "chart_date": "2018-04-21",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "I Am House",
+      "artist": "Crystal Waters, Sted-E & Hybrid Heights",
+      "cover": "https://charts-static.billboard.com/img/2018/02/crystal-waters-8mo.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 2,
+      "title": "IDGAF",
+      "artist": "Dua Lipa",
+      "cover": "https://charts-static.billboard.com/img/2018/01/dua-lipa-vxi.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 2,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 3,
+      "title": "This Is Me",
+      "artist": "Keala Settle & The Greatest Showman Ensemble",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Lost",
+      "artist": "VASSY & Afrojack Featuring Oliver Rosa",
+      "cover": "https://charts-static.billboard.com/img/2017/11/vassy-vim-lost-7eq.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Dancing",
+      "artist": "Kylie Minogue",
+      "cover": "https://charts-static.billboard.com/img/2018/03/kylie-minogue-jso.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 5,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 6,
+      "title": "17",
+      "artist": "MK",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 6,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Magenta Riddim",
+      "artist": "DJ Snake",
+      "cover": "https://charts-static.billboard.com/img/2018/03/dj-snake-4qv.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 7,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 8,
+      "title": "So Far Away",
+      "artist": "Martin Garrix & David Guetta Featuring Jamie Scott & Romy Dya",
+      "cover": "https://charts-static.billboard.com/img/2017/12/martin-garrix-92j.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 8,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 9,
+      "title": "My My My!",
+      "artist": "Troye Sivan",
+      "cover": "https://charts-static.billboard.com/img/2018/01/troye-sivan-ymn.jpg",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 9,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Anywhere",
+      "artist": "Rita Ora",
+      "cover": "https://charts-static.billboard.com/img/2017/12/rita-ora-qq1.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Crazy Enough",
+      "artist": "Joe Bermudez Featuring Louise Carver",
+      "cover": "https://charts-static.billboard.com/img/2018/01/joe-bermudez-q87.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Tell Me You Love Me",
+      "artist": "Demi Lovato",
+      "cover": "https://charts-static.billboard.com/img/2017/09/demi-lovato-rh9.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Beautiful Trauma",
+      "artist": "P!nk",
+      "cover": "https://charts-static.billboard.com/img/2017/10/pnk-e1s.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 14,
+      "title": "You're Good For Me",
+      "artist": "Tony Moran Featuring Kimberly Davis",
+      "cover": "https://charts-static.billboard.com/img/2018/02/tony-moran-ikh.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 15,
+      "title": "El Bano",
+      "artist": "Enrique Iglesias Featuring Bad Bunny",
+      "cover": "https://charts-static.billboard.com/img/2018/01/enrique-iglesias-m5f.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 15,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Don't Make Me Wait",
+      "artist": "Sting & Shaggy",
+      "cover": "https://charts-static.billboard.com/img/2018/02/sting-fr9.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 16,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Mona Lisa",
+      "artist": "OBB",
+      "cover": "https://charts-static.billboard.com/img/2018/02/obb-38c.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 17,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 18,
+      "title": "The Middle",
+      "artist": "Zedd, Maren Morris & Grey",
+      "cover": "https://charts-static.billboard.com/img/2018/02/zedd-edd.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Walk In Silence",
+      "artist": "Emily Perry",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 19,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Euphoria",
+      "artist": "The Perry Twins Featuring Harper Starling",
+      "cover": "https://charts-static.billboard.com/img/2018/03/the-perry-twins-000-euphoria-ty0.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 20,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Run This Town",
+      "artist": "Niiko x SWAE Featuring Celine Farach",
+      "cover": "https://charts-static.billboard.com/img/2018/02/niiko-000-run-this-town-ici.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Runnin' 2018",
+      "artist": "Mark Picchiotti Presents Basstoy Featuring Dana Divine",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 14,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Wavey",
+      "artist": "CLiQ Featuring Alika",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 23,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 24,
+      "title": "I Know You",
+      "artist": "Craig David Featuring Bastille",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 24,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Trouble",
+      "artist": "Luciana & Nytrix",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 25,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Up All Night",
+      "artist": "Beck",
+      "cover": "https://charts-static.billboard.com/img/2017/09/beck-rs3.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 12,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Beat For The Gods",
+      "artist": "Laverne Cox",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 27,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Sublime",
+      "artist": "Kendra Erika",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 17,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Reasons",
+      "artist": "Jena Rose",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 29,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Make Me Feel",
+      "artist": "Janelle Monae",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 30,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Finesse",
+      "artist": "Bruno Mars & Cardi B",
+      "cover": "https://charts-static.billboard.com/img/2018/01/bruno-mars-va7.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Fall Into You",
+      "artist": "Sara P",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 32,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 33,
+      "title": "God's Plan",
+      "artist": "Drake",
+      "cover": "https://charts-static.billboard.com/img/2018/01/drake-zwl.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Never Ever",
+      "artist": "Lisa Stansfield",
+      "cover": "https://charts-static.billboard.com/img/2018/04/lisa-stansfield-vtt.jpg",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 34,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Dance With Me",
+      "artist": "Chad Focus Featuring Raeliss",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 35,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Blame",
+      "artist": "Skylar Stecker",
+      "cover": "https://charts-static.billboard.com/img/2018/01/skylar-stecker-kbg.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Hearts Ain't Gonna Lie",
+      "artist": "Arlissa & Jonas Blue",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 37,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Black Mirror",
+      "artist": "Sophie Simmons",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 38,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Perfect To Me",
+      "artist": "Dave Aude Featuring King Brown",
+      "cover": "https://charts-static.billboard.com/img/2018/01/dave-aude-osz.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 16,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Friends",
+      "artist": "Marshmello & Anne-Marie",
+      "cover": "https://charts-static.billboard.com/img/2018/02/marshmello-ttp.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Cold",
+      "artist": "Ralphi Rosario Featuring Donna Blakely",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Breathe",
+      "artist": "Jax Jones Featuring Ina Wroldsen",
+      "cover": "https://charts-static.billboard.com/img/2017/12/jax-jones-xqv.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 39,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Sex On Fire",
+      "artist": "Dan Thomas Presents Reiss Harrison",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 31,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Xperiel",
+      "artist": "The Trash Mermaids",
+      "cover": "https://charts-static.billboard.com/img/2018/03/the-trash-mermaids-m49.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 44,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Like I Do",
+      "artist": "David Guetta, Martin Garrix & Brooks",
+      "cover": "https://charts-static.billboard.com/img/2018/03/david-guetta-5bo.jpg",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 45,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 46,
+      "title": "What We Remember",
+      "artist": "Anggun",
+      "cover": "https://charts-static.billboard.com/img/1998/07/anggun-3z1.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 8,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Pray For Me",
+      "artist": "The Weeknd & Kendrick Lamar",
+      "cover": "https://charts-static.billboard.com/img/2018/02/the-weeknd-4yv.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 47,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 48,
+      "title": "I Need You",
+      "artist": "Paris Hilton",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Dreamer",
+      "artist": "Axwell & Ingrosso Featuring Trevor Guthrie",
+      "cover": "https://charts-static.billboard.com/img/2017/12/axwell-ingrosso-2as.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 6,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Ooh Lordy",
+      "artist": "Youngr",
+      "cover": "https://charts-static.billboard.com/img/2018/03/youngr-64m.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 50,
+        "Wks on Chart": 0
+      }
+    }
+  ]
+}
