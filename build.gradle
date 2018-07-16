@@ -2,7 +2,7 @@ apply plugin: 'java'
 apply plugin: 'com.bmuschko.nexus'
 
 group 'com.m14n.billib'
-version '0.0.3'
+version '0.0.4'
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
@@ -35,7 +35,7 @@ modifyPom {
         name 'BilliB Date'
         description 'Billboard music charts parser'
         url 'https://github.com/adjorno/billibdata'
-        inceptionYear '2017'
+        inceptionYear '2018'
 
         scm {
             url 'https://github.com/adjorno/billibdata'

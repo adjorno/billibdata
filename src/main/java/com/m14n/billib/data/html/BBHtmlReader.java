@@ -1,11 +1,11 @@
 package com.m14n.billib.data.html;
 
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 import com.m14n.billib.data.BB;
 import com.m14n.billib.data.model.BBChart;
 import com.m14n.billib.data.model.BBChartMetadata;
 import com.m14n.billib.data.model.BBJournalMetadata;
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
 import com.m14n.ex.BenchmarkCore;
 import com.m14n.ex.Ex;
 
@@ -15,6 +15,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.Date;
 
 public class BBHtmlReader {
     public static void main(String... args) throws Exception {
@@ -23,18 +24,19 @@ public class BBHtmlReader {
         BBJournalMetadata theMetadata = theGson.fromJson(new FileReader(theMetadataFile), BBJournalMetadata.class);
 
         File theWeekFolder = null;
-        String theWeekDate = null;
+        Date theWeekDate = null;
         for (BBChartMetadata theChartMetadata : theMetadata.getCharts()) {
             final int theBenchmark = BenchmarkCore.start(theChartMetadata.getFolder());
             final Document theDocument = BBHtmlParser.getChartDocument(theMetadata, theChartMetadata, null);
-            if (Ex.isEmpty(theWeekDate)) {
+            if (theWeekDate == null) {
                 theWeekDate = BBHtmlParser.getChartDate(theDocument);
-                theWeekFolder = new File(BB.DATA_ROOT + File.separator + "week-" + theWeekDate);
+                theWeekFolder =
+                        new File(BB.DATA_ROOT + File.separator + "week-" + BB.CHART_DATE_FORMAT.format(theWeekDate));
                 theWeekFolder.mkdirs();
             }
             final BBChart theChart = new BBChart();
             theChart.setName(theChartMetadata.getName());
-            theChart.setDate(theWeekDate);
+            theChart.setDate(BB.CHART_DATE_FORMAT.format(theWeekDate));
             theChart.setTracks(BBHtmlParser.getTracks(theDocument));
             BenchmarkCore.stop(theBenchmark);
             writeChartToFile(theGson, theChart, theWeekFolder,

@@ -71,8 +71,7 @@ public class BBTrack {
 
     @Override
     public String toString() {
-        return mRank + ". " + mArtist + " - " + mTitle + " (" + mPositionInfo + ")" + "[cover = " + mCoverUrl +
-                ", spotify = " + mSpotifyUrl + "]";
+        return mRank + ". " + mArtist + " - " + mTitle + " (" + mPositionInfo + ")";
     }
 
     @Override

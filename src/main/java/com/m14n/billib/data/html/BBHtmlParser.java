@@ -1,5 +1,6 @@
 package com.m14n.billib.data.html;
 
+import com.m14n.billib.data.BB;
 import com.m14n.billib.data.model.BBChartMetadata;
 import com.m14n.billib.data.model.BBJournalMetadata;
 import com.m14n.billib.data.model.BBPositionInfo;
@@ -12,7 +13,9 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
+import java.text.ParseException;
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 public class BBHtmlParser {
@@ -27,79 +30,76 @@ public class BBHtmlParser {
         return theDocument;
     }
 
-    public static String getChartDate(Document document) {
-        return document.body().getElementById("main").getElementsByClass("js-chart-data").attr("data-chartdate");
+    private static Element getHeader(Document document) {
+        Element theMain = document.body().getElementById("main");
+        return theMain.getElementsByClass("chart-detail-header").first();
+    }
+
+    public static Date getChartDate(Document document) throws ParseException {
+        Element theHeader = getHeader(document);
+        Element theContainer = theHeader.getElementsByClass("chart-detail-header__chart-info").first();
+        Element theDetails = theContainer.getElementsByClass("chart-detail-header__select-date").first();
+        Element theDropdown = theDetails.getElementsByClass("chart-detail-header__date-selector").first();
+        Element theButton = theDropdown.getElementsByClass("chart-detail-header__date-selector-button").first();
+        return BB.CHART_DATE_HTML_FORMAT.parse(theButton.text());
     }
 
     public static List<BBTrack> getTracks(Document document) {
-        final Element theChartData = document.body().getElementById("main").getElementsByClass("js-chart-data").first();
-        final Elements theChartRowContainers = theChartData.getElementsByClass("container");
         final List<BBTrack> theTracks = new ArrayList<>();
-        for (Element theChartRowContainer : theChartRowContainers) {
-            theTracks.addAll(getTracksFromContainer(theChartRowContainer));
+        theTracks.add(getLeader(getHeader(document)));
+
+        Elements itemLists = document.body()
+                .getElementsByClass("chart-container").first()
+                .getElementsByClass("chart-details").first()
+                .getElementsByClass("chart-list");
+        for (Element list : itemLists) {
+            Elements items = list.getElementsByClass("chart-list-item");
+            for (Element item : items) {
+                theTracks.add(getTrack(item));
+            }
         }
         return theTracks;
     }
 
-    private static List<BBTrack> getTracksFromContainer(Element container) {
-        final List<BBTrack> theTracks = new ArrayList<>();
-        Elements theChartRows = container.getElementsByClass("js-chart-row");
-        for (Element theChartRow : theChartRows) {
-            BBTrack theTrack = getTrack(theChartRow);
-            theTracks.add(theTrack);
+    private static BBTrack getLeader(Element header) {
+        BBTrack theLeaderTrack = new BBTrack();
+        theLeaderTrack.setRank(1);
+        Element theLeaderInfo = header.getElementsByClass("chart-number-one").first()
+                .getElementsByClass("chart-number-one__info").first();
+        Element theDetails = theLeaderInfo.getElementsByClass("chart-number-one__details").first();
+        theLeaderTrack.setTitle(theDetails.getElementsByClass("chart-number-one__title").first().text());
+        theLeaderTrack.setArtist(theDetails.getElementsByClass("chart-number-one__artist").first().text());
+        BBPositionInfo thePositionInfo = new BBPositionInfo();
+        theLeaderTrack.setPositionInfo(thePositionInfo);
+        Element theStats = theLeaderInfo.getElementsByClass("chart-number-one__stats").first();
+        Element theLastWeekElement = theStats.getElementsByClass("chart-number-one__last-week").first();
+        if (theLastWeekElement != null) {
+            thePositionInfo.setLastWeek(theLastWeekElement.text());
         }
-        return theTracks;
+        thePositionInfo.setPeekPosition(1);
+        thePositionInfo.setWksOnChart(
+                Integer.valueOf(theStats.getElementsByClass("chart-number-one__weeks-on-chart").first().text()));
+        return theLeaderTrack;
     }
 
     private static BBTrack getTrack(Element row) {
-        final Element theMainDisplay = row.getElementsByClass("chart-row__primary").first().getElementsByClass(
-                "chart-row__main-display").first();
         BBTrack theTrack = new BBTrack();
-        theTrack.setArtist(theMainDisplay.getElementsByClass("chart-row__artist").text());
-        theTrack.setTitle(theMainDisplay.getElementsByClass("chart-row__song").text());
-        theTrack.setRank(getRank(theMainDisplay.getElementsByClass("chart-row__rank").first()));
-        theTrack.setCoverUrl(getCoverUrl(theMainDisplay.getElementsByClass("chart-row__image").first()));
-        theTrack.setSpotifyUrl(getSpotifyUrl(theMainDisplay));
-        final Element theSecondary = row.getElementsByClass("chart-row__secondary").first();
-        if (theSecondary != null) {
+        theTrack.setRank(Integer.valueOf(row.attr("data-rank")));
+        theTrack.setArtist(row.attr("data-artist"));
+        theTrack.setTitle(row.attr("data-title"));
+        Element theExtraInfo = row.getElementsByClass("chart-list-item__extra-info").first();
+        Element theStats = theExtraInfo.getElementsByClass("chart-list-item__stats").first();
+        if (theStats != null) {
             BBPositionInfo thePositionInfo = new BBPositionInfo();
-            final Element theLastWeekElement = theSecondary.getElementsByClass("chart-row__last-week").first();
-            thePositionInfo.setLastWeek(getPosition(theLastWeekElement));
-            final String thePeekPosition = getPosition(theSecondary.getElementsByClass("chart-row__top-spot").first());
-            if (Ex.isNotEmpty(thePeekPosition)) {
-                thePositionInfo.setPeekPosition(Integer.valueOf(thePeekPosition));
-            }
-            final String theWeeks = getPosition(
-                    theSecondary.getElementsByClass("chart-row__weeks-on-chart").first());
-            if (Ex.isNotEmpty(theWeeks)) {
-                thePositionInfo.setWksOnChart(Integer.valueOf(theWeeks));
-            }
+            String theLastWeek = theStats.getElementsByClass("chart-list-item__last-week").first().text();
+            thePositionInfo.setLastWeek(theLastWeek);
+            String thePeek = theStats.getElementsByClass("chart-list-item__weeks-at-one").first().text();
+            thePositionInfo.setPeekPosition(Integer.valueOf(thePeek));
+            String theWeeks = theStats.getElementsByClass("chart-list-item__weeks-on-chart").first().text();
+            thePositionInfo.setWksOnChart(Integer.valueOf(theWeeks));
             theTrack.setPositionInfo(thePositionInfo);
         }
+
         return theTrack;
-    }
-
-    private static String getPosition(Element secondaryRank) {
-        return secondaryRank.getElementsByClass("chart-row__value").text();
-    }
-
-    private static int getRank(Element rankElement) {
-        return Integer.valueOf(rankElement.getElementsByClass("chart-row__current-week").text().trim());
-    }
-
-    private static String getCoverUrl(Element coverElement) {
-        String theResult = coverElement.attr("data-imagesrc");
-        if (Ex.isEmpty(theResult)) {
-            final String theStyle = coverElement.attr("style");
-            if (!Ex.isEmpty(theStyle)) {
-                theResult = theStyle.substring(theStyle.indexOf("http"), theStyle.length() - 1);
-            }
-        }
-        return Ex.isEmpty(theResult) ? null : theResult;
-    }
-
-    private static String getSpotifyUrl(Element mainDisplay) {
-        final String theUrl = mainDisplay.getElementsByClass("chart-row__link--spotify").attr("data-href");
-        return Ex.isEmpty(theUrl) ? null : theUrl;
     }
 }

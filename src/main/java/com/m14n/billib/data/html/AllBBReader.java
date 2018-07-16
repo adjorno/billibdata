@@ -12,7 +12,6 @@ import com.m14n.ex.Ex;
 import org.jsoup.nodes.Document;
 
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -27,13 +26,13 @@ public class AllBBReader {
 
     static {
         try {
-            TODAY = BB.CHART_DATE_FORMAT.parse("2018-07-07");
+            TODAY = BB.CHART_DATE_FORMAT.parse("2018-07-21");
         } catch (ParseException e) {
             e.printStackTrace();
         }
     }
 
-    public static void main(String... args) throws FileNotFoundException {
+    public static void main(String... args) throws Exception {
         final Gson theGson = new GsonBuilder().setPrettyPrinting().disableHtmlEscaping().create();
         final File theRoot = new File(BB.DATA_ROOT);
         final File theMetadataFile = new File(theRoot, "metadata_billboard.json");
@@ -44,7 +43,8 @@ public class AllBBReader {
         }
     }
 
-    private static void fetchChart(Gson gson, File root, BBJournalMetadata metadata, BBChartMetadata theChartMetadata) {
+    private static void fetchChart(Gson gson, File root, BBJournalMetadata metadata, BBChartMetadata theChartMetadata)
+            throws ParseException {
         System.out.println("---------------------" + theChartMetadata.getName() + "----------------------------");
         final File theChartDir = new File(root, theChartMetadata.getFolder());
         if (!theChartDir.exists()) {
@@ -65,7 +65,8 @@ public class AllBBReader {
                 try {
                     final Document theChartDocument = BBHtmlParser.getChartDocument(metadata, theChartMetadata,
                             theFormatDate);
-                    if (!theFormatDate.equals(BBHtmlParser.getChartDate(theChartDocument))) {
+                    if (!theFormatDate
+                            .equals(BB.CHART_DATE_FORMAT.format(BBHtmlParser.getChartDate(theChartDocument)))) {
                         System.out.println("WRONG DATE!");
                         theSkip++;
                         continue;
