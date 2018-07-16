@@ -14,11 +14,17 @@ import com.sun.syndication.io.FeedException;
 import com.sun.syndication.io.WireFeedInput;
 import com.sun.syndication.io.XmlReader;
 
+import org.apache.http.client.methods.CloseableHttpResponse;
+import org.apache.http.client.methods.HttpGet;
+import org.apache.http.client.methods.HttpUriRequest;
+import org.apache.http.impl.client.CloseableHttpClient;
+import org.apache.http.impl.client.HttpClients;
 import org.jdom.Document;
 
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
+import java.io.InputStream;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
@@ -40,10 +46,16 @@ public class BBRssReader {
         File theWeekFolder = null;
         String theWeekDate = null;
         final Gson theGson = new GsonBuilder().setPrettyPrinting().disableHtmlEscaping().create();
+        CloseableHttpClient client = HttpClients.custom()
+                .setUserAgent("Mozilla")
+                .build();
         for (BBChartMetadata theChart : theMetadata.getCharts()) {
             final int theBenchmark = BenchmarkCore.start(theChart.getFolder());
             final URL theRssSource = new URL(theMetadata.getBaseRss() + theChart.getFolder());
-            final Channel feed = (Channel) theRssInput.build(new XmlReader(theRssSource));
+            HttpUriRequest request = new HttpGet(theRssSource.toURI());
+            CloseableHttpResponse response = client.execute(request);
+            InputStream stream = response.getEntity().getContent();
+            final Channel feed = (Channel) theRssInput.build(new XmlReader(stream));
             final List<BBRssItem> theItems = feed.getItems();
             final List<BBTrack> theTracks = new ArrayList<>();
             for (BBRssItem theRssItem : theItems) {
