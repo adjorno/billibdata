@@ -88,7 +88,8 @@ public class BBHtmlParser {
         theTrack.setArtist(row.attr("data-artist"));
         theTrack.setTitle(row.attr("data-title"));
         Element theExtraInfo = row.getElementsByClass("chart-list-item__extra-info").first();
-        Element theStats = theExtraInfo.getElementsByClass("chart-list-item__stats").first();
+        Element theStats =
+                theExtraInfo == null ? null : theExtraInfo.getElementsByClass("chart-list-item__stats").first();
         if (theStats != null) {
             BBPositionInfo thePositionInfo = new BBPositionInfo();
             String theLastWeek = theStats.getElementsByClass("chart-list-item__last-week").first().text();

@@ -26,7 +26,7 @@ public class AllBBReader {
 
     static {
         try {
-            TODAY = BB.CHART_DATE_FORMAT.parse("2018-07-21");
+            TODAY = BB.CHART_DATE_FORMAT.parse("2018-12-29");
         } catch (ParseException e) {
             e.printStackTrace();
         }
@@ -65,8 +65,11 @@ public class AllBBReader {
                 try {
                     final Document theChartDocument = BBHtmlParser.getChartDocument(metadata, theChartMetadata,
                             theFormatDate);
-                    if (!theFormatDate
-                            .equals(BB.CHART_DATE_FORMAT.format(BBHtmlParser.getChartDate(theChartDocument)))) {
+                    String theHtmlDate = BB.CHART_DATE_FORMAT.format(BBHtmlParser.getChartDate(theChartDocument));
+                    if ((!theFormatDate.equals(theHtmlDate))
+                            // Billboard mistake as always :-)
+                            && (!("2018-11-10".equals(theHtmlDate) && "2018-11-03".equals(theFormatDate) &&
+                            "Youtube".equals(theChartMetadata.getName())))) {
                         System.out.println("WRONG DATE!");
                         theSkip++;
                         continue;
