@@ -50,7 +50,7 @@ fun main() {
 private fun checkConsistency(previousChart: BBChart, chart: BBChart): Boolean {
     var theResult = true
     for ((rank, title, artist, _, _, thePositionInfo) in chart.tracks!!) {
-        val theLastWeek = BB.extractLastWeekRank(thePositionInfo?.lastWeek)
+        val theLastWeek = BB.extractLastWeekRank(thePositionInfo?.lastWeek!!)
         if (theLastWeek > 0 && previousChart.tracks!!.size >= theLastWeek) {
             val (_, title1, artist1) = previousChart.tracks!![theLastWeek - 1]
             if (!(title.toLowerCase() == title1.toLowerCase() && artist!!.toLowerCase() == artist1!!.toLowerCase())) {

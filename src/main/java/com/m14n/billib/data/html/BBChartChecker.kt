@@ -43,12 +43,14 @@ fun main() {
     }
 }
 
+@UseExperimental(UnstableDefault::class)
 private fun readOld(oldChart: File, date: String): BBChart {
     return BBChart(name = "Country", date = date, tracks = FileReader(oldChart).use {
         Json.parse(ArrayListSerializer(BBTrack.serializer()), oldChart.readText()).also { it.forEach { track -> track.coverUrl = Ex.addHttpIfNeeded(track.coverUrl) } }
     })
 }
 
+@UseExperimental(UnstableDefault::class)
 private fun readNew(newChart: File): BBChart {
     return Json.parse(BBChart.serializer(), newChart.readText())
 }

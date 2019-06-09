@@ -42,7 +42,7 @@ object BBHtmlParser {
 
     fun getTracks(document: Document): List<BBTrack> {
         val theTracks = ArrayList<BBTrack>()
-        theTracks.add(getLeader(getHeader(document)))
+        //theTracks.add(getLeader(getHeader(document)))
 
         val itemLists = document.body()
                 .getElementsByClass("chart-container").first()
