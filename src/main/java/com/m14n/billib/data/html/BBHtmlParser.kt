@@ -5,7 +5,6 @@ import com.m14n.billib.data.model.BBChartMetadata
 import com.m14n.billib.data.model.BBJournalMetadata
 import com.m14n.billib.data.model.BBPositionInfo
 import com.m14n.billib.data.model.BBTrack
-import com.m14n.ex.Ex
 import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
@@ -18,8 +17,10 @@ object BBHtmlParser {
     @Throws(IOException::class)
     fun getChartDocument(metadata: BBJournalMetadata, chart: BBChartMetadata, date: String?): Document {
         var theUrl = metadata.url + chart.folder
-        if (Ex.isNotEmpty(date)) {
-            theUrl += "/$date"
+        date?.let {
+            if (it.isNotEmpty()) {
+                theUrl += "/$date"
+            }
         }
         return Jsoup.connect(theUrl).userAgent("Mozilla").timeout(10 * 1000).get()
     }

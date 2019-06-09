@@ -4,7 +4,6 @@ import com.m14n.billib.data.BB
 import com.m14n.billib.data.model.BBJournalMetadata
 import com.m14n.billib.data.model.BBTrack
 import com.m14n.ex.BenchmarkCore
-import com.m14n.ex.Ex
 import com.sun.syndication.feed.WireFeed
 import com.sun.syndication.feed.rss.Channel
 import com.sun.syndication.io.FeedException
@@ -51,9 +50,9 @@ fun main() {
         val theItems = feed.items as List<BBRssItem>
         val theTracks = ArrayList<BBTrack>()
         for (theRssItem in theItems) {
-            val theTrack = BBTrack(rank = theRssItem.rank, title = theRssItem.title,
+            val theTrack = BBTrack(rank = theRssItem.rank, title = theRssItem.title ?: "NO_TITLE",
                     artist = theRssItem.artist)
-            if (Ex.isEmpty(theWeekDate)) {
+            if (theWeekDate.isNullOrEmpty()) {
                 theWeekDate = BB.CHART_DATE_FORMAT.format(theRssItem.date)
                 theWeekFolder = File(BB.DATA_ROOT + File.separator + "week-" + theWeekDate)
                 theWeekFolder?.mkdirs()
