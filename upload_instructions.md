@@ -1,6 +1,6 @@
 - increase version in build.gradle
 - run "./gradle uploadArchives"
-- login to https://oss.sonatype.org
+- login to https://oss.sonatype.org (name: adjorno)
 - go to "Staging Repositories"
   scroll down to "comm14n-*" repo
   check that new version has been uploaded
