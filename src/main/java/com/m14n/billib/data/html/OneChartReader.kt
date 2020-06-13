@@ -7,8 +7,8 @@ import kotlinx.serialization.json.Json
 
 import java.io.File
 
-var DATE = "2017-09-30"
-var CHART = 0
+var DATE = "2018-12-29"
+var CHART = 1
 
 @UseExperimental(UnstableDefault::class)
 fun main() {
@@ -17,7 +17,7 @@ fun main() {
 
     val theChartMetadata = theMetadata.charts!![CHART]
 
-    val theLastChartDocument = BBHtmlParser.getChartDocument(theMetadata, theChartMetadata, null)
+    val theLastChartDocument = BBHtmlParser.getChartDocument(theMetadata, theChartMetadata, DATE)
     val theLastWeek = BBHtmlParser.getChartDate(theLastChartDocument)
     val chart = BBHtmlReader.readChart(theMetadata, theChartMetadata, BB.CHART_DATE_FORMAT.format(theLastWeek))
 
