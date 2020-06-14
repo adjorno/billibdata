@@ -7,11 +7,13 @@ import com.m14n.billib.data.model.BBJournalMetadata
 import defaultDateParser
 import kotlinx.serialization.json.Json
 import org.junit.Before
+import org.junit.Ignore
 import org.junit.Test
 import java.io.File
 import java.util.logging.FileHandler
 import java.util.logging.Logger
 
+@Ignore("Sometime Billboard responds with 404. Test manually.")
 class DefaultDateParserIntegrationTest {
 
     private lateinit var sut: HtmlChartDateParser
@@ -26,13 +28,26 @@ class DefaultDateParserIntegrationTest {
     }
 
     @Test
-    fun `default parser should parse all latest charts`() {
+    fun `default parser should parse hot 100 latest chart`() {
         val theRoot = File(BB.DATA_ROOT)
         val theMetadata =
             Json.parse(BBJournalMetadata.serializer(), File(theRoot, "metadata_billboard.json").readText())
-        theMetadata.charts?.forEach { chartMeta ->
+        theMetadata.charts?.first { chart -> chart.name == "Hot 100" }?.let { chartMeta ->
             val doc = BBHtmlParser.getChartDocument(theMetadata, chartMeta)
             sut.parse(doc)
+        }
+    }
+
+    @Test
+    fun `default parser should parse all latest charts except hot 100`() {
+        val theRoot = File(BB.DATA_ROOT)
+        val journal =
+            Json.parse(BBJournalMetadata.serializer(), File(theRoot, "metadata_billboard.json").readText())
+        journal.charts?.asSequence()?.filter { it.name != "Hot 100" }?.forEach { chart ->
+            if (chart.name != "Hot 100") {
+                val doc = BBHtmlParser.getChartDocument(journal, chart)
+                sut.parse(doc)
+            }
         }
     }
 }

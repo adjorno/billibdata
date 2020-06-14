@@ -34,6 +34,24 @@ fun Element.requestElementsByClass(className: String): Elements = getElementsByC
 }
 
 /**
+ * Extension for [Element] to request for elements by tag to avoid non-informative Java `null` results.
+ * @param tag Tag for embedded elements to search for
+ * @return Elements with the requested tag
+ * @throws ParseException in case no elements have been found
+ */
+@Throws(ParseException::class)
+fun Element.requestElementsByTag(tag: String): Elements = getElementsByTag(tag).also { elements ->
+    if (elements.isEmpty()) {
+        throw ParseException(
+            "Elements with the tag \"${tag}\" have not been found inside the element \"${tagName()}\"",
+            -1
+        )
+    } else {
+        elements
+    }
+}
+
+/**
  * Extension for [Node] to request for an attribute to avoid non-informative Java `null` results.
  * @param key Attribute key to search for
  * @return Attribute with the requested key
@@ -44,3 +62,8 @@ fun Node.requestAttr(key: String): String = attr(key)
         "Attribute with the key \"${key}\" has not been found inside the node \"${nodeName()}\"",
         -1
     )
+
+/**
+ * Extension function to fetch value of the only text node
+ */
+fun Element.nodeText() = textNodes().first().text().trim()
