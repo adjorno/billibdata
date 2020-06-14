@@ -1,5 +1,6 @@
 package com.m14n.billib.data.parser
 
+import HtmlChartDateParser
 import com.m14n.billib.data.BB
 import com.m14n.billib.data.model.BBPositionInfo
 import com.m14n.billib.data.model.BBTrack
@@ -8,6 +9,7 @@ import org.jsoup.nodes.Element
 import java.text.ParseException
 import java.util.*
 
+@Deprecated("defaultDateParser()")
 class OutdatedDateParser : HtmlChartDateParser {
 
     @Throws(ParseException::class)
