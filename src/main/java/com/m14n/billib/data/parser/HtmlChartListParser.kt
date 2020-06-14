@@ -5,6 +5,11 @@ import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
 import java.text.ParseException
 
+fun defaultChartListParser(): HtmlChartListParser = DelegateHtmlChartParser(
+    CountryTrackElementsParser(),
+    CountryTrackParser()
+)
+
 interface HtmlChartListParser {
     @Throws(ParseException::class)
     fun parse(document: Document): List<BBTrack>

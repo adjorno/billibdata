@@ -2,18 +2,18 @@ package com.m14n.billib.data.html
 
 import com.m14n.billib.data.BB
 import com.m14n.billib.data.model.BBChart
-import com.m14n.billib.data.model.BBChartMetadata
 import com.m14n.billib.data.model.BBJournalMetadata
+import com.m14n.billib.data.parser.defaultChartListParser
 import com.m14n.ex.BenchmarkCore
+import defaultDateParser
 import kotlinx.serialization.ImplicitReflectionSerializer
 import kotlinx.serialization.UnstableDefault
 import kotlinx.serialization.json.Json
 import kotlinx.serialization.stringify
-
 import java.io.File
 import java.io.FileWriter
 import java.io.IOException
-import java.util.Date
+import java.util.*
 
 @UseExperimental(UnstableDefault::class, ImplicitReflectionSerializer::class)
 object BBHtmlReader {
@@ -25,27 +25,25 @@ object BBHtmlReader {
 
         var theWeekFolder: File? = null
         var theWeekDate: Date? = null
+        val dateParser = defaultDateParser()
+        val tracksParser = defaultChartListParser()
         theMetadata.charts?.forEach {
             val theBenchmark = BenchmarkCore.start(it.folder)
             val theDocument = BBHtmlParser.getChartDocument(theMetadata, it, null)
             if (theWeekDate == null) {
-                theWeekDate = BBHtmlParser.getChartDate(theDocument)
+                theWeekDate = dateParser.parse(theDocument)
                 theWeekFolder = File(BB.DATA_ROOT + File.separator + "week-" + BB.CHART_DATE_FORMAT.format(theWeekDate))
                 theWeekFolder?.mkdirs()
             }
-            val theChart = BBChart(name = it.name,
-                    date = BB.CHART_DATE_FORMAT.format(theWeekDate),
-                    tracks = BBHtmlParser.getTracks(theDocument))
+            val theChart = BBChart(
+                name = it.name,
+                date = BB.CHART_DATE_FORMAT.format(theWeekDate),
+                tracks = tracksParser.parse(theDocument)
+            )
             BenchmarkCore.stop(theBenchmark)
             writeChartToFile(theChart, theWeekFolder!!,
                     it.prefix + "-" + theWeekDate + ".json")
         }
-    }
-
-    @Throws(IOException::class)
-    fun readChart(journalMetadata: BBJournalMetadata, chartMetadata: BBChartMetadata, week: String): BBChart {
-        return BBChart(name = chartMetadata.name, date = week,
-                tracks = BBHtmlParser.getTracks(BBHtmlParser.getChartDocument(journalMetadata, chartMetadata, week)))
     }
 
     @Throws(IOException::class)
