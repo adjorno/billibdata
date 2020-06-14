@@ -52,22 +52,21 @@ class DelegateHtmlChartDateParser(
 }
 
 /**
- * [HtmlChartDateParser] implementation to [Document] via any of
+ * [HtmlChartDateParser] implementation to parse the [Document] via any of
  * supplied delegates.
  */
 class CompositeHtmlChartDateParser(
     private val delegates: List<HtmlChartDateParser>
 ) : HtmlChartDateParser {
-    override fun parse(document: Document): Date {
-        return delegates.asSequence().mapNotNull {
+    override fun parse(document: Document): Date = delegates.asSequence()
+        .mapNotNull { delegate ->
             try {
-                it.parse(document)
+                delegate.parse(document)
             } catch (e: ParseException) {
                 e.printStackTrace()
                 null
             }
         }.firstOrNull() ?: throw ParseException("There are no parsers for the given html", -1)
-    }
 }
 
 /**
