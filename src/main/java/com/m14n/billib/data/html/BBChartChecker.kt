@@ -3,7 +3,6 @@ package com.m14n.billib.data.html
 import com.m14n.billib.data.BB
 import com.m14n.billib.data.model.BBChart
 import com.m14n.billib.data.model.BBTrack
-import com.m14n.ex.Ex
 import kotlinx.serialization.builtins.ListSerializer
 import kotlinx.serialization.json.Json
 import java.io.File
@@ -45,7 +44,7 @@ private fun readOld(oldChart: File, date: String): BBChart {
         Json.parse(
             ListSerializer(BBTrack.serializer()),
             oldChart.readText()
-        ).also { it.forEach { track -> track.coverUrl = Ex.addHttpIfNeeded(track.coverUrl) } }
+        )
     })
 }
 

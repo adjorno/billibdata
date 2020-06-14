@@ -2,8 +2,7 @@ package com.m14n.billib.data.html
 
 import com.m14n.billib.data.BB
 import com.m14n.billib.data.model.BBJournalMetadata
-import com.m14n.billib.data.parser.Hot100DateParser
-import kotlinx.serialization.UnstableDefault
+import com.m14n.billib.data.parser.hot100DateParser
 import kotlinx.serialization.json.Json
 import java.io.File
 import java.text.ParseException
@@ -11,12 +10,11 @@ import java.text.ParseException
 var DATE = "2018-12-29"
 var CHART = 1
 
-@UseExperimental(UnstableDefault::class)
 fun main() {
     val theRoot = File(BB.DATA_ROOT)
     val theMetadata = Json.parse(BBJournalMetadata.serializer(), File(theRoot, "metadata_billboard.json").readText())
 
-    val dateParser = Hot100DateParser()
+    val dateParser = hot100DateParser()
     theMetadata.charts?.forEach { chartMeta ->
         println("OLOLO ${chartMeta.name} STARTED")
 
