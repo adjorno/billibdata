@@ -1,7 +1,5 @@
 package com.m14n.billib.data
 
-import com.m14n.ex.Ex
-
 import java.text.DateFormat
 import java.text.SimpleDateFormat
 
@@ -27,5 +25,4 @@ object BB {
         }
         return 0
     }
-
 }
