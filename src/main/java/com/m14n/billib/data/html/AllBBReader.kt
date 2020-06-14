@@ -10,16 +10,19 @@ import defaultDateParser
 import kotlinx.serialization.ImplicitReflectionSerializer
 import kotlinx.serialization.UnstableDefault
 import kotlinx.serialization.json.Json
+import kotlinx.serialization.json.JsonConfiguration
 import kotlinx.serialization.stringify
 import java.io.File
 import java.io.FileWriter
 import java.io.IOException
 import java.text.ParseException
 import java.util.*
+import java.util.logging.FileHandler
+import java.util.logging.Logger
 
 @UseExperimental(ImplicitReflectionSerializer::class, UnstableDefault::class)
 object AllBBReader {
-    private val POSSIBLE_SKIPPED_WEEKS_IN_ROW = 5
+    private const val POSSIBLE_SKIPPED_WEEKS_IN_ROW = 5
     private var TODAY: Date? = null
 
     init {
@@ -31,7 +34,6 @@ object AllBBReader {
 
     }
 
-    @Throws(Exception::class)
     @JvmStatic
     fun main(args: Array<String>) {
         val theRoot = File(BB.DATA_ROOT)
@@ -53,7 +55,9 @@ object AllBBReader {
         var theSkip = 0
         val theCalendar = Calendar.getInstance()
         theCalendar.time = TODAY!!
-        val dateParser = defaultDateParser()
+        val dateParser = defaultDateParser(Logger.getLogger("ChartUpdate").apply {
+            addHandler(FileHandler("charts_update.log"))
+        })
         val tracksParser = defaultChartListParser()
         while (theSkip <= POSSIBLE_SKIPPED_WEEKS_IN_ROW) {
             val theCurrent = BB.CHART_DATE_FORMAT.format(theCalendar.time)
@@ -75,9 +79,10 @@ object AllBBReader {
                     )
                     val theHtmlDate = BB.CHART_DATE_FORMAT.format(dateParser.parse(theChartDocument))
                     if (theFormatDate != theHtmlDate
-                            // Billboard mistake as always :-)
-                            && !("2018-11-10" == theHtmlDate && "2018-11-03" == theFormatDate &&
-                                    "Youtube" == theChartMetadata.name)) {
+                        // Billboard mistake as always :-)
+                        && !("2018-11-10" == theHtmlDate && "2018-11-03" == theFormatDate &&
+                                "Youtube" == theChartMetadata.name)
+                    ) {
                         println("WRONG DATE!")
                         theSkip++
                         continue
@@ -94,11 +99,13 @@ object AllBBReader {
                     if (theTracks.size != theChartMetadata.size) {
                         print("SIZE = " + theTracks.size + " EXPECTED = " + theChartMetadata.size + " ")
                     }
-                    val theChart = BBChart(name = theChartMetadata.name,
-                            date = theFormatDate, tracks = theTracks)
+                    val theChart = BBChart(
+                        name = theChartMetadata.name,
+                        date = theFormatDate, tracks = theTracks
+                    )
 
                     FileWriter(theChartFile).use {
-                        it.write(Json.stringify(theChart))
+                        it.write(Json(JsonConfiguration(prettyPrint = true)).stringify(theChart))
                     }
                     println("SUCCESS!")
                     theSkip = 0

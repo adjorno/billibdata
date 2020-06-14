@@ -24,6 +24,12 @@ fun countryDateParser(): HtmlChartDateParser =
         DateFormatParser(BB.CHART_DATE_HTML_FORMAT)
     )
 
+fun countryChartListParser(): HtmlChartListParser =
+    DelegateChartListParser(
+        CountryTrackElementsParser(),
+        CountryTrackParser()
+    )
+
 class CountryHtmlTextDateParser : HtmlChartTextDateParser {
     override fun parse(document: Document): String = document
         .requestElementById("main")

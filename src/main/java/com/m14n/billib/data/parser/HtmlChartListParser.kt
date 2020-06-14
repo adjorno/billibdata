@@ -5,9 +5,11 @@ import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
 import java.text.ParseException
 
-fun defaultChartListParser(): HtmlChartListParser = DelegateHtmlChartParser(
-    CountryTrackElementsParser(),
-    CountryTrackParser()
+fun defaultChartListParser(): HtmlChartListParser = CompositeChartListParser(
+    listOf(
+        Hot100ChartListParser(),
+        countryChartListParser()
+    )
 )
 
 interface HtmlChartListParser {
@@ -34,7 +36,7 @@ interface TrackElementParser {
 /**
  * Primitive [HtmlChartListParser] implementation via delegates
  */
-class DelegateHtmlChartParser(
+class DelegateChartListParser(
     private val htmlTrackElementsParser: HtmlTrackElementsParser,
     private val trackElementParser: TrackElementParser
 ) : HtmlChartListParser {
@@ -42,4 +44,22 @@ class DelegateHtmlChartParser(
         htmlTrackElementsParser.parse(document).map { trackElement ->
             trackElementParser.parse(trackElement)
         }.toList()
+}
+
+/**
+ * [HtmlChartListParser] implementation to parse the [Document] via any of
+ * supplied delegates.
+ */
+class CompositeChartListParser(
+    private val delegates: List<HtmlChartListParser>
+) : HtmlChartListParser {
+    override fun parse(document: Document): List<BBTrack> = delegates.asSequence()
+        .mapNotNull { delegate ->
+            try {
+                delegate.parse(document)
+            } catch (e: ParseException) {
+                e.printStackTrace()
+                null
+            }
+        }.firstOrNull() ?: throw ParseException("There are no parsers for the given html", -1)
 }

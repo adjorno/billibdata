@@ -7,13 +7,11 @@ import com.m14n.billib.data.model.BBJournalMetadata
 import defaultDateParser
 import kotlinx.serialization.json.Json
 import org.junit.Before
-import org.junit.Ignore
 import org.junit.Test
 import java.io.File
 import java.util.logging.FileHandler
 import java.util.logging.Logger
 
-@Ignore("Sometime Billboard responds with 404. Test manually.")
 class DefaultDateParserIntegrationTest {
 
     private lateinit var sut: HtmlChartDateParser
