@@ -15,7 +15,7 @@ import java.util.*
 object BBHtmlParser {
 
     @Throws(IOException::class)
-    fun getChartDocument(metadata: BBJournalMetadata, chart: BBChartMetadata, date: String?): Document {
+    fun getChartDocument(metadata: BBJournalMetadata, chart: BBChartMetadata, date: String? = null): Document {
         var theUrl = metadata.url + chart.folder
         date?.let {
             if (it.isNotEmpty()) {

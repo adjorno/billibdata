@@ -5,9 +5,9 @@ import org.junit.Assert.assertEquals
 import org.junit.Test
 import java.util.*
 
-class Hot100DateParserTest {
+class Hot100DateParserIntegrationTest {
 
-    private val sut = Hot100DateParser()
+    private val sut = hot100DateParser()
 
     @Test
     fun `should parse the date correctly`() {
