@@ -71,3 +71,4 @@ class CountryTrackParser : TrackElementParser {
         return BBTrack(rank, title, artist, BBPositionInfo(lastWeek, peekPosition, wksOnChart))
     }
 }
+

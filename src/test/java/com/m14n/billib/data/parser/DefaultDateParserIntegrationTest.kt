@@ -19,9 +19,7 @@ class DefaultDateParserIntegrationTest {
     @Before
     fun setUp() {
         sut = defaultDateParser(Logger.getLogger("DefaultDateParserIntegrationTest").apply {
-            addHandler(FileHandler("failed_html_charts_to_parse_date.log").apply {
-                encoding = "UTF-8"
-            })
+            addHandler(FileHandler("failed_html_charts_to_parse_date.log"))
         })
     }
 
