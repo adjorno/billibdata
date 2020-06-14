@@ -1,281 +1,256 @@
 {
-  "chart_date": "2016-12-31",
   "name": "R&B",
+  "chart_date": "2016-12-31",
   "tracks": [
     {
+      "rank": 1,
+      "title": "Starboy",
       "artist": "The Weeknd Featuring Daft Punk",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 13
-      },
-      "rank": 1,
-      "spotify": "http://open.spotify.com/track/2IY7eOUDjw2ArKYxKa2jXc?utm_campaign=billboard",
-      "title": "Starboy"
+      }
     },
     {
+      "rank": 2,
+      "title": "24K Magic",
       "artist": "Bruno Mars",
       "position": {
         "Last Week": "2",
         "Peak Position": 2,
         "Wks on Chart": 4
-      },
-      "rank": 2,
-      "spotify": "http://open.spotify.com/track/2gFvRmQiWg9fN9i74Q0aiw?utm_campaign=billboard",
-      "title": "24K Magic"
+      }
     },
     {
+      "rank": 3,
+      "title": "Love On The Brain",
       "artist": "Rihanna",
       "position": {
         "Last Week": "3",
         "Peak Position": 3,
         "Wks on Chart": 33
-      },
-      "rank": 3,
-      "spotify": "http://open.spotify.com/track/7HRHMuUTY7Dk4mw7CjS36i?utm_campaign=billboard",
-      "title": "Love On The Brain"
+      }
     },
     {
+      "rank": 4,
+      "title": "I Feel It Coming",
       "artist": "The Weeknd Featuring Daft Punk",
       "position": {
         "Last Week": "5",
         "Peak Position": 4,
         "Wks on Chart": 4
-      },
-      "rank": 4,
-      "spotify": "http://open.spotify.com/track/7enFbf4reUpo2CCQYpwoHC?utm_campaign=billboard",
-      "title": "I Feel It Coming"
+      }
     },
     {
+      "rank": 5,
+      "title": "Love Me Now",
       "artist": "John Legend",
       "position": {
         "Last Week": "4",
         "Peak Position": 4,
         "Wks on Chart": 10
-      },
-      "rank": 5,
-      "spotify": "http://open.spotify.com/track/6hdkw1wzhIRYPlYDUtCY5m?utm_campaign=billboard",
-      "title": "Love Me Now"
+      }
     },
     {
+      "rank": 6,
+      "title": "Party Monster",
       "artist": "The Weeknd",
       "position": {
         "Last Week": "6",
         "Peak Position": 3,
         "Wks on Chart": 4
-      },
-      "rank": 6,
-      "spotify": "http://open.spotify.com/track/4RhGCDt69efGdC1SxJRI5r?utm_campaign=billboard",
-      "title": "Party Monster"
+      }
     },
     {
+      "rank": 7,
+      "title": "Do You Mind",
       "artist": "DJ Khaled Featuring Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross",
       "position": {
         "Last Week": "7",
         "Peak Position": 3,
         "Wks on Chart": 20
-      },
-      "rank": 7,
-      "spotify": "http://open.spotify.com/track/4VJ7mnW4wjjIgPBM6KWvPu?utm_campaign=billboard",
-      "title": "Do You Mind"
+      }
     },
     {
+      "rank": 8,
+      "title": "Come And See Me",
       "artist": "PARTYNEXTDOOR Featuring Drake",
       "position": {
         "Last Week": "12",
         "Peak Position": 5,
         "Wks on Chart": 37
-      },
-      "rank": 8,
-      "spotify": "http://open.spotify.com/track/5KdhJG3BXUmLoO4JdycCPw?utm_campaign=billboard",
-      "title": "Come And See Me"
+      }
     },
     {
+      "rank": 9,
+      "title": "Redbone",
       "artist": "Childish Gambino",
       "position": {
         "Last Week": "8",
         "Peak Position": 8,
         "Wks on Chart": 3
-      },
-      "rank": 9,
-      "spotify": "http://open.spotify.com/track/47l9wxr6RwgoTSfnseBRcf?utm_campaign=billboard",
-      "title": "Redbone"
+      }
     },
     {
+      "rank": 10,
+      "title": "Reminder",
       "artist": "The Weeknd",
       "position": {
         "Last Week": "9",
         "Peak Position": 7,
         "Wks on Chart": 3
-      },
-      "rank": 10,
-      "spotify": "http://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI?utm_campaign=billboard",
-      "title": "Reminder"
+      }
     },
     {
+      "rank": 11,
+      "title": "Six Feet Under",
       "artist": "The Weeknd",
       "position": {
         "Last Week": "11",
         "Peak Position": 8,
         "Wks on Chart": 3
-      },
-      "rank": 11,
-      "spotify": "http://open.spotify.com/track/4mU5iXHeLgbR94siF7p1sY?utm_campaign=billboard",
-      "title": "Six Feet Under"
+      }
     },
     {
+      "rank": 12,
+      "title": "Sidewalks",
       "artist": "The Weeknd Featuring Kendrick Lamar",
       "position": {
         "Last Week": "10",
         "Peak Position": 5,
         "Wks on Chart": 3
-      },
-      "rank": 12,
-      "spotify": "http://open.spotify.com/track/4h90qkbnW1Qq6pBhoPvwko?utm_campaign=billboard",
-      "title": "Sidewalks"
+      }
     },
     {
+      "rank": 13,
+      "title": "Die For You",
       "artist": "The Weeknd",
       "position": {
         "Last Week": "15",
         "Peak Position": 10,
         "Wks on Chart": 3
-      },
-      "rank": 13,
-      "spotify": "http://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz?utm_campaign=billboard",
-      "title": "Die For You"
+      }
     },
     {
+      "rank": 14,
+      "title": "True Colors",
       "artist": "The Weeknd",
       "position": {
         "Last Week": "16",
         "Peak Position": 14,
         "Wks on Chart": 3
-      },
-      "rank": 14,
-      "spotify": "http://open.spotify.com/track/1oGdVdYjeQvojGKDddxLQQ?utm_campaign=billboard",
-      "title": "True Colors"
+      }
     },
     {
+      "rank": 15,
+      "title": "Secrets",
       "artist": "The Weeknd",
       "position": {
         "Last Week": "13",
         "Peak Position": 13,
         "Wks on Chart": 3
-      },
-      "rank": 15,
-      "spotify": "http://open.spotify.com/track/00NAQYOP4AmWR549nnYJZu?utm_campaign=billboard",
-      "title": "Secrets"
+      }
     },
     {
+      "rank": 16,
+      "title": "That's What I Like",
       "artist": "Bruno Mars",
       "position": {
         "Last Week": "25",
         "Peak Position": 12,
         "Wks on Chart": 3
-      },
-      "rank": 16,
-      "spotify": "http://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU?utm_campaign=billboard",
-      "title": "That's What I Like"
+      }
     },
     {
+      "rank": 17,
+      "title": "Rockin'",
       "artist": "The Weeknd",
       "position": {
         "Last Week": "17",
         "Peak Position": 11,
         "Wks on Chart": 3
-      },
-      "rank": 17,
-      "spotify": "http://open.spotify.com/track/36YCdzT57us0LhDmCYtrNE?utm_campaign=billboard",
-      "title": "Rockin'"
+      }
     },
     {
+      "rank": 18,
+      "title": "False Alarm",
       "artist": "The Weeknd",
       "position": {
         "Last Week": "19",
         "Peak Position": 9,
         "Wks on Chart": 11
-      },
-      "rank": 18,
-      "spotify": "http://open.spotify.com/track/6zeGrGo9LKCSVl1xeKv1ar?utm_campaign=billboard",
-      "title": "False Alarm"
+      }
     },
     {
+      "rank": 19,
+      "title": "Not Nice",
       "artist": "PARTYNEXTDOOR",
       "position": {
         "Last Week": "--",
         "Peak Position": 13,
         "Wks on Chart": 14
-      },
-      "rank": 19,
-      "spotify": "http://open.spotify.com/track/04sT6xbMnJouAktbkkr4qr?utm_campaign=billboard",
-      "title": "Not Nice"
+      }
     },
     {
+      "rank": 20,
+      "title": "All I Know",
       "artist": "The Weeknd Featuring Future",
       "position": {
         "Last Week": "18",
         "Peak Position": 12,
         "Wks on Chart": 3
-      },
-      "rank": 20,
-      "spotify": "http://open.spotify.com/track/0NWqNXBJTpXbkI5rPWNy3p?utm_campaign=billboard",
-      "title": "All I Know"
+      }
     },
     {
+      "rank": 21,
+      "title": "Versace On The Floor",
       "artist": "Bruno Mars",
       "position": {
         "Last Week": "--",
         "Peak Position": 13,
         "Wks on Chart": 2
-      },
-      "rank": 21,
-      "spotify": "http://open.spotify.com/track/3trg82Eql6tqi2EAxluhy8?utm_campaign=billboard",
-      "title": "Versace On The Floor"
+      }
     },
     {
+      "rank": 22,
+      "title": "Chunky",
       "artist": "Bruno Mars",
       "position": {
         "Last Week": "--",
         "Peak Position": 14,
         "Wks on Chart": 2
-      },
-      "rank": 22,
-      "spotify": "http://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI?utm_campaign=billboard",
-      "title": "Chunky"
+      }
     },
     {
+      "rank": 23,
+      "title": "Attention",
       "artist": "The Weeknd",
       "position": {
         "Last Week": "20",
         "Peak Position": 19,
         "Wks on Chart": 3
-      },
-      "rank": 23,
-      "spotify": "http://open.spotify.com/track/6pDVjCUA3B1vg9waKutAsv?utm_campaign=billboard",
-      "title": "Attention"
+      }
     },
     {
+      "rank": 24,
+      "title": "Tru",
       "artist": "Lloyd",
       "position": {
         "Last Week": "--",
         "Peak Position": 16,
         "Wks on Chart": 13
-      },
-      "rank": 24,
-      "spotify": "http://open.spotify.com/track/1DFPibRb9RU3yfM3wOLdDT?utm_campaign=billboard",
-      "title": "Tru"
+      }
     },
     {
+      "rank": 25,
+      "title": "Me And Your Mama",
       "artist": "Childish Gambino",
       "position": {
         "Last Week": "14",
         "Peak Position": 9,
         "Wks on Chart": 4
-      },
-      "rank": 25,
-      "spotify": "http://open.spotify.com/track/4TDoUr2meaXsfbPFMdrqOE?utm_campaign=billboard",
-      "title": "Me And Your Mama"
+      }
     }
   ]
 }

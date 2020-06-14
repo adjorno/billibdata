@@ -1,556 +1,506 @@
 {
-  "chart_date": "2017-08-05",
   "name": "Rock",
+  "chart_date": "2017-08-05",
   "tracks": [
     {
+      "rank": 1,
+      "title": "Believer",
       "artist": "Imagine Dragons",
-      "cover": "http://www.billboard.com/images/pref_images/q64533i61we.jpg",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 25
-      },
-      "rank": 1,
-      "title": "Believer"
+      }
     },
     {
+      "rank": 2,
+      "title": "Thunder",
       "artist": "Imagine Dragons",
-      "cover": "http://www.billboard.com/images/pref_images/q64533i61we.jpg",
       "position": {
         "Last Week": "2",
         "Peak Position": 2,
         "Wks on Chart": 13
-      },
-      "rank": 2,
-      "title": "Thunder"
+      }
     },
     {
+      "rank": 3,
+      "title": "Feel It Still",
       "artist": "Portugal. The Man",
-      "cover": "http://www.billboard.com/images/pref_images/q30437t4fzv.jpg",
       "position": {
         "Last Week": "3",
         "Peak Position": 3,
         "Wks on Chart": 20
-      },
-      "rank": 3,
-      "title": "Feel It Still"
+      }
     },
     {
+      "rank": 4,
+      "title": "Heathens",
       "artist": "twenty one pilots",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy7523195216953225748.jpg",
       "position": {
         "Last Week": "4",
         "Peak Position": 1,
         "Wks on Chart": 57
-      },
-      "rank": 4,
-      "title": "Heathens"
+      }
     },
     {
+      "rank": 5,
+      "title": "In The End",
       "artist": "Linkin Park",
-      "cover": "http://www.billboard.com/images/pref_images/q62405v4l28.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 5,
         "Wks on Chart": 1
-      },
-      "rank": 5,
-      "title": "In The End"
+      }
     },
     {
+      "rank": 6,
+      "title": "Numb",
       "artist": "Linkin Park",
-      "cover": "http://www.billboard.com/images/pref_images/q62405v4l28.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 6,
         "Wks on Chart": 1
-      },
-      "rank": 6,
-      "title": "Numb"
+      }
     },
     {
+      "rank": 7,
+      "title": "Wish I Knew You",
       "artist": "The Revivalists",
-      "cover": "http://www.billboard.com/images/pref_images/q42278sjl0y.jpg",
       "position": {
         "Last Week": "5",
         "Peak Position": 5,
         "Wks on Chart": 34
-      },
-      "rank": 7,
-      "title": "Wish I Knew You"
+      }
     },
     {
+      "rank": 8,
+      "title": "Heavy",
       "artist": "Linkin Park Featuring Kiiara",
-      "cover": "http://www.billboard.com/images/pref_images/q62405v4l28.jpg",
       "position": {
         "Last Week": "14",
         "Peak Position": 2,
         "Wks on Chart": 23
-      },
-      "rank": 8,
-      "title": "Heavy"
+      }
     },
     {
+      "rank": 9,
+      "title": "Po-Dunk",
       "artist": "Kid Rock",
-      "cover": "http://www.billboard.com/images/pref_images/q27828hn6gm.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 9,
         "Wks on Chart": 1
-      },
-      "rank": 9,
-      "title": "Po-Dunk"
+      }
     },
     {
+      "rank": 10,
+      "title": "Take It All Back",
       "artist": "Judah & The Lion",
-      "cover": "http://www.billboard.com/images/pref_images/q48639qki6p.jpg",
       "position": {
         "Last Week": "7",
         "Peak Position": 7,
         "Wks on Chart": 29
-      },
-      "rank": 10,
-      "title": "Take It All Back"
+      }
     },
     {
+      "rank": 11,
+      "title": "What I've Done",
       "artist": "Linkin Park",
-      "cover": "http://www.billboard.com/images/pref_images/q62405v4l28.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 11,
         "Wks on Chart": 1
-      },
-      "rank": 11,
-      "title": "What I've Done"
+      }
     },
     {
+      "rank": 12,
+      "title": "The Night We Met",
       "artist": "Lord Huron",
-      "cover": "http://www.billboard.com/images/pref_images/q28686b8nxe.jpg",
       "position": {
         "Last Week": "8",
         "Peak Position": 5,
         "Wks on Chart": 16
-      },
-      "rank": 12,
-      "title": "The Night We Met"
+      }
     },
     {
+      "rank": 13,
+      "title": "Crawling",
       "artist": "Linkin Park",
-      "cover": "http://www.billboard.com/images/pref_images/q62405v4l28.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 13,
         "Wks on Chart": 1
-      },
-      "rank": 13,
-      "title": "Crawling"
+      }
     },
     {
+      "rank": 14,
+      "title": "Whatever It Takes",
       "artist": "Imagine Dragons",
-      "cover": "http://www.billboard.com/images/pref_images/q64533i61we.jpg",
       "position": {
         "Last Week": "9",
         "Peak Position": 5,
         "Wks on Chart": 11
-      },
-      "rank": 14,
-      "title": "Whatever It Takes"
+      }
     },
     {
+      "rank": 15,
+      "title": "Somewhere I Belong",
       "artist": "Linkin Park",
-      "cover": "http://www.billboard.com/images/pref_images/q62405v4l28.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 15,
         "Wks on Chart": 1
-      },
-      "rank": 15,
-      "title": "Somewhere I Belong"
+      }
     },
     {
+      "rank": 16,
+      "title": "Less Than",
       "artist": "Nine Inch Nails",
-      "cover": "http://www.billboard.com/images/pref_images/q14603vd4ij.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 16,
         "Wks on Chart": 1
-      },
-      "rank": 16,
-      "title": "Less Than"
+      }
     },
     {
+      "rank": 17,
+      "title": "Run",
       "artist": "Foo Fighters",
-      "cover": "http://www.billboard.com/images/pref_images/q65246egasb.jpg",
       "position": {
         "Last Week": "11",
         "Peak Position": 7,
         "Wks on Chart": 8
-      },
-      "rank": 17,
-      "title": "Run"
+      }
     },
     {
+      "rank": 18,
+      "title": "One Step Closer",
       "artist": "Linkin Park",
-      "cover": "http://www.billboard.com/images/pref_images/q62405v4l28.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 18,
         "Wks on Chart": 1
-      },
-      "rank": 18,
-      "title": "One Step Closer"
+      }
     },
     {
+      "rank": 19,
+      "title": "Old Church Choir",
       "artist": "Zach Williams",
-      "cover": "http://www.billboard.com/images/pref_images/q61555m82ph.jpg",
       "position": {
         "Last Week": "15",
         "Peak Position": 15,
         "Wks on Chart": 8
-      },
-      "rank": 19,
-      "title": "Old Church Choir"
+      }
     },
     {
+      "rank": 20,
+      "title": "The Man",
       "artist": "The Killers",
-      "cover": "http://www.billboard.com/images/pref_images/q25126us5cu.jpg",
       "position": {
         "Last Week": "12",
         "Peak Position": 11,
         "Wks on Chart": 6
-      },
-      "rank": 20,
-      "title": "The Man"
+      }
     },
     {
+      "rank": 21,
+      "title": "Breaking The Habit",
       "artist": "Linkin Park",
-      "cover": "http://www.billboard.com/images/pref_images/q62405v4l28.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 21,
         "Wks on Chart": 1
-      },
-      "rank": 21,
-      "title": "Breaking The Habit"
+      }
     },
     {
+      "rank": 22,
+      "title": "Hard Love",
       "artist": "NEEDTOBREATHE",
-      "cover": "http://www.billboard.com/images/pref_images/q51174oq07g.jpg",
       "position": {
         "Last Week": "18",
         "Peak Position": 18,
         "Wks on Chart": 14
-      },
-      "rank": 22,
-      "title": "Hard Love"
+      }
     },
     {
+      "rank": 23,
+      "title": "Miracles (Someone Special)",
       "artist": "Coldplay & Big Sean",
-      "cover": "http://www.billboard.com/images/pref_images/q62814dbxba.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 23,
         "Wks on Chart": 1
-      },
-      "rank": 23,
-      "title": "Miracles (Someone Special)"
+      }
     },
     {
+      "rank": 24,
+      "title": "Numb/Encore",
       "artist": "Jay-Z/Linkin Park",
-      "cover": "http://www.billboard.com/images/pref_images/q62405v4l28.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 24,
         "Wks on Chart": 1
-      },
-      "rank": 24,
-      "title": "Numb/Encore"
+      }
     },
     {
+      "rank": 25,
+      "title": "Lay It On Me",
       "artist": "Vance Joy",
-      "cover": "http://www.billboard.com/images/pref_images/q54600piu30.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 25,
         "Wks on Chart": 1
-      },
-      "rank": 25,
-      "title": "Lay It On Me"
+      }
     },
     {
+      "rank": 26,
+      "title": "Hard Times",
       "artist": "Paramore",
-      "cover": "http://www.billboard.com/images/pref_images/q64333wwpfs.jpg",
       "position": {
         "Last Week": "13",
         "Peak Position": 6,
         "Wks on Chart": 14
-      },
-      "rank": 26,
-      "title": "Hard Times"
+      }
     },
     {
+      "rank": 27,
+      "title": "Talking To Myself",
       "artist": "Linkin Park",
-      "cover": "http://www.billboard.com/images/pref_images/q62405v4l28.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 27,
         "Wks on Chart": 1
-      },
-      "rank": 27,
-      "title": "Talking To Myself"
+      }
     },
     {
+      "rank": 28,
+      "title": "Feels Like Summer",
       "artist": "Weezer",
-      "cover": "http://www.billboard.com/images/pref_images/q48643tdy6g.jpg",
       "position": {
         "Last Week": "19",
         "Peak Position": 14,
         "Wks on Chart": 16
-      },
-      "rank": 28,
-      "title": "Feels Like Summer"
+      }
     },
     {
+      "rank": 29,
+      "title": "High",
       "artist": "Sir Sly",
-      "cover": "http://www.billboard.com/images/pref_images/q24579gzkeh.jpg",
       "position": {
         "Last Week": "20",
         "Peak Position": 18,
         "Wks on Chart": 17
-      },
-      "rank": 29,
-      "title": "High"
+      }
     },
     {
+      "rank": 30,
+      "title": "Don't Take The Money",
       "artist": "Bleachers",
-      "cover": "http://www.billboard.com/images/pref_images/q18542mmagz.jpg",
       "position": {
         "Last Week": "16",
         "Peak Position": 12,
         "Wks on Chart": 16
-      },
-      "rank": 30,
-      "title": "Don't Take The Money"
+      }
     },
     {
+      "rank": 31,
+      "title": "Want You Back",
       "artist": "HAIM",
-      "cover": "http://www.billboard.com/images/pref_images/q12437ntm6h.jpg",
       "position": {
         "Last Week": "10",
         "Peak Position": 10,
         "Wks on Chart": 11
-      },
-      "rank": 31,
-      "title": "Want You Back"
+      }
     },
     {
+      "rank": 32,
+      "title": "Dig Down",
       "artist": "Muse",
-      "cover": "http://www.billboard.com/images/pref_images/q64868o0yu6.jpg",
       "position": {
         "Last Week": "22",
         "Peak Position": 21,
         "Wks on Chart": 9
-      },
-      "rank": 32,
-      "title": "Dig Down"
+      }
     },
     {
+      "rank": 33,
+      "title": "Lust For Life",
       "artist": "Lana Del Rey Featuring The Weeknd",
-      "cover": "http://www.billboard.com/images/pref_images/q65362ikgkl.jpg",
       "position": {
         "Last Week": "25",
         "Peak Position": 4,
         "Wks on Chart": 14
-      },
-      "rank": 33,
-      "title": "Lust For Life"
+      }
     },
     {
+      "rank": 34,
+      "title": "Walking The Wire",
       "artist": "Imagine Dragons",
-      "cover": "http://www.billboard.com/images/pref_images/q64533i61we.jpg",
       "position": {
         "Last Week": "24",
         "Peak Position": 6,
         "Wks on Chart": 5
-      },
-      "rank": 34,
-      "title": "Walking The Wire"
+      }
     },
     {
+      "rank": 35,
+      "title": "Song #3",
       "artist": "Stone Sour",
-      "cover": "http://www.billboard.com/images/pref_images/q36669tuc3y.jpg",
       "position": {
         "Last Week": "23",
         "Peak Position": 13,
         "Wks on Chart": 9
-      },
-      "rank": 35,
-      "title": "Song #3"
+      }
     },
     {
+      "rank": 36,
+      "title": "The Cure",
       "artist": "Unspoken",
-      "cover": "http://www.billboard.com/images/pref_images/q57408voyy0.jpg",
       "position": {
         "Last Week": "35",
         "Peak Position": 35,
         "Wks on Chart": 14
-      },
-      "rank": 36,
-      "title": "The Cure"
+      }
     },
     {
+      "rank": 37,
+      "title": "Everything Now",
       "artist": "Arcade Fire",
-      "cover": "http://www.billboard.com/images/pref_images/q64935s65ok.jpg",
       "position": {
         "Last Week": "26",
         "Peak Position": 11,
         "Wks on Chart": 7
-      },
-      "rank": 37,
-      "title": "Everything Now"
+      }
     },
     {
+      "rank": 38,
+      "title": "Love",
       "artist": "Lana Del Rey",
-      "cover": "http://www.billboard.com/images/pref_images/q65362ikgkl.jpg",
       "position": {
         "Last Week": "38",
         "Peak Position": 2,
         "Wks on Chart": 19
-      },
-      "rank": 38,
-      "title": "Love"
+      }
     },
     {
+      "rank": 39,
+      "title": "Greatest Show On Earth",
       "artist": "Kid Rock",
-      "cover": "http://www.billboard.com/images/pref_images/q27828hn6gm.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 39,
         "Wks on Chart": 1
-      },
-      "rank": 39,
-      "title": "Greatest Show On Earth"
+      }
     },
     {
+      "rank": 40,
+      "title": "My Mind Is For Sale",
       "artist": "Jack Johnson",
-      "cover": "http://www.billboard.com/images/pref_images/q33942esqdu.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 40,
         "Wks on Chart": 1
-      },
-      "rank": 40,
-      "title": "My Mind Is For Sale"
+      }
     },
     {
+      "rank": 41,
+      "title": "Little One",
       "artist": "Highly Suspect",
-      "cover": "http://www.billboard.com/images/pref_images/q49250mxcih.jpg",
       "position": {
         "Last Week": "33",
         "Peak Position": 33,
         "Wks on Chart": 6
-      },
-      "rank": 41,
-      "title": "Little One"
+      }
     },
     {
+      "rank": 42,
+      "title": "One More Light",
       "artist": "Linkin Park",
-      "cover": "http://www.billboard.com/images/pref_images/q62405v4l28.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 42,
         "Wks on Chart": 2
-      },
-      "rank": 42,
-      "title": "One More Light"
+      }
     },
     {
+      "rank": 43,
+      "title": "The Way You Used To Do",
       "artist": "Queens Of The Stone Age",
-      "cover": "http://www.billboard.com/images/pref_images/q08946xkdn3.jpg",
       "position": {
         "Last Week": "36",
         "Peak Position": 16,
         "Wks on Chart": 5
-      },
-      "rank": 43,
-      "title": "The Way You Used To Do"
+      }
     },
     {
+      "rank": 44,
+      "title": "The Violence",
       "artist": "Rise Against",
-      "cover": "http://www.billboard.com/images/pref_images/q20687c1fre.jpg",
       "position": {
         "Last Week": "30",
         "Peak Position": 26,
         "Wks on Chart": 10
-      },
-      "rank": 44,
-      "title": "The Violence"
+      }
     },
     {
+      "rank": 45,
+      "title": "Suit And Jacket",
       "artist": "Judah & The Lion",
-      "cover": "http://www.billboard.com/images/pref_images/q48639qki6p.jpg",
       "position": {
         "Last Week": "37",
         "Peak Position": 37,
         "Wks on Chart": 7
-      },
-      "rank": 45,
-      "title": "Suit And Jacket"
+      }
     },
     {
+      "rank": 46,
+      "title": "Two High",
       "artist": "Moon Taxi",
-      "cover": "http://www.billboard.com/images/pref_images/q40816ui3dz.jpg",
       "position": {
         "Last Week": "29",
         "Peak Position": 29,
         "Wks on Chart": 4
-      },
-      "rank": 46,
-      "title": "Two High"
+      }
     },
     {
+      "rank": 47,
+      "title": "All I Can Think About Is You",
       "artist": "Coldplay",
-      "cover": "http://www.billboard.com/images/pref_images/q62814dbxba.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 10,
         "Wks on Chart": 2
-      },
-      "rank": 47,
-      "title": "All I Can Think About Is You"
+      }
     },
     {
+      "rank": 48,
+      "title": "Super Far",
       "artist": "LANY",
-      "cover": "http://www.billboard.com/images/pref_images/q65527k4qty.jpg",
       "position": {
         "Last Week": "34",
         "Peak Position": 24,
         "Wks on Chart": 3
-      },
-      "rank": 48,
-      "title": "Super Far"
+      }
     },
     {
+      "rank": 49,
+      "title": "Lights Out",
       "artist": "Royal Blood",
-      "cover": "http://www.billboard.com/images/pref_images/q64012pg1he.jpg",
       "position": {
         "Last Week": "31",
         "Peak Position": 28,
         "Wks on Chart": 10
-      },
-      "rank": 49,
-      "title": "Lights Out"
+      }
     },
     {
+      "rank": 50,
+      "title": "Reverend",
       "artist": "Kings Of Leon",
-      "cover": "http://www.billboard.com/images/pref_images/q58897g2xio.jpg",
       "position": {
         "Last Week": "32",
         "Peak Position": 20,
         "Wks on Chart": 19
-      },
-      "rank": 50,
-      "title": "Reverend"
+      }
     }
   ]
 }

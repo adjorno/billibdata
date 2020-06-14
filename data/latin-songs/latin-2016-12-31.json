@@ -1,552 +1,506 @@
 {
-  "chart_date": "2016-12-31",
   "name": "Latin",
+  "chart_date": "2016-12-31",
   "tracks": [
     {
+      "rank": 1,
+      "title": "Chantaje",
       "artist": "Shakira Featuring Maluma",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 7
-      },
-      "rank": 1,
-      "spotify": "http://open.spotify.com/track/1WniHvhq9zTkny0WvGXX8o?utm_campaign=billboard",
-      "title": "Chantaje"
+      }
     },
     {
+      "rank": 2,
+      "title": "Shaky Shaky",
       "artist": "Daddy Yankee",
       "position": {
         "Last Week": "2",
         "Peak Position": 1,
         "Wks on Chart": 33
-      },
-      "rank": 2,
-      "spotify": "http://open.spotify.com/track/7gcMKL3lnDxsp4bIXyv6Zk?utm_campaign=billboard",
-      "title": "Shaky Shaky"
+      }
     },
     {
+      "rank": 3,
+      "title": "Safari",
       "artist": "J Balvin Featuring Pharrell Williams, BIA & Sky",
       "position": {
         "Last Week": "3",
         "Peak Position": 3,
         "Wks on Chart": 20
-      },
-      "rank": 3,
-      "spotify": "http://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge?utm_campaign=billboard",
-      "title": "Safari"
+      }
     },
     {
+      "rank": 4,
+      "title": "Hasta El Amanecer",
       "artist": "Nicky Jam",
       "position": {
         "Last Week": "4",
         "Peak Position": 1,
         "Wks on Chart": 49
-      },
-      "rank": 4,
-      "spotify": "http://open.spotify.com/track/4wFHfY9IILHLNwakPuFogD?utm_campaign=billboard",
-      "title": "Hasta El Amanecer"
+      }
     },
     {
+      "rank": 5,
+      "title": "La Bicicleta",
       "artist": "Carlos Vives & Shakira",
       "position": {
         "Last Week": "5",
         "Peak Position": 2,
         "Wks on Chart": 29
-      },
-      "rank": 5,
-      "spotify": "http://open.spotify.com/track/43it4kot08akLzFIEMhXNN?utm_campaign=billboard",
-      "title": "La Bicicleta"
+      }
     },
     {
+      "rank": 6,
+      "title": "Chillax",
       "artist": "Farruko Featuring Ky-Mani Marley",
       "position": {
         "Last Week": "6",
         "Peak Position": 4,
         "Wks on Chart": 25
-      },
-      "rank": 6,
-      "spotify": "http://open.spotify.com/track/1lxswgIpzV6HhENRvkflES?utm_campaign=billboard",
-      "title": "Chillax"
+      }
     },
     {
+      "rank": 7,
+      "title": "Otra Vez",
       "artist": "Zion & Lennox Featuring J Balvin",
       "position": {
         "Last Week": "7",
         "Peak Position": 5,
         "Wks on Chart": 19
-      },
-      "rank": 7,
-      "spotify": "http://open.spotify.com/track/7pk3EpFtmsOdj8iUhjmeCM?utm_campaign=billboard",
-      "title": "Otra Vez"
+      }
     },
     {
+      "rank": 8,
+      "title": "Tengo Que Colgar",
       "artist": "Banda Sinaloense MS de Sergio Lizarraga",
       "position": {
         "Last Week": "8",
         "Peak Position": 8,
         "Wks on Chart": 21
-      },
-      "rank": 8,
-      "spotify": "http://open.spotify.com/track/7wIQuubY137iT5dC8HxNcQ?utm_campaign=billboard",
-      "title": "Tengo Que Colgar"
+      }
     },
     {
+      "rank": 9,
+      "title": "Duele El Corazon",
       "artist": "Enrique Iglesias Featuring Wisin",
       "position": {
         "Last Week": "9",
         "Peak Position": 1,
         "Wks on Chart": 35
-      },
-      "rank": 9,
-      "spotify": "http://open.spotify.com/track/6YZdkObH88npeKrrkb8Ggf?utm_campaign=billboard",
-      "title": "Duele El Corazon"
+      }
     },
     {
+      "rank": 10,
+      "title": "Vente Pa' Ca",
       "artist": "Ricky Martin Featuring Maluma",
       "position": {
         "Last Week": "10",
         "Peak Position": 4,
         "Wks on Chart": 12
-      },
-      "rank": 10,
-      "spotify": "http://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46?utm_campaign=billboard",
-      "title": "Vente Pa' Ca"
+      }
     },
     {
+      "rank": 11,
+      "title": "Vacaciones",
       "artist": "Wisin",
       "position": {
         "Last Week": "11",
         "Peak Position": 11,
         "Wks on Chart": 11
-      },
-      "rank": 11,
-      "spotify": "http://open.spotify.com/track/3dQDid3IUNhZy1OehIfYfE?utm_campaign=billboard",
-      "title": "Vacaciones"
+      }
     },
     {
+      "rank": 12,
+      "title": "Sin Contrato",
       "artist": "Maluma Featuring Fifth Harmony",
       "position": {
         "Last Week": "13",
         "Peak Position": 12,
         "Wks on Chart": 16
-      },
-      "rank": 12,
-      "spotify": "http://open.spotify.com/track/3yHJs5NmQk2ROAWCfjniXV?utm_campaign=billboard",
-      "title": "Sin Contrato"
+      }
     },
     {
+      "rank": 13,
+      "title": "Dile Que Tu Me Quieres",
       "artist": "Ozuna",
       "position": {
         "Last Week": "12",
         "Peak Position": 12,
         "Wks on Chart": 15
-      },
-      "rank": 13,
-      "spotify": "http://open.spotify.com/track/20ZAJdsKB5IGbGj4ilRt2o?utm_campaign=billboard",
-      "title": "Dile Que Tu Me Quieres"
+      }
     },
     {
+      "rank": 14,
+      "title": "Afuera Esta Lloviendo",
       "artist": "Julion Alvarez y Su Norteno Banda",
       "position": {
         "Last Week": "15",
         "Peak Position": 14,
         "Wks on Chart": 10
-      },
-      "rank": 14,
-      "spotify": "http://open.spotify.com/track/3kvLHU836sKZdEdZpRGFFj?utm_campaign=billboard",
-      "title": "Afuera Esta Lloviendo"
+      }
     },
     {
+      "rank": 15,
+      "title": "Cuatro Babys",
       "artist": "Maluma Featuring Bryant Myers X Noriel X Juhn",
       "position": {
         "Last Week": "18",
         "Peak Position": 15,
         "Wks on Chart": 9
-      },
-      "rank": 15,
-      "spotify": "http://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR?utm_campaign=billboard",
-      "title": "Cuatro Babys"
+      }
     },
     {
+      "rank": 16,
+      "title": "Regresa Hermosa",
       "artist": "Gerardo Ortiz",
       "position": {
         "Last Week": "16",
         "Peak Position": 15,
         "Wks on Chart": 8
-      },
-      "rank": 16,
-      "spotify": "http://open.spotify.com/track/1Ba60OSnzorh3UUaxs3aqe?utm_campaign=billboard",
-      "title": "Regresa Hermosa"
+      }
     },
     {
+      "rank": 17,
+      "title": "Te Quiero Pa'Mi",
       "artist": "Don Omar & Zion & Lennox",
       "position": {
         "Last Week": "17",
         "Peak Position": 17,
         "Wks on Chart": 5
-      },
-      "rank": 17,
-      "title": "Te Quiero Pa'Mi"
+      }
     },
     {
+      "rank": 18,
+      "title": "Reggaeton Lento (Bailemos)",
       "artist": "CNCO",
       "position": {
         "Last Week": "20",
         "Peak Position": 18,
         "Wks on Chart": 10
-      },
-      "rank": 18,
-      "spotify": "http://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo?utm_campaign=billboard",
-      "title": "Reggaeton Lento (Bailemos)"
+      }
     },
     {
+      "rank": 19,
+      "title": "Nunca Me Olvides",
       "artist": "Yandel",
       "position": {
         "Last Week": "14",
         "Peak Position": 10,
         "Wks on Chart": 23
-      },
-      "rank": 19,
-      "spotify": "http://open.spotify.com/track/27ebni0DfbT5Owz6W42HP8?utm_campaign=billboard",
-      "title": "Nunca Me Olvides"
+      }
     },
     {
+      "rank": 20,
+      "title": "Amor del Bueno",
       "artist": "Calibre 50",
       "position": {
         "Last Week": "19",
         "Peak Position": 12,
         "Wks on Chart": 23
-      },
-      "rank": 20,
-      "spotify": "http://open.spotify.com/track/5ZyWRrIdTZx4TneEv0FklV?utm_campaign=billboard",
-      "title": "Amor del Bueno"
+      }
     },
     {
+      "rank": 21,
+      "title": "Bailar",
       "artist": "Deorro Featuring Pitbull & Elvis Crespo",
       "position": {
         "Last Week": "22",
         "Peak Position": 8,
         "Wks on Chart": 24
-      },
-      "rank": 21,
-      "spotify": "http://open.spotify.com/track/1A5yplwEk6cJbAL63L6bkp?utm_campaign=billboard",
-      "title": "Bailar"
+      }
     },
     {
+      "rank": 22,
+      "title": "Quien Te Entiende",
       "artist": "Crecer German",
       "position": {
         "Last Week": "24",
         "Peak Position": 20,
         "Wks on Chart": 21
-      },
-      "rank": 22,
-      "spotify": "http://open.spotify.com/track/4OEIR3dxxcQAUQ6KZHA7l4?utm_campaign=billboard",
-      "title": "Quien Te Entiende"
+      }
     },
     {
+      "rank": 23,
+      "title": "Yo Si Te Ame",
       "artist": "La Arrolladora Banda el Limon de Rene Camacho",
       "position": {
         "Last Week": "25",
         "Peak Position": 22,
         "Wks on Chart": 11
-      },
-      "rank": 23,
-      "spotify": "http://open.spotify.com/track/0KOtK9vzQzFBZXAu17Ydox?utm_campaign=billboard",
-      "title": "Yo Si Te Ame"
+      }
     },
     {
+      "rank": 24,
+      "title": "Si No Te Quiere",
       "artist": "Ozuna Featuring Arcangel & Farruko",
       "position": {
         "Last Week": "21",
         "Peak Position": 19,
         "Wks on Chart": 23
-      },
-      "rank": 24,
-      "spotify": "http://open.spotify.com/track/7kxYYjOYRO8HamP4RKBhJ0?utm_campaign=billboard",
-      "title": "Si No Te Quiere"
+      }
     },
     {
+      "rank": 25,
+      "title": "Culpable Tu",
       "artist": "Alta Consigna",
       "position": {
         "Last Week": "30",
         "Peak Position": 25,
         "Wks on Chart": 4
-      },
-      "rank": 25,
-      "spotify": "http://open.spotify.com/track/4eOUnn9bKgUVx6fsbFhuZO?utm_campaign=billboard",
-      "title": "Culpable Tu"
+      }
     },
     {
+      "rank": 26,
+      "title": "Tu No Vive Asi",
       "artist": "Mambo Kingz & DJ Luian Presenta Arcangel X Bad Bunny",
       "position": {
         "Last Week": "26",
         "Peak Position": 26,
         "Wks on Chart": 10
-      },
-      "rank": 26,
-      "title": "Tu No Vive Asi"
+      }
     },
     {
+      "rank": 27,
+      "title": "Porque Me Enamore",
       "artist": "Ulices Chaidez y Sus Plebes",
       "position": {
         "Last Week": "28",
         "Peak Position": 27,
         "Wks on Chart": 10
-      },
-      "rank": 27,
-      "spotify": "http://open.spotify.com/track/0xhWcs1jLQABrbud5Zr4BT?utm_campaign=billboard",
-      "title": "Porque Me Enamore"
+      }
     },
     {
+      "rank": 28,
+      "title": "Siempre Te Voy A Querer",
       "artist": "Calibre 50",
       "position": {
         "Last Week": "35",
         "Peak Position": 28,
         "Wks on Chart": 2
-      },
-      "rank": 28,
-      "spotify": "http://open.spotify.com/track/30tkYUiw8FImVdOhPFTxmo?utm_campaign=billboard",
-      "title": "Siempre Te Voy A Querer"
+      }
     },
     {
+      "rank": 29,
+      "title": "En La Intimidad",
       "artist": "Ozuna",
       "position": {
         "Last Week": "27",
         "Peak Position": 27,
         "Wks on Chart": 8
-      },
-      "rank": 29,
-      "spotify": "http://open.spotify.com/track/0QetVR4wwvyiTezQeFNdeZ?utm_campaign=billboard",
-      "title": "En La Intimidad"
+      }
     },
     {
+      "rank": 30,
+      "title": "Olvidame y Pega La Vuelta",
       "artist": "Jennifer Lopez & Marc Anthony",
       "position": {
         "Last Week": "33",
         "Peak Position": 17,
         "Wks on Chart": 4
-      },
-      "rank": 30,
-      "title": "Olvidame y Pega La Vuelta"
+      }
     },
     {
+      "rank": 31,
+      "title": "Fuego",
       "artist": "Juanes",
       "position": {
         "Last Week": "23",
         "Peak Position": 14,
         "Wks on Chart": 10
-      },
-      "rank": 31,
-      "spotify": "http://open.spotify.com/track/5F27wf469DYxixLs2XV2bh?utm_campaign=billboard",
-      "title": "Fuego"
+      }
     },
     {
+      "rank": 32,
+      "title": "En Estos Dias",
       "artist": "Regulo Caro",
       "position": {
         "Last Week": "32",
         "Peak Position": 19,
         "Wks on Chart": 15
-      },
-      "rank": 32,
-      "spotify": "http://open.spotify.com/track/6IRnOtMLVvAXyiPGSHVAeI?utm_campaign=billboard",
-      "title": "En Estos Dias"
+      }
     },
     {
+      "rank": 33,
+      "title": "A Ver A Que Horas",
       "artist": "Banda Carnaval",
       "position": {
         "Last Week": "31",
         "Peak Position": 31,
         "Wks on Chart": 7
-      },
-      "rank": 33,
-      "spotify": "http://open.spotify.com/track/5uVPexjpKeTiL5RmMUDTcT?utm_campaign=billboard",
-      "title": "A Ver A Que Horas"
+      }
     },
     {
+      "rank": 34,
+      "title": "Como Te Llamas",
       "artist": "La Trakalosa de Monterrey",
       "position": {
         "Last Week": "34",
         "Peak Position": 27,
         "Wks on Chart": 11
-      },
-      "rank": 34,
-      "spotify": "http://open.spotify.com/track/24qrdqldaES6KmpTaHyoaT?utm_campaign=billboard",
-      "title": "Como Te Llamas"
+      }
     },
     {
+      "rank": 35,
+      "title": "Me Esta Tirando El Rollo",
       "artist": "Banda Los Recoditos",
       "position": {
         "Last Week": "36",
         "Peak Position": 35,
         "Wks on Chart": 3
-      },
-      "rank": 35,
-      "spotify": "http://open.spotify.com/track/5v9LZ5q4vX0ybNUgSJtMin?utm_campaign=billboard",
-      "title": "Me Esta Tirando El Rollo"
+      }
     },
     {
+      "rank": 36,
+      "title": "Traicionera",
       "artist": "Sebastian Yatra",
       "position": {
         "Last Week": "29",
         "Peak Position": 26,
         "Wks on Chart": 11
-      },
-      "rank": 36,
-      "spotify": "http://open.spotify.com/track/79Jhw5xn4gGn6PZak275gg?utm_campaign=billboard",
-      "title": "Traicionera"
+      }
     },
     {
+      "rank": 37,
+      "title": "Adios Amor",
       "artist": "Christian Nodal",
       "position": {
         "Last Week": "37",
         "Peak Position": 37,
         "Wks on Chart": 6
-      },
-      "rank": 37,
-      "spotify": "http://open.spotify.com/track/4pHmECznSREmwzQZMkXZP6?utm_campaign=billboard",
-      "title": "Adios Amor"
+      }
     },
     {
+      "rank": 38,
+      "title": "Me Estorbas",
       "artist": "Pesado",
       "position": {
         "Last Week": "38",
         "Peak Position": 38,
         "Wks on Chart": 6
-      },
-      "rank": 38,
-      "spotify": "http://open.spotify.com/track/6IMEyyXuIUC7faMqgTm4jI?utm_campaign=billboard",
-      "title": "Me Estorbas"
+      }
     },
     {
+      "rank": 39,
+      "title": "Ando Bien",
       "artist": "Omar Ruiz Featuring Gerardo Ortiz",
       "position": {
         "Last Week": "40",
         "Peak Position": 39,
         "Wks on Chart": 2
-      },
-      "rank": 39,
-      "spotify": "http://open.spotify.com/track/7l7cGDkqF1t2ode8anm7lR?utm_campaign=billboard",
-      "title": "Ando Bien"
+      }
     },
     {
+      "rank": 40,
+      "title": "La Mala y La Buena",
       "artist": "Alex Sensation + Gente de Zona",
       "position": {
         "Last Week": "43",
         "Peak Position": 40,
         "Wks on Chart": 2
-      },
-      "rank": 40,
-      "spotify": "http://open.spotify.com/track/5DcEz9lEgKFserQ1OrRS9X?utm_campaign=billboard",
-      "title": "La Mala y La Buena"
+      }
     },
     {
+      "rank": 41,
+      "title": "El Mexico Americano",
       "artist": "El Komander",
       "position": {
         "Last Week": "39",
         "Peak Position": 36,
         "Wks on Chart": 10
-      },
-      "rank": 41,
-      "spotify": "http://open.spotify.com/track/4e9dFhmYIpv8K4p0yAwBcA?utm_campaign=billboard",
-      "title": "El Mexico Americano"
+      }
     },
     {
+      "rank": 42,
+      "title": "Te Regalo",
       "artist": "Ulices Chaidez y Sus Plebes",
       "position": {
         "Last Week": "42",
         "Peak Position": 38,
         "Wks on Chart": 7
-      },
-      "rank": 42,
-      "spotify": "http://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99?utm_campaign=billboard",
-      "title": "Te Regalo"
+      }
     },
     {
+      "rank": 43,
+      "title": "Sola",
       "artist": "Anuel AA Featuring Daddy Yankee, Wisin, Farruko & Zion & Lennox",
       "position": {
         "Last Week": "--",
         "Peak Position": 43,
         "Wks on Chart": 1
-      },
-      "rank": 43,
-      "spotify": "http://open.spotify.com/track/4Zke60QJMlW60qnXmYLdC8?utm_campaign=billboard",
-      "title": "Sola"
+      }
     },
     {
+      "rank": 44,
+      "title": "Pa Que Me Invitan",
       "artist": "Jencarlos Featuring Charly Black",
       "position": {
         "Last Week": "41",
         "Peak Position": 31,
         "Wks on Chart": 12
-      },
-      "rank": 44,
-      "spotify": "http://open.spotify.com/track/6SlhWvQ67t5BZLAKwBx2b7?utm_campaign=billboard",
-      "title": "Pa Que Me Invitan"
+      }
     },
     {
+      "rank": 45,
+      "title": "Otra Cosa",
       "artist": "Daddy Yankee & Natti Natasha",
       "position": {
         "Last Week": "--",
         "Peak Position": 45,
         "Wks on Chart": 1
-      },
-      "rank": 45,
-      "title": "Otra Cosa"
+      }
     },
     {
+      "rank": 46,
+      "title": "A Poco",
       "artist": "Raul Casillas",
       "position": {
         "Last Week": "47",
         "Peak Position": 46,
         "Wks on Chart": 2
-      },
-      "rank": 46,
-      "spotify": "http://open.spotify.com/track/5IAbfUxV1aEmdNt1ezyEwv?utm_campaign=billboard",
-      "title": "A Poco"
+      }
     },
     {
+      "rank": 47,
+      "title": "Que Gano Olvidandote",
       "artist": "Reik",
       "position": {
         "Last Week": "46",
         "Peak Position": 46,
         "Wks on Chart": 4
-      },
-      "rank": 47,
-      "spotify": "http://open.spotify.com/track/7iXRsjttPa62GpOcqsx1aE?utm_campaign=billboard",
-      "title": "Que Gano Olvidandote"
+      }
     },
     {
+      "rank": 48,
+      "title": "De Pies A Cabeza",
       "artist": "Mana & Nicky Jam",
       "position": {
         "Last Week": "44",
         "Peak Position": 8,
         "Wks on Chart": 19
-      },
-      "rank": 48,
-      "spotify": "http://open.spotify.com/track/2CkHE54EH44Qj945ynQRw7?utm_campaign=billboard",
-      "title": "De Pies A Cabeza"
+      }
     },
     {
+      "rank": 49,
+      "title": "Manicomio",
       "artist": "Cosculluela",
       "position": {
         "Last Week": "--",
         "Peak Position": 49,
         "Wks on Chart": 1
-      },
-      "rank": 49,
-      "spotify": "http://open.spotify.com/track/7lKP7GE00s56ude4dGvULy?utm_campaign=billboard",
-      "title": "Manicomio"
+      }
     },
     {
+      "rank": 50,
+      "title": "Me Llamas",
       "artist": "Piso 21 Featuring Maluma",
       "position": {
         "Last Week": "49",
         "Peak Position": 49,
         "Wks on Chart": 2
-      },
-      "rank": 50,
-      "spotify": "http://open.spotify.com/track/3jpqMaJREkmVDYlRvW1qWC?utm_campaign=billboard",
-      "title": "Me Llamas"
+      }
     }
   ]
 }

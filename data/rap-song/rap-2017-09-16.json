@@ -1,279 +1,256 @@
 {
-  "chart_date": "2017-09-16",
   "name": "Rap",
+  "chart_date": "2017-09-16",
   "tracks": [
     {
+      "rank": 1,
+      "title": "Bodak Yellow (Money Moves)",
       "artist": "Cardi B",
-      "cover": "http://charts-static.billboard.com/img/2017/07/cardi-b.jpg",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 8
-      },
-      "rank": 1,
-      "title": "Bodak Yellow (Money Moves)"
+      }
     },
     {
+      "rank": 2,
+      "title": "Unforgettable",
       "artist": "French Montana Featuring Swae Lee",
-      "cover": "http://charts-static.billboard.com/img/2017/04/french-montana.jpg",
       "position": {
         "Last Week": "2",
         "Peak Position": 1,
         "Wks on Chart": 20
-      },
-      "rank": 2,
-      "title": "Unforgettable"
+      }
     },
     {
+      "rank": 3,
+      "title": "1-800-273-8255",
       "artist": "Logic Featuring Alessia Cara & Khalid",
-      "cover": "http://charts-static.billboard.com/img/2017/05/logic.jpg",
       "position": {
         "Last Week": "9",
         "Peak Position": 3,
         "Wks on Chart": 18
-      },
-      "rank": 3,
-      "title": "1-800-273-8255"
+      }
     },
     {
+      "rank": 4,
+      "title": "Bank Account",
       "artist": "21 Savage",
-      "cover": "http://charts-static.billboard.com/img/2017/07/21-savage.jpg",
       "position": {
         "Last Week": "4",
         "Peak Position": 4,
         "Wks on Chart": 8
-      },
-      "rank": 4,
-      "title": "Bank Account"
+      }
     },
     {
+      "rank": 5,
+      "title": "Rake It Up",
       "artist": "Yo Gotti Featuring Nicki Minaj",
-      "cover": "http://charts-static.billboard.com/img/2017/06/yo-gotti.jpg",
       "position": {
         "Last Week": "3",
         "Peak Position": 3,
         "Wks on Chart": 9
-      },
-      "rank": 5,
-      "title": "Rake It Up"
+      }
     },
     {
+      "rank": 6,
+      "title": "Humble.",
       "artist": "Kendrick Lamar",
-      "cover": "http://charts-static.billboard.com/img/2017/04/kendrick-lamar.jpg",
       "position": {
         "Last Week": "7",
         "Peak Position": 1,
         "Wks on Chart": 22
-      },
-      "rank": 6,
-      "title": "Humble."
+      }
     },
     {
+      "rank": 7,
+      "title": "XO TOUR Llif3",
       "artist": "Lil Uzi Vert",
-      "cover": "http://charts-static.billboard.com/img/2017/04/lil-uzi-vert.jpg",
       "position": {
         "Last Week": "8",
         "Peak Position": 4,
         "Wks on Chart": 23
-      },
-      "rank": 7,
-      "title": "XO TOUR Llif3"
+      }
     },
     {
+      "rank": 8,
+      "title": "Congratulations",
       "artist": "Post Malone Featuring Quavo",
-      "cover": "http://charts-static.billboard.com/img/2016/11/post-malone.jpg",
       "position": {
         "Last Week": "5",
         "Peak Position": 3,
         "Wks on Chart": 32
-      },
-      "rank": 8,
-      "title": "Congratulations"
+      }
     },
     {
+      "rank": 9,
+      "title": "I'm The One",
       "artist": "DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",
-      "cover": "http://charts-static.billboard.com/img/2017/05/dj-khaled.jpg",
       "position": {
         "Last Week": "6",
         "Peak Position": 1,
         "Wks on Chart": 18
-      },
-      "rank": 9,
-      "title": "I'm The One"
+      }
     },
     {
+      "rank": 10,
+      "title": "Jocelyn Flores",
       "artist": "XXXTENTACION",
       "position": {
         "Last Week": "--",
         "Peak Position": 10,
         "Wks on Chart": 1
-      },
-      "rank": 10,
-      "title": "Jocelyn Flores"
+      }
     },
     {
+      "rank": 11,
+      "title": "Loyalty.",
       "artist": "Kendrick Lamar Featuring Rihanna",
-      "cover": "http://charts-static.billboard.com/img/2017/04/kendrick-lamar.jpg",
       "position": {
         "Last Week": "10",
         "Peak Position": 6,
         "Wks on Chart": 20
-      },
-      "rank": 11,
-      "title": "Loyalty."
+      }
     },
     {
+      "rank": 12,
+      "title": "The Way Life Goes",
       "artist": "Lil Uzi Vert",
-      "cover": "http://charts-static.billboard.com/img/2017/06/lil-uzi-vert.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 12,
         "Wks on Chart": 1
-      },
-      "rank": 12,
-      "title": "The Way Life Goes"
+      }
     },
     {
+      "rank": 13,
+      "title": "I Get The Bag",
       "artist": "Gucci Mane Featuring Migos",
-      "cover": "http://charts-static.billboard.com/img/2017/07/gucci-mane.jpg",
       "position": {
         "Last Week": "11",
         "Peak Position": 11,
         "Wks on Chart": 2
-      },
-      "rank": 13,
-      "title": "I Get The Bag"
+      }
     },
     {
+      "rank": 14,
+      "title": "It's A Vibe",
       "artist": "2 Chainz Featuring Ty Dolla $ign, Trey Songz & Jhene Aiko",
-      "cover": "http://charts-static.billboard.com/img/2017/04/2-chainz.jpg",
       "position": {
         "Last Week": "13",
         "Peak Position": 13,
         "Wks on Chart": 11
-      },
-      "rank": 14,
-      "title": "It's A Vibe"
+      }
     },
     {
+      "rank": 15,
+      "title": "Sauce It Up",
       "artist": "Lil Uzi Vert",
-      "cover": "http://charts-static.billboard.com/img/2017/06/lil-uzi-vert.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 15,
         "Wks on Chart": 1
-      },
-      "rank": 15,
-      "title": "Sauce It Up"
+      }
     },
     {
+      "rank": 16,
+      "title": "Crew",
       "artist": "GoldLink Featuring Brent Faiyaz & Shy Glizzy",
-      "cover": "http://charts-static.billboard.com/img/2017/01/goldlink.jpg",
       "position": {
         "Last Week": "17",
         "Peak Position": 16,
         "Wks on Chart": 7
-      },
-      "rank": 16,
-      "title": "Crew"
+      }
     },
     {
+      "rank": 17,
+      "title": "Everyday We Lit",
       "artist": "YFN Lucci Featuring PnB Rock",
-      "cover": "http://charts-static.billboard.com/img/2017/01/yfn-lucci.jpg",
       "position": {
         "Last Week": "12",
         "Peak Position": 8,
         "Wks on Chart": 17
-      },
-      "rank": 17,
-      "title": "Everyday We Lit"
+      }
     },
     {
+      "rank": 18,
+      "title": "Drowning",
       "artist": "A Boogie Wit da Hoodie Featuring Kodak Black",
-      "cover": "http://charts-static.billboard.com/img/2017/04/a-boogie-wit-da-hoodie.jpg",
       "position": {
         "Last Week": "14",
         "Peak Position": 11,
         "Wks on Chart": 20
-      },
-      "rank": 18,
-      "title": "Drowning"
+      }
     },
     {
+      "rank": 19,
+      "title": "Magnolia",
       "artist": "Playboi Carti",
-      "cover": "http://charts-static.billboard.com/img/2016/11/playboi-carti-cuw.jpg",
       "position": {
         "Last Week": "15",
         "Peak Position": 7,
         "Wks on Chart": 17
-      },
-      "rank": 19,
-      "title": "Magnolia"
+      }
     },
     {
+      "rank": 20,
+      "title": "Everybody Dies In Their Nightmares",
       "artist": "XXXTENTACION",
       "position": {
         "Last Week": "--",
         "Peak Position": 20,
         "Wks on Chart": 1
-      },
-      "rank": 20,
-      "title": "Everybody Dies In Their Nightmares"
+      }
     },
     {
+      "rank": 21,
+      "title": "Transportin'",
       "artist": "Kodak Black",
-      "cover": "http://charts-static.billboard.com/img/2017/07/kodak-black.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 21,
         "Wks on Chart": 1
-      },
-      "rank": 21,
-      "title": "Transportin'"
+      }
     },
     {
+      "rank": 22,
+      "title": "Butterfly Effect",
       "artist": "Travis Scott",
-      "cover": "http://charts-static.billboard.com/img/2017/06/travis-scott.jpg",
       "position": {
         "Last Week": "20",
         "Peak Position": 17,
         "Wks on Chart": 9
-      },
-      "rank": 22,
-      "title": "Butterfly Effect"
+      }
     },
     {
+      "rank": 23,
+      "title": "444+222",
       "artist": "Lil Uzi Vert",
-      "cover": "http://charts-static.billboard.com/img/2017/06/lil-uzi-vert.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 23,
         "Wks on Chart": 1
-      },
-      "rank": 23,
-      "title": "444+222"
+      }
     },
     {
+      "rank": 24,
+      "title": "Roll In Peace",
       "artist": "Kodak Black Featuring XXXTENTACION",
-      "cover": "http://charts-static.billboard.com/img/2017/07/kodak-black.jpg",
       "position": {
         "Last Week": "19",
         "Peak Position": 19,
         "Wks on Chart": 2
-      },
-      "rank": 24,
-      "title": "Roll In Peace"
+      }
     },
     {
+      "rank": 25,
+      "title": "DNA.",
       "artist": "Kendrick Lamar",
-      "cover": "http://charts-static.billboard.com/img/2017/04/kendrick-lamar.jpg",
       "position": {
         "Last Week": "22",
         "Peak Position": 2,
         "Wks on Chart": 20
-      },
-      "rank": 25,
-      "title": "DNA."
+      }
     }
   ]
 }

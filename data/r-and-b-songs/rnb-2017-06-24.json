@@ -1,304 +1,256 @@
 {
-  "chart_date": "2017-06-24",
   "name": "R&B",
+  "chart_date": "2017-06-24",
   "tracks": [
     {
+      "rank": 1,
+      "title": "That's What I Like",
       "artist": "Bruno Mars",
-      "cover": "http://www.billboard.com/images/pref_images/q59725qvpol.jpg",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 28
-      },
-      "rank": 1,
-      "spotify": "http://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU?utm_campaign=billboard",
-      "title": "That's What I Like"
+      }
     },
     {
+      "rank": 2,
+      "title": "Redbone",
       "artist": "Childish Gambino",
-      "cover": "http://www.billboard.com/images/pref_images/q60404tvb4i.jpg",
       "position": {
         "Last Week": "2",
         "Peak Position": 2,
         "Wks on Chart": 28
-      },
-      "rank": 2,
-      "spotify": "http://open.spotify.com/track/47l9wxr6RwgoTSfnseBRcf?utm_campaign=billboard",
-      "title": "Redbone"
+      }
     },
     {
+      "rank": 3,
+      "title": "Location",
       "artist": "Khalid",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy7271750242439364836.jpg",
       "position": {
         "Last Week": "3",
         "Peak Position": 2,
         "Wks on Chart": 27
-      },
-      "rank": 3,
-      "spotify": "http://open.spotify.com/track/6XOin64PR2Oj4W0tO8GOQv?utm_campaign=billboard",
-      "title": "Location"
+      }
     },
     {
+      "rank": 4,
+      "title": "Passionfruit",
       "artist": "Drake",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6013806102652956916.jpg",
       "position": {
         "Last Week": "4",
         "Peak Position": 3,
         "Wks on Chart": 12
-      },
-      "rank": 4,
-      "spotify": "http://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz?utm_campaign=billboard",
-      "title": "Passionfruit"
+      }
     },
     {
+      "rank": 5,
+      "title": "Slide",
       "artist": "Calvin Harris Featuring Frank Ocean & Migos",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy2692105048585419784.jpg",
       "position": {
         "Last Week": "5",
         "Peak Position": 4,
         "Wks on Chart": 15
-      },
-      "rank": 5,
-      "spotify": "http://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk?utm_campaign=billboard",
-      "title": "Slide"
+      }
     },
     {
+      "rank": 6,
+      "title": "Privacy",
       "artist": "Chris Brown",
-      "cover": "http://www.billboard.com/images/pref_images/q12107b6dlh.jpg",
       "position": {
         "Last Week": "6",
         "Peak Position": 6,
         "Wks on Chart": 11
-      },
-      "rank": 6,
-      "spotify": "http://open.spotify.com/track/2Vf2Pflg5rTWSvSCK4qq4A?utm_campaign=billboard",
-      "title": "Privacy"
+      }
     },
     {
+      "rank": 7,
+      "title": "Losin Control",
       "artist": "Russ",
       "position": {
         "Last Week": "7",
         "Peak Position": 7,
         "Wks on Chart": 18
-      },
-      "rank": 7,
-      "spotify": "http://open.spotify.com/track/4tGjoffVHvUvb5RDE60sjX?utm_campaign=billboard",
-      "title": "Losin Control"
+      }
     },
     {
+      "rank": 8,
+      "title": "do re mi",
       "artist": "blackbear",
-      "cover": "http://www.billboard.com/images/pref_images/q52787klgv1.jpg",
       "position": {
         "Last Week": "12",
         "Peak Position": 8,
         "Wks on Chart": 9
-      },
-      "rank": 8,
-      "spotify": "http://open.spotify.com/track/3sTCfUmYXSVWDacTd6uMbQ?utm_campaign=billboard",
-      "title": "do re mi"
+      }
     },
     {
+      "rank": 9,
+      "title": "Nobody Else But You",
       "artist": "Trey Songz",
-      "cover": "http://www.billboard.com/images/pref_images/q62410bw4g4.jpg",
       "position": {
         "Last Week": "14",
         "Peak Position": 9,
         "Wks on Chart": 13
-      },
-      "rank": 9,
-      "spotify": "http://open.spotify.com/track/2slbJay1LPdOafYYCTe5Ss?utm_campaign=billboard",
-      "title": "Nobody Else But You"
+      }
     },
     {
+      "rank": 10,
+      "title": "Reminder",
       "artist": "The Weeknd",
-      "cover": "http://www.billboard.com/images/pref_images/q59123tine7.jpg",
       "position": {
         "Last Week": "18",
         "Peak Position": 7,
         "Wks on Chart": 28
-      },
-      "rank": 10,
-      "spotify": "http://open.spotify.com/track/37F0uwRSrdzkBiuj0D5UHI?utm_campaign=billboard",
-      "title": "Reminder"
+      }
     },
     {
+      "rank": 11,
+      "title": "Somethin Tells Me",
       "artist": "Bryson Tiller",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy4388451576406674817.jpg",
       "position": {
         "Last Week": "8",
         "Peak Position": 8,
         "Wks on Chart": 4
-      },
-      "rank": 11,
-      "spotify": "http://open.spotify.com/track/6Kq3dPaKCOeA1BcU3JgK42?utm_campaign=billboard",
-      "title": "Somethin Tells Me"
+      }
     },
     {
+      "rank": 12,
+      "title": "Rollin",
       "artist": "Calvin Harris Featuring Future & Khalid",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy2692105048585419784.jpg",
       "position": {
         "Last Week": "17",
         "Peak Position": 8,
         "Wks on Chart": 4
-      },
-      "rank": 12,
-      "spotify": "http://open.spotify.com/track/3FDrI0FLKzrYQiWxPhqV2W?utm_campaign=billboard",
-      "title": "Rollin"
+      }
     },
     {
+      "rank": 13,
+      "title": "Self-Made",
       "artist": "Bryson Tiller",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy4388451576406674817.jpg",
       "position": {
         "Last Week": "9",
         "Peak Position": 9,
         "Wks on Chart": 2
-      },
-      "rank": 13,
-      "spotify": "http://open.spotify.com/track/2rUwQj4SWaP2anuGDtNpYR?utm_campaign=billboard",
-      "title": "Self-Made"
+      }
     },
     {
+      "rank": 14,
+      "title": "Shining",
       "artist": "DJ Khaled Featuring Beyonce & JAY Z",
-      "cover": "http://www.billboard.com/images/pref_images/q64532pl64x.jpg",
       "position": {
         "Last Week": "21",
         "Peak Position": 8,
         "Wks on Chart": 17
-      },
-      "rank": 14,
-      "spotify": "http://open.spotify.com/track/0hKBQO2KtkDw99y7oUaTPf?utm_campaign=billboard",
-      "title": "Shining"
+      }
     },
     {
+      "rank": 15,
+      "title": "Run Me Dry",
       "artist": "Bryson Tiller",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy4388451576406674817.jpg",
       "position": {
         "Last Week": "11",
         "Peak Position": 11,
         "Wks on Chart": 2
-      },
-      "rank": 15,
-      "spotify": "http://open.spotify.com/track/5GG3knKdxKWrNboRijxeKF?utm_campaign=billboard",
-      "title": "Run Me Dry"
+      }
     },
     {
+      "rank": 16,
+      "title": "Selfish",
       "artist": "Future Featuring Rihanna",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy3426998729818218709.jpg",
       "position": {
         "Last Week": "20",
         "Peak Position": 7,
         "Wks on Chart": 15
-      },
-      "rank": 16,
-      "spotify": "http://open.spotify.com/track/2Ce5IyMlVRVvN997ZJjJJA?utm_campaign=billboard",
-      "title": "Selfish"
+      }
     },
     {
+      "rank": 17,
+      "title": "Good Life",
       "artist": "G-Eazy & Kehlani",
-      "cover": "http://www.billboard.com/images/pref_images/q43239kyg4q.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 8,
         "Wks on Chart": 6
-      },
-      "rank": 17,
-      "title": "Good Life"
+      }
     },
     {
+      "rank": 18,
+      "title": "Versace On The Floor",
       "artist": "Bruno Mars",
-      "cover": "http://www.billboard.com/images/pref_images/q59725qvpol.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 13,
         "Wks on Chart": 15
-      },
-      "rank": 18,
-      "spotify": "http://open.spotify.com/track/3trg82Eql6tqi2EAxluhy8?utm_campaign=billboard",
-      "title": "Versace On The Floor"
+      }
     },
     {
+      "rank": 19,
+      "title": "Teenage Fever",
       "artist": "Drake",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6013806102652956916.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 7,
         "Wks on Chart": 11
-      },
-      "rank": 19,
-      "spotify": "http://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo?utm_campaign=billboard",
-      "title": "Teenage Fever"
+      }
     },
     {
+      "rank": 20,
+      "title": "Don't Get Too High",
       "artist": "Bryson Tiller",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy4388451576406674817.jpg",
       "position": {
         "Last Week": "10",
         "Peak Position": 10,
         "Wks on Chart": 2
-      },
-      "rank": 20,
-      "spotify": "http://open.spotify.com/track/0OVhQZkNe7lh0fQeH96EFW?utm_campaign=billboard",
-      "title": "Don't Get Too High"
+      }
     },
     {
+      "rank": 21,
+      "title": "Young Dumb & Broke",
       "artist": "Khalid",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy7271750242439364836.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 21,
         "Wks on Chart": 6
-      },
-      "rank": 21,
-      "spotify": "http://open.spotify.com/track/5Z3GHaZ6ec9bsiI5BenrbY?utm_campaign=billboard",
-      "title": "Young Dumb & Broke"
+      }
     },
     {
+      "rank": 22,
+      "title": "Idfc",
       "artist": "blackbear",
-      "cover": "http://www.billboard.com/images/pref_images/q52787klgv1.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 19,
         "Wks on Chart": 16
-      },
-      "rank": 22,
-      "spotify": "http://open.spotify.com/track/6MxhAD7FwoBQabntab2qG9?utm_campaign=billboard",
-      "title": "Idfc"
+      }
     },
     {
+      "rank": 23,
+      "title": "Saved",
       "artist": "Khalid",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy7271750242439364836.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 18,
         "Wks on Chart": 10
-      },
-      "rank": 23,
-      "spotify": "http://open.spotify.com/track/6Hf1P9AHMH3ngy73RVAUdm?utm_campaign=billboard",
-      "title": "Saved"
+      }
     },
     {
+      "rank": 24,
+      "title": "Blem",
       "artist": "Drake",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6013806102652956916.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 8,
         "Wks on Chart": 11
-      },
-      "rank": 24,
-      "spotify": "http://open.spotify.com/track/2XlHu0HcujBCkWMdIAvrqt?utm_campaign=billboard",
-      "title": "Blem"
+      }
     },
     {
+      "rank": 25,
+      "title": "No Longer Friends",
       "artist": "Bryson Tiller",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy4388451576406674817.jpg",
       "position": {
         "Last Week": "13",
         "Peak Position": 13,
         "Wks on Chart": 2
-      },
-      "rank": 25,
-      "spotify": "http://open.spotify.com/track/4IdAIZRVkwuQQnHpi529cn?utm_campaign=billboard",
-      "title": "No Longer Friends"
+      }
     }
   ]
 }

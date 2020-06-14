@@ -1,579 +1,506 @@
 {
-  "chart_date": "2017-03-25",
   "name": "Club",
+  "chart_date": "2017-03-25",
   "tracks": [
     {
+      "rank": 1,
+      "title": "Shape Of You",
       "artist": "Ed Sheeran",
-      "cover": "http://www.billboard.com/images/pref_images/q61469jewko.jpg",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 7
-      },
-      "rank": 1,
-      "spotify": "http://open.spotify.com/track/0FE9t6xYkqWXU2ahLh6D8X?utm_campaign=billboard",
-      "title": "Shape Of You"
+      }
     },
     {
+      "rank": 2,
+      "title": "Show Me Love",
       "artist": "Brian Justin Crum Featuring Toy Armada & DJ GRIND",
       "position": {
         "Last Week": "2",
         "Peak Position": 2,
         "Wks on Chart": 12
-      },
-      "rank": 2,
-      "spotify": "http://open.spotify.com/track/0AfRoiUmsIc59PviXtb2Eu?utm_campaign=billboard",
-      "title": "Show Me Love"
+      }
     },
     {
+      "rank": 3,
+      "title": "I Got You",
       "artist": "Bebe Rexha",
-      "cover": "http://www.billboard.com/images/pref_images/q50176eijbm.jpg",
       "position": {
         "Last Week": "4",
         "Peak Position": 3,
         "Wks on Chart": 7
-      },
-      "rank": 3,
-      "spotify": "http://open.spotify.com/track/1FUViuNSldssMIawrOXF2i?utm_campaign=billboard",
-      "title": "I Got You"
+      }
     },
     {
+      "rank": 4,
+      "title": "The Mack",
       "artist": "Nevada Featuring Mark Morrison And Fetty Wap",
       "position": {
         "Last Week": "5",
         "Peak Position": 4,
         "Wks on Chart": 8
-      },
-      "rank": 4,
-      "spotify": "http://open.spotify.com/track/2fUZ3aMp8amSaV0mp8s6rQ?utm_campaign=billboard",
-      "title": "The Mack"
+      }
     },
     {
+      "rank": 5,
+      "title": "Lick Me Up",
       "artist": "Tony Moran & Dani Toro Featuring Zhana Roiya",
-      "cover": "http://www.billboard.com/images/pref_images/q28243dgpst.jpg",
       "position": {
         "Last Week": "9",
         "Peak Position": 5,
         "Wks on Chart": 6
-      },
-      "rank": 5,
-      "title": "Lick Me Up"
+      }
     },
     {
+      "rank": 6,
+      "title": "Sex With Me",
       "artist": "Rihanna",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy8678372548017039592.jpg",
       "position": {
         "Last Week": "10",
         "Peak Position": 6,
         "Wks on Chart": 5
-      },
-      "rank": 6,
-      "spotify": "http://open.spotify.com/track/6T4J1zg2NFjGHAjQCyxlG4?utm_campaign=billboard",
-      "title": "Sex With Me"
+      }
     },
     {
+      "rank": 7,
+      "title": "Watch Out",
       "artist": "GloVibes & Gary Caos",
-      "cover": "http://www.billboard.com/images/pref_images/q49526r5p6c.jpg",
       "position": {
         "Last Week": "7",
         "Peak Position": 7,
         "Wks on Chart": 8
-      },
-      "rank": 7,
-      "title": "Watch Out"
+      }
     },
     {
+      "rank": 8,
+      "title": "Rockabye",
       "artist": "Clean Bandit Featuring Sean Paul & Anne-Marie",
-      "cover": "http://www.billboard.com/images/pref_images/q18473nqgl2.jpg",
       "position": {
         "Last Week": "6",
         "Peak Position": 5,
         "Wks on Chart": 10
-      },
-      "rank": 8,
-      "spotify": "http://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW?utm_campaign=billboard",
-      "title": "Rockabye"
+      }
     },
     {
+      "rank": 9,
+      "title": "This Town",
       "artist": "Niall Horan",
-      "cover": "http://www.billboard.com/images/pref_images/q59302b0qq8.jpg",
       "position": {
         "Last Week": "3",
         "Peak Position": 3,
         "Wks on Chart": 11
-      },
-      "rank": 9,
-      "spotify": "http://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu?utm_campaign=billboard",
-      "title": "This Town"
+      }
     },
     {
+      "rank": 10,
+      "title": "Slumber Party",
       "artist": "Britney Spears Featuring Tinashe",
-      "cover": "http://www.billboard.com/images/pref_images/q48490xuiyq.jpg",
       "position": {
         "Last Week": "8",
         "Peak Position": 1,
         "Wks on Chart": 11
-      },
-      "rank": 10,
-      "spotify": "http://open.spotify.com/track/2i9q8CteBmpslOJeQdMGqA?utm_campaign=billboard",
-      "title": "Slumber Party"
+      }
     },
     {
+      "rank": 11,
+      "title": "Hey Baby",
       "artist": "Dimitri Vegas & Like Mike vs Diplo Featuring Deb's Daughter",
-      "cover": "http://www.billboard.com/images/pref_images/q49550nui5x.jpg",
       "position": {
         "Last Week": "15",
         "Peak Position": 11,
         "Wks on Chart": 6
-      },
-      "rank": 11,
-      "spotify": "http://open.spotify.com/track/3oUZXcz9WLNO71yHAumFbH?utm_campaign=billboard",
-      "title": "Hey Baby"
+      }
     },
     {
+      "rank": 12,
+      "title": "Paris",
       "artist": "The Chainsmokers",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy4462751139365911250.jpg",
       "position": {
         "Last Week": "14",
         "Peak Position": 12,
         "Wks on Chart": 6
-      },
-      "rank": 12,
-      "spotify": "http://open.spotify.com/track/15vzANxN8G9wWfwAJLLMCg?utm_campaign=billboard",
-      "title": "Paris"
+      }
     },
     {
+      "rank": 13,
+      "title": "Long Live Love",
       "artist": "LeAnn Rimes",
-      "cover": "http://www.billboard.com/images/pref_images/q56775wohl3.jpg",
       "position": {
         "Last Week": "12",
         "Peak Position": 1,
         "Wks on Chart": 12
-      },
-      "rank": 13,
-      "spotify": "http://open.spotify.com/track/6xk5M2rqniQKrUwUAT6Ymd?utm_campaign=billboard",
-      "title": "Long Live Love"
+      }
     },
     {
+      "rank": 14,
+      "title": "Feel Like Home",
       "artist": "Sander Kleinenberg Featuring DYSON",
       "position": {
         "Last Week": "17",
         "Peak Position": 14,
         "Wks on Chart": 6
-      },
-      "rank": 14,
-      "spotify": "http://open.spotify.com/track/3iSZUvpMYxOu0rGgU2jm8d?utm_campaign=billboard",
-      "title": "Feel Like Home"
+      }
     },
     {
+      "rank": 15,
+      "title": "Burn Brighter",
       "artist": "Pavlova",
-      "cover": "http://www.billboard.com/images/pref_images/q61082jug3i.jpg",
       "position": {
         "Last Week": "19",
         "Peak Position": 15,
         "Wks on Chart": 6
-      },
-      "rank": 15,
-      "spotify": "http://open.spotify.com/track/3WG7UMFxPC9MWbxhJIv4lN?utm_campaign=billboard",
-      "title": "Burn Brighter"
+      }
     },
     {
+      "rank": 16,
+      "title": "Alegre",
       "artist": "Rod Carrillo",
       "position": {
         "Last Week": "16",
         "Peak Position": 16,
         "Wks on Chart": 7
-      },
-      "rank": 16,
-      "spotify": "http://open.spotify.com/track/3PLVHoX6kD4IejWRIP89ZM?utm_campaign=billboard",
-      "title": "Alegre"
+      }
     },
     {
+      "rank": 17,
+      "title": "I Feel It Coming",
       "artist": "The Weeknd Featuring Daft Punk",
-      "cover": "http://www.billboard.com/images/pref_images/q59123tine7.jpg",
       "position": {
         "Last Week": "13",
         "Peak Position": 12,
         "Wks on Chart": 9
-      },
-      "rank": 17,
-      "spotify": "http://open.spotify.com/track/7enFbf4reUpo2CCQYpwoHC?utm_campaign=billboard",
-      "title": "I Feel It Coming"
+      }
     },
     {
+      "rank": 18,
+      "title": "Places",
       "artist": "Xenia Ghali Featuring Raquel Castro",
-      "cover": "http://www.billboard.com/images/pref_images/q26282ckwtu.jpg",
       "position": {
         "Last Week": "23",
         "Peak Position": 18,
         "Wks on Chart": 5
-      },
-      "rank": 18,
-      "spotify": "http://open.spotify.com/track/012jHbBhzpjN6kzGJNELDc?utm_campaign=billboard",
-      "title": "Places"
+      }
     },
     {
+      "rank": 19,
+      "title": "Love Never Died",
       "artist": "Nytrix",
       "position": {
         "Last Week": "25",
         "Peak Position": 19,
         "Wks on Chart": 5
-      },
-      "rank": 19,
-      "spotify": "http://open.spotify.com/track/2NjVnVKGeg0XPlXerEcGIP?utm_campaign=billboard",
-      "title": "Love Never Died"
+      }
     },
     {
+      "rank": 20,
+      "title": "Chained To The Rhythm",
       "artist": "Katy Perry Featuring Skip Marley",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy5354359009019426810.jpg",
       "position": {
         "Last Week": "28",
         "Peak Position": 20,
         "Wks on Chart": 2
-      },
-      "rank": 20,
-      "spotify": "http://open.spotify.com/track/5pD9x23lsoQr464mlmaKNJ?utm_campaign=billboard",
-      "title": "Chained To The Rhythm"
+      }
     },
     {
+      "rank": 21,
+      "title": "I Betcha",
       "artist": "Alessandro Coli",
       "position": {
         "Last Week": "24",
         "Peak Position": 21,
         "Wks on Chart": 5
-      },
-      "rank": 21,
-      "spotify": "http://open.spotify.com/track/3OBPq23Z9oDXw6qwTk7gBh?utm_campaign=billboard",
-      "title": "I Betcha"
+      }
     },
     {
+      "rank": 22,
+      "title": "Find Me",
       "artist": "Sigma Featuring Birdy",
-      "cover": "http://www.billboard.com/images/pref_images/q41476c2us1.jpg",
       "position": {
         "Last Week": "26",
         "Peak Position": 22,
         "Wks on Chart": 4
-      },
-      "rank": 22,
-      "spotify": "http://open.spotify.com/track/6xB7E0HOWznwiO0v56mqwD?utm_campaign=billboard",
-      "title": "Find Me"
+      }
     },
     {
+      "rank": 23,
+      "title": "Oasis",
       "artist": "Kendra Erika",
       "position": {
         "Last Week": "20",
         "Peak Position": 9,
         "Wks on Chart": 11
-      },
-      "rank": 23,
-      "spotify": "http://open.spotify.com/track/5gFsGYZQVzgCsnCiX4lBMu?utm_campaign=billboard",
-      "title": "Oasis"
+      }
     },
     {
+      "rank": 24,
+      "title": "Trouble",
       "artist": "R3hab Featuring Verite",
-      "cover": "http://www.billboard.com/images/pref_images/q25939qbyeh.jpg",
       "position": {
         "Last Week": "29",
         "Peak Position": 24,
         "Wks on Chart": 4
-      },
-      "rank": 24,
-      "spotify": "http://open.spotify.com/track/3A2waEDfZQfl6RNOn8Y1xW?utm_campaign=billboard",
-      "title": "Trouble"
+      }
     },
     {
+      "rank": 25,
+      "title": "The Great Divide",
       "artist": "Rebecca Black",
       "position": {
         "Last Week": "27",
         "Peak Position": 25,
         "Wks on Chart": 5
-      },
-      "rank": 25,
-      "spotify": "http://open.spotify.com/track/0Azam42AfoDvqaYwbGCHbL?utm_campaign=billboard",
-      "title": "The Great Divide"
+      }
     },
     {
+      "rank": 26,
+      "title": "Gonna Be Power",
       "artist": "Glenn Thornton Featuring Dawn Tallman",
       "position": {
         "Last Week": "18",
         "Peak Position": 16,
         "Wks on Chart": 8
-      },
-      "rank": 26,
-      "spotify": "http://open.spotify.com/track/56frYOkQo6O2rbRVogf8gK?utm_campaign=billboard",
-      "title": "Gonna Be Power"
+      }
     },
     {
+      "rank": 27,
+      "title": "Ain't No Friend Of Mine",
       "artist": "Vali",
       "position": {
         "Last Week": "31",
         "Peak Position": 27,
         "Wks on Chart": 4
-      },
-      "rank": 27,
-      "spotify": "http://open.spotify.com/track/2Kwnoh0xxbbfFfkO7pNKOS?utm_campaign=billboard",
-      "title": "Ain't No Friend Of Mine"
+      }
     },
     {
+      "rank": 28,
+      "title": "Yeah Yeah 2017",
       "artist": "Luciana & Dave Aude",
-      "cover": "http://www.billboard.com/images/pref_images/q57236ahq5a.jpg",
       "position": {
         "Last Week": "11",
         "Peak Position": 1,
         "Wks on Chart": 13
-      },
-      "rank": 28,
-      "title": "Yeah Yeah 2017"
+      }
     },
     {
+      "rank": 29,
+      "title": "Falling",
       "artist": "Alesso",
-      "cover": "http://www.billboard.com/images/pref_images/q59980bumb6.jpg",
       "position": {
         "Last Week": "40",
         "Peak Position": 29,
         "Wks on Chart": 2
-      },
-      "rank": 29,
-      "spotify": "http://open.spotify.com/track/43mNwDn0zOH2HKl5B4aqcx?utm_campaign=billboard",
-      "title": "Falling"
+      }
     },
     {
+      "rank": 30,
+      "title": "Hide & Seek",
       "artist": "Alexa Aronson",
       "position": {
         "Last Week": "36",
         "Peak Position": 30,
         "Wks on Chart": 3
-      },
-      "rank": 30,
-      "spotify": "http://open.spotify.com/track/4G62UdUrGaMQaEhTsVTMoR?utm_campaign=billboard",
-      "title": "Hide & Seek"
+      }
     },
     {
+      "rank": 31,
+      "title": "Strangers In The Night",
       "artist": "Z LaLa",
       "position": {
         "Last Week": "39",
         "Peak Position": 31,
         "Wks on Chart": 3
-      },
-      "rank": 31,
-      "spotify": "http://open.spotify.com/track/6rTlkjUT0LZoevWFDi6KEw?utm_campaign=billboard",
-      "title": "Strangers In The Night"
+      }
     },
     {
+      "rank": 32,
+      "title": "Alone",
       "artist": "Alan Walker",
-      "cover": "http://www.billboard.com/images/pref_images/q45783jks8h.jpg",
       "position": {
         "Last Week": "42",
         "Peak Position": 32,
         "Wks on Chart": 3
-      },
-      "rank": 32,
-      "spotify": "http://open.spotify.com/track/3ujORpm8Hf7QWEtfqSAZL8?utm_campaign=billboard",
-      "title": "Alone"
+      }
     },
     {
+      "rank": 33,
+      "title": "What We Wanna Do",
       "artist": "Jaki Nelson",
       "position": {
         "Last Week": "38",
         "Peak Position": 33,
         "Wks on Chart": 3
-      },
-      "rank": 33,
-      "spotify": "http://open.spotify.com/track/7nWh12QwRCF6gVkcJu5qLJ?utm_campaign=billboard",
-      "title": "What We Wanna Do"
+      }
     },
     {
+      "rank": 34,
+      "title": "I Don't Wanna Live Forever (Fifty Shades Darker)",
       "artist": "Zayn / Taylor Swift",
       "position": {
         "Last Week": "34",
         "Peak Position": 33,
         "Wks on Chart": 6
-      },
-      "rank": 34,
-      "spotify": "http://open.spotify.com/track/6yIdwnpDHufLWgQcveTPMk?utm_campaign=billboard",
-      "title": "I Don't Wanna Live Forever (Fifty Shades Darker)"
+      }
     },
     {
+      "rank": 35,
+      "title": "Move Your Body",
       "artist": "Sia",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy1349197959262812039.jpg",
       "position": {
         "Last Week": "33",
         "Peak Position": 1,
         "Wks on Chart": 14
-      },
-      "rank": 35,
-      "spotify": "http://open.spotify.com/track/7jbIwfAQn5n8Pray78dGQp?utm_campaign=billboard",
-      "title": "Move Your Body"
+      }
     },
     {
+      "rank": 36,
+      "title": "Ageless Prince",
       "artist": "Jimmy D. Robinson & A Flock Of Seagulls",
-      "cover": "http://www.billboard.com/images/pref_images/q59429ub8l3.jpg",
       "position": {
         "Last Week": "35",
         "Peak Position": 25,
         "Wks on Chart": 7
-      },
-      "rank": 36,
-      "title": "Ageless Prince"
+      }
     },
     {
+      "rank": 37,
+      "title": "You Don't Know Me",
       "artist": "Jax Jones Featuring RAYE",
-      "cover": "http://www.billboard.com/images/pref_images/q58494w3ocm.jpg",
       "position": {
         "Last Week": "41",
         "Peak Position": 37,
         "Wks on Chart": 4
-      },
-      "rank": 37,
-      "spotify": "http://open.spotify.com/track/32zHrpXLkwgh4ZHwJZ6fOS?utm_campaign=billboard",
-      "title": "You Don't Know Me"
+      }
     },
     {
+      "rank": 38,
+      "title": "Freedom",
       "artist": "Nadel Paris",
       "position": {
         "Last Week": "43",
         "Peak Position": 38,
         "Wks on Chart": 3
-      },
-      "rank": 38,
-      "spotify": "http://open.spotify.com/track/3nqMEpT1gy3yyz7FP9zrEe?utm_campaign=billboard",
-      "title": "Freedom"
+      }
     },
     {
+      "rank": 39,
+      "title": "Higher Love",
       "artist": "Lisa Williams",
       "position": {
         "Last Week": "45",
         "Peak Position": 39,
         "Wks on Chart": 2
-      },
-      "rank": 39,
-      "spotify": "http://open.spotify.com/track/5zHWa1L7hbVztdR1Ly2taA?utm_campaign=billboard",
-      "title": "Higher Love"
+      }
     },
     {
+      "rank": 40,
+      "title": "Unbeautiful",
       "artist": "KAAT",
       "position": {
         "Last Week": "30",
         "Peak Position": 19,
         "Wks on Chart": 9
-      },
-      "rank": 40,
-      "spotify": "http://open.spotify.com/track/284SfBbmWKgwvuhFxdX0Tf?utm_campaign=billboard",
-      "title": "Unbeautiful"
+      }
     },
     {
+      "rank": 41,
+      "title": "Enough Is Enough 2017",
       "artist": "Donna Summer & Barbra Streisand",
-      "cover": "http://www.billboard.com/images/pref_images/q35210dzifc.jpg",
       "position": {
         "Last Week": "21",
         "Peak Position": 3,
         "Wks on Chart": 13
-      },
-      "rank": 41,
-      "title": "Enough Is Enough 2017"
+      }
     },
     {
+      "rank": 42,
+      "title": "Koinz",
       "artist": "SR",
       "position": {
         "Last Week": "22",
         "Peak Position": 7,
         "Wks on Chart": 12
-      },
-      "rank": 42,
-      "spotify": "http://open.spotify.com/track/0XbBXEBF2rQ4EjtAV8C5q7?utm_campaign=billboard",
-      "title": "Koinz"
+      }
     },
     {
+      "rank": 43,
+      "title": "Little Diva",
       "artist": "Taja Sevelle",
-      "cover": "http://www.billboard.com/images/pref_images/p02239mrl51.jpg",
       "position": {
         "Last Week": "49",
         "Peak Position": 43,
         "Wks on Chart": 2
-      },
-      "rank": 43,
-      "spotify": "http://open.spotify.com/track/78Z56bbE3JmqPEDFjBCaUi?utm_campaign=billboard",
-      "title": "Little Diva"
+      }
     },
     {
+      "rank": 44,
+      "title": "Just Say",
       "artist": "KDA Featuring Tinashe",
       "position": {
         "Last Week": "32",
         "Peak Position": 15,
         "Wks on Chart": 10
-      },
-      "rank": 44,
-      "spotify": "http://open.spotify.com/track/0sHnZNTPbyAFqoN67JbGo5?utm_campaign=billboard",
-      "title": "Just Say"
+      }
     },
     {
+      "rank": 45,
+      "title": "By Your Side",
       "artist": "Jonas Blue Featuring RAYE",
-      "cover": "http://www.billboard.com/images/pref_images/q60134p8o5h.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 45,
         "Wks on Chart": 1
-      },
-      "rank": 45,
-      "spotify": "http://open.spotify.com/track/51NBMjiv4t1nUiLC9Bim3G?utm_campaign=billboard",
-      "title": "By Your Side"
+      }
     },
     {
+      "rank": 46,
+      "title": "Unleashed",
       "artist": "Nathalie Archangel",
       "position": {
         "Last Week": "--",
         "Peak Position": 46,
         "Wks on Chart": 1
-      },
-      "rank": 46,
-      "spotify": "http://open.spotify.com/track/4kRau5BXw9dWShxP2aFAbZ?utm_campaign=billboard",
-      "title": "Unleashed"
+      }
     },
     {
+      "rank": 47,
+      "title": "Hips Sing",
       "artist": "DJ Sultan Featuring Elephant Man",
       "position": {
         "Last Week": "--",
         "Peak Position": 47,
         "Wks on Chart": 1
-      },
-      "rank": 47,
-      "spotify": "http://open.spotify.com/track/7dqcnXDi6JBuIA6zSBklHr?utm_campaign=billboard",
-      "title": "Hips Sing"
+      }
     },
     {
+      "rank": 48,
+      "title": "California Heaven",
       "artist": "JAHKOY Featuring ScHoolboy Q",
-      "cover": "http://www.billboard.com/images/pref_images/q59920bfmje.jpg",
       "position": {
         "Last Week": "44",
         "Peak Position": 31,
         "Wks on Chart": 9
-      },
-      "rank": 48,
-      "spotify": "http://open.spotify.com/track/5ikQkfpCpEN3aGntSPUBoh?utm_campaign=billboard",
-      "title": "California Heaven"
+      }
     },
     {
+      "rank": 49,
+      "title": "Distortion",
       "artist": "J Sutta",
       "position": {
         "Last Week": "37",
         "Peak Position": 1,
         "Wks on Chart": 15
-      },
-      "rank": 49,
-      "spotify": "http://open.spotify.com/track/209SKpCcEbaTNODOQ26mdz?utm_campaign=billboard",
-      "title": "Distortion"
+      }
     },
     {
+      "rank": 50,
+      "title": "Living Out Loud",
       "artist": "Brooke Candy Featuring Sia",
-      "cover": "http://www.billboard.com/images/pref_images/q38799bv7qa.jpg",
       "position": {
         "Last Week": "53",
         "Peak Position": 50,
         "Wks on Chart": 1
-      },
-      "rank": 50,
-      "spotify": "http://open.spotify.com/track/5SfcipP8VRPShcDC56tiYv?utm_campaign=billboard",
-      "title": "Living Out Loud"
+      }
     }
   ]
 }

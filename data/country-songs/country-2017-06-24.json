@@ -1,603 +1,506 @@
 {
-  "chart_date": "2017-06-24",
   "name": "Country",
+  "chart_date": "2017-06-24",
   "tracks": [
     {
+      "rank": 1,
+      "title": "Body Like A Back Road",
       "artist": "Sam Hunt",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6822012645735037338.jpg",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 19
-      },
-      "rank": 1,
-      "spotify": "http://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO?utm_campaign=billboard",
-      "title": "Body Like A Back Road"
+      }
     },
     {
+      "rank": 2,
+      "title": "In Case You Didn't Know",
       "artist": "Brett Young",
-      "cover": "http://www.billboard.com/images/pref_images/q53759tn10g.jpg",
       "position": {
         "Last Week": "2",
         "Peak Position": 2,
         "Wks on Chart": 40
-      },
-      "rank": 2,
-      "spotify": "http://open.spotify.com/track/2dWgzqawzDkBL8QfZw92Ub?utm_campaign=billboard",
-      "title": "In Case You Didn't Know"
+      }
     },
     {
+      "rank": 3,
+      "title": "Hurricane",
       "artist": "Luke Combs",
-      "cover": "http://www.billboard.com/images/pref_images/q52175l05oo.jpg",
       "position": {
         "Last Week": "3",
         "Peak Position": 3,
         "Wks on Chart": 41
-      },
-      "rank": 3,
-      "spotify": "http://open.spotify.com/track/3Z0lKi6tXXrp4VfUmSm5Q4?utm_campaign=billboard",
-      "title": "Hurricane"
+      }
     },
     {
+      "rank": 4,
+      "title": "The Fighter",
       "artist": "Keith Urban Featuring Carrie Underwood",
-      "cover": "http://www.billboard.com/images/pref_images/q21684e0670.jpg",
       "position": {
         "Last Week": "6",
         "Peak Position": 2,
         "Wks on Chart": 25
-      },
-      "rank": 4,
-      "spotify": "http://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim?utm_campaign=billboard",
-      "title": "The Fighter"
+      }
     },
     {
+      "rank": 5,
+      "title": "God, Your Mama, And Me",
       "artist": "Florida Georgia Line Featuring Backstreet Boys",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy3030380066184791162.jpg",
       "position": {
         "Last Week": "4",
         "Peak Position": 4,
         "Wks on Chart": 25
-      },
-      "rank": 5,
-      "spotify": "http://open.spotify.com/track/4aDxVCy5DqJW6TfVftmT00?utm_campaign=billboard",
-      "title": "God, Your Mama, And Me"
+      }
     },
     {
+      "rank": 6,
+      "title": "Craving You",
       "artist": "Thomas Rhett Featuring Maren Morris",
-      "cover": "http://www.billboard.com/images/pref_images/q59500pw3lk.jpg",
       "position": {
         "Last Week": "8",
         "Peak Position": 5,
         "Wks on Chart": 11
-      },
-      "rank": 6,
-      "spotify": "http://open.spotify.com/track/6zLdXcmvIxnAXpz9sXFnIE?utm_campaign=billboard",
-      "title": "Craving You"
+      }
     },
     {
+      "rank": 7,
+      "title": "If I Told You",
       "artist": "Darius Rucker",
-      "cover": "http://www.billboard.com/images/pref_images/q62208p8f27.jpg",
       "position": {
         "Last Week": "5",
         "Peak Position": 4,
         "Wks on Chart": 43
-      },
-      "rank": 7,
-      "spotify": "http://open.spotify.com/track/6PjIjfiTS6OMft5HXuW2PV?utm_campaign=billboard",
-      "title": "If I Told You"
+      }
     },
     {
+      "rank": 8,
+      "title": "How Not To",
       "artist": "Dan + Shay",
-      "cover": "http://www.billboard.com/images/pref_images/q47659n0jy6.jpg",
       "position": {
         "Last Week": "9",
         "Peak Position": 8,
         "Wks on Chart": 35
-      },
-      "rank": 8,
-      "spotify": "http://open.spotify.com/track/4n0xztUAbHPUV8G3NQvF30?utm_campaign=billboard",
-      "title": "How Not To"
+      }
     },
     {
+      "rank": 9,
+      "title": "My Girl",
       "artist": "Dylan Scott",
-      "cover": "http://www.billboard.com/images/pref_images/q54888gxmyi.jpg",
       "position": {
         "Last Week": "11",
         "Peak Position": 9,
         "Wks on Chart": 44
-      },
-      "rank": 9,
-      "spotify": "http://open.spotify.com/track/01LnU6tsA2kjEZ7ojXgiuv?utm_campaign=billboard",
-      "title": "My Girl"
+      }
     },
     {
+      "rank": 10,
+      "title": "Every Time I Hear That Song",
       "artist": "Blake Shelton",
-      "cover": "http://www.billboard.com/images/pref_images/q50584sahe1.jpg",
       "position": {
         "Last Week": "12",
         "Peak Position": 10,
         "Wks on Chart": 17
-      },
-      "rank": 10,
-      "spotify": "http://open.spotify.com/track/0c4ICGb0jvszKj3KPR59JU?utm_campaign=billboard",
-      "title": "Every Time I Hear That Song"
+      }
     },
     {
+      "rank": 11,
+      "title": "You Look Good",
       "artist": "Lady Antebellum",
-      "cover": "http://www.billboard.com/images/pref_images/q61815gv43t.jpg",
       "position": {
         "Last Week": "13",
         "Peak Position": 9,
         "Wks on Chart": 21
-      },
-      "rank": 11,
-      "spotify": "http://open.spotify.com/track/40UAL8woeLT1Z8bbOMYvhk?utm_campaign=billboard",
-      "title": "You Look Good"
+      }
     },
     {
+      "rank": 12,
+      "title": "Drinkin' Problem",
       "artist": "Midland",
-      "cover": "http://www.billboard.com/images/pref_images/q62785cs6tf.jpg",
       "position": {
         "Last Week": "14",
         "Peak Position": 12,
         "Wks on Chart": 14
-      },
-      "rank": 12,
-      "spotify": "http://open.spotify.com/track/2cbwF3iVOhzpY7KVzDKWXa?utm_campaign=billboard",
-      "title": "Drinkin' Problem"
+      }
     },
     {
+      "rank": 13,
+      "title": "Flatliner",
       "artist": "Cole Swindell",
-      "cover": "http://www.billboard.com/images/pref_images/q44855sdezx.jpg",
       "position": {
         "Last Week": "15",
         "Peak Position": 13,
         "Wks on Chart": 23
-      },
-      "rank": 13,
-      "spotify": "http://open.spotify.com/track/0WyFpxYlBCgH1gMXd26OOr?utm_campaign=billboard",
-      "title": "Flatliner"
+      }
     },
     {
+      "rank": 14,
+      "title": "Yours If You Want It",
       "artist": "Rascal Flatts",
-      "cover": "http://www.billboard.com/images/pref_images/q63323f57hs.jpg",
       "position": {
         "Last Week": "16",
         "Peak Position": 14,
         "Wks on Chart": 22
-      },
-      "rank": 14,
-      "spotify": "http://open.spotify.com/track/0MCj53AsRW14o9QEIBSeZD?utm_campaign=billboard",
-      "title": "Yours If You Want It"
+      }
     },
     {
+      "rank": 15,
+      "title": "No Such Thing As A Broken Heart",
       "artist": "Old Dominion",
-      "cover": "http://www.billboard.com/images/pref_images/q42705qqqp3.jpg",
       "position": {
         "Last Week": "17",
         "Peak Position": 15,
         "Wks on Chart": 13
-      },
-      "rank": 15,
-      "spotify": "http://open.spotify.com/track/1JupdHkhDzE4XtrFFe9w6o?utm_campaign=billboard",
-      "title": "No Such Thing As A Broken Heart"
+      }
     },
     {
+      "rank": 16,
+      "title": "Small Town Boy",
       "artist": "Dustin Lynch",
-      "cover": "http://www.billboard.com/images/pref_images/q55873frqhy.jpg",
       "position": {
         "Last Week": "18",
         "Peak Position": 16,
         "Wks on Chart": 16
-      },
-      "rank": 16,
-      "spotify": "http://open.spotify.com/track/045SnNDjOfOLKM5OxARH4g?utm_campaign=billboard",
-      "title": "Small Town Boy"
+      }
     },
     {
+      "rank": 17,
+      "title": "Somebody Else Will",
       "artist": "Justin Moore",
-      "cover": "http://www.billboard.com/images/pref_images/q53783t3j8n.jpg",
       "position": {
         "Last Week": "20",
         "Peak Position": 17,
         "Wks on Chart": 21
-      },
-      "rank": 17,
-      "spotify": "http://open.spotify.com/track/3n2A6l4UayVe3GGKCvfQWV?utm_campaign=billboard",
-      "title": "Somebody Else Will"
+      }
     },
     {
+      "rank": 18,
+      "title": "What Ifs",
       "artist": "Kane Brown Featuring Lauren Alaina",
-      "cover": "http://www.billboard.com/images/pref_images/q48336e76qv.jpg",
       "position": {
         "Last Week": "21",
         "Peak Position": 18,
         "Wks on Chart": 27
-      },
-      "rank": 18,
-      "spotify": "http://open.spotify.com/track/7zVCrzzEJU7u24sbJPXA5W?utm_campaign=billboard",
-      "title": "What Ifs"
+      }
     },
     {
+      "rank": 19,
+      "title": "Speak To A Girl",
       "artist": "Tim McGraw & Faith Hill",
-      "cover": "http://www.billboard.com/images/pref_images/q63339s43ob.jpg",
       "position": {
         "Last Week": "23",
         "Peak Position": 6,
         "Wks on Chart": 12
-      },
-      "rank": 19,
-      "title": "Speak To A Girl"
+      }
     },
     {
+      "rank": 20,
+      "title": "It Ain't My Fault",
       "artist": "Brothers Osborne",
-      "cover": "http://www.billboard.com/images/pref_images/q45396ctvxu.jpg",
       "position": {
         "Last Week": "25",
         "Peak Position": 20,
         "Wks on Chart": 20
-      },
-      "rank": 20,
-      "spotify": "http://open.spotify.com/track/4hQQHuxhgLVlF0962bJQCx?utm_campaign=billboard",
-      "title": "It Ain't My Fault"
+      }
     },
     {
+      "rank": 21,
+      "title": "My Old Man",
       "artist": "Zac Brown Band",
-      "cover": "http://www.billboard.com/images/pref_images/q64001pfo0d.jpg",
       "position": {
         "Last Week": "19",
         "Peak Position": 10,
         "Wks on Chart": 19
-      },
-      "rank": 21,
-      "spotify": "http://open.spotify.com/track/31lhygAGEsvwcUvhakP6yY?utm_campaign=billboard",
-      "title": "My Old Man"
+      }
     },
     {
+      "rank": 22,
+      "title": "Do I Make You Wanna",
       "artist": "Billy Currington",
-      "cover": "http://www.billboard.com/images/pref_images/q31201gs60n.jpg",
       "position": {
         "Last Week": "26",
         "Peak Position": 22,
         "Wks on Chart": 20
-      },
-      "rank": 22,
-      "spotify": "http://open.spotify.com/track/3I7krC8kr0gFR7P6vInR1I?utm_campaign=billboard",
-      "title": "Do I Make You Wanna"
+      }
     },
     {
+      "rank": 23,
+      "title": "Tin Man",
       "artist": "Miranda Lambert",
-      "cover": "http://www.billboard.com/images/pref_images/q57592jia0k.jpg",
       "position": {
         "Last Week": "28",
         "Peak Position": 15,
         "Wks on Chart": 11
-      },
-      "rank": 23,
-      "spotify": "http://open.spotify.com/track/4ckQIgBy1gVeevf7UAereE?utm_campaign=billboard",
-      "title": "Tin Man"
+      }
     },
     {
+      "rank": 24,
+      "title": "For Her",
       "artist": "Chris Lane",
-      "cover": "http://www.billboard.com/images/pref_images/q57351nu4ci.jpg",
       "position": {
         "Last Week": "27",
         "Peak Position": 23,
         "Wks on Chart": 29
-      },
-      "rank": 24,
-      "spotify": "http://open.spotify.com/track/6VB64hpnpRNqukYsIX76uo?utm_campaign=billboard",
-      "title": "For Her"
+      }
     },
     {
+      "rank": 25,
+      "title": "Somethin' I'm Good At",
       "artist": "Brett Eldredge",
-      "cover": "http://www.billboard.com/images/pref_images/q62959mov1y.jpg",
       "position": {
         "Last Week": "29",
         "Peak Position": 25,
         "Wks on Chart": 15
-      },
-      "rank": 25,
-      "spotify": "http://open.spotify.com/track/6zDx6Xf99MZPziRZH2iddZ?utm_campaign=billboard",
-      "title": "Somethin' I'm Good At"
+      }
     },
     {
+      "rank": 26,
+      "title": "Either Way",
       "artist": "Chris Stapleton",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6657240638416032298.jpg",
       "position": {
         "Last Week": "24",
         "Peak Position": 17,
         "Wks on Chart": 5
-      },
-      "rank": 26,
-      "spotify": "http://open.spotify.com/track/6Wo5YxkdXgwzKQZbDg2r17?utm_campaign=billboard",
-      "title": "Either Way"
+      }
     },
     {
+      "rank": 27,
+      "title": "More Girls Like You",
       "artist": "Kip Moore",
-      "cover": "http://www.billboard.com/images/pref_images/q31211hhi1n.jpg",
       "position": {
         "Last Week": "30",
         "Peak Position": 27,
         "Wks on Chart": 16
-      },
-      "rank": 27,
-      "spotify": "http://open.spotify.com/track/3qP5nPy0qh7iodfLMBsfbr?utm_campaign=billboard",
-      "title": "More Girls Like You"
+      }
     },
     {
+      "rank": 28,
+      "title": "I Could Use A Love Song",
       "artist": "Maren Morris",
-      "cover": "http://www.billboard.com/images/pref_images/q38339vu2ky.jpg",
       "position": {
         "Last Week": "31",
         "Peak Position": 28,
         "Wks on Chart": 12
-      },
-      "rank": 28,
-      "spotify": "http://open.spotify.com/track/5OwOWdY2hsSAtSERkxUwoc?utm_campaign=billboard",
-      "title": "I Could Use A Love Song"
+      }
     },
     {
+      "rank": 29,
+      "title": "Every Little Thing",
       "artist": "Carly Pearce",
-      "cover": "http://www.billboard.com/images/pref_images/q62838iwk0p.jpg",
       "position": {
         "Last Week": "33",
         "Peak Position": 29,
         "Wks on Chart": 8
-      },
-      "rank": 29,
-      "spotify": "http://open.spotify.com/track/5WSGkeDfs8mza3YmTBTTdI?utm_campaign=billboard",
-      "title": "Every Little Thing"
+      }
     },
     {
+      "rank": 30,
+      "title": "Heartache On The Dance Floor",
       "artist": "Jon Pardi",
-      "cover": "http://www.billboard.com/images/pref_images/q59269q7bgc.jpg",
       "position": {
         "Last Week": "32",
         "Peak Position": 30,
         "Wks on Chart": 5
-      },
-      "rank": 30,
-      "spotify": "http://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD?utm_campaign=billboard",
-      "title": "Heartache On The Dance Floor"
+      }
     },
     {
+      "rank": 31,
+      "title": "They Don't Know",
       "artist": "Jason Aldean",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy4208241500960696799.jpg",
       "position": {
         "Last Week": "34",
         "Peak Position": 31,
         "Wks on Chart": 4
-      },
-      "rank": 31,
-      "spotify": "http://open.spotify.com/track/5zwKfokZAwe4kz68lEHtUf?utm_campaign=billboard",
-      "title": "They Don't Know"
+      }
     },
     {
+      "rank": 32,
+      "title": "Ring On Every Finger",
       "artist": "LOCASH",
-      "cover": "http://www.billboard.com/images/pref_images/q36721jog3s.jpg",
       "position": {
         "Last Week": "37",
         "Peak Position": 32,
         "Wks on Chart": 13
-      },
-      "rank": 32,
-      "spotify": "http://open.spotify.com/track/2TPTNQ98FqAFjD5LjhHOgg?utm_campaign=billboard",
-      "title": "Ring On Every Finger"
+      }
     },
     {
+      "rank": 33,
+      "title": "Makin' Me Look Good Again",
       "artist": "Drake White",
-      "cover": "http://www.billboard.com/images/pref_images/q53795sw1vw.jpg",
       "position": {
         "Last Week": "35",
         "Peak Position": 33,
         "Wks on Chart": 16
-      },
-      "rank": 33,
-      "spotify": "http://open.spotify.com/track/1VMQYQQlYHhbudATkSJiP1?utm_campaign=billboard",
-      "title": "Makin' Me Look Good Again"
+      }
     },
     {
+      "rank": 34,
+      "title": "Round Here Buzz",
       "artist": "Eric Church",
-      "cover": "http://www.billboard.com/images/pref_images/q43372otnk7.jpg",
       "position": {
         "Last Week": "38",
         "Peak Position": 34,
         "Wks on Chart": 9
-      },
-      "rank": 34,
-      "title": "Round Here Buzz"
+      }
     },
     {
+      "rank": 35,
+      "title": "The Way I Talk",
       "artist": "Morgan Wallen",
-      "cover": "http://www.billboard.com/images/pref_images/q61219h8vcf.jpg",
       "position": {
         "Last Week": "39",
         "Peak Position": 35,
         "Wks on Chart": 16
-      },
-      "rank": 35,
-      "spotify": "http://open.spotify.com/track/3J5zIZILfjaIXUefgCLPnB?utm_campaign=billboard",
-      "title": "The Way I Talk"
+      }
     },
     {
+      "rank": 36,
+      "title": "Ask Me How I Know",
       "artist": "Garth Brooks",
-      "cover": "http://www.billboard.com/images/pref_images/q35529cwd3s.jpg",
       "position": {
         "Last Week": "41",
         "Peak Position": 36,
         "Wks on Chart": 3
-      },
-      "rank": 36,
-      "title": "Ask Me How I Know"
+      }
     },
     {
+      "rank": 37,
+      "title": "Broken Halos",
       "artist": "Chris Stapleton",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6657240638416032298.jpg",
       "position": {
         "Last Week": "36",
         "Peak Position": 13,
         "Wks on Chart": 8
-      },
-      "rank": 37,
-      "spotify": "http://open.spotify.com/track/2w1N1jR7L9HsIoLekqsYf2?utm_campaign=billboard",
-      "title": "Broken Halos"
+      }
     },
     {
+      "rank": 38,
+      "title": "Fix A Drink",
       "artist": "Chris Janson",
-      "cover": "http://www.billboard.com/images/pref_images/q64217okzya.jpg",
       "position": {
         "Last Week": "42",
         "Peak Position": 38,
         "Wks on Chart": 2
-      },
-      "rank": 38,
-      "spotify": "http://open.spotify.com/track/2Zt3mJdrTWNJktvromJuOw?utm_campaign=billboard",
-      "title": "Fix A Drink"
+      }
     },
     {
+      "rank": 39,
+      "title": "Losing Sleep",
       "artist": "Chris Young",
-      "cover": "http://www.billboard.com/images/pref_images/q59092e7u52.jpg",
       "position": {
         "Last Week": "40",
         "Peak Position": 26,
         "Wks on Chart": 4
-      },
-      "rank": 39,
-      "spotify": "http://open.spotify.com/track/5Feu0AyHLrW0mCRAyUnZ6W?utm_campaign=billboard",
-      "title": "Losing Sleep"
+      }
     },
     {
+      "rank": 40,
+      "title": "Last Time For Everything",
       "artist": "Brad Paisley",
-      "cover": "http://www.billboard.com/images/pref_images/q62821hn2gr.jpg",
       "position": {
         "Last Week": "43",
         "Peak Position": 40,
         "Wks on Chart": 8
-      },
-      "rank": 40,
-      "spotify": "http://open.spotify.com/track/6EUhzdO3UCmf1V0IJvvaDN?utm_campaign=billboard",
-      "title": "Last Time For Everything"
+      }
     },
     {
+      "rank": 41,
+      "title": "Legends",
       "artist": "Kelsea Ballerini",
-      "cover": "http://www.billboard.com/images/pref_images/q28745ot4o8.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 41,
         "Wks on Chart": 1
-      },
-      "rank": 41,
-      "spotify": "http://open.spotify.com/track/6caDnpIOivsjLRXqlJJxCD?utm_campaign=billboard",
-      "title": "Legends"
+      }
     },
     {
+      "rank": 42,
+      "title": "Greatest Love Story",
       "artist": "LANCO",
-      "cover": "http://www.billboard.com/images/pref_images/q48412gawbh.jpg",
       "position": {
         "Last Week": "46",
         "Peak Position": 37,
         "Wks on Chart": 12
-      },
-      "rank": 42,
-      "spotify": "http://open.spotify.com/track/0kdiUZDcLIFw0Buo9r0Q4z?utm_campaign=billboard",
-      "title": "Greatest Love Story"
+      }
     },
     {
+      "rank": 43,
+      "title": "Five More Minutes",
       "artist": "Scotty McCreery",
-      "cover": "http://www.billboard.com/images/pref_images/q13579xy2k4.jpg",
       "position": {
         "Last Week": "44",
         "Peak Position": 31,
         "Wks on Chart": 3
-      },
-      "rank": 43,
-      "spotify": "http://open.spotify.com/track/1XuXUiGxXr1MeWB9h50hHc?utm_campaign=billboard",
-      "title": "Five More Minutes"
+      }
     },
     {
+      "rank": 44,
+      "title": "A Girl Like You",
       "artist": "Easton Corbin",
-      "cover": "http://www.billboard.com/images/pref_images/q33205wj3t4.jpg",
       "position": {
         "Last Week": "45",
         "Peak Position": 43,
         "Wks on Chart": 10
-      },
-      "rank": 44,
-      "spotify": "http://open.spotify.com/track/3AsNVBJ7LHsltdu9490ZiS?utm_campaign=billboard",
-      "title": "A Girl Like You"
+      }
     },
     {
+      "rank": 45,
+      "title": "You Broke Up With Me",
       "artist": "Walker Hayes",
-      "cover": "http://www.billboard.com/images/pref_images/q53824x2agf.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 45,
         "Wks on Chart": 2
-      },
-      "rank": 45,
-      "spotify": "http://open.spotify.com/track/6UsoV6X96Rox9mfxoz7SFy?utm_campaign=billboard",
-      "title": "You Broke Up With Me"
+      }
     },
     {
+      "rank": 46,
+      "title": "Sway",
       "artist": "Danielle Bradbery",
-      "cover": "http://www.billboard.com/images/pref_images/q53766lcdro.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 46,
         "Wks on Chart": 1
-      },
-      "rank": 46,
-      "spotify": "http://open.spotify.com/track/5HenrHX9W1iEenLOCR9JOP?utm_campaign=billboard",
-      "title": "Sway"
+      }
     },
     {
+      "rank": 47,
+      "title": "Just A Phase",
       "artist": "Adam Craig",
-      "cover": "http://www.billboard.com/images/pref_images/q54520m1qn4.jpg",
       "position": {
         "Last Week": "47",
         "Peak Position": 47,
         "Wks on Chart": 2
-      },
-      "rank": 47,
-      "spotify": "http://open.spotify.com/track/2rkOU2yKq2O1atwzdvZOcA?utm_campaign=billboard",
-      "title": "Just A Phase"
+      }
     },
     {
+      "rank": 48,
+      "title": "All The Pretty Girls",
       "artist": "Kenny Chesney",
-      "cover": "http://www.billboard.com/images/pref_images/q50551vvimx.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 48,
         "Wks on Chart": 1
-      },
-      "rank": 48,
-      "spotify": "http://open.spotify.com/track/66pxmg3Jhjm09tHoWR1wVR?utm_campaign=billboard",
-      "title": "All The Pretty Girls"
+      }
     },
     {
+      "rank": 49,
+      "title": "Missing",
       "artist": "William Michael Morgan",
-      "cover": "http://www.billboard.com/images/pref_images/q43007hk51g.jpg",
       "position": {
         "Last Week": "50",
         "Peak Position": 49,
         "Wks on Chart": 3
-      },
-      "rank": 49,
-      "spotify": "http://open.spotify.com/track/5uaP5130ErwXN5tfUl4a8K?utm_campaign=billboard",
-      "title": "Missing"
+      }
     },
     {
+      "rank": 50,
+      "title": "Good Company",
       "artist": "Jake Owen",
-      "cover": "http://www.billboard.com/images/pref_images/q56804yt3mq.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 50,
         "Wks on Chart": 1
-      },
-      "rank": 50,
-      "spotify": "http://open.spotify.com/track/0z87h9TTEDeNNh2N0cLaA1?utm_campaign=billboard",
-      "title": "Good Company"
+      }
     }
   ]
 }

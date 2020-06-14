@@ -1,445 +1,406 @@
 {
-  "chart_date": "2017-08-12",
   "name": "Pop",
+  "chart_date": "2017-08-12",
   "tracks": [
     {
+      "rank": 1,
+      "title": "Despacito",
       "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
-      "cover": "http://www.billboard.com/images/pref_images/q61808osztw.jpg",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 14
-      },
-      "rank": 1,
-      "title": "Despacito"
+      }
     },
     {
+      "rank": 2,
+      "title": "There's Nothing Holdin' Me Back",
       "artist": "Shawn Mendes",
-      "cover": "http://www.billboard.com/images/pref_images/q63987txfvh.jpg",
       "position": {
         "Last Week": "3",
         "Peak Position": 2,
         "Wks on Chart": 14
-      },
-      "rank": 2,
-      "title": "There's Nothing Holdin' Me Back"
+      }
     },
     {
+      "rank": 3,
+      "title": "Now Or Never",
       "artist": "Halsey",
-      "cover": "http://www.billboard.com/images/pref_images/q63950uzhc1.jpg",
       "position": {
         "Last Week": "5",
         "Peak Position": 3,
         "Wks on Chart": 17
-      },
-      "rank": 3,
-      "title": "Now Or Never"
+      }
     },
     {
+      "rank": 4,
+      "title": "Believer",
       "artist": "Imagine Dragons",
-      "cover": "http://www.billboard.com/images/pref_images/q64533i61we.jpg",
       "position": {
         "Last Week": "6",
         "Peak Position": 3,
         "Wks on Chart": 16
-      },
-      "rank": 4,
-      "title": "Believer"
+      }
     },
     {
+      "rank": 5,
+      "title": "Stay",
       "artist": "Zedd & Alessia Cara",
-      "cover": "http://www.billboard.com/images/pref_images/q32228yoe1u.jpg",
       "position": {
         "Last Week": "2",
         "Peak Position": 1,
         "Wks on Chart": 22
-      },
-      "rank": 5,
-      "title": "Stay"
+      }
     },
     {
+      "rank": 6,
+      "title": "I'm The One",
       "artist": "DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",
-      "cover": "http://www.billboard.com/images/pref_images/q64532pl64x.jpg",
       "position": {
         "Last Week": "4",
         "Peak Position": 3,
         "Wks on Chart": 14
-      },
-      "rank": 6,
-      "title": "I'm The One"
+      }
     },
     {
+      "rank": 7,
+      "title": "Attention",
       "artist": "Charlie Puth",
-      "cover": "http://www.billboard.com/images/pref_images/q46483ubdhf.jpg",
       "position": {
         "Last Week": "8",
         "Peak Position": 4,
         "Wks on Chart": 13
-      },
-      "rank": 7,
-      "title": "Attention"
+      }
     },
     {
+      "rank": 8,
+      "title": "Wild Thoughts",
       "artist": "DJ Khaled Featuring Rihanna & Bryson Tiller",
-      "cover": "http://www.billboard.com/images/pref_images/q64532pl64x.jpg",
       "position": {
         "Last Week": "11",
         "Peak Position": 7,
         "Wks on Chart": 7
-      },
-      "rank": 8,
-      "title": "Wild Thoughts"
+      }
     },
     {
+      "rank": 9,
+      "title": "Castle On The Hill",
       "artist": "Ed Sheeran",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy8542323582613406699.jpg",
       "position": {
         "Last Week": "7",
         "Peak Position": 7,
         "Wks on Chart": 17
-      },
-      "rank": 9,
-      "title": "Castle On The Hill"
+      }
     },
     {
+      "rank": 10,
+      "title": "Slow Hands",
       "artist": "Niall Horan",
-      "cover": "http://www.billboard.com/images/pref_images/q64323yvh7p.jpg",
       "position": {
         "Last Week": "13",
         "Peak Position": 9,
         "Wks on Chart": 12
-      },
-      "rank": 10,
-      "title": "Slow Hands"
+      }
     },
     {
+      "rank": 11,
+      "title": "It Ain't Me",
       "artist": "Kygo x Selena Gomez",
       "position": {
         "Last Week": "10",
         "Peak Position": 2,
         "Wks on Chart": 24
-      },
-      "rank": 11,
-      "title": "It Ain't Me"
+      }
     },
     {
+      "rank": 12,
+      "title": "That's What I Like",
       "artist": "Bruno Mars",
-      "cover": "http://www.billboard.com/images/pref_images/q59725qvpol.jpg",
       "position": {
         "Last Week": "9",
         "Peak Position": 1,
         "Wks on Chart": 28
-      },
-      "rank": 12,
-      "title": "That's What I Like"
+      }
     },
     {
+      "rank": 13,
+      "title": "Shape Of You",
       "artist": "Ed Sheeran",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy8542323582613406699.jpg",
       "position": {
         "Last Week": "12",
         "Peak Position": 1,
         "Wks on Chart": 30
-      },
-      "rank": 13,
-      "title": "Shape Of You"
+      }
     },
     {
+      "rank": 14,
+      "title": "Strip That Down",
       "artist": "Liam Payne Featuring Quavo",
-      "cover": "http://www.billboard.com/images/pref_images/q64655bdg81.jpg",
       "position": {
         "Last Week": "16",
         "Peak Position": 10,
         "Wks on Chart": 10
-      },
-      "rank": 14,
-      "title": "Strip That Down"
+      }
     },
     {
+      "rank": 15,
+      "title": "Feels",
       "artist": "Calvin Harris Featuring Pharrell Williams, Katy Perry & Big Sean",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy2692105048585419784.jpg",
       "position": {
         "Last Week": "18",
         "Peak Position": 11,
         "Wks on Chart": 7
-      },
-      "rank": 15,
-      "title": "Feels"
+      }
     },
     {
+      "rank": 16,
+      "title": "Body Like A Back Road",
       "artist": "Sam Hunt",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6822012645735037338.jpg",
       "position": {
         "Last Week": "17",
         "Peak Position": 15,
         "Wks on Chart": 12
-      },
-      "rank": 16,
-      "title": "Body Like A Back Road"
+      }
     },
     {
+      "rank": 17,
+      "title": "2U",
       "artist": "David Guetta Featuring Justin Bieber",
-      "cover": "http://www.billboard.com/images/pref_images/q55471n1se7.jpg",
       "position": {
         "Last Week": "19",
         "Peak Position": 15,
         "Wks on Chart": 8
-      },
-      "rank": 17,
-      "title": "2U"
+      }
     },
     {
+      "rank": 18,
+      "title": "Redbone",
       "artist": "Childish Gambino",
-      "cover": "http://www.billboard.com/images/pref_images/q60404tvb4i.jpg",
       "position": {
         "Last Week": "23",
         "Peak Position": 17,
         "Wks on Chart": 9
-      },
-      "rank": 18,
-      "title": "Redbone"
+      }
     },
     {
+      "rank": 19,
+      "title": "Versace On The Floor",
       "artist": "Bruno Mars",
-      "cover": "http://www.billboard.com/images/pref_images/q59725qvpol.jpg",
       "position": {
         "Last Week": "22",
         "Peak Position": 19,
         "Wks on Chart": 7
-      },
-      "rank": 19,
-      "title": "Versace On The Floor"
+      }
     },
     {
+      "rank": 20,
+      "title": "No Promises",
       "artist": "Cheat Codes Featuring Demi Lovato",
-      "cover": "http://www.billboard.com/images/pref_images/q65900n8juk.jpg",
       "position": {
         "Last Week": "24",
         "Peak Position": 18,
         "Wks on Chart": 14
-      },
-      "rank": 20,
-      "title": "No Promises"
+      }
     },
     {
+      "rank": 21,
+      "title": "Honest",
       "artist": "The Chainsmokers",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy4462751139365911250.jpg",
       "position": {
         "Last Week": "27",
         "Peak Position": 20,
         "Wks on Chart": 3
-      },
-      "rank": 21,
-      "title": "Honest"
+      }
     },
     {
+      "rank": 22,
+      "title": "Unforgettable",
       "artist": "French Montana Featuring Swae Lee",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy7387714621514325744.jpg",
       "position": {
         "Last Week": "26",
         "Peak Position": 21,
         "Wks on Chart": 6
-      },
-      "rank": 22,
-      "title": "Unforgettable"
+      }
     },
     {
+      "rank": 23,
+      "title": "Congratulations",
       "artist": "Post Malone Featuring Quavo",
-      "cover": "http://www.billboard.com/images/pref_images/q58965kol08.jpg",
       "position": {
         "Last Week": "25",
         "Peak Position": 23,
         "Wks on Chart": 11
-      },
-      "rank": 23,
-      "title": "Congratulations"
+      }
     },
     {
+      "rank": 24,
+      "title": "Praying",
       "artist": "Kesha",
-      "cover": "http://www.billboard.com/images/pref_images/q65762n4mpb.jpg",
       "position": {
         "Last Week": "31",
         "Peak Position": 22,
         "Wks on Chart": 3
-      },
-      "rank": 24,
-      "title": "Praying"
+      }
     },
     {
+      "rank": 25,
+      "title": "Down",
       "artist": "Fifth Harmony Featuring Gucci Mane",
-      "cover": "http://www.billboard.com/images/pref_images/q56395xnf8x.jpg",
       "position": {
         "Last Week": "28",
         "Peak Position": 25,
         "Wks on Chart": 8
-      },
-      "rank": 25,
-      "title": "Down"
+      }
     },
     {
+      "rank": 26,
+      "title": "Malibu",
       "artist": "Miley Cyrus",
-      "cover": "http://www.billboard.com/images/pref_images/q11643ot6gc.jpg",
       "position": {
         "Last Week": "21",
         "Peak Position": 16,
         "Wks on Chart": 12
-      },
-      "rank": 26,
-      "title": "Malibu"
+      }
     },
     {
+      "rank": 27,
+      "title": "1-800-273-8255",
       "artist": "Logic Featuring Alessia Cara & Khalid",
-      "cover": "http://www.billboard.com/images/pref_images/q63847yguyh.jpg",
       "position": {
         "Last Week": "29",
         "Peak Position": 27,
         "Wks on Chart": 7
-      },
-      "rank": 27,
-      "title": "1-800-273-8255"
+      }
     },
     {
+      "rank": 28,
+      "title": "Most Girls",
       "artist": "Hailee Steinfeld",
-      "cover": "http://www.billboard.com/images/pref_images/q58043g71qu.jpg",
       "position": {
         "Last Week": "30",
         "Peak Position": 28,
         "Wks on Chart": 10
-      },
-      "rank": 28,
-      "title": "Most Girls"
+      }
     },
     {
+      "rank": 29,
+      "title": "Bad Liar",
       "artist": "Selena Gomez",
-      "cover": "http://www.billboard.com/images/pref_images/q62381qbq73.jpg",
       "position": {
         "Last Week": "20",
         "Peak Position": 13,
         "Wks on Chart": 11
-      },
-      "rank": 29,
-      "title": "Bad Liar"
+      }
     },
     {
+      "rank": 30,
+      "title": "Get Low",
       "artist": "Zedd & Liam Payne",
-      "cover": "http://www.billboard.com/images/pref_images/q32228yoe1u.jpg",
       "position": {
         "Last Week": "33",
         "Peak Position": 30,
         "Wks on Chart": 3
-      },
-      "rank": 30,
-      "title": "Get Low"
+      }
     },
     {
+      "rank": 31,
+      "title": "Sorry Not Sorry",
       "artist": "Demi Lovato",
-      "cover": "http://www.billboard.com/images/pref_images/q57764tx7vi.jpg",
       "position": {
         "Last Week": "35",
         "Peak Position": 25,
         "Wks on Chart": 2
-      },
-      "rank": 31,
-      "title": "Sorry Not Sorry"
+      }
     },
     {
+      "rank": 32,
+      "title": "Glorious",
       "artist": "Macklemore Featuring Skylar Grey",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy9123958856352555375.jpg",
       "position": {
         "Last Week": "32",
         "Peak Position": 30,
         "Wks on Chart": 4
-      },
-      "rank": 32,
-      "title": "Glorious"
+      }
     },
     {
+      "rank": 33,
+      "title": "Location",
       "artist": "Khalid",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy7271750242439364836.jpg",
       "position": {
         "Last Week": "36",
         "Peak Position": 33,
         "Wks on Chart": 6
-      },
-      "rank": 33,
-      "title": "Location"
+      }
     },
     {
+      "rank": 34,
+      "title": "The Way I Are (Dance With Somebody)",
       "artist": "Bebe Rexha Featuring Lil Wayne",
-      "cover": "http://www.billboard.com/images/pref_images/q65552vraet.jpg",
       "position": {
         "Last Week": "34",
         "Peak Position": 34,
         "Wks on Chart": 4
-      },
-      "rank": 34,
-      "title": "The Way I Are (Dance With Somebody)"
+      }
     },
     {
+      "rank": 35,
+      "title": "Symphony",
       "artist": "Clean Bandit Featuring Zara Larsson",
-      "cover": "http://www.billboard.com/images/pref_images/q18473nqgl2.jpg",
       "position": {
         "Last Week": "37",
         "Peak Position": 35,
         "Wks on Chart": 3
-      },
-      "rank": 35,
-      "title": "Symphony"
+      }
     },
     {
+      "rank": 36,
+      "title": "Fetish",
       "artist": "Selena Gomez Featuring Gucci Mane",
-      "cover": "http://www.billboard.com/images/pref_images/q62381qbq73.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 31,
         "Wks on Chart": 1
-      },
-      "rank": 36,
-      "title": "Fetish"
+      }
     },
     {
+      "rank": 37,
+      "title": "Lights Down Low",
       "artist": "MAX",
-      "cover": "http://www.billboard.com/images/pref_images/q43604xixag.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 37,
         "Wks on Chart": 1
-      },
-      "rank": 37,
-      "title": "Lights Down Low"
+      }
     },
     {
+      "rank": 38,
+      "title": "Know No Better",
       "artist": "Major Lazer Featuring Travis Scott, Camila Cabello & Quavo",
-      "cover": "http://www.billboard.com/images/pref_images/q62371hr530.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 38,
         "Wks on Chart": 1
-      },
-      "rank": 38,
-      "title": "Know No Better"
+      }
     },
     {
+      "rank": 39,
+      "title": "Stay Together",
       "artist": "Noah Cyrus",
-      "cover": "http://www.billboard.com/images/pref_images/q64735qnifd.jpg",
       "position": {
         "Last Week": "39",
         "Peak Position": 38,
         "Wks on Chart": 4
-      },
-      "rank": 39,
-      "title": "Stay Together"
+      }
     },
     {
+      "rank": 40,
+      "title": "Feel It Still",
       "artist": "Portugal. The Man",
-      "cover": "http://www.billboard.com/images/pref_images/q30437t4fzv.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 35,
         "Wks on Chart": 1
-      },
-      "rank": 40,
-      "title": "Feel It Still"
+      }
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "Billboard",
-  "url": "http://www.billboard.com/charts/",
-  "base_rss": "http://www.billboard.com/rss/charts/",
+  "url": "https://www.billboard.com/charts/",
+  "base_rss": "https://www.billboard.com/rss/charts/",
   "charts": [
     {
       "name": "Hot 100",
@@ -28,7 +28,8 @@
       "name": "Club",
       "folder": "dance-club-play-songs",
       "size": 50,
-      "start_date": "1985-01-05",
+      "start_date": "1976-08-28",
+      "end_date": "2020-03-28",
       "prefix": "club"
     },
     {
@@ -40,7 +41,7 @@
     },
     {
       "name": "Alternative",
-      "folder": "alternative-songs",
+      "folder": "alternative-airplay",
       "size": 40,
       "start_date": "1988-09-10",
       "prefix": "alternative"
@@ -127,6 +128,7 @@
       "folder": "youtube",
       "size": 25,
       "start_date": "2011-08-13",
+      "end_date": "2018-12-22",
       "prefix": "youtube"
     },
     {
@@ -142,6 +144,34 @@
       "size": 50,
       "start_date": "2013-01-26",
       "prefix": "electro"
+    },
+    {
+      "name": "Soundtracks",
+      "folder": "soundtracks",
+      "size": 25,
+      "start_date": "2001-06-30",
+      "prefix": "soundtracks"
+    },
+    {
+      "name": "Euro",
+      "folder": "euro-digital-song-sales",
+      "size": 20,
+      "start_date": "2007-12-01",
+      "prefix": "euro"
+    },
+    {
+      "name": "Hard Rock",
+      "folder": "hot-hard-rock-songs",
+      "size": 25,
+      "start_date": "2020-06-13",
+      "prefix": "hard-rock"
+    },
+    {
+      "name": "Summer Songs",
+      "folder": "summer-songs",
+      "size": 20,
+      "start_date": "2010-07-17",
+      "prefix": "summer-songs"
     }
   ]
 }

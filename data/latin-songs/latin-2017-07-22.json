@@ -1,538 +1,506 @@
 {
-  "chart_date": "2017-07-22",
   "name": "Latin",
+  "chart_date": "2017-07-22",
   "tracks": [
     {
+      "rank": 1,
+      "title": "Despacito",
       "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
-      "cover": "http://www.billboard.com/images/pref_images/q61808osztw.jpg",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 25
-      },
-      "rank": 1,
-      "title": "Despacito"
+      }
     },
     {
+      "rank": 2,
+      "title": "Felices Los 4",
       "artist": "Maluma",
-      "cover": "http://www.billboard.com/images/pref_images/q45258vgxg1.jpg",
       "position": {
         "Last Week": "2",
         "Peak Position": 2,
         "Wks on Chart": 11
-      },
-      "rank": 2,
-      "title": "Felices Los 4"
+      }
     },
     {
+      "rank": 3,
+      "title": "Mi Gente",
       "artist": "J Balvin & Willy William",
       "position": {
         "Last Week": "--",
         "Peak Position": 3,
         "Wks on Chart": 1
-      },
-      "rank": 3,
-      "title": "Mi Gente"
+      }
     },
     {
+      "rank": 4,
+      "title": "Escapate Conmigo",
       "artist": "Wisin Featuring Ozuna",
-      "cover": "http://www.billboard.com/images/pref_images/q18052qlb2g.jpg",
       "position": {
         "Last Week": "3",
         "Peak Position": 3,
         "Wks on Chart": 15
-      },
-      "rank": 4,
-      "title": "Escapate Conmigo"
+      }
     },
     {
+      "rank": 5,
+      "title": "El Amante",
       "artist": "Nicky Jam",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy5684756258624871207.jpg",
       "position": {
         "Last Week": "4",
         "Peak Position": 2,
         "Wks on Chart": 25
-      },
-      "rank": 5,
-      "title": "El Amante"
+      }
     },
     {
+      "rank": 6,
+      "title": "Chantaje",
       "artist": "Shakira Featuring Maluma",
-      "cover": "http://www.billboard.com/images/pref_images/q13811lsqw8.jpg",
       "position": {
         "Last Week": "6",
         "Peak Position": 1,
         "Wks on Chart": 36
-      },
-      "rank": 6,
-      "title": "Chantaje"
+      }
     },
     {
+      "rank": 7,
+      "title": "Subeme La Radio",
       "artist": "Enrique Iglesias Featuring Descemer Bueno, Zion & Lennox",
-      "cover": "http://www.billboard.com/images/pref_images/q53230a5gzt.jpg",
       "position": {
         "Last Week": "5",
         "Peak Position": 2,
         "Wks on Chart": 19
-      },
-      "rank": 7,
-      "title": "Subeme La Radio"
+      }
     },
     {
+      "rank": 8,
+      "title": "Ahora Dice",
       "artist": "Chris Jeday Presenta J Balvin, Ozuna & Arcangel",
-      "cover": "http://www.billboard.com/images/pref_images/q58497souez.jpg",
       "position": {
         "Last Week": "8",
         "Peak Position": 8,
         "Wks on Chart": 15
-      },
-      "rank": 8,
-      "title": "Ahora Dice"
+      }
     },
     {
+      "rank": 9,
+      "title": "Me Enamore",
       "artist": "Shakira",
-      "cover": "http://www.billboard.com/images/pref_images/q13811lsqw8.jpg",
       "position": {
         "Last Week": "9",
         "Peak Position": 4,
         "Wks on Chart": 13
-      },
-      "rank": 9,
-      "title": "Me Enamore"
+      }
     },
     {
+      "rank": 10,
+      "title": "Imitadora",
       "artist": "Romeo Santos",
-      "cover": "http://www.billboard.com/images/pref_images/q22445i2gxv.jpg",
       "position": {
         "Last Week": "7",
         "Peak Position": 7,
         "Wks on Chart": 2
-      },
-      "rank": 10,
-      "title": "Imitadora"
+      }
     },
     {
+      "rank": 11,
+      "title": "Tu Foto",
       "artist": "Ozuna",
-      "cover": "http://www.billboard.com/images/pref_images/q58497souez.jpg",
       "position": {
         "Last Week": "11",
         "Peak Position": 11,
         "Wks on Chart": 10
-      },
-      "rank": 11,
-      "title": "Tu Foto"
+      }
     },
     {
+      "rank": 12,
+      "title": "La Rompe Corazones",
       "artist": "Daddy Yankee X Ozuna",
       "position": {
         "Last Week": "13",
         "Peak Position": 12,
         "Wks on Chart": 15
-      },
-      "rank": 12,
-      "title": "La Rompe Corazones"
+      }
     },
     {
+      "rank": 13,
+      "title": "Sigo Extranandote",
       "artist": "J Balvin",
-      "cover": "http://www.billboard.com/images/pref_images/q53957a8ush.jpg",
       "position": {
         "Last Week": "12",
         "Peak Position": 9,
         "Wks on Chart": 23
-      },
-      "rank": 13,
-      "title": "Sigo Extranandote"
+      }
     },
     {
+      "rank": 14,
+      "title": "Hey DJ",
       "artist": "CNCO & Yandel",
       "position": {
         "Last Week": "15",
         "Peak Position": 14,
         "Wks on Chart": 13
-      },
-      "rank": 14,
-      "title": "Hey DJ"
+      }
     },
     {
+      "rank": 15,
+      "title": "Deja Vu",
       "artist": "Prince Royce & Shakira",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6236898289180461809.jpg",
       "position": {
         "Last Week": "14",
         "Peak Position": 4,
         "Wks on Chart": 20
-      },
-      "rank": 15,
-      "title": "Deja Vu"
+      }
     },
     {
+      "rank": 16,
+      "title": "Si Tu Novio Te Deja Sola",
       "artist": "J Balvin Featuring Bad Bunny",
-      "cover": "http://www.billboard.com/images/pref_images/q53957a8ush.jpg",
       "position": {
         "Last Week": "17",
         "Peak Position": 14,
         "Wks on Chart": 18
-      },
-      "rank": 16,
-      "title": "Si Tu Novio Te Deja Sola"
+      }
     },
     {
+      "rank": 17,
+      "title": "Las Ultras",
       "artist": "Calibre 50",
-      "cover": "http://www.billboard.com/images/pref_images/q18523mjuei.jpg",
       "position": {
         "Last Week": "18",
         "Peak Position": 17,
         "Wks on Chart": 11
-      },
-      "rank": 17,
-      "title": "Las Ultras"
+      }
     },
     {
+      "rank": 18,
+      "title": "Para Que Lastimarme",
       "artist": "Gerardo Ortiz",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy2387097226021867017.jpg",
       "position": {
         "Last Week": "16",
         "Peak Position": 15,
         "Wks on Chart": 14
-      },
-      "rank": 18,
-      "title": "Para Que Lastimarme"
+      }
     },
     {
+      "rank": 19,
+      "title": "Ella Es Mi Mujer",
       "artist": "Banda Carnaval",
       "position": {
         "Last Week": "19",
         "Peak Position": 19,
         "Wks on Chart": 10
-      },
-      "rank": 19,
-      "title": "Ella Es Mi Mujer"
+      }
     },
     {
+      "rank": 20,
+      "title": "Mi 45",
       "artist": "El Fantasma y Banda Populares del Llando",
       "position": {
         "Last Week": "20",
         "Peak Position": 17,
         "Wks on Chart": 23
-      },
-      "rank": 20,
-      "title": "Mi 45"
+      }
     },
     {
+      "rank": 21,
+      "title": "Seria Un Error",
       "artist": "Regulo Caro",
-      "cover": "http://www.billboard.com/images/pref_images/q38263yw5nw.jpg",
       "position": {
         "Last Week": "24",
         "Peak Position": 21,
         "Wks on Chart": 19
-      },
-      "rank": 21,
-      "title": "Seria Un Error"
+      }
     },
     {
+      "rank": 22,
+      "title": "Bailame",
       "artist": "Nacho",
       "position": {
         "Last Week": "22",
         "Peak Position": 19,
         "Wks on Chart": 11
-      },
-      "rank": 22,
-      "title": "Bailame"
+      }
     },
     {
+      "rank": 23,
+      "title": "Heroe Favorito",
       "artist": "Romeo Santos",
-      "cover": "http://www.billboard.com/images/pref_images/q22445i2gxv.jpg",
       "position": {
         "Last Week": "21",
         "Peak Position": 2,
         "Wks on Chart": 21
-      },
-      "rank": 23,
-      "title": "Heroe Favorito"
+      }
     },
     {
+      "rank": 24,
+      "title": "Soy Peor",
       "artist": "Bad Bunny",
-      "cover": "http://www.billboard.com/images/pref_images/q62386ec4bz.jpg",
       "position": {
         "Last Week": "23",
         "Peak Position": 23,
         "Wks on Chart": 20
-      },
-      "rank": 24,
-      "title": "Soy Peor"
+      }
     },
     {
+      "rank": 25,
+      "title": "Me Rehuso",
       "artist": "Danny Ocean",
       "position": {
         "Last Week": "33",
         "Peak Position": 25,
         "Wks on Chart": 11
-      },
-      "rank": 25,
-      "title": "Me Rehuso"
+      }
     },
     {
+      "rank": 26,
+      "title": "Mi Tesoro",
       "artist": "Zion & Lennox Featuring Nicky Jam",
-      "cover": "http://www.billboard.com/images/pref_images/q58943n4nmt.jpg",
       "position": {
         "Last Week": "28",
         "Peak Position": 26,
         "Wks on Chart": 13
-      },
-      "rank": 26,
-      "title": "Mi Tesoro"
+      }
     },
     {
+      "rank": 27,
+      "title": "Bonita",
       "artist": "Jowell & Randy & J. Balvin",
       "position": {
         "Last Week": "38",
         "Peak Position": 27,
         "Wks on Chart": 4
-      },
-      "rank": 27,
-      "title": "Bonita"
+      }
     },
     {
+      "rank": 28,
+      "title": "Las Cosas No Se Hacen Asi",
       "artist": "Banda Sinaloense MS de Sergio Lizarraga",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy3661993815953753056.jpg",
       "position": {
         "Last Week": "37",
         "Peak Position": 28,
         "Wks on Chart": 2
-      },
-      "rank": 28,
-      "title": "Las Cosas No Se Hacen Asi"
+      }
     },
     {
+      "rank": 29,
+      "title": "Mi Religion",
       "artist": "Yandel",
-      "cover": "http://www.billboard.com/images/pref_images/q46872jjkhz.jpg",
       "position": {
         "Last Week": "25",
         "Peak Position": 25,
         "Wks on Chart": 5
-      },
-      "rank": 29,
-      "title": "Mi Religion"
+      }
     },
     {
+      "rank": 30,
+      "title": "Que Me Has Hecho",
       "artist": "Chayanne Featuring Wisin",
-      "cover": "http://www.billboard.com/images/pref_images/q64215pewqn.jpg",
       "position": {
         "Last Week": "26",
         "Peak Position": 25,
         "Wks on Chart": 11
-      },
-      "rank": 30,
-      "title": "Que Me Has Hecho"
+      }
     },
     {
+      "rank": 31,
+      "title": "Ahora Me Llama",
       "artist": "Karol G X Bad Bunny",
       "position": {
         "Last Week": "46",
         "Peak Position": 31,
         "Wks on Chart": 2
-      },
-      "rank": 31,
-      "title": "Ahora Me Llama"
+      }
     },
     {
+      "rank": 32,
+      "title": "Ni Tu Ni Yo",
       "artist": "Jennifer Lopez Featuring Gente de Zona",
-      "cover": "http://www.billboard.com/images/pref_images/q35024mw43j.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 32,
         "Wks on Chart": 1
-      },
-      "rank": 32,
-      "title": "Ni Tu Ni Yo"
+      }
     },
     {
+      "rank": 33,
+      "title": "Y Me Pregunto",
       "artist": "Julion Alvarez y Su Norteno Banda",
-      "cover": "http://www.billboard.com/images/pref_images/q41305jfby0.jpg",
       "position": {
         "Last Week": "32",
         "Peak Position": 32,
         "Wks on Chart": 6
-      },
-      "rank": 33,
-      "title": "Y Me Pregunto"
+      }
     },
     {
+      "rank": 34,
+      "title": "No Te Hagas",
       "artist": "Bad Bunny x Jory Boy",
       "position": {
         "Last Week": "29",
         "Peak Position": 27,
         "Wks on Chart": 16
-      },
-      "rank": 34,
-      "title": "No Te Hagas"
+      }
     },
     {
+      "rank": 35,
+      "title": "Esta Noche Se Me Olvida",
       "artist": "Julion Alvarez y Su Norteno Banda",
-      "cover": "http://www.billboard.com/images/pref_images/q41305jfby0.jpg",
       "position": {
         "Last Week": "34",
         "Peak Position": 34,
         "Wks on Chart": 4
-      },
-      "rank": 35,
-      "title": "Esta Noche Se Me Olvida"
+      }
     },
     {
+      "rank": 36,
+      "title": "Durmiendo En El Lugar Equivoca",
       "artist": "La Adictiva Banda San Jose de Mesillas",
-      "cover": "http://www.billboard.com/images/pref_images/q40698lbmt2.jpg",
       "position": {
         "Last Week": "27",
         "Peak Position": 21,
         "Wks on Chart": 17
-      },
-      "rank": 36,
-      "title": "Durmiendo En El Lugar Equivoca"
+      }
     },
     {
+      "rank": 37,
+      "title": "Se Defiende",
       "artist": "La Septima Banda",
-      "cover": "http://www.billboard.com/images/pref_images/q29275xjdb1.jpg",
       "position": {
         "Last Week": "30",
         "Peak Position": 22,
         "Wks on Chart": 16
-      },
-      "rank": 37,
-      "title": "Se Defiende"
+      }
     },
     {
+      "rank": 38,
+      "title": "Un Aplauso",
       "artist": "Edwin Luna y La Trakalosa de Monterrey",
       "position": {
         "Last Week": "39",
         "Peak Position": 25,
         "Wks on Chart": 13
-      },
-      "rank": 38,
-      "title": "Un Aplauso"
+      }
     },
     {
+      "rank": 39,
+      "title": "Si No Vuelves",
       "artist": "Gente de Zona",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy4909084064655407820.jpg",
       "position": {
         "Last Week": "44",
         "Peak Position": 39,
         "Wks on Chart": 11
-      },
-      "rank": 39,
-      "title": "Si No Vuelves"
+      }
     },
     {
+      "rank": 40,
+      "title": "No Es Un Juego",
       "artist": "Jesus Ojeda y Sus Parientes",
       "position": {
         "Last Week": "--",
         "Peak Position": 40,
         "Wks on Chart": 1
-      },
-      "rank": 40,
-      "title": "No Es Un Juego"
+      }
     },
     {
+      "rank": 41,
+      "title": "Encanto",
       "artist": "Don Omar Featuring Sharlene Taule",
-      "cover": "http://www.billboard.com/images/pref_images/p74705sk6v3.jpg",
       "position": {
         "Last Week": "31",
         "Peak Position": 21,
         "Wks on Chart": 15
-      },
-      "rank": 41,
-      "title": "Encanto"
+      }
     },
     {
+      "rank": 42,
+      "title": "Gente de Accionar",
       "artist": "Grupo Codiciado",
       "position": {
         "Last Week": "40",
         "Peak Position": 36,
         "Wks on Chart": 9
-      },
-      "rank": 42,
-      "title": "Gente de Accionar"
+      }
     },
     {
+      "rank": 43,
+      "title": "Pa Que No Me Anden Contando",
       "artist": "Voz de Mando",
-      "cover": "http://www.billboard.com/images/pref_images/q64056t4wtz.jpg",
       "position": {
         "Last Week": "41",
         "Peak Position": 27,
         "Wks on Chart": 16
-      },
-      "rank": 43,
-      "title": "Pa Que No Me Anden Contando"
+      }
     },
     {
+      "rank": 44,
+      "title": "Quiereme",
       "artist": "Jacob Forever Featuring Farruko",
-      "cover": "http://www.billboard.com/images/pref_images/q48197byb3a.jpg",
       "position": {
         "Last Week": "47",
         "Peak Position": 35,
         "Wks on Chart": 6
-      },
-      "rank": 44,
-      "title": "Quiereme"
+      }
     },
     {
+      "rank": 45,
+      "title": "Me Acostumbre",
       "artist": "Arcangel X Bad Bunny",
       "position": {
         "Last Week": "45",
         "Peak Position": 28,
         "Wks on Chart": 13
-      },
-      "rank": 45,
-      "title": "Me Acostumbre"
+      }
     },
     {
+      "rank": 46,
+      "title": "Ojala Que Me Olvides",
       "artist": "La Arrolladora Banda el Limon de Rene Camacho",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy1037841077388415959.jpg",
       "position": {
         "Last Week": "36",
         "Peak Position": 29,
         "Wks on Chart": 8
-      },
-      "rank": 46,
-      "title": "Ojala Que Me Olvides"
+      }
     },
     {
+      "rank": 47,
+      "title": "Bebe",
       "artist": "Ozuna x Anuel AA",
       "position": {
         "Last Week": "49",
         "Peak Position": 47,
         "Wks on Chart": 2
-      },
-      "rank": 47,
-      "title": "Bebe"
+      }
     },
     {
+      "rank": 48,
+      "title": "Mas Que Ayer",
       "artist": "Arcangel x De La Ghetto",
       "position": {
         "Last Week": "42",
         "Peak Position": 41,
         "Wks on Chart": 10
-      },
-      "rank": 48,
-      "title": "Mas Que Ayer"
+      }
     },
     {
+      "rank": 49,
+      "title": "El Pasito Perron",
       "artist": "Grupo Dinastia Mendoza",
       "position": {
         "Last Week": "48",
         "Peak Position": 40,
         "Wks on Chart": 8
-      },
-      "rank": 49,
-      "title": "El Pasito Perron"
+      }
     },
     {
+      "rank": 50,
+      "title": "Vengo A Aclarar",
       "artist": "El Fantasma y Banda Populares del Llando",
       "position": {
         "Last Week": "--",
         "Peak Position": 50,
         "Wks on Chart": 1
-      },
-      "rank": 50,
-      "title": "Vengo A Aclarar"
+      }
     }
   ]
 }

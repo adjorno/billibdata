@@ -1,542 +1,506 @@
 {
-  "chart_date": "2017-08-12",
   "name": "Club",
+  "chart_date": "2017-08-12",
   "tracks": [
     {
+      "rank": 1,
+      "title": "Malibu",
       "artist": "Miley Cyrus",
-      "cover": "http://www.billboard.com/images/pref_images/q11643ot6gc.jpg",
       "position": {
         "Last Week": "3",
         "Peak Position": 1,
         "Wks on Chart": 6
-      },
-      "rank": 1,
-      "title": "Malibu"
+      }
     },
     {
+      "rank": 2,
+      "title": "Gltchlfe",
       "artist": "Taryn Manning",
-      "cover": "http://www.billboard.com/images/pref_images/q02600bv50v.jpg",
       "position": {
         "Last Week": "2",
         "Peak Position": 1,
         "Wks on Chart": 9
-      },
-      "rank": 2,
-      "title": "Gltchlfe"
+      }
     },
     {
+      "rank": 3,
+      "title": "Only Want You",
       "artist": "Skylar Stecker",
-      "cover": "http://www.billboard.com/images/pref_images/q65342ezoek.jpg",
       "position": {
         "Last Week": "8",
         "Peak Position": 2,
         "Wks on Chart": 8
-      },
-      "rank": 3,
-      "title": "Only Want You"
+      }
     },
     {
+      "rank": 4,
+      "title": "We Get High",
       "artist": "Karel Ullner",
-      "cover": "http://www.billboard.com/images/pref_images/q65330plqd1.jpg",
       "position": {
         "Last Week": "10",
         "Peak Position": 4,
         "Wks on Chart": 7
-      },
-      "rank": 4,
-      "title": "We Get High"
+      }
     },
     {
+      "rank": 5,
+      "title": "Swish Swish",
       "artist": "Katy Perry Featuring Nicki Minaj",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy5354359009019426810.jpg",
       "position": {
         "Last Week": "4",
         "Peak Position": 1,
         "Wks on Chart": 9
-      },
-      "rank": 5,
-      "title": "Swish Swish"
+      }
     },
     {
+      "rank": 6,
+      "title": "Under My Skin",
       "artist": "Kendra Erika",
       "position": {
         "Last Week": "12",
         "Peak Position": 6,
         "Wks on Chart": 8
-      },
-      "rank": 6,
-      "title": "Under My Skin"
+      }
     },
     {
+      "rank": 7,
+      "title": "Let The World Be Ours Tonight",
       "artist": "Deborah Cox",
-      "cover": "http://www.billboard.com/images/pref_images/q33895rdjgp.jpg",
       "position": {
         "Last Week": "14",
         "Peak Position": 5,
         "Wks on Chart": 4
-      },
-      "rank": 7,
-      "title": "Let The World Be Ours Tonight"
+      }
     },
     {
+      "rank": 8,
+      "title": "You, I & The Music",
       "artist": "Junior Sanchez",
-      "cover": "http://www.billboard.com/images/pref_images/q26003q00oj.jpg",
       "position": {
         "Last Week": "13",
         "Peak Position": 8,
         "Wks on Chart": 7
-      },
-      "rank": 8,
-      "title": "You, I & The Music"
+      }
     },
     {
+      "rank": 9,
+      "title": "Wild Thoughts",
       "artist": "DJ Khaled Featuring Rihanna & Bryson Tiller",
-      "cover": "http://www.billboard.com/images/pref_images/q64532pl64x.jpg",
       "position": {
         "Last Week": "26",
         "Peak Position": 3,
         "Wks on Chart": 3
-      },
-      "rank": 9,
-      "title": "Wild Thoughts"
+      }
     },
     {
+      "rank": 10,
+      "title": "Your Song",
       "artist": "Rita Ora",
-      "cover": "http://www.billboard.com/images/pref_images/q39792ui80a.jpg",
       "position": {
         "Last Week": "17",
         "Peak Position": 6,
         "Wks on Chart": 5
-      },
-      "rank": 10,
-      "title": "Your Song"
+      }
     },
     {
+      "rank": 11,
+      "title": "My Fire",
       "artist": "Nile Rodgers & Tony Moran Present Kimberly Davis",
-      "cover": "http://www.billboard.com/images/pref_images/q11564tc1zq.jpg",
       "position": {
         "Last Week": "6",
         "Peak Position": 1,
         "Wks on Chart": 10
-      },
-      "rank": 11,
-      "title": "My Fire"
+      }
     },
     {
+      "rank": 12,
+      "title": "2U",
       "artist": "David Guetta Featuring Justin Bieber",
-      "cover": "http://www.billboard.com/images/pref_images/q55471n1se7.jpg",
       "position": {
         "Last Week": "18",
         "Peak Position": 9,
         "Wks on Chart": 4
-      },
-      "rank": 12,
-      "title": "2U"
+      }
     },
     {
+      "rank": 13,
+      "title": "Castle On The Hill",
       "artist": "Ed Sheeran",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy8542323582613406699.jpg",
       "position": {
         "Last Week": "11",
         "Peak Position": 2,
         "Wks on Chart": 11
-      },
-      "rank": 13,
-      "title": "Castle On The Hill"
+      }
     },
     {
+      "rank": 14,
+      "title": "Mama",
       "artist": "Jonas Blue Featuring William Singe",
-      "cover": "http://www.billboard.com/images/pref_images/q60134p8o5h.jpg",
       "position": {
         "Last Week": "16",
         "Peak Position": 10,
         "Wks on Chart": 6
-      },
-      "rank": 14,
-      "title": "Mama"
+      }
     },
     {
+      "rank": 15,
+      "title": "Waterfall",
       "artist": "Stargate Featuring P!nk & Sia",
       "position": {
         "Last Week": "7",
         "Peak Position": 7,
         "Wks on Chart": 7
-      },
-      "rank": 15,
-      "title": "Waterfall"
+      }
     },
     {
+      "rank": 16,
+      "title": "LovE Is LovE Is LovE",
       "artist": "LeAnn Rimes",
-      "cover": "http://www.billboard.com/images/pref_images/q56775wohl3.jpg",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 10
-      },
-      "rank": 16,
-      "title": "LovE Is LovE Is LovE"
+      }
     },
     {
+      "rank": 17,
+      "title": "Turn It Up",
       "artist": "Kym Sims",
-      "cover": "http://www.billboard.com/images/pref_images/p02289et80n.jpg",
       "position": {
         "Last Week": "20",
         "Peak Position": 13,
         "Wks on Chart": 5
-      },
-      "rank": 17,
-      "title": "Turn It Up"
+      }
     },
     {
+      "rank": 18,
+      "title": "Peace, Love & Music",
       "artist": "Tracy Young & Ceevox",
-      "cover": "http://www.billboard.com/images/pref_images/q56853xkl7o.jpg",
       "position": {
         "Last Week": "21",
         "Peak Position": 18,
         "Wks on Chart": 5
-      },
-      "rank": 18,
-      "title": "Peace, Love & Music"
+      }
     },
     {
+      "rank": 19,
+      "title": "Sometimes",
       "artist": "Kat Graham",
       "position": {
         "Last Week": "5",
         "Peak Position": 4,
         "Wks on Chart": 11
-      },
-      "rank": 19,
-      "title": "Sometimes"
+      }
     },
     {
+      "rank": 20,
+      "title": "Nothing's Gonna Stop Us Now",
       "artist": "Dirty Pop Featuring Taylor Olson & Jackie Orlando",
       "position": {
         "Last Week": "23",
         "Peak Position": 17,
         "Wks on Chart": 5
-      },
-      "rank": 20,
-      "title": "Nothing's Gonna Stop Us Now"
+      }
     },
     {
+      "rank": 21,
+      "title": "Bomba",
       "artist": "Aggro Santos",
-      "cover": "http://www.billboard.com/images/pref_images/p73752cyiqh.jpg",
       "position": {
         "Last Week": "24",
         "Peak Position": 21,
         "Wks on Chart": 5
-      },
-      "rank": 21,
-      "title": "Bomba"
+      }
     },
     {
+      "rank": 22,
+      "title": "Despacito",
       "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
-      "cover": "http://www.billboard.com/images/pref_images/q61808osztw.jpg",
       "position": {
         "Last Week": "15",
         "Peak Position": 8,
         "Wks on Chart": 11
-      },
-      "rank": 22,
-      "title": "Despacito"
+      }
     },
     {
+      "rank": 23,
+      "title": "Now Or Never",
       "artist": "Halsey",
-      "cover": "http://www.billboard.com/images/pref_images/q63950uzhc1.jpg",
       "position": {
         "Last Week": "25",
         "Peak Position": 21,
         "Wks on Chart": 4
-      },
-      "rank": 23,
-      "title": "Now Or Never"
+      }
     },
     {
+      "rank": 24,
+      "title": "Weak",
       "artist": "AJR",
-      "cover": "http://www.billboard.com/images/pref_images/q48102wugp2.jpg",
       "position": {
         "Last Week": "22",
         "Peak Position": 8,
         "Wks on Chart": 11
-      },
-      "rank": 24,
-      "title": "Weak"
+      }
     },
     {
+      "rank": 25,
+      "title": "OK",
       "artist": "Robin Schulz Featuring James Blunt",
-      "cover": "http://www.billboard.com/images/pref_images/q38369s7qyw.jpg",
       "position": {
         "Last Week": "29",
         "Peak Position": 19,
         "Wks on Chart": 3
-      },
-      "rank": 25,
-      "title": "OK"
+      }
     },
     {
+      "rank": 26,
+      "title": "Pose",
       "artist": "Rihanna",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy8678372548017039592.jpg",
       "position": {
         "Last Week": "9",
         "Peak Position": 1,
         "Wks on Chart": 12
-      },
-      "rank": 26,
-      "title": "Pose"
+      }
     },
     {
+      "rank": 27,
+      "title": "More Than You Know",
       "artist": "Axwell & Ingrosso",
-      "cover": "http://www.billboard.com/images/pref_images/q55184f7a34.jpg",
       "position": {
         "Last Week": "32",
         "Peak Position": 27,
         "Wks on Chart": 3
-      },
-      "rank": 27,
-      "title": "More Than You Know"
+      }
     },
     {
+      "rank": 28,
+      "title": "The Sugar Shack",
       "artist": "Tami",
-      "cover": "http://www.billboard.com/images/pref_images/q64883dx3cl.jpg",
       "position": {
         "Last Week": "19",
         "Peak Position": 11,
         "Wks on Chart": 10
-      },
-      "rank": 28,
-      "title": "The Sugar Shack"
+      }
     },
     {
+      "rank": 29,
+      "title": "All Around The World",
       "artist": "Fenix Featuring Chris Casino",
       "position": {
         "Last Week": "27",
         "Peak Position": 14,
         "Wks on Chart": 9
-      },
-      "rank": 29,
-      "title": "All Around The World"
+      }
     },
     {
+      "rank": 30,
+      "title": "If",
       "artist": "R5",
-      "cover": "http://www.billboard.com/images/pref_images/q63927kwduh.jpg",
       "position": {
         "Last Week": "37",
         "Peak Position": 24,
         "Wks on Chart": 3
-      },
-      "rank": 30,
-      "title": "If"
+      }
     },
     {
+      "rank": 31,
+      "title": "Know No Better",
       "artist": "Major Lazer Featuring Travis Scott, Camila Cabello & Quavo",
-      "cover": "http://www.billboard.com/images/pref_images/q62371hr530.jpg",
       "position": {
         "Last Week": "36",
         "Peak Position": 31,
         "Wks on Chart": 4
-      },
-      "rank": 31,
-      "title": "Know No Better"
+      }
     },
     {
+      "rank": 32,
+      "title": "Too Sophisticated",
       "artist": "JoAnna Michelle",
       "position": {
         "Last Week": "30",
         "Peak Position": 22,
         "Wks on Chart": 8
-      },
-      "rank": 32,
-      "title": "Too Sophisticated"
+      }
     },
     {
+      "rank": 33,
+      "title": "Light Beams",
       "artist": "Extasia & Zach Adam Featuring Rony G",
       "position": {
         "Last Week": "42",
         "Peak Position": 33,
         "Wks on Chart": 2
-      },
-      "rank": 33,
-      "title": "Light Beams"
+      }
     },
     {
+      "rank": 34,
+      "title": "Are You?",
       "artist": "Urbano",
       "position": {
         "Last Week": "33",
         "Peak Position": 26,
         "Wks on Chart": 7
-      },
-      "rank": 34,
-      "title": "Are You?"
+      }
     },
     {
+      "rank": 35,
+      "title": "Feels",
       "artist": "Calvin Harris Featuring Pharrell Williams, Katy Perry & Big Sean",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy2692105048585419784.jpg",
       "position": {
         "Last Week": "47",
         "Peak Position": 31,
         "Wks on Chart": 2
-      },
-      "rank": 35,
-      "title": "Feels"
+      }
     },
     {
+      "rank": 36,
+      "title": "Symphony",
       "artist": "Clean Bandit Featuring Zara Larsson",
-      "cover": "http://www.billboard.com/images/pref_images/q18473nqgl2.jpg",
       "position": {
         "Last Week": "28",
         "Peak Position": 1,
         "Wks on Chart": 13
-      },
-      "rank": 36,
-      "title": "Symphony"
+      }
     },
     {
+      "rank": 37,
+      "title": "Creatures Of The Night",
       "artist": "Hardwell & Austin Mahone",
-      "cover": "http://www.billboard.com/images/pref_images/q52245es24p.jpg",
       "position": {
         "Last Week": "51",
         "Peak Position": 37,
         "Wks on Chart": 1
-      },
-      "rank": 37,
-      "title": "Creatures Of The Night"
+      }
     },
     {
+      "rank": 38,
+      "title": "Remember I Told You",
       "artist": "Nick Jonas Featuring Anne-Marie & Mike Posner",
-      "cover": "http://www.billboard.com/images/pref_images/q64771avrhg.jpg",
       "position": {
         "Last Week": "50",
         "Peak Position": 33,
         "Wks on Chart": 2
-      },
-      "rank": 38,
-      "title": "Remember I Told You"
+      }
     },
     {
+      "rank": 39,
+      "title": "Breathe",
       "artist": "Astrid S",
-      "cover": "http://www.billboard.com/images/pref_images/q62974bwsa4.jpg",
       "position": {
         "Last Week": "40",
         "Peak Position": 39,
         "Wks on Chart": 5
-      },
-      "rank": 39,
-      "title": "Breathe"
+      }
     },
     {
+      "rank": 40,
+      "title": "I'm The One",
       "artist": "DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",
-      "cover": "http://www.billboard.com/images/pref_images/q64532pl64x.jpg",
       "position": {
         "Last Week": "35",
         "Peak Position": 33,
         "Wks on Chart": 8
-      },
-      "rank": 40,
-      "title": "I'm The One"
+      }
     },
     {
+      "rank": 41,
+      "title": "Desperado",
       "artist": "Rihanna",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy8678372548017039592.jpg",
       "position": {
         "Last Week": "52",
         "Peak Position": 34,
         "Wks on Chart": 1
-      },
-      "rank": 41,
-      "title": "Desperado"
+      }
     },
     {
+      "rank": 42,
+      "title": "Attention",
       "artist": "Charlie Puth",
-      "cover": "http://www.billboard.com/images/pref_images/q46483ubdhf.jpg",
       "position": {
         "Last Week": "46",
         "Peak Position": 42,
         "Wks on Chart": 2
-      },
-      "rank": 42,
-      "title": "Attention"
+      }
     },
     {
+      "rank": 43,
+      "title": "Our Moment",
       "artist": "Stephy May",
       "position": {
         "Last Week": "--",
         "Peak Position": 39,
         "Wks on Chart": 1
-      },
-      "rank": 43,
-      "title": "Our Moment"
+      }
     },
     {
+      "rank": 44,
+      "title": "Be Magical",
       "artist": "Dee Martello & Amuka",
       "position": {
         "Last Week": "41",
         "Peak Position": 28,
         "Wks on Chart": 9
-      },
-      "rank": 44,
-      "title": "Be Magical"
+      }
     },
     {
+      "rank": 45,
+      "title": "Living 4 Tonight",
       "artist": "Dana Ordway",
       "position": {
         "Last Week": "--",
         "Peak Position": 40,
         "Wks on Chart": 1
-      },
-      "rank": 45,
-      "title": "Living 4 Tonight"
+      }
     },
     {
+      "rank": 46,
+      "title": "Flawless",
       "artist": "Dr. Miami & Adam Barta Featuring Talia & Roro",
       "position": {
         "Last Week": "39",
         "Peak Position": 32,
         "Wks on Chart": 6
-      },
-      "rank": 46,
-      "title": "Flawless"
+      }
     },
     {
+      "rank": 47,
+      "title": "Long Time",
       "artist": "Blondie",
-      "cover": "http://www.billboard.com/images/pref_images/q23104u54g4.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 36,
         "Wks on Chart": 1
-      },
-      "rank": 47,
-      "title": "Long Time"
+      }
     },
     {
+      "rank": 48,
+      "title": "String Around My Heart",
       "artist": "Mahkenna",
       "position": {
         "Last Week": "53",
         "Peak Position": 45,
         "Wks on Chart": 1
-      },
-      "rank": 48,
-      "title": "String Around My Heart"
+      }
     },
     {
+      "rank": 49,
+      "title": "Beautiful Terminator",
       "artist": "Fantastiques",
       "position": {
         "Last Week": "49",
         "Peak Position": 49,
         "Wks on Chart": 3
-      },
-      "rank": 49,
-      "title": "Beautiful Terminator"
+      }
     },
     {
+      "rank": 50,
+      "title": "Unforgettable",
       "artist": "French Montana Featuring Swae Lee",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy7387714621514325744.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 46,
         "Wks on Chart": 1
-      },
-      "rank": 50,
-      "title": "Unforgettable"
+      }
     }
   ]
 }

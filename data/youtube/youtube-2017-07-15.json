@@ -1,279 +1,256 @@
 {
-  "chart_date": "2017-07-15",
   "name": "Youtube",
+  "chart_date": "2017-07-15",
   "tracks": [
     {
+      "rank": 1,
+      "title": "Despacito",
       "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
-      "cover": "http://www.billboard.com/images/pref_images/q61808osztw.jpg",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 24
-      },
-      "rank": 1,
-      "title": "Despacito"
+      }
     },
     {
+      "rank": 2,
+      "title": "Shape Of You",
       "artist": "Ed Sheeran",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy8542323582613406699.jpg",
       "position": {
         "Last Week": "2",
         "Peak Position": 1,
         "Wks on Chart": 25
-      },
-      "rank": 2,
-      "title": "Shape Of You"
+      }
     },
     {
+      "rank": 3,
+      "title": "Felices Los 4",
       "artist": "Maluma",
-      "cover": "http://www.billboard.com/images/pref_images/q45258vgxg1.jpg",
       "position": {
         "Last Week": "3",
         "Peak Position": 3,
         "Wks on Chart": 10
-      },
-      "rank": 3,
-      "title": "Felices Los 4"
+      }
     },
     {
+      "rank": 4,
+      "title": "I'm The One",
       "artist": "DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",
-      "cover": "http://www.billboard.com/images/pref_images/q64532pl64x.jpg",
       "position": {
         "Last Week": "4",
         "Peak Position": 3,
         "Wks on Chart": 10
-      },
-      "rank": 4,
-      "title": "I'm The One"
+      }
     },
     {
+      "rank": 5,
+      "title": "Ahora Dice",
       "artist": "Chris Jeday Presenta J Balvin, Ozuna & Arcangel",
-      "cover": "http://www.billboard.com/images/pref_images/q58497souez.jpg",
       "position": {
         "Last Week": "5",
         "Peak Position": 4,
         "Wks on Chart": 13
-      },
-      "rank": 5,
-      "title": "Ahora Dice"
+      }
     },
     {
+      "rank": 6,
+      "title": "Swalla",
       "artist": "Jason Derulo Featuring Nicki Minaj & Ty Dolla $ign",
-      "cover": "http://www.billboard.com/images/pref_images/q50239n7ljk.jpg",
       "position": {
         "Last Week": "6",
         "Peak Position": 6,
         "Wks on Chart": 13
-      },
-      "rank": 6,
-      "title": "Swalla"
+      }
     },
     {
+      "rank": 7,
+      "title": "That's What I Like",
       "artist": "Bruno Mars",
-      "cover": "http://www.billboard.com/images/pref_images/q59725qvpol.jpg",
       "position": {
         "Last Week": "8",
         "Peak Position": 4,
         "Wks on Chart": 18
-      },
-      "rank": 7,
-      "title": "That's What I Like"
+      }
     },
     {
+      "rank": 8,
+      "title": "Rockabye",
       "artist": "Clean Bandit Featuring Sean Paul & Anne-Marie",
-      "cover": "http://www.billboard.com/images/pref_images/q18473nqgl2.jpg",
       "position": {
         "Last Week": "7",
         "Peak Position": 3,
         "Wks on Chart": 29
-      },
-      "rank": 8,
-      "title": "Rockabye"
+      }
     },
     {
+      "rank": 9,
+      "title": "Chantaje",
       "artist": "Shakira Featuring Maluma",
-      "cover": "http://www.billboard.com/images/pref_images/q13811lsqw8.jpg",
       "position": {
         "Last Week": "9",
         "Peak Position": 1,
         "Wks on Chart": 32
-      },
-      "rank": 9,
-      "title": "Chantaje"
+      }
     },
     {
+      "rank": 10,
+      "title": "Escapate Conmigo",
       "artist": "Wisin Featuring Ozuna",
-      "cover": "http://www.billboard.com/images/pref_images/q18052qlb2g.jpg",
       "position": {
         "Last Week": "10",
         "Peak Position": 10,
         "Wks on Chart": 5
-      },
-      "rank": 10,
-      "title": "Escapate Conmigo"
+      }
     },
     {
+      "rank": 11,
+      "title": "Wild Thoughts",
       "artist": "DJ Khaled Featuring Rihanna & Bryson Tiller",
-      "cover": "http://www.billboard.com/images/pref_images/q64532pl64x.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 11,
         "Wks on Chart": 1
-      },
-      "rank": 11,
-      "title": "Wild Thoughts"
+      }
     },
     {
+      "rank": 12,
+      "title": "Me Rehuso",
       "artist": "Danny Ocean",
       "position": {
         "Last Week": "13",
         "Peak Position": 12,
         "Wks on Chart": 4
-      },
-      "rank": 12,
-      "title": "Me Rehuso"
+      }
     },
     {
+      "rank": 13,
+      "title": "Subeme La Radio",
       "artist": "Enrique Iglesias Featuring Descemer Bueno, Zion & Lennox",
-      "cover": "http://www.billboard.com/images/pref_images/q53230a5gzt.jpg",
       "position": {
         "Last Week": "11",
         "Peak Position": 10,
         "Wks on Chart": 18
-      },
-      "rank": 13,
-      "title": "Subeme La Radio"
+      }
     },
     {
+      "rank": 14,
+      "title": "Si Tu Novio Te Deja Sola",
       "artist": "J Balvin Featuring Bad Bunny",
-      "cover": "http://www.billboard.com/images/pref_images/q53957a8ush.jpg",
       "position": {
         "Last Week": "12",
         "Peak Position": 10,
         "Wks on Chart": 14
-      },
-      "rank": 14,
-      "title": "Si Tu Novio Te Deja Sola"
+      }
     },
     {
+      "rank": 15,
+      "title": "We Don't Talk Anymore",
       "artist": "Charlie Puth Featuring Selena Gomez",
-      "cover": "http://www.billboard.com/images/pref_images/q46483ubdhf.jpg",
       "position": {
         "Last Week": "15",
         "Peak Position": 5,
         "Wks on Chart": 47
-      },
-      "rank": 15,
-      "title": "We Don't Talk Anymore"
+      }
     },
     {
+      "rank": 16,
+      "title": "Reggaeton Lento (Bailemos)",
       "artist": "CNCO",
-      "cover": "http://www.billboard.com/images/pref_images/q56097bfoq1.jpg",
       "position": {
         "Last Week": "14",
         "Peak Position": 5,
         "Wks on Chart": 27
-      },
-      "rank": 16,
-      "title": "Reggaeton Lento (Bailemos)"
+      }
     },
     {
+      "rank": 17,
+      "title": "Tu Foto",
       "artist": "Ozuna",
-      "cover": "http://www.billboard.com/images/pref_images/q58497souez.jpg",
       "position": {
         "Last Week": "18",
         "Peak Position": 17,
         "Wks on Chart": 4
-      },
-      "rank": 17,
-      "title": "Tu Foto"
+      }
     },
     {
+      "rank": 18,
+      "title": "Attention",
       "artist": "Charlie Puth",
-      "cover": "http://www.billboard.com/images/pref_images/q46483ubdhf.jpg",
       "position": {
         "Last Week": "19",
         "Peak Position": 18,
         "Wks on Chart": 3
-      },
-      "rank": 18,
-      "title": "Attention"
+      }
     },
     {
+      "rank": 19,
+      "title": "El Amante",
       "artist": "Nicky Jam",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy5684756258624871207.jpg",
       "position": {
         "Last Week": "21",
         "Peak Position": 4,
         "Wks on Chart": 23
-      },
-      "rank": 19,
-      "title": "El Amante"
+      }
     },
     {
+      "rank": 20,
+      "title": "Mi Gente",
       "artist": "J Balvin & Willy William",
-      "cover": "http://www.billboard.com/images/pref_images/q53957a8ush.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 20,
         "Wks on Chart": 1
-      },
-      "rank": 20,
-      "title": "Mi Gente"
+      }
     },
     {
+      "rank": 21,
+      "title": "Treat You Better",
       "artist": "Shawn Mendes",
-      "cover": "http://www.billboard.com/images/pref_images/q63987txfvh.jpg",
       "position": {
         "Last Week": "24",
         "Peak Position": 7,
         "Wks on Chart": 46
-      },
-      "rank": 21,
-      "title": "Treat You Better"
+      }
     },
     {
+      "rank": 22,
+      "title": "Vente Pa' Ca",
       "artist": "Ricky Martin Featuring Maluma",
-      "cover": "http://www.billboard.com/images/pref_images/q35066jykoi.jpg",
       "position": {
         "Last Week": "20",
         "Peak Position": 5,
         "Wks on Chart": 40
-      },
-      "rank": 22,
-      "title": "Vente Pa' Ca"
+      }
     },
     {
+      "rank": 23,
+      "title": "Something Just Like This",
       "artist": "The Chainsmokers & Coldplay",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy4462751139365911250.jpg",
       "position": {
         "Last Week": "16",
         "Peak Position": 7,
         "Wks on Chart": 19
-      },
-      "rank": 23,
-      "title": "Something Just Like This"
+      }
     },
     {
+      "rank": 24,
+      "title": "See You Again",
       "artist": "Wiz Khalifa Featuring Charlie Puth",
-      "cover": "http://www.billboard.com/images/pref_images/q46629nhgw8.jpg",
       "position": {
         "Last Week": "23",
         "Peak Position": 1,
         "Wks on Chart": 113
-      },
-      "rank": 24,
-      "title": "See You Again"
+      }
     },
     {
+      "rank": 25,
+      "title": "La Rompe Corazones",
       "artist": "Daddy Yankee X Ozuna",
       "position": {
         "Last Week": "25",
         "Peak Position": 21,
         "Wks on Chart": 13
-      },
-      "rank": 25,
-      "title": "La Rompe Corazones"
+      }
     }
   ]
 }

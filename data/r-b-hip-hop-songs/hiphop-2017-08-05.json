@@ -1,555 +1,506 @@
 {
-  "chart_date": "2017-08-05",
   "name": "Hip-Hop",
+  "chart_date": "2017-08-05",
   "tracks": [
     {
+      "rank": 1,
+      "title": "Wild Thoughts",
       "artist": "DJ Khaled Featuring Rihanna & Bryson Tiller",
-      "cover": "http://www.billboard.com/images/pref_images/q64532pl64x.jpg",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 5
-      },
-      "rank": 1,
-      "title": "Wild Thoughts"
+      }
     },
     {
+      "rank": 2,
+      "title": "That's What I Like",
       "artist": "Bruno Mars",
-      "cover": "http://www.billboard.com/images/pref_images/q59725qvpol.jpg",
       "position": {
         "Last Week": "3",
         "Peak Position": 1,
         "Wks on Chart": 32
-      },
-      "rank": 2,
-      "title": "That's What I Like"
+      }
     },
     {
+      "rank": 3,
+      "title": "I'm The One",
       "artist": "DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",
-      "cover": "http://www.billboard.com/images/pref_images/q64532pl64x.jpg",
       "position": {
         "Last Week": "2",
         "Peak Position": 1,
         "Wks on Chart": 12
-      },
-      "rank": 3,
-      "title": "I'm The One"
+      }
     },
     {
+      "rank": 4,
+      "title": "Unforgettable",
       "artist": "French Montana Featuring Swae Lee",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy7387714621514325744.jpg",
       "position": {
         "Last Week": "5",
         "Peak Position": 4,
         "Wks on Chart": 15
-      },
-      "rank": 4,
-      "title": "Unforgettable"
+      }
     },
     {
+      "rank": 5,
+      "title": "Humble.",
       "artist": "Kendrick Lamar",
-      "cover": "http://www.billboard.com/images/pref_images/q65164g7wvl.jpg",
       "position": {
         "Last Week": "4",
         "Peak Position": 1,
         "Wks on Chart": 16
-      },
-      "rank": 5,
-      "title": "Humble."
+      }
     },
     {
+      "rank": 6,
+      "title": "Congratulations",
       "artist": "Post Malone Featuring Quavo",
-      "cover": "http://www.billboard.com/images/pref_images/q58965kol08.jpg",
       "position": {
         "Last Week": "6",
         "Peak Position": 5,
         "Wks on Chart": 32
-      },
-      "rank": 6,
-      "title": "Congratulations"
+      }
     },
     {
+      "rank": 7,
+      "title": "Redbone",
       "artist": "Childish Gambino",
-      "cover": "http://www.billboard.com/images/pref_images/q60404tvb4i.jpg",
       "position": {
         "Last Week": "7",
         "Peak Position": 7,
         "Wks on Chart": 34
-      },
-      "rank": 7,
-      "title": "Redbone"
+      }
     },
     {
+      "rank": 8,
+      "title": "XO TOUR Llif3",
       "artist": "Lil Uzi Vert",
-      "cover": "http://www.billboard.com/images/pref_images/q48776q4k03.jpg",
       "position": {
         "Last Week": "8",
         "Peak Position": 5,
         "Wks on Chart": 17
-      },
-      "rank": 8,
-      "title": "XO TOUR Llif3"
+      }
     },
     {
+      "rank": 9,
+      "title": "Mask Off",
       "artist": "Future",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy3426998729818218709.jpg",
       "position": {
         "Last Week": "9",
         "Peak Position": 3,
         "Wks on Chart": 22
-      },
-      "rank": 9,
-      "title": "Mask Off"
+      }
     },
     {
+      "rank": 10,
+      "title": "Feels",
       "artist": "Calvin Harris Featuring Pharrell Williams, Katy Perry & Big Sean",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy2692105048585419784.jpg",
       "position": {
         "Last Week": "12",
         "Peak Position": 10,
         "Wks on Chart": 5
-      },
-      "rank": 10,
-      "title": "Feels"
+      }
     },
     {
+      "rank": 11,
+      "title": "Magnolia",
       "artist": "Playboi Carti",
-      "cover": "http://www.billboard.com/images/pref_images/q63868fx4hw.jpg",
       "position": {
         "Last Week": "11",
         "Peak Position": 11,
         "Wks on Chart": 12
-      },
-      "rank": 11,
-      "title": "Magnolia"
+      }
     },
     {
+      "rank": 12,
+      "title": "Everyday We Lit",
       "artist": "YFN Lucci Featuring PnB Rock",
-      "cover": "http://www.billboard.com/images/pref_images/q62572ikqg1.jpg",
       "position": {
         "Last Week": "16",
         "Peak Position": 12,
         "Wks on Chart": 15
-      },
-      "rank": 12,
-      "title": "Everyday We Lit"
+      }
     },
     {
+      "rank": 13,
+      "title": "Bank Account",
       "artist": "21 Savage",
-      "cover": "http://www.billboard.com/images/pref_images/q60067k1zw0.jpg",
       "position": {
         "Last Week": "13",
         "Peak Position": 13,
         "Wks on Chart": 2
-      },
-      "rank": 13,
-      "title": "Bank Account"
+      }
     },
     {
+      "rank": 14,
+      "title": "Slippery",
       "artist": "Migos Featuring Gucci Mane",
-      "cover": "http://www.billboard.com/images/pref_images/q62185ywmgg.jpg",
       "position": {
         "Last Week": "14",
         "Peak Position": 12,
         "Wks on Chart": 19
-      },
-      "rank": 14,
-      "title": "Slippery"
+      }
     },
     {
+      "rank": 15,
+      "title": "Drowning",
       "artist": "A Boogie Wit da Hoodie Featuring Kodak Black",
-      "cover": "http://www.billboard.com/images/pref_images/q57534n3m2u.jpg",
       "position": {
         "Last Week": "18",
         "Peak Position": 15,
         "Wks on Chart": 17
-      },
-      "rank": 15,
-      "title": "Drowning"
+      }
     },
     {
+      "rank": 16,
+      "title": "Rake It Up",
       "artist": "Yo Gotti Featuring Nicki Minaj",
-      "cover": "http://www.billboard.com/images/pref_images/q47751w4j5e.jpg",
       "position": {
         "Last Week": "32",
         "Peak Position": 16,
         "Wks on Chart": 4
-      },
-      "rank": 16,
-      "title": "Rake It Up"
+      }
     },
     {
+      "rank": 17,
+      "title": "Rolex",
       "artist": "Ayo & Teo",
       "position": {
         "Last Week": "17",
         "Peak Position": 10,
         "Wks on Chart": 24
-      },
-      "rank": 17,
-      "title": "Rolex"
+      }
     },
     {
+      "rank": 18,
+      "title": "Versace On The Floor",
       "artist": "Bruno Mars",
-      "cover": "http://www.billboard.com/images/pref_images/q59725qvpol.jpg",
       "position": {
         "Last Week": "25",
         "Peak Position": 18,
         "Wks on Chart": 7
-      },
-      "rank": 18,
-      "title": "Versace On The Floor"
+      }
     },
     {
+      "rank": 19,
+      "title": "Bodak Yellow (Money Moves)",
       "artist": "Cardi B",
-      "cover": "http://www.billboard.com/images/pref_images/q53997xjcth.jpg",
       "position": {
         "Last Week": "36",
         "Peak Position": 19,
         "Wks on Chart": 3
-      },
-      "rank": 19,
-      "title": "Bodak Yellow (Money Moves)"
+      }
     },
     {
+      "rank": 20,
+      "title": "DNA.",
       "artist": "Kendrick Lamar",
-      "cover": "http://www.billboard.com/images/pref_images/q65164g7wvl.jpg",
       "position": {
         "Last Week": "20",
         "Peak Position": 3,
         "Wks on Chart": 14
-      },
-      "rank": 20,
-      "title": "DNA."
+      }
     },
     {
+      "rank": 21,
+      "title": "Slide",
       "artist": "Calvin Harris Featuring Frank Ocean & Migos",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy2692105048585419784.jpg",
       "position": {
         "Last Week": "19",
         "Peak Position": 12,
         "Wks on Chart": 21
-      },
-      "rank": 21,
-      "title": "Slide"
+      }
     },
     {
+      "rank": 22,
+      "title": "Love Galore",
       "artist": "SZA Featuring Travis Scott",
-      "cover": "http://www.billboard.com/images/pref_images/q15093sxksb.jpg",
       "position": {
         "Last Week": "28",
         "Peak Position": 22,
         "Wks on Chart": 6
-      },
-      "rank": 22,
-      "title": "Love Galore"
+      }
     },
     {
+      "rank": 23,
+      "title": "1-800-273-8255",
       "artist": "Logic Featuring Alessia Cara & Khalid",
-      "cover": "http://www.billboard.com/images/pref_images/q63847yguyh.jpg",
       "position": {
         "Last Week": "27",
         "Peak Position": 21,
         "Wks on Chart": 12
-      },
-      "rank": 23,
-      "title": "1-800-273-8255"
+      }
     },
     {
+      "rank": 24,
+      "title": "It's A Vibe",
       "artist": "2 Chainz Featuring Ty Dolla $ign, Trey Songz & Jhene Aiko",
-      "cover": "http://www.billboard.com/images/pref_images/q61805at6fy.jpg",
       "position": {
         "Last Week": "30",
         "Peak Position": 24,
         "Wks on Chart": 7
-      },
-      "rank": 24,
-      "title": "It's A Vibe"
+      }
     },
     {
+      "rank": 25,
+      "title": "Butterfly Effect",
       "artist": "Travis Scott",
-      "cover": "http://www.billboard.com/images/pref_images/q39869glvzs.jpg",
       "position": {
         "Last Week": "42",
         "Peak Position": 25,
         "Wks on Chart": 8
-      },
-      "rank": 25,
-      "title": "Butterfly Effect"
+      }
     },
     {
+      "rank": 26,
+      "title": "4:44",
       "artist": "JAY-Z",
-      "cover": "http://www.billboard.com/images/pref_images/p73574qtc0h.jpg",
       "position": {
         "Last Week": "15",
         "Peak Position": 15,
         "Wks on Chart": 2
-      },
-      "rank": 26,
-      "title": "4:44"
+      }
     },
     {
+      "rank": 27,
+      "title": "Loyalty.",
       "artist": "Kendrick Lamar Featuring Rihanna",
-      "cover": "http://www.billboard.com/images/pref_images/q65164g7wvl.jpg",
       "position": {
         "Last Week": "33",
         "Peak Position": 7,
         "Wks on Chart": 14
-      },
-      "rank": 27,
-      "title": "Loyalty."
+      }
     },
     {
+      "rank": 28,
+      "title": "First Day Out",
       "artist": "Tee Grizzley",
-      "cover": "http://www.billboard.com/images/pref_images/q63999afv04.jpg",
       "position": {
         "Last Week": "26",
         "Peak Position": 18,
         "Wks on Chart": 16
-      },
-      "rank": 28,
-      "title": "First Day Out"
+      }
     },
     {
+      "rank": 29,
+      "title": "The Story Of O.J.",
       "artist": "JAY-Z",
-      "cover": "http://www.billboard.com/images/pref_images/p73574qtc0h.jpg",
       "position": {
         "Last Week": "10",
         "Peak Position": 10,
         "Wks on Chart": 2
-      },
-      "rank": 29,
-      "title": "The Story Of O.J."
+      }
     },
     {
+      "rank": 30,
+      "title": "Passionfruit",
       "artist": "Drake",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6013806102652956916.jpg",
       "position": {
         "Last Week": "31",
         "Peak Position": 5,
         "Wks on Chart": 18
-      },
-      "rank": 30,
-      "title": "Passionfruit"
+      }
     },
     {
+      "rank": 31,
+      "title": "A Lie",
       "artist": "French Montana Featuring The Weeknd & Max B",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy7387714621514325744.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 31,
         "Wks on Chart": 1
-      },
-      "rank": 31,
-      "title": "A Lie"
+      }
     },
     {
+      "rank": 32,
+      "title": "Privacy",
       "artist": "Chris Brown",
-      "cover": "http://www.billboard.com/images/pref_images/q12107b6dlh.jpg",
       "position": {
         "Last Week": "35",
         "Peak Position": 26,
         "Wks on Chart": 12
-      },
-      "rank": 32,
-      "title": "Privacy"
+      }
     },
     {
+      "rank": 33,
+      "title": "Love.",
       "artist": "Kendrick Lamar Featuring Zacari",
-      "cover": "http://www.billboard.com/images/pref_images/q65164g7wvl.jpg",
       "position": {
         "Last Week": "37",
         "Peak Position": 10,
         "Wks on Chart": 14
-      },
-      "rank": 33,
-      "title": "Love."
+      }
     },
     {
+      "rank": 34,
+      "title": "Crew",
       "artist": "GoldLink Featuring Brent Faiyaz & Shy Glizzy",
-      "cover": "http://www.billboard.com/images/pref_images/q37214qtefw.jpg",
       "position": {
         "Last Week": "43",
         "Peak Position": 34,
         "Wks on Chart": 5
-      },
-      "rank": 34,
-      "title": "Crew"
+      }
     },
     {
+      "rank": 35,
+      "title": "4 AM",
       "artist": "2 Chainz Featuring Travis Scott",
-      "cover": "http://www.billboard.com/images/pref_images/q61805at6fy.jpg",
       "position": {
         "Last Week": "34",
         "Peak Position": 24,
         "Wks on Chart": 7
-      },
-      "rank": 35,
-      "title": "4 AM"
+      }
     },
     {
+      "rank": 36,
+      "title": "Signs",
       "artist": "Drake",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6013806102652956916.jpg",
       "position": {
         "Last Week": "38",
         "Peak Position": 14,
         "Wks on Chart": 4
-      },
-      "rank": 36,
-      "title": "Signs"
+      }
     },
     {
+      "rank": 37,
+      "title": "Whatever You Need",
       "artist": "Meek Mill Featuring Chris Brown & Ty Dolla $ign",
-      "cover": "http://www.billboard.com/images/pref_images/q60000leevi.jpg",
       "position": {
         "Last Week": "49",
         "Peak Position": 34,
         "Wks on Chart": 7
-      },
-      "rank": 37,
-      "title": "Whatever You Need"
+      }
     },
     {
+      "rank": 38,
+      "title": "Reminder",
       "artist": "The Weeknd",
-      "cover": "http://www.billboard.com/images/pref_images/q59123tine7.jpg",
       "position": {
         "Last Week": "44",
         "Peak Position": 14,
         "Wks on Chart": 17
-      },
-      "rank": 38,
-      "title": "Reminder"
+      }
     },
     {
+      "rank": 39,
+      "title": "Young Dumb & Broke",
       "artist": "Khalid",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy7271750242439364836.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 39,
         "Wks on Chart": 1
-      },
-      "rank": 39,
-      "title": "Young Dumb & Broke"
+      }
     },
     {
+      "rank": 40,
+      "title": "Rollin",
       "artist": "Calvin Harris Featuring Future & Khalid",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy2692105048585419784.jpg",
       "position": {
         "Last Week": "48",
         "Peak Position": 27,
         "Wks on Chart": 5
-      },
-      "rank": 40,
-      "title": "Rollin"
+      }
     },
     {
+      "rank": 41,
+      "title": "Element.",
       "artist": "Kendrick Lamar",
-      "cover": "http://www.billboard.com/images/pref_images/q65164g7wvl.jpg",
       "position": {
         "Last Week": "45",
         "Peak Position": 9,
         "Wks on Chart": 12
-      },
-      "rank": 41,
-      "title": "Element."
+      }
     },
     {
+      "rank": 42,
+      "title": "No Complaints",
       "artist": "Metro Boomin Featuring Offset & Drake",
-      "cover": "http://www.billboard.com/images/pref_images/q59796vrzo2.jpg",
       "position": {
         "Last Week": "46",
         "Peak Position": 31,
         "Wks on Chart": 4
-      },
-      "rank": 42,
-      "title": "No Complaints"
+      }
     },
     {
+      "rank": 43,
+      "title": "Wokeuplikethis*",
       "artist": "Playboi Carti Featuring Lil Uzi Vert",
-      "cover": "http://www.billboard.com/images/pref_images/q63868fx4hw.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 32,
         "Wks on Chart": 11
-      },
-      "rank": 43,
-      "title": "Wokeuplikethis*"
+      }
     },
     {
+      "rank": 44,
+      "title": "Bam",
       "artist": "JAY-Z Featuring Damian \"Jr. Gong\" Marely",
-      "cover": "http://www.billboard.com/images/pref_images/p73574qtc0h.jpg",
       "position": {
         "Last Week": "21",
         "Peak Position": 21,
         "Wks on Chart": 2
-      },
-      "rank": 44,
-      "title": "Bam"
+      }
     },
     {
+      "rank": 45,
+      "title": "Neighbors",
       "artist": "J. Cole",
-      "cover": "http://www.billboard.com/images/pref_images/q61533pxxfm.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 8,
         "Wks on Chart": 14
-      },
-      "rank": 45,
-      "title": "Neighbors"
+      }
     },
     {
+      "rank": 46,
+      "title": "do re mi",
       "artist": "blackbear",
-      "cover": "http://www.billboard.com/images/pref_images/q52787klgv1.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 37,
         "Wks on Chart": 10
-      },
-      "rank": 46,
-      "title": "do re mi"
+      }
     },
     {
+      "rank": 47,
+      "title": "Portland",
       "artist": "Drake Featuring Quavo & Travis Scott",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6013806102652956916.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 6,
         "Wks on Chart": 17
-      },
-      "rank": 47,
-      "title": "Portland"
+      }
     },
     {
+      "rank": 48,
+      "title": "The Weekend",
       "artist": "SZA",
-      "cover": "http://www.billboard.com/images/pref_images/q15093sxksb.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 48,
         "Wks on Chart": 2
-      },
-      "rank": 48,
-      "title": "The Weekend"
+      }
     },
     {
-      "artist": "Young Thug Featuring Future",
-      "cover": "http://www.billboard.com/images/pref_images/q65255rg0fs.jpg",
-      "position": {
-        "Last Week": "--",
-        "Peak Position": 36,
-        "Wks on Chart": 4
-      },
       "rank": 49,
-      "title": "Relationship"
-    },
-    {
-      "artist": "Major Lazer Featuring Travis Scott, Camila Cabello & Quavo",
-      "cover": "http://www.billboard.com/images/pref_images/q62371hr530.jpg",
+      "title": "Relationship",
+      "artist": "Young Thug Featuring Future",
       "position": {
         "Last Week": "--",
         "Peak Position": 36,
         "Wks on Chart": 4
-      },
+      }
+    },
+    {
       "rank": 50,
-      "title": "Know No Better"
+      "title": "Know No Better",
+      "artist": "Major Lazer Featuring Travis Scott, Camila Cabello & Quavo",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 36,
+        "Wks on Chart": 4
+      }
     }
   ]
 }

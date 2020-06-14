@@ -1,478 +1,406 @@
 {
-  "chart_date": "2017-05-27",
   "name": "Pop",
+  "chart_date": "2017-05-27",
   "tracks": [
     {
+      "rank": 1,
+      "title": "Something Just Like This",
       "artist": "The Chainsmokers & Coldplay",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy4462751139365911250.jpg",
       "position": {
         "Last Week": "2",
         "Peak Position": 1,
         "Wks on Chart": 12
-      },
-      "rank": 1,
-      "title": "Something Just Like This"
+      }
     },
     {
+      "rank": 2,
+      "title": "That's What I Like",
       "artist": "Bruno Mars",
-      "cover": "http://www.billboard.com/images/pref_images/q59725qvpol.jpg",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 17
-      },
-      "rank": 2,
-      "spotify": "http://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU?utm_campaign=billboard",
-      "title": "That's What I Like"
+      }
     },
     {
+      "rank": 3,
+      "title": "It Ain't Me",
       "artist": "Kygo x Selena Gomez",
       "position": {
         "Last Week": "4",
         "Peak Position": 3,
         "Wks on Chart": 13
-      },
-      "rank": 3,
-      "spotify": "http://open.spotify.com/track/12GEpg2XOPyqk03JZEZnJs?utm_campaign=billboard",
-      "title": "It Ain't Me"
+      }
     },
     {
+      "rank": 4,
+      "title": "Stay",
       "artist": "Zedd & Alessia Cara",
-      "cover": "http://www.billboard.com/images/pref_images/q32228yoe1u.jpg",
       "position": {
         "Last Week": "5",
         "Peak Position": 4,
         "Wks on Chart": 11
-      },
-      "rank": 4,
-      "title": "Stay"
+      }
     },
     {
+      "rank": 5,
+      "title": "Shape Of You",
       "artist": "Ed Sheeran",
-      "cover": "http://www.billboard.com/images/pref_images/q61469jewko.jpg",
       "position": {
         "Last Week": "3",
         "Peak Position": 1,
         "Wks on Chart": 19
-      },
-      "rank": 5,
-      "spotify": "http://open.spotify.com/track/0FE9t6xYkqWXU2ahLh6D8X?utm_campaign=billboard",
-      "title": "Shape Of You"
+      }
     },
     {
+      "rank": 6,
+      "title": "Say You Won't Let Go",
       "artist": "James Arthur",
-      "cover": "http://www.billboard.com/images/pref_images/q62960t4bo1.jpg",
       "position": {
         "Last Week": "7",
         "Peak Position": 6,
         "Wks on Chart": 15
-      },
-      "rank": 6,
-      "spotify": "http://open.spotify.com/track/1Pw5C4N6Fn5E4mGCxmbbVa?utm_campaign=billboard",
-      "title": "Say You Won't Let Go"
+      }
     },
     {
+      "rank": 7,
+      "title": "Issues",
       "artist": "Julia Michaels",
-      "cover": "http://www.billboard.com/images/pref_images/q61807o4l2x.jpg",
       "position": {
         "Last Week": "8",
         "Peak Position": 7,
         "Wks on Chart": 16
-      },
-      "rank": 7,
-      "spotify": "http://open.spotify.com/track/6AeQlMyRzvSl1nkFztZyKl?utm_campaign=billboard",
-      "title": "Issues"
+      }
     },
     {
+      "rank": 8,
+      "title": "Rockabye",
       "artist": "Clean Bandit Featuring Sean Paul & Anne-Marie",
-      "cover": "http://www.billboard.com/images/pref_images/q18473nqgl2.jpg",
       "position": {
         "Last Week": "6",
         "Peak Position": 4,
         "Wks on Chart": 21
-      },
-      "rank": 8,
-      "spotify": "http://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW?utm_campaign=billboard",
-      "title": "Rockabye"
+      }
     },
     {
+      "rank": 9,
+      "title": "Slide",
       "artist": "Calvin Harris Featuring Frank Ocean & Migos",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy2692105048585419784.jpg",
       "position": {
         "Last Week": "11",
         "Peak Position": 9,
         "Wks on Chart": 10
-      },
-      "rank": 9,
-      "spotify": "http://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk?utm_campaign=billboard",
-      "title": "Slide"
+      }
     },
     {
+      "rank": 10,
+      "title": "Cold",
       "artist": "Maroon 5 Featuring Future",
-      "cover": "http://www.billboard.com/images/pref_images/q59697htfhi.jpg",
       "position": {
         "Last Week": "10",
         "Peak Position": 8,
         "Wks on Chart": 13
-      },
-      "rank": 10,
-      "spotify": "http://open.spotify.com/track/52yOf7Ls1u5AO3cFIzQ58m?utm_campaign=billboard",
-      "title": "Cold"
+      }
     },
     {
+      "rank": 11,
+      "title": "Paris",
       "artist": "The Chainsmokers",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy4462751139365911250.jpg",
       "position": {
         "Last Week": "9",
         "Peak Position": 3,
         "Wks on Chart": 18
-      },
-      "rank": 11,
-      "spotify": "http://open.spotify.com/track/15vzANxN8G9wWfwAJLLMCg?utm_campaign=billboard",
-      "title": "Paris"
+      }
     },
     {
+      "rank": 12,
+      "title": "I'm The One",
       "artist": "DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",
-      "cover": "http://www.billboard.com/images/pref_images/q57043or8qy.jpg",
       "position": {
         "Last Week": "20",
         "Peak Position": 12,
         "Wks on Chart": 3
-      },
-      "rank": 12,
-      "spotify": "http://open.spotify.com/track/72Q0FQQo32KJloivv5xge2?utm_campaign=billboard",
-      "title": "I'm The One"
+      }
     },
     {
+      "rank": 13,
+      "title": "Castle On The Hill",
       "artist": "Ed Sheeran",
-      "cover": "http://www.billboard.com/images/pref_images/q61469jewko.jpg",
       "position": {
         "Last Week": "15",
         "Peak Position": 13,
         "Wks on Chart": 6
-      },
-      "rank": 13,
-      "spotify": "http://open.spotify.com/track/66qlqxhEMpSHOzjRK4il0b?utm_campaign=billboard",
-      "title": "Castle On The Hill"
+      }
     },
     {
+      "rank": 14,
+      "title": "Now Or Never",
       "artist": "Halsey",
-      "cover": "http://www.billboard.com/images/pref_images/q63950uzhc1.jpg",
       "position": {
         "Last Week": "16",
         "Peak Position": 14,
         "Wks on Chart": 6
-      },
-      "rank": 14,
-      "spotify": "http://open.spotify.com/track/3Px934J0dBoCmpUhUuCQkD?utm_campaign=billboard",
-      "title": "Now Or Never"
+      }
     },
     {
+      "rank": 15,
+      "title": "Sign Of The Times",
       "artist": "Harry Styles",
-      "cover": "http://www.billboard.com/images/pref_images/q63414vpboj.jpg",
       "position": {
         "Last Week": "14",
         "Peak Position": 14,
         "Wks on Chart": 6
-      },
-      "rank": 15,
-      "spotify": "http://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV?utm_campaign=billboard",
-      "title": "Sign Of The Times"
+      }
     },
     {
+      "rank": 16,
+      "title": "Heavy",
       "artist": "Linkin Park Featuring Kiiara",
-      "cover": "http://www.billboard.com/images/pref_images/q62405v4l28.jpg",
       "position": {
         "Last Week": "17",
         "Peak Position": 16,
         "Wks on Chart": 12
-      },
-      "rank": 16,
-      "spotify": "http://open.spotify.com/track/32bqxZEJRJObeNyc8bEiPt?utm_campaign=billboard",
-      "title": "Heavy"
+      }
     },
     {
+      "rank": 17,
+      "title": "Passionfruit",
       "artist": "Drake",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6013806102652956916.jpg",
       "position": {
         "Last Week": "18",
         "Peak Position": 17,
         "Wks on Chart": 7
-      },
-      "rank": 17,
-      "spotify": "http://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz?utm_campaign=billboard",
-      "title": "Passionfruit"
+      }
     },
     {
+      "rank": 18,
+      "title": "There's Nothing Holdin' Me Back",
       "artist": "Shawn Mendes",
-      "cover": "http://www.billboard.com/images/pref_images/q63987txfvh.jpg",
       "position": {
         "Last Week": "24",
         "Peak Position": 18,
         "Wks on Chart": 3
-      },
-      "rank": 18,
-      "spotify": "http://open.spotify.com/track/3bBknFVxhFjBIFX91HcneQ?utm_campaign=billboard",
-      "title": "There's Nothing Holdin' Me Back"
+      }
     },
     {
+      "rank": 19,
+      "title": "iSpy",
       "artist": "KYLE Featuring Lil Yachty",
-      "cover": "http://www.billboard.com/images/pref_images/q49084cpazq.jpg",
       "position": {
         "Last Week": "19",
         "Peak Position": 19,
         "Wks on Chart": 9
-      },
-      "rank": 19,
-      "spotify": "http://open.spotify.com/track/0WjYgf4qH3B0v0HmW61doL?utm_campaign=billboard",
-      "title": "iSpy"
+      }
     },
     {
+      "rank": 20,
+      "title": "Despacito",
       "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
-      "cover": "http://www.billboard.com/images/pref_images/q61808osztw.jpg",
       "position": {
         "Last Week": "28",
         "Peak Position": 20,
         "Wks on Chart": 3
-      },
-      "rank": 20,
-      "title": "Despacito"
+      }
     },
     {
+      "rank": 21,
+      "title": "At My Best",
       "artist": "Machine Gun Kelly Featuring Hailee Steinfeld",
-      "cover": "http://www.billboard.com/images/pref_images/q63883rk5yk.jpg",
       "position": {
         "Last Week": "21",
         "Peak Position": 21,
         "Wks on Chart": 8
-      },
-      "rank": 21,
-      "spotify": "http://open.spotify.com/track/5DEp4UmhxN7OLnYQacWZhh?utm_campaign=billboard",
-      "title": "At My Best"
+      }
     },
     {
+      "rank": 22,
+      "title": "Scared To Be Lonely",
       "artist": "Martin Garrix & Dua Lipa",
       "position": {
         "Last Week": "22",
         "Peak Position": 22,
         "Wks on Chart": 12
-      },
-      "rank": 22,
-      "title": "Scared To Be Lonely"
+      }
     },
     {
+      "rank": 23,
+      "title": "The Cure",
       "artist": "Lady Gaga",
-      "cover": "http://www.billboard.com/images/pref_images/q58741hyawt.jpg",
       "position": {
         "Last Week": "25",
         "Peak Position": 23,
         "Wks on Chart": 4
-      },
-      "rank": 23,
-      "spotify": "http://open.spotify.com/track/34oB5r0lcN3fYWCs2uA1k5?utm_campaign=billboard",
-      "title": "The Cure"
+      }
     },
     {
+      "rank": 24,
+      "title": "Swalla",
       "artist": "Jason Derulo Featuring Nicki Minaj & Ty Dolla $ign",
-      "cover": "http://www.billboard.com/images/pref_images/q50239n7ljk.jpg",
       "position": {
         "Last Week": "26",
         "Peak Position": 24,
         "Wks on Chart": 9
-      },
-      "rank": 24,
-      "spotify": "http://open.spotify.com/track/6kex4EBAj0WHXDKZMEJaaF?utm_campaign=billboard",
-      "title": "Swalla"
+      }
     },
     {
+      "rank": 25,
+      "title": "Believer",
       "artist": "Imagine Dragons",
-      "cover": "http://www.billboard.com/images/pref_images/q26284ht2zs.jpg",
       "position": {
         "Last Week": "31",
         "Peak Position": 25,
         "Wks on Chart": 5
-      },
-      "rank": 25,
-      "spotify": "http://open.spotify.com/track/05KfyCEE6otdlT1pp2VIjP?utm_campaign=billboard",
-      "title": "Believer"
+      }
     },
     {
+      "rank": 26,
+      "title": "Attention",
       "artist": "Charlie Puth",
-      "cover": "http://www.billboard.com/images/pref_images/q46483ubdhf.jpg",
       "position": {
         "Last Week": "34",
         "Peak Position": 26,
         "Wks on Chart": 2
-      },
-      "rank": 26,
-      "spotify": "http://open.spotify.com/track/4iLqG9SeJSnt0cSPICSjxv?utm_campaign=billboard",
-      "title": "Attention"
+      }
     },
     {
+      "rank": 27,
+      "title": "Play That Song",
       "artist": "Train",
-      "cover": "http://www.billboard.com/images/pref_images/q54541dv5lx.jpg",
       "position": {
         "Last Week": "29",
         "Peak Position": 27,
         "Wks on Chart": 10
-      },
-      "rank": 27,
-      "spotify": "http://open.spotify.com/track/3ZMFrvkNgwwMfPdX3aThYs?utm_campaign=billboard",
-      "title": "Play That Song"
+      }
     },
     {
+      "rank": 28,
+      "title": "Kissing Strangers",
       "artist": "DNCE Featuring Nicki Minaj",
-      "cover": "http://www.billboard.com/images/pref_images/q63846pczpl.jpg",
       "position": {
         "Last Week": "30",
         "Peak Position": 28,
         "Wks on Chart": 4
-      },
-      "rank": 28,
-      "spotify": "http://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU?utm_campaign=billboard",
-      "title": "Kissing Strangers"
+      }
     },
     {
+      "rank": 29,
+      "title": "Weak",
       "artist": "AJR",
-      "cover": "http://www.billboard.com/images/pref_images/q48102wugp2.jpg",
       "position": {
         "Last Week": "32",
         "Peak Position": 29,
         "Wks on Chart": 9
-      },
-      "rank": 29,
-      "spotify": "http://open.spotify.com/track/45iMRHmfLZu3yjdZ8P5e3t?utm_campaign=billboard",
-      "title": "Weak"
+      }
     },
     {
+      "rank": 30,
+      "title": "Cake",
       "artist": "Flo Rida & 99 Percent",
-      "cover": "http://www.billboard.com/images/pref_images/q00120e8szk.jpg",
       "position": {
         "Last Week": "23",
         "Peak Position": 23,
         "Wks on Chart": 10
-      },
-      "rank": 30,
-      "title": "Cake"
+      }
     },
     {
+      "rank": 31,
+      "title": "Slow Hands",
       "artist": "Niall Horan",
-      "cover": "http://www.billboard.com/images/pref_images/q64323yvh7p.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 31,
         "Wks on Chart": 1
-      },
-      "rank": 31,
-      "spotify": "http://open.spotify.com/track/27vTihlWXiz9f9lJM3XGVU?utm_campaign=billboard",
-      "title": "Slow Hands"
+      }
     },
     {
+      "rank": 32,
+      "title": "Human",
       "artist": "Rag'n'Bone Man",
-      "cover": "http://www.billboard.com/images/pref_images/q58056tghsd.jpg",
       "position": {
         "Last Week": "38",
         "Peak Position": 32,
         "Wks on Chart": 6
-      },
-      "rank": 32,
-      "spotify": "http://open.spotify.com/track/3erAiWBiKsbVG39cqCrsI0?utm_campaign=billboard",
-      "title": "Human"
+      }
     },
     {
+      "rank": 33,
+      "title": "No Promises",
       "artist": "Cheat Codes Featuring Demi Lovato",
-      "cover": "http://www.billboard.com/images/pref_images/q63296rv8k2.jpg",
       "position": {
         "Last Week": "40",
         "Peak Position": 33,
         "Wks on Chart": 3
-      },
-      "rank": 33,
-      "spotify": "http://open.spotify.com/track/5lNuqFVMca4vPupY10cH0J?utm_campaign=billboard",
-      "title": "No Promises"
+      }
     },
     {
+      "rank": 34,
+      "title": "I Love You",
       "artist": "Axwell & Ingrosso Featuring Kid Ink",
-      "cover": "http://www.billboard.com/images/pref_images/q18474b86ao.jpg",
       "position": {
         "Last Week": "33",
         "Peak Position": 31,
         "Wks on Chart": 8
-      },
-      "rank": 34,
-      "title": "I Love You"
+      }
     },
     {
+      "rank": 35,
+      "title": "Still Got Time",
       "artist": "Zayn Featuring PARTYNEXTDOOR",
-      "cover": "http://www.billboard.com/images/pref_images/q46665aa36r.jpg",
       "position": {
         "Last Week": "27",
         "Peak Position": 22,
         "Wks on Chart": 7
-      },
-      "rank": 35,
-      "spotify": "http://open.spotify.com/track/000xQL6tZNLJzIrtIgxqSl?utm_campaign=billboard",
-      "title": "Still Got Time"
+      }
     },
     {
+      "rank": 36,
+      "title": "Body Like A Back Road",
       "artist": "Sam Hunt",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6822012645735037338.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 36,
         "Wks on Chart": 1
-      },
-      "rank": 36,
-      "spotify": "http://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO?utm_campaign=billboard",
-      "title": "Body Like A Back Road"
+      }
     },
     {
+      "rank": 37,
+      "title": "Malibu",
       "artist": "Miley Cyrus",
-      "cover": "http://www.billboard.com/images/pref_images/q11643ot6gc.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 37,
         "Wks on Chart": 1
-      },
-      "rank": 37,
-      "spotify": "http://open.spotify.com/track/2habSXqcJGExM6JJyskY7O?utm_campaign=billboard",
-      "title": "Malibu"
+      }
     },
     {
+      "rank": 38,
+      "title": "Bon Appetit",
       "artist": "Katy Perry Featuring Migos",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy5354359009019426810.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 38,
         "Wks on Chart": 1
-      },
-      "rank": 38,
-      "spotify": "http://open.spotify.com/track/6n36I6V2WU3J4wwBMqYDNk?utm_campaign=billboard",
-      "title": "Bon Appetit"
+      }
     },
     {
+      "rank": 39,
+      "title": "Down",
       "artist": "Marian Hill",
-      "cover": "http://www.billboard.com/images/pref_images/q56202ar2sf.jpg",
       "position": {
         "Last Week": "37",
         "Peak Position": 10,
         "Wks on Chart": 16
-      },
-      "rank": 39,
-      "spotify": "http://open.spotify.com/track/4gczLfVvPH2hlfKlLtr7SW?utm_campaign=billboard",
-      "title": "Down"
+      }
     },
     {
+      "rank": 40,
+      "title": "Si Una Vez (If I Once)",
       "artist": "Play-N-Skillz Featuring Frankie J And Wisin & Leslie Grace or Becky G & Kap G",
-      "cover": "http://www.billboard.com/images/pref_images/q39422n71s5.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 40,
         "Wks on Chart": 1
-      },
-      "rank": 40,
-      "spotify": "http://open.spotify.com/track/3V5tB7nNQOxaCpI3jeMDXR?utm_campaign=billboard",
-      "title": "Si Una Vez (If I Once)"
+      }
     }
   ]
 }

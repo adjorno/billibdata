@@ -1,305 +1,256 @@
 {
-  "chart_date": "2017-02-04",
   "name": "Youtube",
+  "chart_date": "2017-02-04",
   "tracks": [
     {
+      "rank": 1,
+      "title": "Chantaje",
       "artist": "Shakira Featuring Maluma",
-      "cover": "http://www.billboard.com/images/pref_images/q13811lsqw8.jpg",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 9
-      },
-      "rank": 1,
-      "spotify": "http://open.spotify.com/track/1WniHvhq9zTkny0WvGXX8o?utm_campaign=billboard",
-      "title": "Chantaje"
+      }
     },
     {
+      "rank": 2,
+      "title": "Shape Of You",
       "artist": "Ed Sheeran",
-      "cover": "http://www.billboard.com/images/pref_images/q61469jewko.jpg",
       "position": {
         "Last Week": "4",
         "Peak Position": 2,
         "Wks on Chart": 2
-      },
-      "rank": 2,
-      "spotify": "http://open.spotify.com/track/0FE9t6xYkqWXU2ahLh6D8X?utm_campaign=billboard",
-      "title": "Shape Of You"
+      }
     },
     {
+      "rank": 3,
+      "title": "Despacito",
       "artist": "Luis Fonsi Featuring Daddy Yankee",
-      "cover": "http://www.billboard.com/images/pref_images/q24394mcj0t.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 3,
         "Wks on Chart": 1
-      },
-      "rank": 3,
-      "spotify": "http://open.spotify.com/track/7CUYHcu0RnbOnMz4RuN07w?utm_campaign=billboard",
-      "title": "Despacito"
+      }
     },
     {
+      "rank": 4,
+      "title": "Closer",
       "artist": "The Chainsmokers Featuring Halsey",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy4462751139365911250.jpg",
       "position": {
         "Last Week": "2",
         "Peak Position": 1,
         "Wks on Chart": 25
-      },
-      "rank": 4,
-      "spotify": "http://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw?utm_campaign=billboard",
-      "title": "Closer"
+      }
     },
     {
+      "rank": 5,
+      "title": "Side To Side",
       "artist": "Ariana Grande Featuring Nicki Minaj",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy8029153055372258969.jpg",
       "position": {
         "Last Week": "3",
         "Peak Position": 2,
         "Wks on Chart": 21
-      },
-      "rank": 5,
-      "spotify": "http://open.spotify.com/track/1pKeFVVUOPjFsOABub0OaV?utm_campaign=billboard",
-      "title": "Side To Side"
+      }
     },
     {
+      "rank": 6,
+      "title": "Starboy",
       "artist": "The Weeknd Featuring Daft Punk",
-      "cover": "http://www.billboard.com/images/pref_images/q59123tine7.jpg",
       "position": {
         "Last Week": "5",
         "Peak Position": 3,
         "Wks on Chart": 17
-      },
-      "rank": 6,
-      "spotify": "http://open.spotify.com/track/2IY7eOUDjw2ArKYxKa2jXc?utm_campaign=billboard",
-      "title": "Starboy"
+      }
     },
     {
+      "rank": 7,
+      "title": "Vente Pa' Ca",
       "artist": "Ricky Martin Featuring Maluma",
-      "cover": "http://www.billboard.com/images/pref_images/q35066jykoi.jpg",
       "position": {
         "Last Week": "6",
         "Peak Position": 5,
         "Wks on Chart": 17
-      },
-      "rank": 7,
-      "spotify": "http://open.spotify.com/track/7DM4BPaS7uofFul3ywMe46?utm_campaign=billboard",
-      "title": "Vente Pa' Ca"
+      }
     },
     {
+      "rank": 8,
+      "title": "Rockabye",
       "artist": "Clean Bandit Featuring Sean Paul & Anne-Marie",
-      "cover": "http://www.billboard.com/images/pref_images/q18473nqgl2.jpg",
       "position": {
         "Last Week": "9",
         "Peak Position": 8,
         "Wks on Chart": 6
-      },
-      "rank": 8,
-      "spotify": "http://open.spotify.com/track/5knuzwU65gJK7IF5yJsuaW?utm_campaign=billboard",
-      "title": "Rockabye"
+      }
     },
     {
+      "rank": 9,
+      "title": "Cuatro Babys",
       "artist": "Maluma Featuring Bryant Myers X Noriel X Juhn",
-      "cover": "http://www.billboard.com/images/pref_images/q45258vgxg1.jpg",
       "position": {
         "Last Week": "12",
         "Peak Position": 6,
         "Wks on Chart": 14
-      },
-      "rank": 9,
-      "spotify": "http://open.spotify.com/track/0JoHqmlqE0W0i9prt6kcHR?utm_campaign=billboard",
-      "title": "Cuatro Babys"
+      }
     },
     {
+      "rank": 10,
+      "title": "Shaky Shaky",
       "artist": "Daddy Yankee",
-      "cover": "http://www.billboard.com/images/pref_images/q31580waksi.jpg",
       "position": {
         "Last Week": "8",
         "Peak Position": 2,
         "Wks on Chart": 25
-      },
-      "rank": 10,
-      "spotify": "http://open.spotify.com/track/7gcMKL3lnDxsp4bIXyv6Zk?utm_campaign=billboard",
-      "title": "Shaky Shaky"
+      }
     },
     {
+      "rank": 11,
+      "title": "Reggaeton Lento (Bailemos)",
       "artist": "CNCO",
-      "cover": "http://www.billboard.com/images/pref_images/q56097bfoq1.jpg",
       "position": {
         "Last Week": "18",
         "Peak Position": 11,
         "Wks on Chart": 4
-      },
-      "rank": 11,
-      "spotify": "http://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo?utm_campaign=billboard",
-      "title": "Reggaeton Lento (Bailemos)"
+      }
     },
     {
+      "rank": 12,
+      "title": "This Is What You Came For",
       "artist": "Calvin Harris Featuring Rihanna",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy2692105048585419784.jpg",
       "position": {
         "Last Week": "10",
         "Peak Position": 1,
         "Wks on Chart": 31
-      },
-      "rank": 12,
-      "spotify": "http://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y?utm_campaign=billboard",
-      "title": "This Is What You Came For"
+      }
     },
     {
+      "rank": 13,
+      "title": "24K Magic",
       "artist": "Bruno Mars",
-      "cover": "http://www.billboard.com/images/pref_images/q59725qvpol.jpg",
       "position": {
         "Last Week": "11",
         "Peak Position": 8,
         "Wks on Chart": 15
-      },
-      "rank": 13,
-      "spotify": "http://open.spotify.com/track/2gFvRmQiWg9fN9i74Q0aiw?utm_campaign=billboard",
-      "title": "24K Magic"
+      }
     },
     {
+      "rank": 14,
+      "title": "Deu Onda",
       "artist": "MC G15",
       "position": {
         "Last Week": "7",
         "Peak Position": 5,
         "Wks on Chart": 4
-      },
-      "rank": 14,
-      "spotify": "http://open.spotify.com/track/0EPxmvsG1BY5td4aTOkWBF?utm_campaign=billboard",
-      "title": "Deu Onda"
+      }
     },
     {
+      "rank": 15,
+      "title": "Treat You Better",
       "artist": "Shawn Mendes",
-      "cover": "http://www.billboard.com/images/pref_images/q54451rbcic.jpg",
       "position": {
         "Last Week": "15",
         "Peak Position": 7,
         "Wks on Chart": 25
-      },
-      "rank": 15,
-      "spotify": "http://open.spotify.com/track/1mSlftOO1dlDRXAyOE0Sbd?utm_campaign=billboard",
-      "title": "Treat You Better"
+      }
     },
     {
+      "rank": 16,
+      "title": "We Don't Talk Anymore",
       "artist": "Charlie Puth Featuring Selena Gomez",
-      "cover": "http://www.billboard.com/images/pref_images/q46483ubdhf.jpg",
       "position": {
         "Last Week": "14",
         "Peak Position": 5,
         "Wks on Chart": 24
-      },
-      "rank": 16,
-      "spotify": "http://open.spotify.com/track/06KyNuuMOX1ROXRhj787tj?utm_campaign=billboard",
-      "title": "We Don't Talk Anymore"
+      }
     },
     {
+      "rank": 17,
+      "title": "Otra Vez",
       "artist": "Zion & Lennox Featuring J Balvin",
-      "cover": "http://www.billboard.com/images/pref_images/q58943n4nmt.jpg",
       "position": {
         "Last Week": "22",
         "Peak Position": 14,
         "Wks on Chart": 16
-      },
-      "rank": 17,
-      "spotify": "http://open.spotify.com/track/7pk3EpFtmsOdj8iUhjmeCM?utm_campaign=billboard",
-      "title": "Otra Vez"
+      }
     },
     {
+      "rank": 18,
+      "title": "Safari",
       "artist": "J Balvin Featuring Pharrell Williams, BIA & Sky",
-      "cover": "http://www.billboard.com/images/pref_images/q53957a8ush.jpg",
       "position": {
         "Last Week": "17",
         "Peak Position": 13,
         "Wks on Chart": 13
-      },
-      "rank": 18,
-      "spotify": "http://open.spotify.com/track/456xBIOmLRoLzCvCzZrWge?utm_campaign=billboard",
-      "title": "Safari"
+      }
     },
     {
+      "rank": 19,
+      "title": "La Bicicleta",
       "artist": "Carlos Vives & Shakira",
-      "cover": "http://www.billboard.com/images/pref_images/q05583l6prh.jpg",
       "position": {
         "Last Week": "16",
         "Peak Position": 6,
         "Wks on Chart": 28
-      },
-      "rank": 19,
-      "spotify": "http://open.spotify.com/track/43it4kot08akLzFIEMhXNN?utm_campaign=billboard",
-      "title": "La Bicicleta"
+      }
     },
     {
+      "rank": 20,
+      "title": "Bad And Boujee",
       "artist": "Migos Featuring Lil Uzi Vert",
-      "cover": "http://www.billboard.com/images/pref_images/q61200eb3ll.jpg",
       "position": {
         "Last Week": "20",
         "Peak Position": 20,
         "Wks on Chart": 3
-      },
-      "rank": 20,
-      "spotify": "http://open.spotify.com/track/1FvU97lrWOG2NRxErh6OZz?utm_campaign=billboard",
-      "title": "Bad And Boujee"
+      }
     },
     {
+      "rank": 21,
+      "title": "Castle On The Hill",
       "artist": "Ed Sheeran",
-      "cover": "http://www.billboard.com/images/pref_images/q61469jewko.jpg",
       "position": {
         "Last Week": "13",
         "Peak Position": 13,
         "Wks on Chart": 2
-      },
-      "rank": 21,
-      "spotify": "http://open.spotify.com/track/66qlqxhEMpSHOzjRK4il0b?utm_campaign=billboard",
-      "title": "Castle On The Hill"
+      }
     },
     {
+      "rank": 22,
+      "title": "See You Again",
       "artist": "Wiz Khalifa Featuring Charlie Puth",
-      "cover": "http://www.billboard.com/images/pref_images/q46629nhgw8.jpg",
       "position": {
         "Last Week": "21",
         "Peak Position": 1,
         "Wks on Chart": 93
-      },
-      "rank": 22,
-      "spotify": "http://open.spotify.com/track/7wqSzGeodspE3V6RBD5W8L?utm_campaign=billboard",
-      "title": "See You Again"
+      }
     },
     {
+      "rank": 23,
+      "title": "Paris",
       "artist": "The Chainsmokers",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy4462751139365911250.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 23,
         "Wks on Chart": 1
-      },
-      "rank": 23,
-      "spotify": "http://open.spotify.com/track/15vzANxN8G9wWfwAJLLMCg?utm_campaign=billboard",
-      "title": "Paris"
+      }
     },
     {
+      "rank": 24,
+      "title": "Sorry",
       "artist": "Justin Bieber",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy3408309708667057926.jpg",
       "position": {
         "Last Week": "23",
         "Peak Position": 1,
         "Wks on Chart": 65
-      },
-      "rank": 24,
-      "spotify": "http://open.spotify.com/track/2GpHJb7xGNBaIDTrBxjIu6?utm_campaign=billboard",
-      "title": "Sorry"
+      }
     },
     {
+      "rank": 25,
+      "title": "Sin Contrato",
       "artist": "Maluma Featuring Fifth Harmony Or Don Omar & Wisin",
-      "cover": "http://www.billboard.com/images/pref_images/q45258vgxg1.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 17,
         "Wks on Chart": 11
-      },
-      "rank": 25,
-      "spotify": "http://open.spotify.com/track/3yHJs5NmQk2ROAWCfjniXV?utm_campaign=billboard",
-      "title": "Sin Contrato"
+      }
     }
   ]
 }

@@ -1,0 +1,506 @@
+{
+  "name": "Club",
+  "chart_date": "2018-01-27",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Stars",
+      "artist": "Kristine W",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Too Much To Ask",
+      "artist": "Niall Horan",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Coping",
+      "artist": "Toni Braxton",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Meet In The Middle",
+      "artist": "StoneBridge Featuring Haley Joelle",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 5,
+      "title": "All Falls Down",
+      "artist": "Alan Walker, Noah Cyrus & Digital Farm Animals",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 5,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Ain't No Mountain High Enough 2017",
+      "artist": "Diana Ross",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Consideration",
+      "artist": "Rihanna Featuring SZA",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 7,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 8,
+      "title": "To The Dancefloor",
+      "artist": "Dirty Disco Featuring Celeda",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 8,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Think (About It)",
+      "artist": "Barbara Tucker",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Dreamer",
+      "artist": "Axwell & Ingrosso Featuring Trevor Guthrie",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 10,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 11,
+      "title": "X With U",
+      "artist": "Tom Budin & Luciana",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Think Before I Talk",
+      "artist": "Astrid S",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Free",
+      "artist": "Sean Finn vs. Terri B! & Peter Brown",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 14,
+      "title": "I Don't Know",
+      "artist": "E.J.",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 14,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Love Line",
+      "artist": "LeAnn Rimes",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Wolves",
+      "artist": "Selena Gomez X Marshmello",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 12,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Have It",
+      "artist": "AP3 Featuring Flo Rida",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 17,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Best Friend",
+      "artist": "Sofi Tukker Featuring NERVO, The Knocks & Alisa Ueno",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 18,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 19,
+      "title": "What We Remember",
+      "artist": "Anggun",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 19,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 20,
+      "title": "No Apology",
+      "artist": "BlissBliss",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 15,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Generous",
+      "artist": "Olivia Holt",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 21,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Havana",
+      "artist": "Camila Cabello Featuring Young Thug",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 12,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Lemon",
+      "artist": "N*E*R*D & Rihanna",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Wasted",
+      "artist": "Ally Ryan",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 24,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Sweet Love",
+      "artist": "Jena Rose",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 25,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Blaze The Dance Floor",
+      "artist": "JoAnna Michelle",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 26,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Blame",
+      "artist": "Skylar Stecker",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 27,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Music Is My Art",
+      "artist": "DJ Head Featuring Geez",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Lose Control",
+      "artist": "April Diamond",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 29,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 30,
+      "title": "We Can Feel It",
+      "artist": "DaDa NaDa",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 30,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Love Dealer",
+      "artist": "Ryan Brahms",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 31,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Too Late",
+      "artist": "Azure",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 32,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 33,
+      "title": "How Long",
+      "artist": "Charlie Puth",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 32,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Shine Your Love",
+      "artist": "Scotty Boy & Lizzie Curious",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Bad At Love",
+      "artist": "Halsey",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Perfect",
+      "artist": "Ed Sheeran",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 36,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 37,
+      "title": "With Every Beat Of My Heart",
+      "artist": "Raphael",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 25,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 38,
+      "title": "You Make Me Feel",
+      "artist": "Vizin",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 24,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Complicated",
+      "artist": "Dimitri Vegas & Like Mike vs. David Guetta Featuring Kiiara",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Too Good At Goodbyes",
+      "artist": "Sam Smith",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Cola",
+      "artist": "CamelPhat & Elderbrook",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 42,
+      "title": "I Miss You",
+      "artist": "Clean Bandit Featuring Julia Michaels",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 39,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 43,
+      "title": "King Size",
+      "artist": "Chelsea",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 43,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Don't Give Up On Love",
+      "artist": "Jay Roecker Featuring Jedidiah Breeze",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Freak",
+      "artist": "Rosabel Featuring Tamara Wallace",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 4,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Cold",
+      "artist": "Ralphi Rosario Featuring Donna Blakely",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Finesse",
+      "artist": "Bruno Mars & Cardi B",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Cryptic Love",
+      "artist": "The Trash Mermaids",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 13,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Crazy Enough",
+      "artist": "Joe Bermudez Featuring Louise Carver",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Ooh La La La",
+      "artist": "Nadel Paris Featuring DJM",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
+    }
+  ]
+}

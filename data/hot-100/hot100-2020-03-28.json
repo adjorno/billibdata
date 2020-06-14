@@ -1,0 +1,982 @@
+{
+  "name": "Hot 100",
+  "chart_date": "2020-03-28",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "The Box",
+      "artist": "Roddy Ricch",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Life Is Good",
+      "artist": "Future Featuring Drake",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Circles",
+      "artist": "Post Malone",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Roxanne",
+      "artist": "Arizona Zervas",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Adore You",
+      "artist": "Harry Styles",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Intentions",
+      "artist": "Justin Bieber Featuring Quavo",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 8,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Someone You Loved",
+      "artist": "Lewis Capaldi",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 1,
+        "Wks on Chart": 45
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Everything I Wanted",
+      "artist": "Billie Eilish",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 8,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Hot Girl Bummer",
+      "artist": "blackbear",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 11,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Memories",
+      "artist": "Maroon 5",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 2,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Myron",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Say So",
+      "artist": "Doja Cat Featuring Nicki Minaj",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 14,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Dance Monkey",
+      "artist": "Tones And I",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 4,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Heartless",
+      "artist": "The Weeknd",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 17,
+      "title": "The Bones",
+      "artist": "Maren Morris",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 17,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 18,
+      "title": "My Oh My",
+      "artist": "Camila Cabello Featuring DaBaby",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 18,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Bean (Kobe)",
+      "artist": "Lil Uzi Vert Featuring Chief Keef",
+      "position": {
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Suicidal",
+      "artist": "YNW Melly & Juice WRLD",
+      "position": {
+        "Peak Position": 20,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Ballin'",
+      "artist": "Mustard & Roddy Ricch",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 11,
+        "Wks on Chart": 35
+      }
+    },
+    {
+      "rank": 22,
+      "title": "10,000 Hours",
+      "artist": "Dan + Shay & Justin Bieber",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 4,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Godzilla",
+      "artist": "Eminem Featuring Juice WRLD",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 3,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 24,
+      "title": "BOP",
+      "artist": "DaBaby",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 11,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Stupid Love",
+      "artist": "Lady Gaga",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 5,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Yessirskiii",
+      "artist": "Lil Uzi Vert & 21 Savage",
+      "position": {
+        "Peak Position": 26,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Baby Pluto",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Woah",
+      "artist": "Lil Baby",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 15,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Falling",
+      "artist": "Trevor Daniel",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 25,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 30,
+      "title": "RITMO (Bad Boys For Life)",
+      "artist": "The Black Eyed Peas X J Balvin",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 30,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Lose You To Love Me",
+      "artist": "Selena Gomez",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 1,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 32,
+      "title": "No Guidance",
+      "artist": "Chris Brown Featuring Drake",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 5,
+        "Wks on Chart": 41
+      }
+    },
+    {
+      "rank": 33,
+      "title": "High Fashion",
+      "artist": "Roddy Ricch Featuring Mustard",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 20,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 34,
+      "title": "You Should Be Sad",
+      "artist": "Halsey",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 26,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Homesick",
+      "artist": "Kane Brown",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 35,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 36,
+      "title": "I Hope",
+      "artist": "Gabby Barrett",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 36,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 37,
+      "title": "P2",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Blueberry Faygo",
+      "artist": "Lil Mosey",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 38,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Homemade",
+      "artist": "Jake Owen",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 39,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Heart On Ice",
+      "artist": "Rod Wave",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 40,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 41,
+      "title": "That Way",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 20,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Lo Mein",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 43,
+      "title": "I Love Me",
+      "artist": "Demi Lovato",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 18,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Good As Hell",
+      "artist": "Lizzo",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 3,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Lotus",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 46,
+      "title": "BEST ON EARTH",
+      "artist": "Russ & BIA",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 46,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Slide",
+      "artist": "H.E.R. Featuring YG",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 47,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Whats Poppin",
+      "artist": "Jack Harlow",
+      "position": {
+        "Last Week": "73",
+        "Peak Position": 48,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 49,
+      "title": "What She Wants Tonight",
+      "artist": "Luke Bryan",
+      "position": {
+        "Last Week": "78",
+        "Peak Position": 49,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Dior",
+      "artist": "Pop Smoke",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 30,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Sum 2 Prove",
+      "artist": "Lil Baby",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 16,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Silly Watch",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Nobody But You",
+      "artist": "Blake Shelton Duet With Gwen Stefani",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 43,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Wassup",
+      "artist": "Lil Uzi Vert Featuring Future",
+      "position": {
+        "Peak Position": 54,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Oprah's Bank Account",
+      "artist": "Lil Yachty, Drake & DaBaby",
+      "position": {
+        "Last Week": "89",
+        "Peak Position": 55,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 56,
+      "title": "More Hearts Than Mine",
+      "artist": "Ingrid Andress",
+      "position": {
+        "Last Week": "85",
+        "Peak Position": 56,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 57,
+      "title": "B.S.",
+      "artist": "Jhene Aiko Featuring H.E.R.",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 58,
+      "title": "Chasin' You",
+      "artist": "Morgan Wallen",
+      "position": {
+        "Last Week": "70",
+        "Peak Position": 58,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 59,
+      "title": "Slow Dance In A Parking Lot",
+      "artist": "Jordan Davis",
+      "position": {
+        "Last Week": "77",
+        "Peak Position": 59,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 60,
+      "title": "Strawberry Peels",
+      "artist": "Lil Uzi Vert Featuring Young Thug & Gunna",
+      "position": {
+        "Peak Position": 60,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 61,
+      "title": "P*$$y Fairy (OTW)",
+      "artist": "Jhene Aiko",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 40,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 62,
+      "title": "Moon Relate",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Peak Position": 62,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 63,
+      "title": "What A Man Gotta Do",
+      "artist": "Jonas Brothers",
+      "position": {
+        "Last Week": "63",
+        "Peak Position": 16,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 64,
+      "title": "Tusa",
+      "artist": "Karol G & Nicki Minaj",
+      "position": {
+        "Last Week": "75",
+        "Peak Position": 42,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 65,
+      "title": "Catch",
+      "artist": "Brett Young",
+      "position": {
+        "Last Week": "86",
+        "Peak Position": 65,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 66,
+      "title": "I Can Show You",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Peak Position": 66,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 67,
+      "title": "We Back",
+      "artist": "Jason Aldean",
+      "position": {
+        "Last Week": "81",
+        "Peak Position": 62,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 68,
+      "title": "Trap This Way (This Way)",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Peak Position": 68,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 69,
+      "title": "I Wish Grandpas Never Died",
+      "artist": "Riley Green",
+      "position": {
+        "Last Week": "82",
+        "Peak Position": 66,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 70,
+      "title": "Si Veo A Tu Mama",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 32,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 71,
+      "title": "Death Bed",
+      "artist": "Powfu Featuring beabadoobee",
+      "position": {
+        "Peak Position": 71,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 72,
+      "title": "Leaders",
+      "artist": "Lil Uzi Vert Featuring NAV",
+      "position": {
+        "Peak Position": 72,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 73,
+      "title": "Heatin Up",
+      "artist": "Lil Baby & Gunna",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 18,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 74,
+      "title": "Sunday Best",
+      "artist": "Surfaces",
+      "position": {
+        "Last Week": "99",
+        "Peak Position": 74,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 75,
+      "title": "Grace",
+      "artist": "Lil Baby & 42 Dugg",
+      "position": {
+        "Last Week": "98",
+        "Peak Position": 48,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 76,
+      "title": "No Auto",
+      "artist": "Lil Uzi Vert Featuring Lil Durk",
+      "position": {
+        "Peak Position": 76,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 77,
+      "title": "The Other Side",
+      "artist": "SZA X Justin Timberlake",
+      "position": {
+        "Last Week": "80",
+        "Peak Position": 61,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 78,
+      "title": "Yummy",
+      "artist": "Justin Bieber",
+      "position": {
+        "Last Week": "67",
+        "Peak Position": 2,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 79,
+      "title": "B.I.T.C.H.",
+      "artist": "Megan Thee Stallion",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 31,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 80,
+      "title": "La Dificil",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 33,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 81,
+      "title": "I Hope You're Happy Now",
+      "artist": "Carly Pearce & Lee Brice",
+      "position": {
+        "Last Week": "91",
+        "Peak Position": 65,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 82,
+      "title": "Homecoming",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 83,
+      "title": "Come This Way",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Peak Position": 83,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 84,
+      "title": "To Die For",
+      "artist": "Sam Smith",
+      "position": {
+        "Last Week": "96",
+        "Peak Position": 46,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 85,
+      "title": "Emotionally Scarred",
+      "artist": "Lil Baby",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 31,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 86,
+      "title": "Does To Me",
+      "artist": "Luke Combs Featuring Eric Church",
+      "position": {
+        "Peak Position": 86,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 87,
+      "title": "Got The Guap",
+      "artist": "Lil Uzi Vert Featuring Young Thug",
+      "position": {
+        "Peak Position": 87,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 88,
+      "title": "Supalonely",
+      "artist": "BENEE Featuring Gus Dapperton",
+      "position": {
+        "Peak Position": 88,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 89,
+      "title": "Money Spread",
+      "artist": "Lil Uzi Vert Featuring Young Nudy",
+      "position": {
+        "Peak Position": 89,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 90,
+      "title": "Cardigan",
+      "artist": "Don Toliver",
+      "position": {
+        "Peak Position": 90,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 91,
+      "title": "Beer Can't Fix",
+      "artist": "Thomas Rhett Featuring Jon Pardi",
+      "position": {
+        "Peak Position": 91,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 92,
+      "title": "Vete",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 33,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 93,
+      "title": "Know Your Worth",
+      "artist": "Khalid x Disclosure",
+      "position": {
+        "Last Week": "94",
+        "Peak Position": 57,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 94,
+      "title": "Futsal Shuffle 2020",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 5,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 95,
+      "title": "Prices",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 25,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 96,
+      "title": "Go Stupid",
+      "artist": "Polo G Featuring NLE Choppa & Stunna 4 Vegas",
+      "position": {
+        "Last Week": "90",
+        "Peak Position": 60,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 97,
+      "title": "Before You Go",
+      "artist": "Lewis Capaldi",
+      "position": {
+        "Peak Position": 71,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 98,
+      "title": "Savage",
+      "artist": "Megan Thee Stallion Featuring Beyonce",
+      "position": {
+        "Peak Position": 98,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 99,
+      "title": "Come Thru",
+      "artist": "Summer Walker & Usher",
+      "position": {
+        "Peak Position": 42,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 100,
+      "title": "Make No Sense",
+      "artist": "YoungBoy Never Broke Again",
+      "position": {
+        "Peak Position": 57,
+        "Wks on Chart": 18
+      }
+    }
+  ]
+}

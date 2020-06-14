@@ -1,280 +1,256 @@
 {
-  "chart_date": "2016-12-31",
   "name": "Rap",
+  "chart_date": "2016-12-31",
   "tracks": [
     {
+      "rank": 1,
+      "title": "Black Beatles",
       "artist": "Rae Sremmurd Featuring Gucci Mane",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 13
-      },
-      "rank": 1,
-      "spotify": "http://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo?utm_campaign=billboard",
-      "title": "Black Beatles"
+      }
     },
     {
+      "rank": 2,
+      "title": "Deja Vu",
       "artist": "J. Cole",
       "position": {
         "Last Week": "--",
         "Peak Position": 2,
         "Wks on Chart": 1
-      },
-      "rank": 2,
-      "spotify": "http://open.spotify.com/track/6I6NX6tjGsxFAsIfGzY9lJ?utm_campaign=billboard",
-      "title": "Deja Vu"
+      }
     },
     {
+      "rank": 3,
+      "title": "Juju On That Beat (TZ Anthem)",
       "artist": "Zay Hilfigerrr & Zayion McCall",
       "position": {
         "Last Week": "2",
         "Peak Position": 2,
         "Wks on Chart": 12
-      },
-      "rank": 3,
-      "spotify": "http://open.spotify.com/track/1lItf5ZXJc1by9SbPeljFd?utm_campaign=billboard",
-      "title": "Juju On That Beat (TZ Anthem)"
+      }
     },
     {
+      "rank": 4,
+      "title": "Immortal",
       "artist": "J. Cole",
       "position": {
         "Last Week": "--",
         "Peak Position": 4,
         "Wks on Chart": 1
-      },
-      "rank": 4,
-      "spotify": "http://open.spotify.com/track/6AGON2BGdPmPMJGiiNuuwl?utm_campaign=billboard",
-      "title": "Immortal"
+      }
     },
     {
+      "rank": 5,
+      "title": "Fake Love",
       "artist": "Drake",
       "position": {
         "Last Week": "4",
         "Peak Position": 4,
         "Wks on Chart": 8
-      },
-      "rank": 5,
-      "spotify": "http://open.spotify.com/track/6NMNgWgEAzde5M8U3lc6FN?utm_campaign=billboard",
-      "title": "Fake Love"
+      }
     },
     {
+      "rank": 6,
+      "title": "Neighbors",
       "artist": "J. Cole",
       "position": {
         "Last Week": "--",
         "Peak Position": 6,
         "Wks on Chart": 1
-      },
-      "rank": 6,
-      "spotify": "http://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy?utm_campaign=billboard",
-      "title": "Neighbors"
+      }
     },
     {
+      "rank": 7,
+      "title": "Bad Things",
       "artist": "Machine Gun Kelly x Camila Cabello",
       "position": {
         "Last Week": "3",
         "Peak Position": 3,
         "Wks on Chart": 7
-      },
-      "rank": 7,
-      "spotify": "http://open.spotify.com/track/56cswAa9WdFBsjsTyPBAKA?utm_campaign=billboard",
-      "title": "Bad Things"
+      }
     },
     {
+      "rank": 8,
+      "title": "Caroline",
       "artist": "Amine",
       "position": {
         "Last Week": "6",
         "Peak Position": 4,
         "Wks on Chart": 14
-      },
-      "rank": 8,
-      "spotify": "http://open.spotify.com/track/34dVqrAW35mn6dpgfzntOS?utm_campaign=billboard",
-      "title": "Caroline"
+      }
     },
     {
+      "rank": 9,
+      "title": "Change",
       "artist": "J. Cole",
       "position": {
         "Last Week": "--",
         "Peak Position": 9,
         "Wks on Chart": 1
-      },
-      "rank": 9,
-      "spotify": "http://open.spotify.com/track/3pjUyVbFmM96tYhSaKJwTt?utm_campaign=billboard",
-      "title": "Change"
+      }
     },
     {
+      "rank": 10,
+      "title": "She's Mine Pt.1",
       "artist": "J. Cole",
       "position": {
         "Last Week": "--",
         "Peak Position": 10,
         "Wks on Chart": 1
-      },
-      "rank": 10,
-      "spotify": "http://open.spotify.com/track/0HtOJj7Kl74s1Ngf3MWeif?utm_campaign=billboard",
-      "title": "She's Mine Pt.1"
+      }
     },
     {
+      "rank": 11,
+      "title": "For Whom The Bell Tolls",
       "artist": "J. Cole",
       "position": {
         "Last Week": "--",
         "Peak Position": 11,
         "Wks on Chart": 1
-      },
-      "rank": 11,
-      "spotify": "http://open.spotify.com/track/3MWlVSkoLS1e66nlZ2tuWJ?utm_campaign=billboard",
-      "title": "For Whom The Bell Tolls"
+      }
     },
     {
+      "rank": 12,
+      "title": "Ville Mentality",
       "artist": "J. Cole",
       "position": {
         "Last Week": "--",
         "Peak Position": 12,
         "Wks on Chart": 1
-      },
-      "rank": 12,
-      "spotify": "http://open.spotify.com/track/2z3joGXrdGL2iEjIKQTiN1?utm_campaign=billboard",
-      "title": "Ville Mentality"
+      }
     },
     {
+      "rank": 13,
+      "title": "Bad And Boujee",
       "artist": "Migos Featuring Lil Uzi Vert",
       "position": {
         "Last Week": "7",
         "Peak Position": 7,
         "Wks on Chart": 5
-      },
-      "rank": 13,
-      "spotify": "http://open.spotify.com/track/1FvU97lrWOG2NRxErh6OZz?utm_campaign=billboard",
-      "title": "Bad And Boujee"
+      }
     },
     {
+      "rank": 14,
+      "title": "4 Your Eyez Only",
       "artist": "J. Cole",
       "position": {
         "Last Week": "--",
         "Peak Position": 14,
         "Wks on Chart": 1
-      },
-      "rank": 14,
-      "spotify": "http://open.spotify.com/track/1vvnYpYEMVB4aq9I6tHIEB?utm_campaign=billboard",
-      "title": "4 Your Eyez Only"
+      }
     },
     {
+      "rank": 15,
+      "title": "Foldin Clothes",
       "artist": "J. Cole",
       "position": {
         "Last Week": "--",
         "Peak Position": 15,
         "Wks on Chart": 1
-      },
-      "rank": 15,
-      "spotify": "http://open.spotify.com/track/77IAeEz8LEchPN8UNjaTJ2?utm_campaign=billboard",
-      "title": "Foldin Clothes"
+      }
     },
     {
+      "rank": 16,
+      "title": "Bounce Back",
       "artist": "Big Sean",
       "position": {
         "Last Week": "10",
         "Peak Position": 10,
         "Wks on Chart": 6
-      },
-      "rank": 16,
-      "spotify": "http://open.spotify.com/track/206uaQyzb8kOiZ7rHw9wCn?utm_campaign=billboard",
-      "title": "Bounce Back"
+      }
     },
     {
+      "rank": 17,
+      "title": "She's Mine Pt. 2",
       "artist": "J. Cole",
       "position": {
         "Last Week": "--",
         "Peak Position": 17,
         "Wks on Chart": 1
-      },
-      "rank": 17,
-      "spotify": "http://open.spotify.com/track/5rmcjZTrE9JR1YrbNZDFNW?utm_campaign=billboard",
-      "title": "She's Mine Pt. 2"
+      }
     },
     {
+      "rank": 18,
+      "title": "OOOUUU",
       "artist": "Young M.A",
       "position": {
         "Last Week": "8",
         "Peak Position": 3,
         "Wks on Chart": 16
-      },
-      "rank": 18,
-      "spotify": "http://open.spotify.com/track/0D21XvHcVsIvJM6FcGY2BT?utm_campaign=billboard",
-      "title": "OOOUUU"
+      }
     },
     {
+      "rank": 19,
+      "title": "Chill Bill",
       "artist": "Rob $tone Featuring J. Davi$ & Spooks",
       "position": {
         "Last Week": "9",
         "Peak Position": 7,
         "Wks on Chart": 19
-      },
-      "rank": 19,
-      "spotify": "http://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp?utm_campaign=billboard",
-      "title": "Chill Bill"
+      }
     },
     {
+      "rank": 20,
+      "title": "X",
       "artist": "21 Savage & Metro Boomin Featuring Future",
       "position": {
         "Last Week": "11",
         "Peak Position": 10,
         "Wks on Chart": 13
-      },
-      "rank": 20,
-      "title": "X"
+      }
     },
     {
+      "rank": 21,
+      "title": "False Prophets",
       "artist": "J. Cole",
       "position": {
         "Last Week": "24",
         "Peak Position": 21,
         "Wks on Chart": 2
-      },
-      "rank": 21,
-      "spotify": "http://open.spotify.com/track/0eneujAc4PxkdjP25Gsue1?utm_campaign=billboard",
-      "title": "False Prophets"
+      }
     },
     {
+      "rank": 22,
+      "title": "No Heart",
       "artist": "21 Savage & Metro Boomin",
       "position": {
         "Last Week": "15",
         "Peak Position": 15,
         "Wks on Chart": 8
-      },
-      "rank": 22,
-      "spotify": "http://open.spotify.com/track/4gmmRb6bZJffOOiww1JGTO?utm_campaign=billboard",
-      "title": "No Heart"
+      }
     },
     {
+      "rank": 23,
+      "title": "Everybody Dies",
       "artist": "J. Cole",
       "position": {
         "Last Week": "--",
         "Peak Position": 23,
         "Wks on Chart": 1
-      },
-      "rank": 23,
-      "spotify": "http://open.spotify.com/track/1wIQtB3UQ1TfjNMZZqO6eh?utm_campaign=billboard",
-      "title": "Everybody Dies"
+      }
     },
     {
+      "rank": 24,
+      "title": "You Was Right",
       "artist": "Lil Uzi Vert",
       "position": {
         "Last Week": "13",
         "Peak Position": 13,
         "Wks on Chart": 17
-      },
-      "rank": 24,
-      "spotify": "http://open.spotify.com/track/2ANLarE8yHVsLWW21nj79M?utm_campaign=billboard",
-      "title": "You Was Right"
+      }
     },
     {
+      "rank": 25,
+      "title": "Do You Mind",
       "artist": "DJ Khaled Featuring Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross",
       "position": {
         "Last Week": "12",
         "Peak Position": 7,
         "Wks on Chart": 16
-      },
-      "rank": 25,
-      "spotify": "http://open.spotify.com/track/4VJ7mnW4wjjIgPBM6KWvPu?utm_campaign=billboard",
-      "title": "Do You Mind"
+      }
     }
   ]
 }

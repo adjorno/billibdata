@@ -1,555 +1,506 @@
 {
-  "chart_date": "2017-08-26",
   "name": "Country",
+  "chart_date": "2017-08-26",
   "tracks": [
     {
+      "rank": 1,
+      "title": "Body Like A Back Road",
       "artist": "Sam Hunt",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6822012645735037338.jpg",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 28
-      },
-      "rank": 1,
-      "title": "Body Like A Back Road"
+      }
     },
     {
+      "rank": 2,
+      "title": "Small Town Boy",
       "artist": "Dustin Lynch",
-      "cover": "http://www.billboard.com/images/pref_images/q55873frqhy.jpg",
       "position": {
         "Last Week": "2",
         "Peak Position": 2,
         "Wks on Chart": 25
-      },
-      "rank": 2,
-      "title": "Small Town Boy"
+      }
     },
     {
+      "rank": 3,
+      "title": "What Ifs",
       "artist": "Kane Brown Featuring Lauren Alaina",
-      "cover": "http://www.billboard.com/images/pref_images/q48336e76qv.jpg",
       "position": {
         "Last Week": "7",
         "Peak Position": 3,
         "Wks on Chart": 36
-      },
-      "rank": 3,
-      "title": "What Ifs"
+      }
     },
     {
+      "rank": 4,
+      "title": "In Case You Didn't Know",
       "artist": "Brett Young",
-      "cover": "http://www.billboard.com/images/pref_images/q53759tn10g.jpg",
       "position": {
         "Last Week": "3",
         "Peak Position": 2,
         "Wks on Chart": 49
-      },
-      "rank": 4,
-      "title": "In Case You Didn't Know"
+      }
     },
     {
+      "rank": 5,
+      "title": "Drinkin' Problem",
       "artist": "Midland",
-      "cover": "http://www.billboard.com/images/pref_images/q62785cs6tf.jpg",
       "position": {
         "Last Week": "8",
         "Peak Position": 5,
         "Wks on Chart": 23
-      },
-      "rank": 5,
-      "title": "Drinkin' Problem"
+      }
     },
     {
+      "rank": 6,
+      "title": "Hurricane",
       "artist": "Luke Combs",
-      "cover": "http://www.billboard.com/images/pref_images/q52175l05oo.jpg",
       "position": {
         "Last Week": "6",
         "Peak Position": 3,
         "Wks on Chart": 50
-      },
-      "rank": 6,
-      "title": "Hurricane"
+      }
     },
     {
+      "rank": 7,
+      "title": "No Such Thing As A Broken Heart",
       "artist": "Old Dominion",
-      "cover": "http://www.billboard.com/images/pref_images/q65765nwyy2.jpg",
       "position": {
         "Last Week": "11",
         "Peak Position": 7,
         "Wks on Chart": 22
-      },
-      "rank": 7,
-      "title": "No Such Thing As A Broken Heart"
+      }
     },
     {
+      "rank": 8,
+      "title": "Do I Make You Wanna",
       "artist": "Billy Currington",
-      "cover": "http://www.billboard.com/images/pref_images/q21685h2rq1.jpg",
       "position": {
         "Last Week": "5",
         "Peak Position": 5,
         "Wks on Chart": 29
-      },
-      "rank": 8,
-      "title": "Do I Make You Wanna"
+      }
     },
     {
+      "rank": 9,
+      "title": "Heartache On The Dance Floor",
       "artist": "Jon Pardi",
-      "cover": "http://www.billboard.com/images/pref_images/q59269q7bgc.jpg",
       "position": {
         "Last Week": "12",
         "Peak Position": 9,
         "Wks on Chart": 14
-      },
-      "rank": 9,
-      "title": "Heartache On The Dance Floor"
+      }
     },
     {
+      "rank": 10,
+      "title": "Flatliner",
       "artist": "Cole Swindell",
-      "cover": "http://www.billboard.com/images/pref_images/q44855sdezx.jpg",
       "position": {
         "Last Week": "10",
         "Peak Position": 10,
         "Wks on Chart": 32
-      },
-      "rank": 10,
-      "title": "Flatliner"
+      }
     },
     {
+      "rank": 11,
+      "title": "Craving You",
       "artist": "Thomas Rhett Featuring Maren Morris",
-      "cover": "http://www.billboard.com/images/pref_images/q59500pw3lk.jpg",
       "position": {
         "Last Week": "4",
         "Peak Position": 3,
         "Wks on Chart": 20
-      },
-      "rank": 11,
-      "title": "Craving You"
+      }
     },
     {
+      "rank": 12,
+      "title": "Somebody Else Will",
       "artist": "Justin Moore",
-      "cover": "http://www.billboard.com/images/pref_images/q53783t3j8n.jpg",
       "position": {
         "Last Week": "14",
         "Peak Position": 12,
         "Wks on Chart": 30
-      },
-      "rank": 12,
-      "title": "Somebody Else Will"
+      }
     },
     {
+      "rank": 13,
+      "title": "You Look Good",
       "artist": "Lady Antebellum",
-      "cover": "http://www.billboard.com/images/pref_images/q61815gv43t.jpg",
       "position": {
         "Last Week": "15",
         "Peak Position": 8,
         "Wks on Chart": 30
-      },
-      "rank": 13,
-      "title": "You Look Good"
+      }
     },
     {
+      "rank": 14,
+      "title": "When It Rains It Pours",
       "artist": "Luke Combs",
-      "cover": "http://www.billboard.com/images/pref_images/q52175l05oo.jpg",
       "position": {
         "Last Week": "16",
         "Peak Position": 14,
         "Wks on Chart": 9
-      },
-      "rank": 14,
-      "title": "When It Rains It Pours"
+      }
     },
     {
+      "rank": 15,
+      "title": "Unforgettable",
       "artist": "Thomas Rhett",
-      "cover": "http://www.billboard.com/images/pref_images/q59500pw3lk.jpg",
       "position": {
         "Last Week": "13",
         "Peak Position": 13,
         "Wks on Chart": 2
-      },
-      "rank": 15,
-      "title": "Unforgettable"
+      }
     },
     {
+      "rank": 16,
+      "title": "They Don't Know",
       "artist": "Jason Aldean",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy4208241500960696799.jpg",
       "position": {
         "Last Week": "18",
         "Peak Position": 16,
         "Wks on Chart": 13
-      },
-      "rank": 16,
-      "title": "They Don't Know"
+      }
     },
     {
+      "rank": 17,
+      "title": "It Ain't My Fault",
       "artist": "Brothers Osborne",
-      "cover": "http://www.billboard.com/images/pref_images/q45396ctvxu.jpg",
       "position": {
         "Last Week": "17",
         "Peak Position": 16,
         "Wks on Chart": 29
-      },
-      "rank": 17,
-      "title": "It Ain't My Fault"
+      }
     },
     {
+      "rank": 18,
+      "title": "All The Pretty Girls",
       "artist": "Kenny Chesney",
-      "cover": "http://www.billboard.com/images/pref_images/q50551vvimx.jpg",
       "position": {
         "Last Week": "20",
         "Peak Position": 18,
         "Wks on Chart": 10
-      },
-      "rank": 18,
-      "title": "All The Pretty Girls"
+      }
     },
     {
+      "rank": 19,
+      "title": "For Her",
       "artist": "Chris Lane",
-      "cover": "http://www.billboard.com/images/pref_images/q57351nu4ci.jpg",
       "position": {
         "Last Week": "21",
         "Peak Position": 19,
         "Wks on Chart": 38
-      },
-      "rank": 19,
-      "title": "For Her"
+      }
     },
     {
+      "rank": 20,
+      "title": "Every Little Thing",
       "artist": "Carly Pearce",
-      "cover": "http://www.billboard.com/images/pref_images/q62838iwk0p.jpg",
       "position": {
         "Last Week": "19",
         "Peak Position": 18,
         "Wks on Chart": 17
-      },
-      "rank": 20,
-      "title": "Every Little Thing"
+      }
     },
     {
+      "rank": 21,
+      "title": "More Girls Like You",
       "artist": "Kip Moore",
-      "cover": "http://www.billboard.com/images/pref_images/q65764f364x.jpg",
       "position": {
         "Last Week": "22",
         "Peak Position": 21,
         "Wks on Chart": 25
-      },
-      "rank": 21,
-      "title": "More Girls Like You"
+      }
     },
     {
+      "rank": 22,
+      "title": "I Could Use A Love Song",
       "artist": "Maren Morris",
-      "cover": "http://www.billboard.com/images/pref_images/q38339vu2ky.jpg",
       "position": {
         "Last Week": "24",
         "Peak Position": 22,
         "Wks on Chart": 21
-      },
-      "rank": 22,
-      "title": "I Could Use A Love Song"
+      }
     },
     {
+      "rank": 23,
+      "title": "Somethin' I'm Good At",
       "artist": "Brett Eldredge",
-      "cover": "http://www.billboard.com/images/pref_images/q22682yq7sd.jpg",
       "position": {
         "Last Week": "25",
         "Peak Position": 22,
         "Wks on Chart": 24
-      },
-      "rank": 23,
-      "title": "Somethin' I'm Good At"
+      }
     },
     {
+      "rank": 24,
+      "title": "Every Time I Hear That Song",
       "artist": "Blake Shelton",
-      "cover": "http://www.billboard.com/images/pref_images/q24257w0sva.jpg",
       "position": {
         "Last Week": "23",
         "Peak Position": 8,
         "Wks on Chart": 26
-      },
-      "rank": 24,
-      "title": "Every Time I Hear That Song"
+      }
     },
     {
+      "rank": 25,
+      "title": "Greatest Love Story",
       "artist": "LANCO",
-      "cover": "http://www.billboard.com/images/pref_images/q48412gawbh.jpg",
       "position": {
         "Last Week": "26",
         "Peak Position": 25,
         "Wks on Chart": 21
-      },
-      "rank": 25,
-      "title": "Greatest Love Story"
+      }
     },
     {
+      "rank": 26,
+      "title": "Tin Man",
       "artist": "Miranda Lambert",
-      "cover": "http://www.billboard.com/images/pref_images/q57592jia0k.jpg",
       "position": {
         "Last Week": "29",
         "Peak Position": 15,
         "Wks on Chart": 20
-      },
-      "rank": 26,
-      "title": "Tin Man"
+      }
     },
     {
+      "rank": 27,
+      "title": "Fix A Drink",
       "artist": "Chris Janson",
-      "cover": "http://www.billboard.com/images/pref_images/q64217okzya.jpg",
       "position": {
         "Last Week": "27",
         "Peak Position": 27,
         "Wks on Chart": 11
-      },
-      "rank": 27,
-      "title": "Fix A Drink"
+      }
     },
     {
+      "rank": 28,
+      "title": "Round Here Buzz",
       "artist": "Eric Church",
-      "cover": "http://www.billboard.com/images/pref_images/q43372otnk7.jpg",
       "position": {
         "Last Week": "28",
         "Peak Position": 28,
         "Wks on Chart": 18
-      },
-      "rank": 28,
-      "title": "Round Here Buzz"
+      }
     },
     {
+      "rank": 29,
+      "title": "Last Time For Everything",
       "artist": "Brad Paisley",
-      "cover": "http://www.billboard.com/images/pref_images/q22138pmrdk.jpg",
       "position": {
         "Last Week": "33",
         "Peak Position": 29,
         "Wks on Chart": 17
-      },
-      "rank": 29,
-      "title": "Last Time For Everything"
+      }
     },
     {
+      "rank": 30,
+      "title": "Ask Me How I Know",
       "artist": "Garth Brooks",
-      "cover": "http://www.billboard.com/images/pref_images/q35529cwd3s.jpg",
       "position": {
         "Last Week": "31",
         "Peak Position": 29,
         "Wks on Chart": 12
-      },
-      "rank": 30,
-      "title": "Ask Me How I Know"
+      }
     },
     {
+      "rank": 31,
+      "title": "Ring On Every Finger",
       "artist": "LOCASH",
-      "cover": "http://www.billboard.com/images/pref_images/q36721jog3s.jpg",
       "position": {
         "Last Week": "30",
         "Peak Position": 26,
         "Wks on Chart": 22
-      },
-      "rank": 31,
-      "title": "Ring On Every Finger"
+      }
     },
     {
+      "rank": 32,
+      "title": "Losing Sleep",
       "artist": "Chris Young",
-      "cover": "http://www.billboard.com/images/pref_images/q59092e7u52.jpg",
       "position": {
         "Last Week": "32",
         "Peak Position": 26,
         "Wks on Chart": 13
-      },
-      "rank": 32,
-      "title": "Losing Sleep"
+      }
     },
     {
+      "rank": 33,
+      "title": "You Broke Up With Me",
       "artist": "Walker Hayes",
-      "cover": "http://www.billboard.com/images/pref_images/q65447fgdm3.jpg",
       "position": {
         "Last Week": "34",
         "Peak Position": 33,
         "Wks on Chart": 11
-      },
-      "rank": 33,
-      "title": "You Broke Up With Me"
+      }
     },
     {
+      "rank": 34,
+      "title": "Like I Loved You",
       "artist": "Brett Young",
-      "cover": "http://www.billboard.com/images/pref_images/q53759tn10g.jpg",
       "position": {
         "Last Week": "38",
         "Peak Position": 34,
         "Wks on Chart": 3
-      },
-      "rank": 34,
-      "title": "Like I Loved You"
+      }
     },
     {
+      "rank": 35,
+      "title": "Yours",
       "artist": "Russell Dickerson",
       "position": {
         "Last Week": "35",
         "Peak Position": 21,
         "Wks on Chart": 9
-      },
-      "rank": 35,
-      "title": "Yours"
+      }
     },
     {
+      "rank": 36,
+      "title": "The Way I Talk",
       "artist": "Morgan Wallen",
-      "cover": "http://www.billboard.com/images/pref_images/q61219h8vcf.jpg",
       "position": {
         "Last Week": "36",
         "Peak Position": 35,
         "Wks on Chart": 25
-      },
-      "rank": 36,
-      "title": "The Way I Talk"
+      }
     },
     {
+      "rank": 37,
+      "title": "A Girl Like You",
       "artist": "Easton Corbin",
-      "cover": "http://www.billboard.com/images/pref_images/q33205wj3t4.jpg",
       "position": {
         "Last Week": "37",
         "Peak Position": 37,
         "Wks on Chart": 19
-      },
-      "rank": 37,
-      "title": "A Girl Like You"
+      }
     },
     {
+      "rank": 38,
+      "title": "The Long Way",
       "artist": "Brett Eldredge",
-      "cover": "http://www.billboard.com/images/pref_images/q22682yq7sd.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 38,
         "Wks on Chart": 2
-      },
-      "rank": 38,
-      "title": "The Long Way"
+      }
     },
     {
+      "rank": 39,
+      "title": "Smooth",
       "artist": "Florida Georgia Line",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy3030380066184791162.jpg",
       "position": {
         "Last Week": "44",
         "Peak Position": 28,
         "Wks on Chart": 4
-      },
-      "rank": 39,
-      "title": "Smooth"
+      }
     },
     {
+      "rank": 40,
+      "title": "Outta Style",
       "artist": "Aaron Watson",
-      "cover": "http://www.billboard.com/images/pref_images/q45741ufja7.jpg",
       "position": {
         "Last Week": "46",
         "Peak Position": 40,
         "Wks on Chart": 8
-      },
-      "rank": 40,
-      "title": "Outta Style"
+      }
     },
     {
+      "rank": 41,
+      "title": "Broken Halos",
       "artist": "Chris Stapleton",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6657240638416032298.jpg",
       "position": {
         "Last Week": "39",
         "Peak Position": 13,
         "Wks on Chart": 17
-      },
-      "rank": 41,
-      "title": "Broken Halos"
+      }
     },
     {
+      "rank": 42,
+      "title": "Legends",
       "artist": "Kelsea Ballerini",
-      "cover": "http://www.billboard.com/images/pref_images/q28745ot4o8.jpg",
       "position": {
         "Last Week": "40",
         "Peak Position": 32,
         "Wks on Chart": 10
-      },
-      "rank": 42,
-      "title": "Legends"
+      }
     },
     {
+      "rank": 43,
+      "title": "Good Company",
       "artist": "Jake Owen",
-      "cover": "http://www.billboard.com/images/pref_images/q56804yt3mq.jpg",
       "position": {
         "Last Week": "41",
         "Peak Position": 41,
         "Wks on Chart": 10
-      },
-      "rank": 43,
-      "title": "Good Company"
+      }
     },
     {
+      "rank": 44,
+      "title": "Written In The Sand",
       "artist": "Old Dominion",
-      "cover": "http://www.billboard.com/images/pref_images/q65765nwyy2.jpg",
       "position": {
         "Last Week": "42",
         "Peak Position": 31,
         "Wks on Chart": 5
-      },
-      "rank": 44,
-      "title": "Written In The Sand"
+      }
     },
     {
+      "rank": 45,
+      "title": "Five More Minutes",
       "artist": "Scotty McCreery",
-      "cover": "http://www.billboard.com/images/pref_images/q13579xy2k4.jpg",
       "position": {
         "Last Week": "43",
         "Peak Position": 31,
         "Wks on Chart": 12
-      },
-      "rank": 45,
-      "title": "Five More Minutes"
+      }
     },
     {
+      "rank": 46,
+      "title": "California",
       "artist": "Big & Rich",
-      "cover": "http://www.billboard.com/images/pref_images/q23036mhdng.jpg",
       "position": {
         "Last Week": "49",
         "Peak Position": 46,
         "Wks on Chart": 5
-      },
-      "rank": 46,
-      "title": "California"
+      }
     },
     {
+      "rank": 47,
+      "title": "Singles You Up",
       "artist": "Jordan Davis",
-      "cover": "http://www.billboard.com/images/pref_images/q65357fc6vf.jpg",
       "position": {
         "Last Week": "45",
         "Peak Position": 45,
         "Wks on Chart": 4
-      },
-      "rank": 47,
-      "title": "Singles You Up"
+      }
     },
     {
+      "rank": 48,
+      "title": "Just A Phase",
       "artist": "Adam Craig",
-      "cover": "http://www.billboard.com/images/pref_images/q54520m1qn4.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 47,
         "Wks on Chart": 4
-      },
-      "rank": 48,
-      "title": "Just A Phase"
+      }
     },
     {
+      "rank": 49,
+      "title": "Boy",
       "artist": "Lee Brice",
-      "cover": "http://www.billboard.com/images/pref_images/q52783j4fnv.jpg",
       "position": {
         "Last Week": "48",
         "Peak Position": 19,
         "Wks on Chart": 9
-      },
-      "rank": 49,
-      "title": "Boy"
+      }
     },
     {
+      "rank": 50,
+      "title": "All On Me",
       "artist": "Devin Dawson",
-      "cover": "http://www.billboard.com/images/pref_images/q62513cae55.jpg",
       "position": {
         "Last Week": "47",
         "Peak Position": 46,
         "Wks on Chart": 6
-      },
-      "rank": 50,
-      "title": "All On Me"
+      }
     }
   ]
 }

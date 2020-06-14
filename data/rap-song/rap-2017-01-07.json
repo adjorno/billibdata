@@ -1,303 +1,256 @@
 {
-  "chart_date": "2017-01-07",
   "name": "Rap",
+  "chart_date": "2017-01-07",
   "tracks": [
     {
+      "rank": 1,
+      "title": "Black Beatles",
       "artist": "Rae Sremmurd Featuring Gucci Mane",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy2384373149827834455.jpg",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 14
-      },
-      "rank": 1,
-      "spotify": "http://open.spotify.com/track/6fujklziTHa8uoM5OQSfIo?utm_campaign=billboard",
-      "title": "Black Beatles"
+      }
     },
     {
+      "rank": 2,
+      "title": "Juju On That Beat (TZ Anthem)",
       "artist": "Zay Hilfigerrr & Zayion McCall",
       "position": {
         "Last Week": "3",
         "Peak Position": 2,
         "Wks on Chart": 13
-      },
-      "rank": 2,
-      "spotify": "http://open.spotify.com/track/1lItf5ZXJc1by9SbPeljFd?utm_campaign=billboard",
-      "title": "Juju On That Beat (TZ Anthem)"
+      }
     },
     {
+      "rank": 3,
+      "title": "Bad Things",
       "artist": "Machine Gun Kelly x Camila Cabello",
-      "cover": "http://www.billboard.com/images/pref_images/q40732ux7sb.jpg",
       "position": {
         "Last Week": "7",
         "Peak Position": 3,
         "Wks on Chart": 8
-      },
-      "rank": 3,
-      "spotify": "http://open.spotify.com/track/56cswAa9WdFBsjsTyPBAKA?utm_campaign=billboard",
-      "title": "Bad Things"
+      }
     },
     {
+      "rank": 4,
+      "title": "Fake Love",
       "artist": "Drake",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6013806102652956916.jpg",
       "position": {
         "Last Week": "5",
         "Peak Position": 4,
         "Wks on Chart": 9
-      },
-      "rank": 4,
-      "spotify": "http://open.spotify.com/track/6NMNgWgEAzde5M8U3lc6FN?utm_campaign=billboard",
-      "title": "Fake Love"
+      }
     },
     {
+      "rank": 5,
+      "title": "Caroline",
       "artist": "Amine",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy7891934543737803251.jpg",
       "position": {
         "Last Week": "8",
         "Peak Position": 4,
         "Wks on Chart": 15
-      },
-      "rank": 5,
-      "spotify": "http://open.spotify.com/track/34dVqrAW35mn6dpgfzntOS?utm_campaign=billboard",
-      "title": "Caroline"
+      }
     },
     {
+      "rank": 6,
+      "title": "Bad And Boujee",
       "artist": "Migos Featuring Lil Uzi Vert",
-      "cover": "http://www.billboard.com/images/pref_images/q26323abszx.jpg",
       "position": {
         "Last Week": "13",
         "Peak Position": 6,
         "Wks on Chart": 6
-      },
-      "rank": 6,
-      "spotify": "http://open.spotify.com/track/1FvU97lrWOG2NRxErh6OZz?utm_campaign=billboard",
-      "title": "Bad And Boujee"
+      }
     },
     {
+      "rank": 7,
+      "title": "OOOUUU",
       "artist": "Young M.A",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy4444525152369188828.jpg",
       "position": {
         "Last Week": "18",
         "Peak Position": 3,
         "Wks on Chart": 17
-      },
-      "rank": 7,
-      "spotify": "http://open.spotify.com/track/0D21XvHcVsIvJM6FcGY2BT?utm_campaign=billboard",
-      "title": "OOOUUU"
+      }
     },
     {
+      "rank": 8,
+      "title": "Bounce Back",
       "artist": "Big Sean",
-      "cover": "http://www.billboard.com/images/pref_images/q60133j4mrg.jpg",
       "position": {
         "Last Week": "16",
         "Peak Position": 8,
         "Wks on Chart": 7
-      },
-      "rank": 8,
-      "spotify": "http://open.spotify.com/track/206uaQyzb8kOiZ7rHw9wCn?utm_campaign=billboard",
-      "title": "Bounce Back"
+      }
     },
     {
+      "rank": 9,
+      "title": "Deja Vu",
       "artist": "J. Cole",
-      "cover": "http://www.billboard.com/images/pref_images/q26983xy0a2.jpg",
       "position": {
         "Last Week": "2",
         "Peak Position": 2,
         "Wks on Chart": 2
-      },
-      "rank": 9,
-      "spotify": "http://open.spotify.com/track/6I6NX6tjGsxFAsIfGzY9lJ?utm_campaign=billboard",
-      "title": "Deja Vu"
+      }
     },
     {
+      "rank": 10,
+      "title": "Chill Bill",
       "artist": "Rob $tone Featuring J. Davi$ & Spooks",
-      "cover": "http://www.billboard.com/images/pref_images/q58336ymhu5.jpg",
       "position": {
         "Last Week": "19",
         "Peak Position": 7,
         "Wks on Chart": 20
-      },
-      "rank": 10,
-      "spotify": "http://open.spotify.com/track/5uDASfU19gDxSjW8cnCaBp?utm_campaign=billboard",
-      "title": "Chill Bill"
+      }
     },
     {
+      "rank": 11,
+      "title": "Both",
       "artist": "Gucci Mane Featuring Drake",
-      "cover": "http://www.billboard.com/images/pref_images/q05279ijnlk.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 11,
         "Wks on Chart": 1
-      },
-      "rank": 11,
-      "title": "Both"
+      }
     },
     {
+      "rank": 12,
+      "title": "X",
       "artist": "21 Savage & Metro Boomin Featuring Future",
-      "cover": "http://www.billboard.com/images/pref_images/q60067k1zw0.jpg",
       "position": {
         "Last Week": "20",
         "Peak Position": 10,
         "Wks on Chart": 14
-      },
-      "rank": 12,
-      "title": "X"
+      }
     },
     {
+      "rank": 13,
+      "title": "You Was Right",
       "artist": "Lil Uzi Vert",
-      "cover": "http://www.billboard.com/images/pref_images/q48776q4k03.jpg",
       "position": {
         "Last Week": "24",
         "Peak Position": 13,
         "Wks on Chart": 18
-      },
-      "rank": 13,
-      "spotify": "http://open.spotify.com/track/2ANLarE8yHVsLWW21nj79M?utm_campaign=billboard",
-      "title": "You Was Right"
+      }
     },
     {
+      "rank": 14,
+      "title": "No Heart",
       "artist": "21 Savage & Metro Boomin",
-      "cover": "http://www.billboard.com/images/pref_images/q60067k1zw0.jpg",
       "position": {
         "Last Week": "22",
         "Peak Position": 14,
         "Wks on Chart": 9
-      },
-      "rank": 14,
-      "spotify": "http://open.spotify.com/track/4gmmRb6bZJffOOiww1JGTO?utm_campaign=billboard",
-      "title": "No Heart"
+      }
     },
     {
+      "rank": 15,
+      "title": "Neighbors",
       "artist": "J. Cole",
-      "cover": "http://www.billboard.com/images/pref_images/q26983xy0a2.jpg",
       "position": {
         "Last Week": "6",
         "Peak Position": 6,
         "Wks on Chart": 2
-      },
-      "rank": 15,
-      "spotify": "http://open.spotify.com/track/0utlOiJy2weVl9WTkcEWHy?utm_campaign=billboard",
-      "title": "Neighbors"
+      }
     },
     {
+      "rank": 16,
+      "title": "Used To This",
       "artist": "Future Featuring Drake",
-      "cover": "http://www.billboard.com/images/pref_images/q32103j0752.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 4,
         "Wks on Chart": 6
-      },
-      "rank": 16,
-      "spotify": "http://open.spotify.com/track/3V8sM5OOG6YfDuDLa2IIYJ?utm_campaign=billboard",
-      "title": "Used To This"
+      }
     },
     {
+      "rank": 17,
+      "title": "Do You Mind",
       "artist": "DJ Khaled Featuring Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross",
-      "cover": "http://www.billboard.com/images/pref_images/q57043or8qy.jpg",
       "position": {
         "Last Week": "25",
         "Peak Position": 7,
         "Wks on Chart": 17
-      },
-      "rank": 17,
-      "spotify": "http://open.spotify.com/track/4VJ7mnW4wjjIgPBM6KWvPu?utm_campaign=billboard",
-      "title": "Do You Mind"
+      }
     },
     {
+      "rank": 18,
+      "title": "Immortal",
       "artist": "J. Cole",
-      "cover": "http://www.billboard.com/images/pref_images/q26983xy0a2.jpg",
       "position": {
         "Last Week": "4",
         "Peak Position": 4,
         "Wks on Chart": 2
-      },
-      "rank": 18,
-      "spotify": "http://open.spotify.com/track/6AGON2BGdPmPMJGiiNuuwl?utm_campaign=billboard",
-      "title": "Immortal"
+      }
     },
     {
+      "rank": 19,
+      "title": "Too Much Sauce",
       "artist": "DJ ESCO Featuring Future & Lil Uzi Vert",
-      "cover": "http://www.billboard.com/images/pref_images/q60492yf0l8.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 17,
         "Wks on Chart": 16
-      },
-      "rank": 19,
-      "spotify": "http://open.spotify.com/track/5oyUurs28XRagLa8lgm6V3?utm_campaign=billboard",
-      "title": "Too Much Sauce"
+      }
     },
     {
+      "rank": 20,
+      "title": "Sucker For Pain",
       "artist": "Lil Wayne, Wiz Khalifa & Imagine Dragons With Logic & Ty Dolla $ign Feat. X Ambassadors",
-      "cover": "http://www.billboard.com/images/pref_images/q52102onwz2.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 1,
         "Wks on Chart": 25
-      },
-      "rank": 20,
-      "spotify": "http://open.spotify.com/track/4dASQiO1Eoo3RJvt74FtXB?utm_campaign=billboard",
-      "title": "Sucker For Pain"
+      }
     },
     {
+      "rank": 21,
+      "title": "Sneakin'",
       "artist": "Drake Featuring 21 Savage",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6013806102652956916.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 7,
         "Wks on Chart": 8
-      },
-      "rank": 21,
-      "spotify": "http://open.spotify.com/track/4ckuS4Nj4FZ7i3Def3Br8W?utm_campaign=billboard",
-      "title": "Sneakin'"
+      }
     },
     {
+      "rank": 22,
+      "title": "Change",
       "artist": "J. Cole",
-      "cover": "http://www.billboard.com/images/pref_images/q26983xy0a2.jpg",
       "position": {
         "Last Week": "9",
         "Peak Position": 9,
         "Wks on Chart": 2
-      },
-      "rank": 22,
-      "spotify": "http://open.spotify.com/track/3pjUyVbFmM96tYhSaKJwTt?utm_campaign=billboard",
-      "title": "Change"
+      }
     },
     {
+      "rank": 23,
+      "title": "Selfish",
       "artist": "PnB Rock",
-      "cover": "http://www.billboard.com/images/pref_images/q43566vnjly.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 20,
         "Wks on Chart": 4
-      },
-      "rank": 23,
-      "spotify": "http://open.spotify.com/track/4HUIsMWVGNHsxlhbc3YQ5y?utm_campaign=billboard",
-      "title": "Selfish"
+      }
     },
     {
+      "rank": 24,
+      "title": "She's Mine Pt.1",
       "artist": "J. Cole",
-      "cover": "http://www.billboard.com/images/pref_images/q26983xy0a2.jpg",
       "position": {
         "Last Week": "10",
         "Peak Position": 10,
         "Wks on Chart": 2
-      },
-      "rank": 24,
-      "spotify": "http://open.spotify.com/track/0HtOJj7Kl74s1Ngf3MWeif?utm_campaign=billboard",
-      "title": "She's Mine Pt.1"
+      }
     },
     {
+      "rank": 25,
+      "title": "Ville Mentality",
       "artist": "J. Cole",
-      "cover": "http://www.billboard.com/images/pref_images/q26983xy0a2.jpg",
       "position": {
         "Last Week": "12",
         "Peak Position": 12,
         "Wks on Chart": 2
-      },
-      "rank": 25,
-      "spotify": "http://open.spotify.com/track/2z3joGXrdGL2iEjIKQTiN1?utm_campaign=billboard",
-      "title": "Ville Mentality"
+      }
     }
   ]
 }

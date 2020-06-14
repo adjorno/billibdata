@@ -1,304 +1,256 @@
 {
-  "chart_date": "2017-05-27",
   "name": "Rap",
+  "chart_date": "2017-05-27",
   "tracks": [
     {
+      "rank": 1,
+      "title": "I'm The One",
       "artist": "DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",
-      "cover": "http://www.billboard.com/images/pref_images/q57043or8qy.jpg",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 2
-      },
-      "rank": 1,
-      "spotify": "http://open.spotify.com/track/72Q0FQQo32KJloivv5xge2?utm_campaign=billboard",
-      "title": "I'm The One"
+      }
     },
     {
+      "rank": 2,
+      "title": "Humble.",
       "artist": "Kendrick Lamar",
-      "cover": "http://www.billboard.com/images/pref_images/q63694v2qz7.jpg",
       "position": {
         "Last Week": "2",
         "Peak Position": 1,
         "Wks on Chart": 6
-      },
-      "rank": 2,
-      "spotify": "http://open.spotify.com/track/31c9IHwCIONmUYW0jL7Riz?utm_campaign=billboard",
-      "title": "Humble."
+      }
     },
     {
+      "rank": 3,
+      "title": "Mask Off",
       "artist": "Future",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy3426998729818218709.jpg",
       "position": {
         "Last Week": "3",
         "Peak Position": 2,
         "Wks on Chart": 12
-      },
-      "rank": 3,
-      "spotify": "http://open.spotify.com/track/3rOSwuTsUlJp0Pu0MkN8r8?utm_campaign=billboard",
-      "title": "Mask Off"
+      }
     },
     {
+      "rank": 4,
+      "title": "XO TOUR Llif3",
       "artist": "Lil Uzi Vert",
-      "cover": "http://www.billboard.com/images/pref_images/q48776q4k03.jpg",
       "position": {
         "Last Week": "5",
         "Peak Position": 4,
         "Wks on Chart": 7
-      },
-      "rank": 4,
-      "spotify": "http://open.spotify.com/track/0q1iweKeEOzuxrWL7cOckw?utm_campaign=billboard",
-      "title": "XO TOUR Llif3"
+      }
     },
     {
+      "rank": 5,
+      "title": "iSpy",
       "artist": "KYLE Featuring Lil Yachty",
-      "cover": "http://www.billboard.com/images/pref_images/q49084cpazq.jpg",
       "position": {
         "Last Week": "4",
         "Peak Position": 1,
         "Wks on Chart": 19
-      },
-      "rank": 5,
-      "spotify": "http://open.spotify.com/track/0WjYgf4qH3B0v0HmW61doL?utm_campaign=billboard",
-      "title": "iSpy"
+      }
     },
     {
+      "rank": 6,
+      "title": "Congratulations",
       "artist": "Post Malone Featuring Quavo",
-      "cover": "http://www.billboard.com/images/pref_images/q58965kol08.jpg",
       "position": {
         "Last Week": "7",
         "Peak Position": 6,
         "Wks on Chart": 16
-      },
-      "rank": 6,
-      "spotify": "http://open.spotify.com/track/0TnmrW9L8GSaBMhTtEQtCK?utm_campaign=billboard",
-      "title": "Congratulations"
+      }
     },
     {
+      "rank": 7,
+      "title": "DNA.",
       "artist": "Kendrick Lamar",
-      "cover": "http://www.billboard.com/images/pref_images/q63694v2qz7.jpg",
       "position": {
         "Last Week": "6",
         "Peak Position": 2,
         "Wks on Chart": 4
-      },
-      "rank": 7,
-      "spotify": "http://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj?utm_campaign=billboard",
-      "title": "DNA."
+      }
     },
     {
+      "rank": 8,
+      "title": "Tunnel Vision",
       "artist": "Kodak Black",
-      "cover": "http://www.billboard.com/images/pref_images/q42763babhm.jpg",
       "position": {
         "Last Week": "8",
         "Peak Position": 2,
         "Wks on Chart": 12
-      },
-      "rank": 8,
-      "spotify": "http://open.spotify.com/track/2BoS7pU92MQtynhQ0cZOLT?utm_campaign=billboard",
-      "title": "Tunnel Vision"
+      }
     },
     {
+      "rank": 9,
+      "title": "T-Shirt",
       "artist": "Migos",
-      "cover": "http://www.billboard.com/images/pref_images/q62185ywmgg.jpg",
       "position": {
         "Last Week": "10",
         "Peak Position": 7,
         "Wks on Chart": 17
-      },
-      "rank": 9,
-      "spotify": "http://open.spotify.com/track/2HgGPga67UQXWW2JLuYE6E?utm_campaign=billboard",
-      "title": "T-Shirt"
+      }
     },
     {
+      "rank": 10,
+      "title": "Swang",
       "artist": "Rae Sremmurd",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy2384373149827834455.jpg",
       "position": {
         "Last Week": "11",
         "Peak Position": 9,
         "Wks on Chart": 19
-      },
-      "rank": 10,
-      "spotify": "http://open.spotify.com/track/6mapJIPnQ23RTAevUoE0DL?utm_campaign=billboard",
-      "title": "Swang"
+      }
     },
     {
+      "rank": 11,
+      "title": "Unforgettable",
       "artist": "French Montana Featuring Swae Lee",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy7387714621514325744.jpg",
       "position": {
         "Last Week": "15",
         "Peak Position": 11,
         "Wks on Chart": 4
-      },
-      "rank": 11,
-      "spotify": "http://open.spotify.com/track/1F2HXIJrE2Xn81OzT2zZvW?utm_campaign=billboard",
-      "title": "Unforgettable"
+      }
     },
     {
+      "rank": 12,
+      "title": "Rolex",
       "artist": "Ayo & Teo",
       "position": {
         "Last Week": "12",
         "Peak Position": 11,
         "Wks on Chart": 13
-      },
-      "rank": 12,
-      "spotify": "http://open.spotify.com/track/6KBOvrddbomdb9dkarvwCl?utm_campaign=billboard",
-      "title": "Rolex"
+      }
     },
     {
+      "rank": 13,
+      "title": "Both",
       "artist": "Gucci Mane Featuring Drake",
-      "cover": "http://www.billboard.com/images/pref_images/q05279ijnlk.jpg",
       "position": {
         "Last Week": "14",
         "Peak Position": 11,
         "Wks on Chart": 21
-      },
-      "rank": 13,
-      "spotify": "http://open.spotify.com/track/5tFep7dXGd7vEJ668wTPux?utm_campaign=billboard",
-      "title": "Both"
+      }
     },
     {
+      "rank": 14,
+      "title": "1-800-273-8255",
       "artist": "Logic Featuring Alessia Cara & Khalid",
-      "cover": "http://www.billboard.com/images/pref_images/q63847yguyh.jpg",
       "position": {
         "Last Week": "24",
         "Peak Position": 14,
         "Wks on Chart": 2
-      },
-      "rank": 14,
-      "spotify": "http://open.spotify.com/track/4Sj8JZ9zZfl8HaOav5yTVq?utm_campaign=billboard",
-      "title": "1-800-273-8255"
+      }
     },
     {
+      "rank": 15,
+      "title": "Love.",
       "artist": "Kendrick Lamar Featuring Zacari",
-      "cover": "http://www.billboard.com/images/pref_images/q63694v2qz7.jpg",
       "position": {
         "Last Week": "16",
         "Peak Position": 9,
         "Wks on Chart": 4
-      },
-      "rank": 15,
-      "spotify": "http://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As?utm_campaign=billboard",
-      "title": "Love."
+      }
     },
     {
+      "rank": 16,
+      "title": "Drowning",
       "artist": "A Boogie Wit da Hoodie Featuring Kodak Black",
-      "cover": "http://www.billboard.com/images/pref_images/q57534n3m2u.jpg",
       "position": {
         "Last Week": "18",
         "Peak Position": 16,
         "Wks on Chart": 4
-      },
-      "rank": 16,
-      "spotify": "http://open.spotify.com/track/3LnOF5n1GOs01siYZXzS3p?utm_campaign=billboard",
-      "title": "Drowning"
+      }
     },
     {
+      "rank": 17,
+      "title": "Look At Me!",
       "artist": "XXXTENTACION",
       "position": {
         "Last Week": "17",
         "Peak Position": 12,
         "Wks on Chart": 14
-      },
-      "rank": 17,
-      "spotify": "http://open.spotify.com/track/2oUuLLKS8WbF7ELJcwbqms?utm_campaign=billboard",
-      "title": "Look At Me!"
+      }
     },
     {
+      "rank": 18,
+      "title": "Portland",
       "artist": "Drake Featuring Quavo & Travis Scott",
-      "cover": "http://www.billboard.com/images/pref_images/yyyy6013806102652956916.jpg",
       "position": {
         "Last Week": "21",
         "Peak Position": 3,
         "Wks on Chart": 7
-      },
-      "rank": 18,
-      "spotify": "http://open.spotify.com/track/2bjwRfXMk4uRgOD9IBYl9h?utm_campaign=billboard",
-      "title": "Portland"
+      }
     },
     {
+      "rank": 19,
+      "title": "Slippery",
       "artist": "Migos Featuring Gucci Mane",
-      "cover": "http://www.billboard.com/images/pref_images/q62185ywmgg.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 12,
         "Wks on Chart": 8
-      },
-      "rank": 19,
-      "spotify": "http://open.spotify.com/track/6p8NuHm8uCGnn2Dtbtf7zE?utm_campaign=billboard",
-      "title": "Slippery"
+      }
     },
     {
+      "rank": 20,
+      "title": "Loyalty.",
       "artist": "Kendrick Lamar Featuring Rihanna",
-      "cover": "http://www.billboard.com/images/pref_images/q63694v2qz7.jpg",
       "position": {
         "Last Week": "19",
         "Peak Position": 6,
         "Wks on Chart": 4
-      },
-      "rank": 20,
-      "spotify": "http://open.spotify.com/track/6SwRhMLwNqEi6alNPVG00n?utm_campaign=billboard",
-      "title": "Loyalty."
+      }
     },
     {
+      "rank": 21,
+      "title": "Element.",
       "artist": "Kendrick Lamar",
-      "cover": "http://www.billboard.com/images/pref_images/q63694v2qz7.jpg",
       "position": {
         "Last Week": "20",
         "Peak Position": 8,
         "Wks on Chart": 4
-      },
-      "rank": 21,
-      "spotify": "http://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG?utm_campaign=billboard",
-      "title": "Element."
+      }
     },
     {
+      "rank": 22,
+      "title": "Magnolia",
       "artist": "Playboi Carti",
-      "cover": "http://www.billboard.com/images/pref_images/q63868fx4hw.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 22,
         "Wks on Chart": 1
-      },
-      "rank": 22,
-      "spotify": "http://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl?utm_campaign=billboard",
-      "title": "Magnolia"
+      }
     },
     {
+      "rank": 23,
+      "title": "First Day Out",
       "artist": "Tee Grizzley",
-      "cover": "http://www.billboard.com/images/pref_images/q63999afv04.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 23,
         "Wks on Chart": 2
-      },
-      "rank": 23,
-      "spotify": "http://open.spotify.com/track/0mGgkrD2phGmsBiDy58z1O?utm_campaign=billboard",
-      "title": "First Day Out"
+      }
     },
     {
+      "rank": 24,
+      "title": "Everyday We Lit",
       "artist": "YFN Lucci Featuring PnB Rock",
-      "cover": "http://www.billboard.com/images/pref_images/q62572ikqg1.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 24,
         "Wks on Chart": 1
-      },
-      "rank": 24,
-      "spotify": "http://open.spotify.com/track/40Hf6BV0EugJhs6BgzG35Q?utm_campaign=billboard",
-      "title": "Everyday We Lit"
+      }
     },
     {
+      "rank": 25,
+      "title": "Everybody",
       "artist": "Logic",
-      "cover": "http://www.billboard.com/images/pref_images/q63847yguyh.jpg",
       "position": {
         "Last Week": "--",
         "Peak Position": 18,
         "Wks on Chart": 2
-      },
-      "rank": 25,
-      "spotify": "http://open.spotify.com/track/51sVgPeBHYwbeM1cWegVqR?utm_campaign=billboard",
-      "title": "Everybody"
+      }
     }
   ]
 }

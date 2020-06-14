@@ -1,0 +1,506 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "2021-01-09",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 57
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Go Crazy",
+      "artist": "Chris Brown & Young Thug",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 34
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Laugh Now Cry Later",
+      "artist": "Drake Featuring Lil Durk",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 4,
+      "title": "For The Night",
+      "artist": "Pop Smoke Featuring Lil Baby & DaBaby",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 6,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Lemonade",
+      "artist": "Internet Money & Gunna Featuring Don Toliver & NAV",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Body",
+      "artist": "Megan Thee Stallion",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 7,
+      "title": "What You Know Bout Love",
+      "artist": "Pop Smoke",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 8,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Rockstar",
+      "artist": "DaBaby Featuring Roddy Ricch",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 10,
+        "Wks on Chart": 37
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Whoopty",
+      "artist": "CJ",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 11,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 10,
+      "title": "WAP",
+      "artist": "Cardi B Featuring Megan Thee Stallion",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 13,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Good Days",
+      "artist": "SZA",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 11,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Holiday",
+      "artist": "Lil Nas X",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 14,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 13,
+      "title": "On Me",
+      "artist": "Lil Baby",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 15,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Said Sum",
+      "artist": "Moneybagg Yo",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 17,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Still Trappin'",
+      "artist": "Lil Durk & King Von",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 15,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Cry Baby",
+      "artist": "Megan Thee Stallion Featuring DaBaby",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 29,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 17,
+      "title": "B.S.",
+      "artist": "Jhene Aiko Featuring H.E.R.",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 19,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Backdoor",
+      "artist": "Lil Durk",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 18,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Mr. Right Now",
+      "artist": "21 Savage & Metro Boomin Featuring Drake",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 25,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Throat Baby (Go Baby)",
+      "artist": "BRS Kash",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 30,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Tyler Herro",
+      "artist": "Jack Harlow",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 20,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 22,
+      "title": "You're Mines Still",
+      "artist": "Yung Bleu Featuring Drake",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Hit Different",
+      "artist": "SZA Featuring Ty Dolla $ign",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 34,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Redman",
+      "artist": "Lil Durk",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Slay3r",
+      "artist": "Playboi Carti",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Stay Down",
+      "artist": "Lil Durk, 6LACK & Young Thug",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 26,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Adderall (Corvette Corvette)",
+      "artist": "Popp Hunna",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 27,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Back To The Streets",
+      "artist": "Saweetie Featuring Jhene Aiko",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 36,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Damage",
+      "artist": "H.E.R.",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 42,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Go2DaMoon",
+      "artist": "Playboi Carti Featuring Kanye West",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Refugee",
+      "artist": "Lil Durk",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Vamp Anthem",
+      "artist": "Playboi Carti",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 33,
+      "title": "New N3on",
+      "artist": "Playboi Carti",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Death Ain't Easy",
+      "artist": "Lil Durk",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 34,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Took Her To The O",
+      "artist": "King Von",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 38,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Way Out",
+      "artist": "Jack Harlow Featuring Big Sean",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 18,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 37,
+      "title": "M3tamorphosis",
+      "artist": "Playboi Carti Featuring Kid Cudi",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Moonwalking In Calabasas",
+      "artist": "DDG",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 46,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 39,
+      "title": "The Voice",
+      "artist": "Lil Durk",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 39,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Rockstar Made",
+      "artist": "Playboi Carti",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 41,
+      "title": "ILoveUIHateU",
+      "artist": "Playboi Carti",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Beno!",
+      "artist": "Playboi Carti",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Sky",
+      "artist": "Playboi Carti",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Place",
+      "artist": "Playboi Carti",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Over",
+      "artist": "Playboi Carti",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Stop Breathing",
+      "artist": "Playboi Carti",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Reminds Me Of You",
+      "artist": "The Kid LAROI & Juice WRLD",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 26,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Kacey Talk",
+      "artist": "YoungBoy Never Broke Again",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 49,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Gnat",
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 49,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Errbody",
+      "artist": "Lil Baby",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 4
+      }
+    }
+  ]
+}
