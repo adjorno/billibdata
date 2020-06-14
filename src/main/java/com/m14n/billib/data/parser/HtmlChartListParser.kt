@@ -7,7 +7,7 @@ import java.text.ParseException
 
 fun defaultChartListParser(): HtmlChartListParser = CompositeChartListParser(
     listOf(
-        Hot100ChartListParser(),
+        //Hot100ChartListParser(),
         countryChartListParser()
     )
 )
