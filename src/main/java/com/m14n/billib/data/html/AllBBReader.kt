@@ -40,7 +40,8 @@ object AllBBReader {
         val theMetadataFile = File(theRoot, "metadata_billboard.json")
         val theMetadata = Json.parse(BBJournalMetadata.serializer(), theMetadataFile.readText())
 
-        theMetadata.charts?.forEach {
+//        fetchChart(theRoot, theMetadata, theMetadata.charts?.get(2)!!)
+        theMetadata.charts?.subList(2, theMetadata.charts?.size!!)?.forEach {
             fetchChart(theRoot, theMetadata, it)
         }
     }

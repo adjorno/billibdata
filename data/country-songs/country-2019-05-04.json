@@ -1,0 +1,506 @@
+{
+  "name": "Country",
+  "chart_date": "2019-05-04",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Beautiful Crazy",
+      "artist": "Luke Combs",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 51
+      }
+    },
+    {
+      "rank": 2,
+      "title": "God's Country",
+      "artist": "Blake Shelton",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 5,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Eyes On You",
+      "artist": "Chase Rice",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 6,
+        "Wks on Chart": 36
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Whiskey Glasses",
+      "artist": "Morgan Wallen",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 10,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Here Tonight",
+      "artist": "Brett Young",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 3,
+        "Wks on Chart": 32
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Good As You",
+      "artist": "Kane Brown",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Look What God Gave Her",
+      "artist": "Thomas Rhett",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Make It Sweet",
+      "artist": "Old Dominion",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Miss Me More",
+      "artist": "Kelsea Ballerini",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Speechless",
+      "artist": "Dan + Shay",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 8,
+        "Wks on Chart": 49
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Night Shift",
+      "artist": "Jon Pardi",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 14,
+        "Wks on Chart": 36
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Rumor",
+      "artist": "Lee Brice",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 13,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Love Ain't",
+      "artist": "Eli Young Band",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 17,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 14,
+      "title": "GIRL",
+      "artist": "Maren Morris",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 15,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Talk You Out Of It",
+      "artist": "Florida Georgia Line",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 16,
+      "title": "On My Way To You",
+      "artist": "Cody Johnson",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 18,
+        "Wks on Chart": 37
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Love Someone",
+      "artist": "Brett Eldredge",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 21,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Knockin' Boots",
+      "artist": "Luke Bryan",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 20,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 19,
+      "title": "All To Myself",
+      "artist": "Dan + Shay",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 24,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Some Of It",
+      "artist": "Eric Church",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 25,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Rearview Town",
+      "artist": "Jason Aldean",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 32,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Caught Up In The Country",
+      "artist": "Rodney Atkins Featuring The Fisk Jubilee Singers",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 22,
+        "Wks on Chart": 40
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Every Little Honky Tonk Bar",
+      "artist": "George Strait",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 23,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Raised On Country",
+      "artist": "Chris Young",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 31,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 25,
+      "title": "I Don't Know About You",
+      "artist": "Chris Lane",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 28,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Rainbow",
+      "artist": "Kacey Musgraves",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 26,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Remember You Young",
+      "artist": "Thomas Rhett",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 27,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Rednecker",
+      "artist": "HARDY",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 41,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 29,
+      "title": "What Happens In A Small Town",
+      "artist": "Brantley Gilbert + Lindsay Ell",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 35,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 30,
+      "title": "The Bones",
+      "artist": "Maren Morris",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 27,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Somebody's Daughter",
+      "artist": "Tenille Townes",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 34,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Thought About You",
+      "artist": "Tim McGraw",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 32,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Love You Too Late",
+      "artist": "Cole Swindell",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 37,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 34,
+      "title": "The Ones That Didn't Make It Back Home",
+      "artist": "Justin Moore",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 44,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Ridin' Roads",
+      "artist": "Dustin Lynch",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 48,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Buy My Own Drinks",
+      "artist": "Runaway June",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 42,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Brand New Man",
+      "artist": "Brooks & Dunn With Luke Combs",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Closer To You",
+      "artist": "Carly Pearce",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 39,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Every Little Thing",
+      "artist": "Russell Dickerson",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 45,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Back To Life",
+      "artist": "Rascal Flatts",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 47,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Nothing To Do Town",
+      "artist": "Dylan Scott",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 36,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 42,
+      "title": "To A T",
+      "artist": "Ryan Hurd",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 43,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 43,
+      "title": "One Man Band",
+      "artist": "Old Dominion",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 43,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Living",
+      "artist": "Dierks Bentley",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 44,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Stronger Than Me",
+      "artist": "Garth Brooks",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 45,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 46,
+      "title": "I Hope",
+      "artist": "Gabby Barrett",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 50,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Prayed For You",
+      "artist": "Matt Stell",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 47,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 48,
+      "title": "World For Two",
+      "artist": "King Calaway",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 48,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Day Drunk",
+      "artist": "Morgan Evans",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Neon Moon",
+      "artist": "Brooks & Dunn With Kacey Musgraves",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 30,
+        "Wks on Chart": 3
+      }
+    }
+  ]
+}
