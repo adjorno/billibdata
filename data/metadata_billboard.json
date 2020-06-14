@@ -1,7 +1,7 @@
 {
   "name": "Billboard",
-  "url": "http://www.billboard.com/charts/",
-  "base_rss": "http://www.billboard.com/rss/charts/",
+  "url": "https://www.billboard.com/charts/",
+  "base_rss": "https://www.billboard.com/rss/charts/",
   "charts": [
     {
       "name": "Hot 100",

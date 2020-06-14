@@ -1,0 +1,955 @@
+{
+  "name": "Hot 100",
+  "chart_date": "2018-08-25",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "In My Feelings",
+      "artist": "Drake",
+      "position": {
+        "Peak Position": 1,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Girls Like You",
+      "artist": "Maroon 5 Featuring Cardi B",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 3,
+      "title": "I Like It",
+      "artist": "Cardi B, Bad Bunny & J Balvin",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 4,
+      "title": "FEFE",
+      "artist": "6ix9ine Featuring Nicki Minaj & Murda Beatz",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Better Now",
+      "artist": "Post Malone",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Lucid Dreams",
+      "artist": "Juice WRLD",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Sicko Mode",
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Taste",
+      "artist": "Tyga Featuring Offset",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 8,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Boo'd Up",
+      "artist": "Ella Mai",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 5,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 10,
+      "title": "No Brainer",
+      "artist": "DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 5,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Love Lies",
+      "artist": "Khalid & Normani",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 11,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 12,
+      "title": "No Tears Left To Cry",
+      "artist": "Ariana Grande",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Psycho",
+      "artist": "Post Malone Featuring Ty Dolla $ign",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Nice For What",
+      "artist": "Drake",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Yes Indeed",
+      "artist": "Lil Baby & Drake",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Delicate",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 12,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Youngblood",
+      "artist": "5 Seconds Of Summer",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 17,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Barbie Dreams",
+      "artist": "Nicki Minaj"
+    },
+    {
+      "rank": 19,
+      "title": "Meant To Be",
+      "artist": "Bebe Rexha & Florida Georgia Line",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 2,
+        "Wks on Chart": 43
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Perfect",
+      "artist": "Ed Sheeran",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 51
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Nonstop",
+      "artist": "Drake",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 2,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 22,
+      "title": "The Middle",
+      "artist": "Zedd, Maren Morris & Grey",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 5,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Big Bank",
+      "artist": "YG Featuring 2 Chainz, Big Sean & Nicki Minaj",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 24,
+      "title": "God's Plan",
+      "artist": "Drake",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 1,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Back To You",
+      "artist": "Selena Gomez",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 22,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Sad!",
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 1,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Stargazing",
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Tequila",
+      "artist": "Dan + Shay",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 21,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Mercy",
+      "artist": "Brett Young",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 29,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 30,
+      "title": "God Is A Woman",
+      "artist": "Ariana Grande",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 11,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Mine",
+      "artist": "Bazzi",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 11,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 32,
+      "title": "One Kiss",
+      "artist": "Calvin Harris & Dua Lipa",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 26,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Friends",
+      "artist": "Marshmello & Anne-Marie",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 11,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Natural",
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 34,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Simple",
+      "artist": "Florida Georgia Line",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 34,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Drowns The Whiskey",
+      "artist": "Jason Aldean Featuring Miranda Lambert",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 36,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Never Be The Same",
+      "artist": "Camila Cabello",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 6,
+        "Wks on Chart": 35
+      }
+    },
+    {
+      "rank": 38,
+      "title": "In My Blood",
+      "artist": "Shawn Mendes",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 11,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 39,
+      "title": "I Like Me Better",
+      "artist": "Lauv",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 29,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Get Along",
+      "artist": "Kenny Chesney",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 22,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Apes**t",
+      "artist": "The Carters",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 13,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Bed",
+      "artist": "Nicki Minaj Featuring Ariana Grande",
+      "position": {
+        "Last Week": "84",
+        "Peak Position": 42,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Yosemite",
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 25,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Chun-Li",
+      "artist": "Nicki Minaj",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Life Changes",
+      "artist": "Thomas Rhett",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 45,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Taking A Walk",
+      "artist": "Trippie Redd"
+    },
+    {
+      "rank": 47,
+      "title": "Sunrise, Sunburn, Sunset",
+      "artist": "Luke Bryan",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 47,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Eastside",
+      "artist": "Benny Blanco, Halsey & Khalid",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 44,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Te Bote",
+      "artist": "Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 36,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Moonlight",
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 13,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 51,
+      "title": "I'm A Mess",
+      "artist": "Bebe Rexha",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 51,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Beautiful",
+      "artist": "Bazzi Featuring Camila Cabello",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 52,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Kiss Somebody",
+      "artist": "Morgan Evans",
+      "position": {
+        "Last Week": "77",
+        "Peak Position": 53,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Broken",
+      "artist": "lovelytheband",
+      "position": {
+        "Last Week": "74",
+        "Peak Position": 54,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Hotel Key",
+      "artist": "Old Dominion",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 55,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 56,
+      "title": "Rich Sex",
+      "artist": "Nicki Minaj Featuring Lil Wayne",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 56,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 57,
+      "title": "Africa",
+      "artist": "Weezer",
+      "position": {
+        "Last Week": "73",
+        "Peak Position": 57,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 58,
+      "title": "Majesty",
+      "artist": "Nicki Minaj Featuring Eminem & Labrinth"
+    },
+    {
+      "rank": 59,
+      "title": "All Girls Are The Same",
+      "artist": "Juice WRLD",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 41,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 60,
+      "title": "Ganja Burns",
+      "artist": "Nicki Minaj"
+    },
+    {
+      "rank": 61,
+      "title": "Take Back Home Girl",
+      "artist": "Chris Lane Featuring Tori Kelly",
+      "position": {
+        "Last Week": "67",
+        "Peak Position": 55,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 62,
+      "title": "Solo",
+      "artist": "Clean Bandit Featuring Demi Lovato",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 58,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 63,
+      "title": "Jackie Chan",
+      "artist": "Tiesto & Dzeko Featuring Preme & Post Malone",
+      "position": {
+        "Last Week": "72",
+        "Peak Position": 60,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 64,
+      "title": "Be Careful",
+      "artist": "Cardi B",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 11,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 65,
+      "title": "Medicine",
+      "artist": "Queen Naija",
+      "position": {
+        "Last Week": "71",
+        "Peak Position": 45,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 66,
+      "title": "Stop Trying To Be God",
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 27,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 67,
+      "title": "Level Up",
+      "artist": "Ciara",
+      "position": {
+        "Last Week": "63",
+        "Peak Position": 59,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 68,
+      "title": "Hooked",
+      "artist": "Dylan Scott",
+      "position": {
+        "Last Week": "82",
+        "Peak Position": 68,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 69,
+      "title": "Can't Say",
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 38,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 70,
+      "title": "Remind Me To Forget",
+      "artist": "Kygo Featuring Miguel",
+      "position": {
+        "Last Week": "81",
+        "Peak Position": 70,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 71,
+      "title": "Wake Up",
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 72,
+      "title": "W O R K I N  M E",
+      "artist": "Quavo"
+    },
+    {
+      "rank": 73,
+      "title": "Don't Go Breaking My Heart",
+      "artist": "Backstreet Boys",
+      "position": {
+        "Last Week": "75",
+        "Peak Position": 63,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 74,
+      "title": "I'm Upset",
+      "artist": "Drake",
+      "position": {
+        "Last Week": "65",
+        "Peak Position": 7,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 75,
+      "title": "R.I.P Screw",
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 26,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 76,
+      "title": "Trip",
+      "artist": "Ella Mai",
+      "position": {
+        "Last Week": "79",
+        "Peak Position": 76,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 77,
+      "title": "You Say",
+      "artist": "Lauren Daigle",
+      "position": {
+        "Last Week": "85",
+        "Peak Position": 53,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 78,
+      "title": "Break Up In The End",
+      "artist": "Cole Swindell",
+      "position": {
+        "Last Week": "90",
+        "Peak Position": 78,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 79,
+      "title": "No Bystanders",
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 80,
+      "title": "Changes",
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "78",
+        "Peak Position": 18,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 81,
+      "title": "Carousel",
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 82,
+      "title": "Lose It",
+      "artist": "Kane Brown",
+      "position": {
+        "Last Week": "86",
+        "Peak Position": 82,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 83,
+      "title": "Growing Pains",
+      "artist": "Alessia Cara",
+      "position": {
+        "Last Week": "83",
+        "Peak Position": 65,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 84,
+      "title": "Lean Wit Me",
+      "artist": "Juice WRLD",
+      "position": {
+        "Last Week": "87",
+        "Peak Position": 84,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 85,
+      "title": "1942",
+      "artist": "G-Eazy Featuring Yo Gotti & YBN Nahmir",
+      "position": {
+        "Last Week": "70",
+        "Peak Position": 70,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 86,
+      "title": "That's On Me",
+      "artist": "Yella Beezy",
+      "position": {
+        "Last Week": "95",
+        "Peak Position": 86,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 87,
+      "title": "Album Of The Year (Freestyle)",
+      "artist": "J. Cole"
+    },
+    {
+      "rank": 88,
+      "title": "This Is America",
+      "artist": "Childish Gambino",
+      "position": {
+        "Last Week": "80",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 89,
+      "title": "5% Tint",
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 36,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 90,
+      "title": "Have It All",
+      "artist": "Jason Mraz"
+    },
+    {
+      "rank": 91,
+      "title": "Drew Barrymore",
+      "artist": "Bryce Vine"
+    },
+    {
+      "rank": 92,
+      "title": "Cry Pretty",
+      "artist": "Carrie Underwood",
+      "position": {
+        "Last Week": "89",
+        "Peak Position": 48,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 93,
+      "title": "Sin Pijama",
+      "artist": "Becky G + Natti Natasha",
+      "position": {
+        "Last Week": "93",
+        "Peak Position": 70,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 94,
+      "title": "Best Part",
+      "artist": "Daniel Caesar Featuring H.E.R.",
+      "position": {
+        "Last Week": "92",
+        "Peak Position": 81,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 95,
+      "title": "She Got The Best Of Me ",
+      "artist": "Luke Combs"
+    },
+    {
+      "rank": 96,
+      "title": "Lie",
+      "artist": "NF",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 90,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 97,
+      "title": "Nevermind",
+      "artist": "Dennis Lloyd",
+      "position": {
+        "Last Week": "99",
+        "Peak Position": 86,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 98,
+      "title": "Thought I Knew You",
+      "artist": "Nicki Minaj Featuring The Weeknd"
+    },
+    {
+      "rank": 99,
+      "title": "Mob Ties",
+      "artist": "Drake",
+      "position": {
+        "Last Week": "94",
+        "Peak Position": 13,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 100,
+      "title": "Wasted",
+      "artist": "Juice WRLD Featuring Lil Uzi Vert",
+      "position": {
+        "Last Week": "97",
+        "Peak Position": 67,
+        "Wks on Chart": 5
+      }
+    }
+  ]
+}

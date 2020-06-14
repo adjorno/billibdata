@@ -1,0 +1,556 @@
+{
+  "name": "Country",
+  "chart_date": "2018-02-24",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Meant To Be",
+      "artist": "Bebe Rexha & Florida Georgia Line",
+      "cover": "https://charts-static.billboard.com/img/2017/10/bebe-rexha-5s8.jpg",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Marry Me",
+      "artist": "Thomas Rhett",
+      "cover": "https://charts-static.billboard.com/img/2017/09/thomas-rhett-r0o.jpg",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 3,
+      "title": "You Make It Easy",
+      "artist": "Jason Aldean",
+      "cover": "https://charts-static.billboard.com/img/2018/02/jason-aldean-jfn.jpg",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 2,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Five More Minutes",
+      "artist": "Scotty McCreery",
+      "cover": "https://charts-static.billboard.com/img/2017/05/scotty-mccreery-qgz.jpg",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 39
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Written In The Sand",
+      "artist": "Old Dominion",
+      "cover": "https://charts-static.billboard.com/img/2017/07/old-dominion-wac.jpg",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 32
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Heaven",
+      "artist": "Kane Brown",
+      "cover": "https://charts-static.billboard.com/img/2017/10/kane-brown-k3k.jpg",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 6,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Broken Halos",
+      "artist": "Chris Stapleton",
+      "cover": "https://charts-static.billboard.com/img/2017/05/chris-stapleton-ha2.jpg",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 44
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Yours",
+      "artist": "Russell Dickerson",
+      "cover": "https://charts-static.billboard.com/img/2017/05/russell-dickerson-msy.jpg",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 36
+      }
+    },
+    {
+      "rank": 9,
+      "title": "You Broke Up With Me",
+      "artist": "Walker Hayes",
+      "cover": "https://charts-static.billboard.com/img/2017/05/walker-hayes.jpg",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 38
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Legends",
+      "artist": "Kelsea Ballerini",
+      "cover": "https://charts-static.billboard.com/img/2017/06/kelsea-ballerini-t5m.jpg",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 37
+      }
+    },
+    {
+      "rank": 11,
+      "title": "All On Me",
+      "artist": "Devin Dawson",
+      "cover": "https://charts-static.billboard.com/img/2017/03/devin-dawson-oxt.jpg",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Most People Are Good",
+      "artist": "Luke Bryan",
+      "cover": "https://charts-static.billboard.com/img/1840/12/luke-bryan-3d2.jpg",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Singles You Up",
+      "artist": "Jordan Davis",
+      "cover": "https://charts-static.billboard.com/img/2017/07/jordan-davis-err.jpg",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 13,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 14,
+      "title": "The Long Way",
+      "artist": "Brett Eldredge",
+      "cover": "https://charts-static.billboard.com/img/2017/06/brett-eldredge.jpg",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Female",
+      "artist": "Keith Urban",
+      "cover": "https://charts-static.billboard.com/img/1840/12/keith-urban-9lg.jpg",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Boy",
+      "artist": "Lee Brice",
+      "cover": "https://charts-static.billboard.com/img/2017/06/lee-brice.jpg",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 16,
+        "Wks on Chart": 35
+      }
+    },
+    {
+      "rank": 17,
+      "title": "She's With Me",
+      "artist": "High Valley",
+      "cover": "https://charts-static.billboard.com/img/2017/05/high-valley.jpg",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 17,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 18,
+      "title": "I'll Name The Dogs",
+      "artist": "Blake Shelton",
+      "cover": "https://charts-static.billboard.com/img/2017/09/blake-shelton-22w.jpg",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 6,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Up Down",
+      "artist": "Morgan Wallen Featuring Florida Georgia Line",
+      "cover": "https://charts-static.billboard.com/img/2016/08/morgan-wallen-LYD.jpg",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 19,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Happens Like That",
+      "artist": "Granger Smith",
+      "cover": "https://charts-static.billboard.com/img/2017/07/granger-smith.jpg",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 20,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 21,
+      "title": "One Number Away",
+      "artist": "Luke Combs",
+      "cover": "https://charts-static.billboard.com/img/2017/06/luke-combs.jpg",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 21,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 22,
+      "title": "For The First Time",
+      "artist": "Darius Rucker",
+      "cover": "https://charts-static.billboard.com/img/2017/08/darius-rucker-iex.jpg",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 22,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Ones That Like Me",
+      "artist": "Brantley Gilbert",
+      "cover": "https://charts-static.billboard.com/img/2017/07/brantley-gilbert.jpg",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 23,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Make A Little",
+      "artist": "Midland",
+      "cover": "https://charts-static.billboard.com/img/2017/10/midland-b3d.jpg",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Woman, Amen",
+      "artist": "Dierks Bentley",
+      "cover": "https://charts-static.billboard.com/img/2018/01/dierks-bentley-yjg.jpg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 23,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Take Back Home Girl",
+      "artist": "Chris Lane Featuring Tori Kelly",
+      "cover": "https://charts-static.billboard.com/img/2017/10/chris-lane-pi2.jpg",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Everything's Gonna Be Alright",
+      "artist": "David Lee Murphy & Kenny Chesney",
+      "cover": "https://charts-static.billboard.com/img/2017/11/david-lee-murphy-cdr.jpg",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 27,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 28,
+      "title": "The Rest Of Our Life",
+      "artist": "Tim McGraw & Faith Hill",
+      "cover": "https://charts-static.billboard.com/img/2017/10/tim-mcgraw-j7r.jpg",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 18,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 29,
+      "title": "When It Comes To Loving You",
+      "artist": "Jon Langston",
+      "cover": "https://charts-static.billboard.com/img/2018/02/jon-langston-9ye.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 29,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Tequila",
+      "artist": "Dan + Shay",
+      "cover": "https://charts-static.billboard.com/img/2018/01/dan-shay-zji.jpg",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 15,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 31,
+      "title": "I Lived It",
+      "artist": "Blake Shelton",
+      "cover": "https://charts-static.billboard.com/img/2017/11/blake-shelton-22w.jpg",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 31,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Get To You",
+      "artist": "Michael Ray",
+      "cover": "https://charts-static.billboard.com/img/2017/08/michael-ray-8ci.jpg",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 33,
+      "title": "She Ain't In It",
+      "artist": "Jon Pardi",
+      "cover": "https://charts-static.billboard.com/img/2017/11/jon-pardi-trs.jpg",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 32,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Hooked",
+      "artist": "Dylan Scott",
+      "cover": "https://charts-static.billboard.com/img/2017/09/dylan-scott-26j.jpg",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Parallel Line",
+      "artist": "Keith Urban",
+      "cover": "https://charts-static.billboard.com/img/2018/02/keith-urban-t54.jpg",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 25,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Heart Break",
+      "artist": "Lady Antebellum",
+      "cover": "https://charts-static.billboard.com/img/2017/06/lady-antebellum.jpg",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 36,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Drunk Girl",
+      "artist": "Chris Janson",
+      "cover": "https://charts-static.billboard.com/img/2017/12/chris-janson-cex.jpg",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 37,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Criminal",
+      "artist": "Lindsay Ell",
+      "cover": "https://charts-static.billboard.com/img/2017/12/lindsay-ell-n1u.jpg",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 38,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 39,
+      "title": "I'd Be Jealous Too",
+      "artist": "Dustin Lynch",
+      "cover": "https://charts-static.billboard.com/img/2017/11/dustin-lynch-wz1.jpg",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 39,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Kiss Somebody",
+      "artist": "Morgan Evans",
+      "cover": "https://charts-static.billboard.com/img/2017/11/morgan-evans-m2k.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Three Chords & The Truth",
+      "artist": "Chase Rice",
+      "cover": "https://charts-static.billboard.com/img/2017/09/chase-rice-olm.jpg",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 41,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Born To Love You",
+      "artist": "LANCO",
+      "cover": "https://charts-static.billboard.com/img/2018/02/lanco-v28.jpg",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 39,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 43,
+      "title": "What's Mine Is Yours",
+      "artist": "Kane Brown",
+      "cover": "https://charts-static.billboard.com/img/2017/10/kane-brown-k3k.jpg",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 34,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Kinda Don't Care",
+      "artist": "Justin Moore",
+      "cover": "https://charts-static.billboard.com/img/2016/12/justin-moore-mtw.jpg",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 44,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Millionaire",
+      "artist": "Chris Stapleton",
+      "cover": "https://charts-static.billboard.com/img/2013/07/chris-stapleton-ha2.jpg",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 26,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Doin' Fine",
+      "artist": "Lauren Alaina",
+      "cover": "https://charts-static.billboard.com/img/2017/06/lauren-alaina.jpg",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 46,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Mercy",
+      "artist": "Brett Young",
+      "cover": "https://charts-static.billboard.com/img/2017/07/brett-young.jpg",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 47,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Shoot Me Straight",
+      "artist": "Brothers Osborne",
+      "cover": "https://charts-static.billboard.com/img/2018/01/brothers-osborne-fo0.jpg",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 35,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Stay Downtown",
+      "artist": "Cole Swindell",
+      "cover": "https://charts-static.billboard.com/img/2017/09/cole-swindell-lq3.jpg",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 34,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Stupid",
+      "artist": "Levi Hummon",
+      "cover": "https://charts-static.billboard.com/img/2018/02/levi-hummon-000-stupid-qx5.jpg",
+      "position": {
+        "Last Week": "--",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
+    }
+  ]
+}
