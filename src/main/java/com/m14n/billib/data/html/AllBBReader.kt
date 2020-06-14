@@ -23,16 +23,7 @@ import java.util.logging.Logger
 @UseExperimental(ImplicitReflectionSerializer::class, UnstableDefault::class)
 object AllBBReader {
     private const val POSSIBLE_SKIPPED_WEEKS_IN_ROW = 5
-    private var TODAY: Date? = null
-
-    init {
-        try {
-            TODAY = BB.CHART_DATE_FORMAT.parse("2020-06-20")
-        } catch (e: ParseException) {
-            e.printStackTrace()
-        }
-
-    }
+    private var TODAY = BB.CHART_DATE_FORMAT.parse("2020-06-20")
 
     @JvmStatic
     fun main(args: Array<String>) {
@@ -40,8 +31,7 @@ object AllBBReader {
         val theMetadataFile = File(theRoot, "metadata_billboard.json")
         val theMetadata = Json.parse(BBJournalMetadata.serializer(), theMetadataFile.readText())
 
-//        fetchChart(theRoot, theMetadata, theMetadata.charts?.get(2)!!)
-        theMetadata.charts?.subList(2, theMetadata.charts?.size!!)?.forEach {
+        theMetadata.charts?.forEach {
             fetchChart(theRoot, theMetadata, it)
         }
     }
@@ -73,6 +63,7 @@ object AllBBReader {
                 theChartMetadata.prefix + "-" + theFormatDate + ".json"
             )
             if (!theChartFile.exists()) {
+                Thread.sleep(2000)
                 try {
                     val theChartDocument = BBHtmlParser.getChartDocument(
                         metadata, theChartMetadata,
