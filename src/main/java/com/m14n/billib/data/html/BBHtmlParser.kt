@@ -22,7 +22,7 @@ object BBHtmlParser {
                 theUrl += "/$date"
             }
         }
-        return Jsoup.connect(theUrl).userAgent("Mozilla").timeout(10 * 1000).get()
+        return Jsoup.connect(theUrl).userAgent("Mozilla").timeout(60 * 1000).get()
     }
 
     private fun getHeader(document: Document): Element {

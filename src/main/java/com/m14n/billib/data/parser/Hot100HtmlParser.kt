@@ -1,6 +1,8 @@
 package com.m14n.billib.data.parser
 
 import com.m14n.billib.data.BB
+import com.m14n.billib.data.html.jsoup.requestAttr
+import com.m14n.billib.data.html.jsoup.requestElementById
 import org.jsoup.nodes.Document
 import java.util.*
 
@@ -10,9 +12,7 @@ import java.util.*
  * in the test resource folder.
  */
 class Hot100DateParser : HtmlChartDateParser {
-    override fun parse(document: Document): Date {
-        val main = document.body().getElementById("main")
-        val charts = main.getElementById("charts")
-        return BB.CHART_DATE_FORMAT.parse(charts.attr("data-chart-date"))
+    override fun parse(document: Document): Date = document.body().requestElementById("main").requestElementById("charts").requestAttr("data-chart-date").let { textDate ->
+        BB.CHART_DATE_FORMAT.parse(textDate)
     }
 }

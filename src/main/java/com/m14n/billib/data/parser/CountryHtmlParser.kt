@@ -10,7 +10,6 @@ import java.util.*
  */
 class CountryDateParser : HtmlChartDateParser {
     override fun parse(document: Document): Date {
-        val main = document.body().getElementById("main")
-        throw RuntimeException()
+        TODO("Not yet implemented")
     }
 }
