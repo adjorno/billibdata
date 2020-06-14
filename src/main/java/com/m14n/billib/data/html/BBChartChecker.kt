@@ -4,15 +4,12 @@ import com.m14n.billib.data.BB
 import com.m14n.billib.data.model.BBChart
 import com.m14n.billib.data.model.BBTrack
 import com.m14n.ex.Ex
-import kotlinx.serialization.UnstableDefault
-import kotlinx.serialization.internal.ArrayListSerializer
+import kotlinx.serialization.builtins.ListSerializer
 import kotlinx.serialization.json.Json
-
 import java.io.File
 import java.io.FileReader
-import java.util.Calendar
+import java.util.*
 
-@UseExperimental(UnstableDefault::class)
 fun main() {
     val theOldRoot = File(BB.DATA_ROOT + File.separator + "country-songs")
     val theNewRoot = File(BB.DATA_ROOT + "_new" + File.separator + "country-songs")
@@ -43,14 +40,15 @@ fun main() {
     }
 }
 
-@UseExperimental(UnstableDefault::class)
 private fun readOld(oldChart: File, date: String): BBChart {
     return BBChart(name = "Country", date = date, tracks = FileReader(oldChart).use {
-        Json.parse(ArrayListSerializer(BBTrack.serializer()), oldChart.readText()).also { it.forEach { track -> track.coverUrl = Ex.addHttpIfNeeded(track.coverUrl) } }
+        Json.parse(
+            ListSerializer(BBTrack.serializer()),
+            oldChart.readText()
+        ).also { it.forEach { track -> track.coverUrl = Ex.addHttpIfNeeded(track.coverUrl) } }
     })
 }
 
-@UseExperimental(UnstableDefault::class)
 private fun readNew(newChart: File): BBChart {
     return Json.parse(BBChart.serializer(), newChart.readText())
 }
