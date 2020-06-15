@@ -9,7 +9,7 @@ import org.junit.Test
 import java.util.*
 
 class CompositeHtmlChartDateParserTest {
-    val emptyDocument = Document("")
+    private val emptyDocument = Document("")
 
     @Test
     fun `if one delegate succeeds there is no need to try following ones`() {
