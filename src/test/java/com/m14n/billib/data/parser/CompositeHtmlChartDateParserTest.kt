@@ -29,14 +29,6 @@ class CompositeHtmlChartDateParserTest {
     }
 
     @Test
-    fun `if one delegate succeeds there is no need to try following ones`() {
-        val result = mock<Date> {}
-        whenever(delegate1.parse(any())).doReturn(result)
-        assertEquals(result, sut.parse(mock {}))
-        verify(delegate2, never()).parse(any())
-    }
-
-    @Test
     fun `if one delegate fails try the next one`() {
         whenever(delegate1.parse(any())).doThrow(mock<ParseException> {})
         val result = mock<Date> {}
