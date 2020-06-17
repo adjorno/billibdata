@@ -4,7 +4,13 @@ import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 
 @Serializable
-data class BBJournalMetadata(@SerialName("name") var name: String? = null,
-                             @SerialName("url") var url: String? = null,
-                             @SerialName("base_rss") var baseRss: String? = null,
-                             @SerialName("charts") var charts: List<BBChartMetadata>? = null)
+data class BBJournalMetadata(
+    var name: String,
+
+    var url: String,
+
+    @SerialName("base_rss")
+    var baseRss: String,
+
+    var charts: List<BBChartMetadata>
+)

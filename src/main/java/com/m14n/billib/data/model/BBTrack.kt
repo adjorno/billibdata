@@ -4,10 +4,13 @@ import kotlinx.serialization.SerialName
 import kotlinx.serialization.Serializable
 
 @Serializable
-data class BBTrack(@SerialName("rank") var rank: Int,
-                   @SerialName("title") var title: String,
-                   @SerialName("artist") var artist: String? = null,
-                   @SerialName("position") var positionInfo: BBPositionInfo? = null) {
+data class BBTrack(
+    var rank: Int,
+    var title: String,
+    var artist: String,
+    @SerialName("position")
+    var positionInfo: BBPositionInfo? = null
+) {
 
     override fun toString(): String {
         return "$rank. $artist - $title ($positionInfo)"

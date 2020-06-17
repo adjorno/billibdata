@@ -5,12 +5,7 @@ import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
 import java.text.ParseException
 
-fun defaultChartListParser(): HtmlChartListParser = CompositeChartListParser(
-    listOf(
-        //Hot100ChartListParser(),
-        countryChartListParser()
-    )
-)
+fun defaultChartListParser() = countryChartListParser()
 
 interface HtmlChartListParser {
     @Throws(ParseException::class)
