@@ -1,6 +1,5 @@
 import com.m14n.billib.data.parser.TextDateParser
 import com.m14n.billib.data.parser.countryDateParser
-import com.m14n.billib.data.parser.hot100DateParser
 import org.jsoup.nodes.Document
 import java.text.ParseException
 import java.util.*
@@ -11,12 +10,7 @@ import java.util.logging.Logger
  * Default [HtmlChartDateParser] implementation.
  */
 fun defaultDateParser(logger: Logger? = null): HtmlChartDateParser =
-    CompositeHtmlChartDateParser(
-        listOf(
-            countryDateParser(),
-            hot100DateParser()
-        )
-    ).let { parser ->
+    countryDateParser().let { parser ->
         if (logger != null) {
             LogOnErrorChartDateParser(parser, logger)
         } else {

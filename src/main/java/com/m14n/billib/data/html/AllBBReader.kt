@@ -1,11 +1,14 @@
 package com.m14n.billib.data.html
 
 import com.m14n.billib.data.BB
+import com.m14n.billib.data.TODAY
 import com.m14n.billib.data.model.BBChart
 import com.m14n.billib.data.model.BBChartMetadata
 import com.m14n.billib.data.model.BBJournalMetadata
 import com.m14n.billib.data.model.BBTrack
+import com.m14n.billib.data.parser.Hot100ChartListParser
 import com.m14n.billib.data.parser.defaultChartListParser
+import com.m14n.billib.data.parser.hot100DateParser
 import defaultDateParser
 import kotlinx.serialization.ImplicitReflectionSerializer
 import kotlinx.serialization.UnstableDefault
@@ -23,7 +26,6 @@ import java.util.logging.Logger
 @UseExperimental(ImplicitReflectionSerializer::class, UnstableDefault::class)
 object AllBBReader {
     private const val POSSIBLE_SKIPPED_WEEKS_IN_ROW = 5
-    private var TODAY = BB.CHART_DATE_FORMAT.parse("2020-06-20")
 
     @JvmStatic
     fun main(args: Array<String>) {
@@ -31,7 +33,7 @@ object AllBBReader {
         val theMetadataFile = File(theRoot, "metadata_billboard.json")
         val theMetadata = Json.parse(BBJournalMetadata.serializer(), theMetadataFile.readText())
 
-        theMetadata.charts?.forEach {
+        theMetadata.charts.filter { it.endDate == null }.forEach {
             fetchChart(theRoot, theMetadata, it)
         }
     }
@@ -44,12 +46,17 @@ object AllBBReader {
             theChartDir.mkdirs()
         }
         var theSkip = 0
-        val theCalendar = Calendar.getInstance()
-        theCalendar.time = TODAY!!
-        val dateParser = defaultDateParser(Logger.getLogger("ChartUpdate").apply {
-            addHandler(FileHandler("charts_update.log"))
-        })
-        val tracksParser = defaultChartListParser()
+        val theCalendar = Calendar.getInstance().apply {
+            time = TODAY
+            add(Calendar.DATE, Calendar.DAY_OF_WEEK)
+        }
+        val (dateParser, tracksParser) = if (theChartMetadata.name == "Hot 100") {
+            hot100DateParser() to Hot100ChartListParser()
+        } else {
+            defaultDateParser(Logger.getLogger("ChartUpdate").apply {
+                addHandler(FileHandler("charts_update.log"))
+            }) to defaultChartListParser()
+        }
         while (theSkip <= POSSIBLE_SKIPPED_WEEKS_IN_ROW) {
             val theCurrent = BB.CHART_DATE_FORMAT.format(theCalendar.time)
             theCalendar.add(
