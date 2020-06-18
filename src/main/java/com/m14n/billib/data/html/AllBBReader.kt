@@ -9,6 +9,7 @@ import com.m14n.billib.data.model.BBTrack
 import com.m14n.billib.data.parser.Hot100ChartListParser
 import com.m14n.billib.data.parser.defaultChartListParser
 import com.m14n.billib.data.parser.hot100DateParser
+import com.m14n.billib.data.toChartDate
 import defaultDateParser
 import kotlinx.serialization.ImplicitReflectionSerializer
 import kotlinx.serialization.UnstableDefault
@@ -63,6 +64,9 @@ object AllBBReader {
                 Calendar.DATE,
                 if ("2018-01-06" == theCurrent) -3 else if ("2018-01-03" == theCurrent) -4 else -7
             )
+            if (theCalendar.time.before(theChartMetadata.startDate.toChartDate())) {
+                break;
+            }
             val theFormatDate = BB.CHART_DATE_FORMAT.format(theCalendar.time)
             print(theChartMetadata.name + " " + theFormatDate + " ")
             val theChartFile = File(
