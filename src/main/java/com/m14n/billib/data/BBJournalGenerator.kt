@@ -191,6 +191,13 @@ val billboardJournal = Json.fromJson(BBJournalMetadata.serializer(),
                 "start_date" to "2007-12-01"
                 "prefix" to "euro"
             }
+            +json {
+                "name" to "Hard Rock"
+                "folder" to "hot-hard-rock-songs"
+                "size" to 25
+                "start_date" to "2020-06-13"
+                "prefix" to "hard-rock"
+            }
         }
     }
 )
