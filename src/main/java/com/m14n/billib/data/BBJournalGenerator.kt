@@ -202,7 +202,7 @@ val billboardJournal = Json.fromJson(BBJournalMetadata.serializer(),
                 "name" to "Summer Songs"
                 "folder" to "summer-songs"
                 "size" to 20
-                "start_date" to "2007-12-01"
+                "start_date" to "2010-07-17"
                 "prefix" to "summer-songs"
             }
         }
