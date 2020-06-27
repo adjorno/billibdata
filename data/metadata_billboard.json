@@ -149,8 +149,15 @@
       "name": "Soundtracks",
       "folder": "soundtracks",
       "size": 25,
-      "start_date": "1986-09-06",
+      "start_date": "2001-06-30",
       "prefix": "soundtracks"
+    },
+    {
+      "name": "Euro",
+      "folder": "euro-digital-song-sales",
+      "size": 20,
+      "start_date": "2007-12-01",
+      "prefix": "euro"
     }
   ]
 }

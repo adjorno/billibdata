@@ -181,8 +181,15 @@ val billboardJournal = Json.fromJson(BBJournalMetadata.serializer(),
                 "name" to "Soundtracks"
                 "folder" to "soundtracks"
                 "size" to 25
-                "start_date" to "1986-09-06"
+                "start_date" to "2001-06-30"
                 "prefix" to "soundtracks"
+            }
+            +json {
+                "name" to "Euro"
+                "folder" to "euro-digital-song-sales"
+                "size" to 20
+                "start_date" to "2007-12-01"
+                "prefix" to "euro"
             }
         }
     }
