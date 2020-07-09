@@ -68,7 +68,6 @@ object AllBBReader {
                 break;
             }
             val theFormatDate = BB.CHART_DATE_FORMAT.format(theCalendar.time)
-            print(theChartMetadata.name + " " + theFormatDate + " ")
             val theChartFile = File(
                 theChartDir,
                 theChartMetadata.prefix + "-" + theFormatDate + ".json"
@@ -86,7 +85,7 @@ object AllBBReader {
                         && !("2018-11-10" == theHtmlDate && "2018-11-03" == theFormatDate &&
                                 "Youtube" == theChartMetadata.name)
                     ) {
-                        println("WRONG DATE!")
+                        println("${theChartMetadata.name} $theFormatDate WRONG DATE!")
                         theSkip++
                         continue
                     }
@@ -110,7 +109,7 @@ object AllBBReader {
                     FileWriter(theChartFile).use {
                         it.write(Json(JsonConfiguration(prettyPrint = true)).stringify(theChart))
                     }
-                    println("SUCCESS!")
+                    println("${theChartMetadata.name} $theFormatDate SUCCESS!")
                     theSkip = 0
                 } catch (e: IOException) {
                     e.printStackTrace()
@@ -119,7 +118,7 @@ object AllBBReader {
 
             } else {
                 theSkip = 0
-                println("ALREADY EXISTS")
+                //println("ALREADY EXISTS")
             }
         }
     }
