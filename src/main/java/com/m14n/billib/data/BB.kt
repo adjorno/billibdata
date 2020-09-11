@@ -30,4 +30,4 @@ object BB {
 }
 
 fun String.toChartDate(): Date = CHART_DATE_FORMAT.parse(this)
-var TODAY = "2020-09-05".toChartDate()
+var TODAY = "2020-09-12".toChartDate()
