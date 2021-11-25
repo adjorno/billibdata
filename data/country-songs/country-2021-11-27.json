@@ -1,0 +1,506 @@
+{
+  "name": "Country",
+  "chart_date": "2021-11-27",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "All Too Well (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 1,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Fancy Like",
+      "artist": "Walker Hayes",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 3,
+      "title": "I Bet You Think About Me (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift Featuring Chris Stapleton",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 3,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 4,
+      "title": "If I Didn't Love You",
+      "artist": "Jason Aldean & Carrie Underwood",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Red (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 5,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Thinking 'Bout You",
+      "artist": "Dustin Lynch Featuring Lauren Alaina Or MacKenzie Porter",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Cold As You",
+      "artist": "Luke Combs",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Chasing After You",
+      "artist": "Ryan Hurd With Maren Morris",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 40
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Buy Dirt",
+      "artist": "Jordan Davis Featuring Luke Bryan",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 10,
+      "title": "You Should Probably Leave",
+      "artist": "Chris Stapleton",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 34
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Nothing New (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift Featuring Phoebe Bridgers",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 11,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Same Boat",
+      "artist": "Zac Brown Band",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Better Man (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Doin' This",
+      "artist": "Luke Combs",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 14,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Treacherous (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 15,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 16,
+      "title": "We Are Never Ever Getting Back Together (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 16,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 17,
+      "title": "I Almost Do (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 17,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 18,
+      "title": "The Very First Night (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Sand In My Boots",
+      "artist": "Morgan Wallen",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 5,
+        "Wks on Chart": 40
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Stay Stay Stay (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Babe (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 22,
+      "title": "One Mississippi",
+      "artist": "Kane Brown",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Knowing You",
+      "artist": "Kenny Chesney",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 10,
+        "Wks on Chart": 32
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Holy Ground (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Begin Again (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Forever Winter (Taylor's Version) (From The Vault)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 26,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Whiskey And Rain",
+      "artist": "Michael Ray",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 28,
+      "title": "The Moment I Knew (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 28,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 29,
+      "title": "The Lucky One (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 29,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Sad Beautiful Tragic (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Come Back...Be Here (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Tequila Little Time",
+      "artist": "Jon Pardi",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Starlight (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Freedom Was A Highway",
+      "artist": "Jimmie Allen & Brad Paisley",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 18,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Drunk (And I Don't Wanna Go Home)",
+      "artist": "Elle King & Miranda Lambert",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 11,
+        "Wks on Chart": 38
+      }
+    },
+    {
+      "rank": 36,
+      "title": "'Til You Can't",
+      "artist": "Cody Johnson",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 15,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Girl At Home (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Heart On Fire",
+      "artist": "Eric Church",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Half Of My Hometown",
+      "artist": "Kelsea Ballerini Featuring Kenny Chesney",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 19,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Never Wanted To Be That Girl",
+      "artist": "Carly Pearce & Ashley McBryde",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Memory",
+      "artist": "Kane Brown X blackbear",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 9,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Ronan (Taylor's Version)",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 43,
+      "title": "To Be Loved By You",
+      "artist": "Parker McCollum",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Just About Over You",
+      "artist": "Priscilla Block",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 20,
+        "Wks on Chart": 40
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Beers On Me",
+      "artist": "Dierks Bentley, Breland & HARDY",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 22,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Come Back As A Country Boy",
+      "artist": "Blake Shelton",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 27,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 47,
+      "title": "23",
+      "artist": "Sam Hunt",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 23,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Small Town Small",
+      "artist": "Jason Aldean",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Give Heaven Some Hell",
+      "artist": "HARDY",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 26,
+        "Wks on Chart": 35
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Slow Down Summer",
+      "artist": "Thomas Rhett",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 2
+      }
+    }
+  ]
+}
