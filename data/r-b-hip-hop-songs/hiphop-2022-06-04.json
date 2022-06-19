@@ -1,0 +1,506 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "2022-06-04",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "First Class",
+      "artist": "Jack Harlow",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Wait For U",
+      "artist": "Future Featuring Drake & Tems",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 3,
+      "title": "About Damn Time",
+      "artist": "Lizzo",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 3,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Big Energy",
+      "artist": "Latto",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 1,
+        "Wks on Chart": 32
+      }
+    },
+    {
+      "rank": 5,
+      "title": "N95",
+      "artist": "Kendrick Lamar",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Puffin On Zootiez",
+      "artist": "Future",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 3,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Die Hard",
+      "artist": "Kendrick Lamar, Blxst & Amanda Reifer",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Cooped Up",
+      "artist": "Post Malone Featuring Roddy Ricch",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 8,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Silent Hill",
+      "artist": "Kendrick Lamar & Kodak Black",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 10,
+      "title": "In A Minute",
+      "artist": "Lil Baby",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 5,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 11,
+      "title": "To The Moon!",
+      "artist": "JNR CHOI & Sam Tompkins",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 10,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Hotel Lobby (Unc And Phew)",
+      "artist": "Quavo & Takeoff",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 12,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Rich Spirit",
+      "artist": "Kendrick Lamar",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 14,
+      "title": "What Happened To Virgil",
+      "artist": "Lil Durk Featuring Gunna",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 6,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Right On",
+      "artist": "Lil Baby",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 5,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Freaky Deaky",
+      "artist": "Tyga X Doja Cat",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Father Time",
+      "artist": "Kendrick Lamar Featuring Sampha",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Dua Lipa",
+      "artist": "Jack Harlow",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 8,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Count Me Out",
+      "artist": "Kendrick Lamar",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 20,
+      "title": "United In Grief",
+      "artist": "Kendrick Lamar",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 21,
+      "title": "I'm On One",
+      "artist": "Future Featuring Drake",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 7,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Love You Better",
+      "artist": "Future",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 8,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Pushin P",
+      "artist": "Gunna & Future Featuring Young Thug",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 2,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Savior",
+      "artist": "Kendrick Lamar, Baby Keem, & Sam Dew",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 25,
+      "title": "We Cry Together",
+      "artist": "Kendrick Lamar & Taylour Paige",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 26,
+      "title": "DFMU",
+      "artist": "Ella Mai",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 26,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Hate Our Love",
+      "artist": "Queen Naija & Big Sean",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 27,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Churchill Downs",
+      "artist": "Jack Harlow Featuring Drake",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 9,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Purple Hearts",
+      "artist": "Kendrick Lamar, Summer Walker & Ghostface Killah",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Frozen",
+      "artist": "Lil Baby",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 25,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 31,
+      "title": "712PM",
+      "artist": "Future",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 5,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Plan B",
+      "artist": "Megan Thee Stallion",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 7,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Do We Have A Problem?",
+      "artist": "Nicki Minaj X Lil Baby",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Peru",
+      "artist": "Fireboy DML & Ed Sheeran",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 11,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Worldwide Steppers",
+      "artist": "Kendrick Lamar",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 36,
+      "title": "F.N.F. (Let's Go)",
+      "artist": "Hitkidd & Glorilla",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 36,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Banking On Me",
+      "artist": "Gunna",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 20,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Rocky Road",
+      "artist": "Moneybagg Yo & Kodak Black",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Sleazy Flow",
+      "artist": "SleazyWorld Go Featuring Lil Baby",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Handsomer",
+      "artist": "Russ Featuring Ktlyn",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 14,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 41,
+      "title": "City Of Gods",
+      "artist": "Fivio Foreign, Kanye West & Alicia Keys",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 15,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 42,
+      "title": "I'm Dat N***a",
+      "artist": "Future",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 6,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Out Of Time",
+      "artist": "The Weeknd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 11,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Nail Tech",
+      "artist": "Jack Harlow",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Mr. Morale",
+      "artist": "Kendrick Lamar & Tanna Leone",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Over",
+      "artist": "Lucky Daye",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Ahhh Ha",
+      "artist": "Lil Durk",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Free Mind",
+      "artist": "Tems",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Massaging Me",
+      "artist": "Future",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 13,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Bestie",
+      "artist": "DaBaby & YoungBoy Never Broke Again",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 3
+      }
+    }
+  ]
+}

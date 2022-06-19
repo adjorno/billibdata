@@ -1,0 +1,506 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "2022-05-07",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "First Class",
+      "artist": "Jack Harlow",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Big Energy",
+      "artist": "Latto",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Woman",
+      "artist": "Doja Cat",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 40
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Super Gremlin",
+      "artist": "Kodak Black",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Industry Baby",
+      "artist": "Lil Nas X & Jack Harlow",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 40
+      }
+    },
+    {
+      "rank": 6,
+      "title": "In A Minute",
+      "artist": "Lil Baby",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Plan B",
+      "artist": "Megan Thee Stallion",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Hrs And Hrs",
+      "artist": "Muni Long",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Right On",
+      "artist": "Lil Baby",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 10,
+      "title": "To The Moon!",
+      "artist": "JNR CHOI & Sam Tompkins",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 11,
+      "title": "I Hate U",
+      "artist": "SZA",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 12,
+      "title": "What Happened To Virgil",
+      "artist": "Lil Durk Featuring Gunna",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 6,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Pushin P",
+      "artist": "Gunna & Future Featuring Young Thug",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Freaky Deaky",
+      "artist": "Tyga X Doja Cat",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 11,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Peru",
+      "artist": "Fireboy DML & Ed Sheeran",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Hold That Heat",
+      "artist": "Southside, Travis Scott & Future",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 16,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Scrape It Off",
+      "artist": "Pusha T Featuring Lil Uzi Vert & Don Toliver",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 17,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 18,
+      "title": "About Damn Time",
+      "artist": "Lizzo",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Me Or Sum",
+      "artist": "Nardo Wick, Lil Baby & Future",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 15,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Broadway Girls",
+      "artist": "Lil Durk Featuring Morgan Wallen",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 21,
+      "title": "No Love",
+      "artist": "Summer Walker & SZA",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 5,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Nail Tech",
+      "artist": "Jack Harlow",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 4,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Neck & Wrist",
+      "artist": "Pusha T Featuring JAY-Z & Pharrell Williams",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Handsomer",
+      "artist": "Russ Featuring Ktlyn",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 14,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Rock N Roll",
+      "artist": "Pusha T Featuring Kanye West & Kid Cudi",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Ahhh Ha",
+      "artist": "Lil Durk",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 4,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Do We Have A Problem?",
+      "artist": "Nicki Minaj X Lil Baby",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Dreamin Of The Past",
+      "artist": "Pusha T Featuring Kanye West",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 28,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Shake It",
+      "artist": "Kay Flock, Cardi B, Dougie B & Bory300",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Rumors",
+      "artist": "Gucci Mane Featuring Lil Durk",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 31,
+      "title": "In My Head",
+      "artist": "Lil Tjay",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 8,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Out Of Time",
+      "artist": "The Weeknd",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 11,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Banking On Me",
+      "artist": "Gunna",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 20,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Hate Our Love",
+      "artist": "Queen Naija & Big Sean",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Over",
+      "artist": "Lucky Daye",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 22,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 36,
+      "title": "City Of Gods",
+      "artist": "Fivio Foreign, Kanye West & Alicia Keys",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 15,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Brambleton",
+      "artist": "Pusha T",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Sleazy Flow",
+      "artist": "SleazyWorld Go",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 35,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Let The Smokers Shine The Coupes",
+      "artist": "Pusha T",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 40,
+      "title": "DFMU",
+      "artist": "Ella Mai",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 36,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 41,
+      "title": "P Power",
+      "artist": "Gunna Featuring Drake",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Money So Big",
+      "artist": "Yeat",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 31,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Diet Coke",
+      "artist": "Pusha T",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Blick Blick!",
+      "artist": "Coi Leray & Nicki Minaj",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 10,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Scared Money",
+      "artist": "YG Featuring J. Cole & Moneybagg Yo",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 25,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Just So You Remember",
+      "artist": "Pusha T",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Thinking With My Dick",
+      "artist": "Kevin Gates Featuring Juicy J",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 11,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Petty Too",
+      "artist": "Lil Durk Featuring Future",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 9,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Call My Bluff",
+      "artist": "Pusha T",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Bestie",
+      "artist": "DaBaby & YoungBoy Never Broke Again",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 50,
+        "Wks on Chart": 2
+      }
+    }
+  ]
+}
