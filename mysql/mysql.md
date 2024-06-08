@@ -1,3 +1,3 @@
 # MySql database
 
-Updates up to: 2022-03-19
+Updates up to: 2022-08-20

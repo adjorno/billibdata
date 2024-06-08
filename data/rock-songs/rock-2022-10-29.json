@@ -1,0 +1,506 @@
+{
+  "name": "Rock",
+  "chart_date": "2022-10-29",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Bad Habit",
+      "artist": "Steve Lacy",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Sunroof",
+      "artist": "Nicky Youre & dazy",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 37
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Something In The Orange",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Romantic Homicide",
+      "artist": "d4vd",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Until I Found You",
+      "artist": "Stephen Sanchez",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Son Of A Sinner",
+      "artist": "Jelly Roll",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 44
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Edging",
+      "artist": "Blink-182",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Running Up That Hill (A Deal With God)",
+      "artist": "Kate Bush",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Bones",
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 6,
+        "Wks on Chart": 32
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Enemy",
+      "artist": "Imagine Dragons X JID",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 2,
+        "Wks on Chart": 51
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Static",
+      "artist": "Steve Lacy",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Dark Red",
+      "artist": "Steve Lacy",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 13,
+      "title": "World's Smallest Violin",
+      "artist": "AJR",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Stick Season",
+      "artist": "Noah Kahan",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 13,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 15,
+      "title": "505",
+      "artist": "Arctic Monkeys",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Oklahoma Smoke Show",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Sex, Drugs, Etc.",
+      "artist": "Beach Weather",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Tek It",
+      "artist": "Cafune",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 9,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Another Love",
+      "artist": "Tom Odell",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 19,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Mary On A Cross",
+      "artist": "Ghost",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 11,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 21,
+      "title": "TV",
+      "artist": "Billie Eilish",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 7,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 22,
+      "title": "All The Small Things",
+      "artist": "Blink-182",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Apocalypse",
+      "artist": "Cigarettes After Sex",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 18,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Everywhere",
+      "artist": "Fleetwood Mac",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 24,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Burn, Burn, Burn",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 12,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Master Of Puppets",
+      "artist": "Metallica",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Starved",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 27,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Kick Back",
+      "artist": "Kenshi Yonezu",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 28,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Hotel",
+      "artist": "Montell Fish",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 12,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Oh Caroline",
+      "artist": "The 1975",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 31,
+      "title": "I Really Want To Stay At Your House",
+      "artist": "Rosa Walton",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 23,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Northern Attitude",
+      "artist": "Noah Kahan",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Sheeple",
+      "artist": "Tom MacDonald",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Jack",
+      "artist": "HARDY",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 21,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 35,
+      "title": "I'm In Love With You",
+      "artist": "The 1975",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 27,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Sun To Me",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 29,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Those Eyes",
+      "artist": "New West",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 37,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Cabo",
+      "artist": "Koe Wetzel",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 15,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Tippa My Tongue",
+      "artist": "Red Hot Chili Peppers",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 18,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Growing Sideways",
+      "artist": "Noah Kahan",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 41,
+      "title": "This Is Why",
+      "artist": "Paramore",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 15,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Sick Of U",
+      "artist": "BoyWithUke Featuring Oliver Tree",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Heart Of God",
+      "artist": "Zach Williams",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 26,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 44,
+      "title": "All My Love",
+      "artist": "Noah Kahan",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 45,
+      "title": "October Passed Me By",
+      "artist": "girl in red",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Run Away To Mars",
+      "artist": "TALK",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 22,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Creeps",
+      "artist": "Koe Wetzel",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 12,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Happiness",
+      "artist": "The 1975",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 49,
+      "title": "The Mockingbird & The Crow",
+      "artist": "HARDY",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 39,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Die First",
+      "artist": "Nessa Barrett",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 14,
+        "Wks on Chart": 17
+      }
+    }
+  ]
+}
