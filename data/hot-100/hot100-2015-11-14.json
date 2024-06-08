@@ -7,7 +7,7 @@
       "title": "Hello",
       "artist": "Adele",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 1,
         "Wks on Chart": 1
       }
@@ -17,8 +17,8 @@
       "title": "Sorry",
       "artist": "Justin Bieber",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 1,
+        "Last Week": "-",
+        "Peak Position": 2,
         "Wks on Chart": 1
       }
     },
@@ -118,7 +118,7 @@
       "artist": "Elle King",
       "position": {
         "Last Week": "15",
-        "Peak Position": 10,
+        "Peak Position": 12,
         "Wks on Chart": 17
       }
     },
@@ -128,7 +128,7 @@
       "artist": "Meghan Trainor Featuring John Legend",
       "position": {
         "Last Week": "18",
-        "Peak Position": 8,
+        "Peak Position": 13,
         "Wks on Chart": 17
       }
     },
@@ -148,7 +148,7 @@
       "artist": "Alessia Cara",
       "position": {
         "Last Week": "20",
-        "Peak Position": 5,
+        "Peak Position": 15,
         "Wks on Chart": 13
       }
     },
@@ -165,7 +165,7 @@
     {
       "rank": 17,
       "title": "Lean On",
-      "artist": "Major Lazer & DJ Snake Featuring M0",
+      "artist": "Major Lazer X DJ Snake Featuring MO",
       "position": {
         "Last Week": "11",
         "Peak Position": 4,
@@ -178,7 +178,7 @@
       "artist": "Selena Gomez",
       "position": {
         "Last Week": "16",
-        "Peak Position": 5,
+        "Peak Position": 16,
         "Wks on Chart": 7
       }
     },
@@ -188,7 +188,7 @@
       "artist": "Ellie Goulding",
       "position": {
         "Last Week": "19",
-        "Peak Position": 13,
+        "Peak Position": 19,
         "Wks on Chart": 6
       }
     },
@@ -315,10 +315,10 @@
     {
       "rank": 32,
       "title": "Antidote",
-      "artist": "Travi$ Scott",
+      "artist": "Travis Scott",
       "position": {
         "Last Week": "35",
-        "Peak Position": 16,
+        "Peak Position": 32,
         "Wks on Chart": 8
       }
     },
@@ -328,7 +328,7 @@
       "artist": "Thomas Rhett",
       "position": {
         "Last Week": "36",
-        "Peak Position": 21,
+        "Peak Position": 33,
         "Wks on Chart": 6
       }
     },
@@ -348,7 +348,7 @@
       "artist": "Demi Lovato",
       "position": {
         "Last Week": "31",
-        "Peak Position": 21,
+        "Peak Position": 31,
         "Wks on Chart": 4
       }
     },
@@ -368,7 +368,7 @@
       "artist": "Post Malone",
       "position": {
         "Last Week": "44",
-        "Peak Position": 14,
+        "Peak Position": 37,
         "Wks on Chart": 8
       }
     },
@@ -458,7 +458,7 @@
       "artist": "Chris Young",
       "position": {
         "Last Week": "52",
-        "Peak Position": 33,
+        "Peak Position": 46,
         "Wks on Chart": 18
       }
     },
@@ -498,7 +498,7 @@
       "artist": "Cam",
       "position": {
         "Last Week": "51",
-        "Peak Position": 29,
+        "Peak Position": 50,
         "Wks on Chart": 16
       }
     },
@@ -518,7 +518,7 @@
       "artist": "Sam Hunt",
       "position": {
         "Last Week": "59",
-        "Peak Position": 29,
+        "Peak Position": 52,
         "Wks on Chart": 4
       }
     },
@@ -528,7 +528,7 @@
       "artist": "J. Cole",
       "position": {
         "Last Week": "53",
-        "Peak Position": 36,
+        "Peak Position": 53,
         "Wks on Chart": 11
       }
     },
@@ -538,7 +538,7 @@
       "artist": "Bryson Tiller",
       "position": {
         "Last Week": "65",
-        "Peak Position": 13,
+        "Peak Position": 54,
         "Wks on Chart": 5
       }
     },
@@ -578,7 +578,7 @@
       "artist": "DeJ Loaf Featuring Big Sean",
       "position": {
         "Last Week": "62",
-        "Peak Position": 47,
+        "Peak Position": 58,
         "Wks on Chart": 4
       }
     },
@@ -618,7 +618,7 @@
       "artist": "Rudimental Featuring Ed Sheeran",
       "position": {
         "Last Week": "74",
-        "Peak Position": 48,
+        "Peak Position": 62,
         "Wks on Chart": 4
       }
     },
@@ -628,7 +628,7 @@
       "artist": "Dan + Shay",
       "position": {
         "Last Week": "64",
-        "Peak Position": 51,
+        "Peak Position": 63,
         "Wks on Chart": 12
       }
     },
@@ -658,7 +658,7 @@
       "artist": "Ty Dolla $ign Featuring Future & Rae Sremmurd",
       "position": {
         "Last Week": "70",
-        "Peak Position": 63,
+        "Peak Position": 66,
         "Wks on Chart": 7
       }
     },
@@ -677,7 +677,7 @@
       "title": "Emperor's New Clothes",
       "artist": "Panic! At The Disco",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 68,
         "Wks on Chart": 1
       }
@@ -698,17 +698,17 @@
       "artist": "Blake Shelton",
       "position": {
         "Last Week": "75",
-        "Peak Position": 54,
+        "Peak Position": 70,
         "Wks on Chart": 7
       }
     },
     {
       "rank": 71,
       "title": "Roses",
-      "artist": "The Chainsmokers Featuring ROZES",
+      "artist": "The Chainsmokers Featuring Rozes",
       "position": {
         "Last Week": "95",
-        "Peak Position": 6,
+        "Peak Position": 71,
         "Wks on Chart": 2
       }
     },
@@ -718,7 +718,7 @@
       "artist": "Tory Lanez",
       "position": {
         "Last Week": "90",
-        "Peak Position": 23,
+        "Peak Position": 72,
         "Wks on Chart": 2
       }
     },
@@ -728,7 +728,7 @@
       "artist": "Nelly Featuring Jeremih",
       "position": {
         "Last Week": "76",
-        "Peak Position": 62,
+        "Peak Position": 73,
         "Wks on Chart": 5
       }
     },
@@ -755,10 +755,10 @@
     {
       "rank": 76,
       "title": "Stressed Out",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "81",
-        "Peak Position": 2,
+        "Peak Position": 76,
         "Wks on Chart": 6
       }
     },
@@ -768,7 +768,7 @@
       "artist": "Brothers Osborne",
       "position": {
         "Last Week": "80",
-        "Peak Position": 46,
+        "Peak Position": 77,
         "Wks on Chart": 4
       }
     },
@@ -798,7 +798,7 @@
       "artist": "Daya",
       "position": {
         "Last Week": "85",
-        "Peak Position": 23,
+        "Peak Position": 80,
         "Wks on Chart": 6
       }
     },
@@ -808,7 +808,7 @@
       "artist": "Jana Kramer",
       "position": {
         "Last Week": "91",
-        "Peak Position": 56,
+        "Peak Position": 81,
         "Wks on Chart": 3
       }
     },
@@ -817,7 +817,7 @@
       "title": "Used To Love You Sober",
       "artist": "Kane Brown",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 82,
         "Wks on Chart": 1
       }
@@ -828,7 +828,7 @@
       "artist": "DNCE",
       "position": {
         "Last Week": "79",
-        "Peak Position": 9,
+        "Peak Position": 79,
         "Wks on Chart": 2
       }
     },
@@ -837,8 +837,8 @@
       "title": "Used To Love You",
       "artist": "Gwen Stefani",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 52,
+        "Last Week": "-",
+        "Peak Position": 84,
         "Wks on Chart": 1
       }
     },
@@ -848,7 +848,7 @@
       "artist": "Jason Aldean",
       "position": {
         "Last Week": "92",
-        "Peak Position": 54,
+        "Peak Position": 63,
         "Wks on Chart": 3
       }
     },
@@ -868,7 +868,7 @@
       "artist": "Halsey",
       "position": {
         "Last Week": "87",
-        "Peak Position": 60,
+        "Peak Position": 87,
         "Wks on Chart": 8
       }
     },
@@ -888,7 +888,7 @@
       "artist": "Tim McGraw",
       "position": {
         "Last Week": "94",
-        "Peak Position": 73,
+        "Peak Position": 89,
         "Wks on Chart": 3
       }
     },
@@ -927,8 +927,8 @@
       "title": "Dibs",
       "artist": "Kelsea Ballerini",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 58,
+        "Last Week": "-",
+        "Peak Position": 93,
         "Wks on Chart": 1
       }
     },
@@ -965,10 +965,10 @@
     {
       "rank": 97,
       "title": "I Love This Life",
-      "artist": "LoCash",
+      "artist": "LOCASH",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 56,
+        "Last Week": "-",
+        "Peak Position": 97,
         "Wks on Chart": 1
       }
     },
@@ -977,8 +977,8 @@
       "title": "Exchange",
       "artist": "Bryson Tiller",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 26,
+        "Last Week": "-",
+        "Peak Position": 98,
         "Wks on Chart": 1
       }
     },
@@ -987,7 +987,7 @@
       "title": "Jugg",
       "artist": "Fetty Wap Featuring Monty",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 86,
         "Wks on Chart": 4
       }
