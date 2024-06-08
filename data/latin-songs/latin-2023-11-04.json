@@ -1,0 +1,506 @@
+{
+  "name": "Latin",
+  "chart_date": "2023-11-04",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Monaco",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Perro Negro",
+      "artist": "Bad Bunny & Feid",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Fina",
+      "artist": "Bad Bunny & Young Miko",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Qlona",
+      "artist": "Karol G & Peso Pluma",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Lady Gaga",
+      "artist": "Peso Pluma, Gabito Ballesteros & Junior H",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Gently",
+      "artist": "Drake Featuring Bad Bunny",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 1,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 7,
+      "title": "LaLa",
+      "artist": "Myke Towers",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 4,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Un Preview",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 2,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Segun Quien",
+      "artist": "Maluma & Carin Leon",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 8,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Where She Goes",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 2,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 11,
+      "title": "El Amor de Su Vida",
+      "artist": "Grupo Frontera & Grupo Firme",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 9,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Hibiki",
+      "artist": "Bad Bunny & Mora",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Mr. October",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Baby Nueva",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Mi Ex Tenia Razon",
+      "artist": "Karol G",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Cybertruck",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Que Onda",
+      "artist": "Calle 24 x Chino Pacas x Fuerza Regida",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 8,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Telefono Nuevo",
+      "artist": "Bad Bunny & Luar La L",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Seda",
+      "artist": "Bad Bunny & Bryant Myers",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Nadie Sabe",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Y Lloro",
+      "artist": "Junior H",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 12,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Mercedes Carota",
+      "artist": "Bad Bunny & YOVNGCHIMI",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Bipolar",
+      "artist": "Peso Pluma x Jasiel Nunez x Junior H",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 7,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Sabor Fresa",
+      "artist": "Fuerza Regida",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 3,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Los Pits",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 26,
+      "title": "No Me Quiero Casar",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Gracias Por Nada",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Vou 787",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Rubicon",
+      "artist": "Peso Pluma",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 12,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Tulum",
+      "artist": "Peso Pluma & Grupo Frontera",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 6,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Lagunas",
+      "artist": "Peso Pluma & Jasiel Nunez",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 13,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Vuelve Candy B",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 20,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Primera Cita",
+      "artist": "Carin Leon",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 13,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Thunder y Lightning",
+      "artist": "Bad Bunny & Eladio Carrion",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Baticano",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Lou Lou",
+      "artist": "Gabito Ballesteros X Natanael Cano",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Acho PR",
+      "artist": "Bad Bunny, Arcangel, De La Ghetto & Nengo Flow",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Nueva Vida",
+      "artist": "Peso Pluma",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 17,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Luna",
+      "artist": "Peso Pluma & Junior H",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 5,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Sobras y Mujeres",
+      "artist": "Fuerza Regida",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 41,
+      "title": "El Jefe",
+      "artist": "Shakira X Fuerza Regida",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 4,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Excesos",
+      "artist": "Fuerza Regida",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Donde Estas",
+      "artist": "Ivan Corenjo",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 44,
+      "title": "De Lunes A Lunes",
+      "artist": "Manuel Turizo X Grupo Frontera",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 28,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Lollipop",
+      "artist": "Darell",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 46,
+      "title": "CCC",
+      "artist": "Michelle Maciel x Eden Munoz",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 29,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Quema",
+      "artist": "Ryan Castro x Pe$o Pluma",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 21,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Dientes",
+      "artist": "J Balvin, Usher & DJ Khaled",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 26,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 49,
+      "title": "S91",
+      "artist": "Karol G",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Oki Doki",
+      "artist": "Karol G",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 15,
+        "Wks on Chart": 11
+      }
+    }
+  ]
+}
