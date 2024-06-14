@@ -1,0 +1,606 @@
+{
+  "name": "Country",
+  "chart_date": "2008-12-20",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Roll With Me",
+      "artist": "Montgomery Gentry",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Chicken Fried",
+      "artist": "Zac Brown Band",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Let It Go",
+      "artist": "Tim McGraw",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Already Gone",
+      "artist": "Sugarland",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Here",
+      "artist": "Rascal Flatts",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Start A Band",
+      "artist": "Brad Paisley Duet With Keith Urban",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Country Boy",
+      "artist": "Alan Jackson",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 7,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Feel That Fire",
+      "artist": "Dierks Bentley",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 8,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Don't",
+      "artist": "Billy Currington",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 10,
+      "title": "In Color",
+      "artist": "Jamey Johnson",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 10,
+        "Wks on Chart": 36
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Lookin' For A Good Time",
+      "artist": "Lady Antebellum",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 11,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 12,
+      "title": "She Wouldn't Be Gone",
+      "artist": "Blake Shelton",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 12,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Cowgirls Don't Cry",
+      "artist": "Brooks & Dunn Featuring Reba McEntire",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 13,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Down The Road",
+      "artist": "Kenny Chesney With Mac McAnally",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 14,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 15,
+      "title": "God Love Her",
+      "artist": "Toby Keith",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 15,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Sweet Thing",
+      "artist": "Keith Urban",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 16,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Anything Goes",
+      "artist": "Randy Houser",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 16,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 18,
+      "title": "River Of Love",
+      "artist": "George Strait",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 18,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Let Me",
+      "artist": "Pat Green",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 19,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Last Call",
+      "artist": "Lee Ann Womack",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 20,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Don't Think I Can't Love You",
+      "artist": "Jake Owen",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 21,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Muddy Water",
+      "artist": "Trace Adkins",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 23,
+      "title": "It Won't Be Like This For Long",
+      "artist": "Darius Rucker",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 23,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 24,
+      "title": "That's A Man",
+      "artist": "Jack Ingram",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 24,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Everything Is Fine",
+      "artist": "Josh Turner",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 25,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 26,
+      "title": "White Horse",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 26,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Ride",
+      "artist": "Martina McBride",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 27,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 28,
+      "title": "More Like Her",
+      "artist": "Miranda Lambert",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 28,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 29,
+      "title": "I Will",
+      "artist": "Jimmy Wayne",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 29,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 30,
+      "title": "She's So California",
+      "artist": "Gary Allan",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 30,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Always The Love Songs",
+      "artist": "Eli Young Band",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 31,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 32,
+      "title": "It's America",
+      "artist": "Rodney Atkins",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 32,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Cheater Cheater",
+      "artist": "Joey + Rory",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 33,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 34,
+      "title": "How 'Bout You Don't",
+      "artist": "The Lost Trailers",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 34,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 35,
+      "title": "She's Country",
+      "artist": "Jason Aldean",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 35,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Forever",
+      "artist": "John Michael Montgomery",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 36,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Jingle Bell Rock",
+      "artist": "Rascal Flatts",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 37,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Space",
+      "artist": "Sarah Buxton",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 38,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Belongs To You",
+      "artist": "Emerson Drive",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 39,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Cry Cry ('til The Sun Shines)",
+      "artist": "Heidi Newfield",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 40,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Brothers",
+      "artist": "Dean Brody",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 41,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Remember That",
+      "artist": "Jessica Simpson",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 42,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Blue Christmas",
+      "artist": "Elvis Presley With Martina McBride",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Where I'm From",
+      "artist": "Jason Michael Carroll",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 44,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 45,
+      "title": "What If It All Goes Right",
+      "artist": "Melissa Lawson",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 43,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Best Days Of Your Life",
+      "artist": "Kellie Pickler",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 46,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 47,
+      "title": "A Baby Changes Everything",
+      "artist": "Faith Hill",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 47,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 48,
+      "title": "White Christmas",
+      "artist": "Rascal Flatts",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 48,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 49,
+      "title": "These Are The Good Old Days",
+      "artist": "James Otto",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 49,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Cold",
+      "artist": "Jeremy McComb",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 50,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 51,
+      "title": "I'll Be Home For Christmas",
+      "artist": "Rascal Flatts",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 51,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 52,
+      "title": "What It Takes",
+      "artist": "Adam Gregory",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 52,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Run Run Rudolph",
+      "artist": "Luke Bryan",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Everything",
+      "artist": "Jessica Andrews",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 54,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Like A Woman",
+      "artist": "Jamie O'Neal",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 55,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 56,
+      "title": "You Can't Hide Redneck",
+      "artist": "Tracy Lawrence",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 56,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 57,
+      "title": "Joy To The World!",
+      "artist": "Faith Hill",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 57,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 58,
+      "title": "I'll Be Home For Christmas",
+      "artist": "Elvis Presley With Carrie Underwood",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 58,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 59,
+      "title": "Santa Claus Is Coming To Town",
+      "artist": "Faith Hill",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 59,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 60,
+      "title": "Good Lord Willing",
+      "artist": "Little Big Town",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 60,
+        "Wks on Chart": 1
+      }
+    }
+  ]
+}

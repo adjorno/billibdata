@@ -1,0 +1,506 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "1969-08-23",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Share Your Love With Me",
+      "artist": "Aretha Franklin",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Choice Of Colors",
+      "artist": "The Impressions",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 3,
+      "title": "The Nitty Gritty",
+      "artist": "Gladys Knight And The Pips",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Your Good Thing (Is About To End)",
+      "artist": "Lou Rawls",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Mother Popcorn (You Got To Have A Mother For Me) Part 1",
+      "artist": "James Brown",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 6,
+      "title": "What Does It Take (To Win Your Love)",
+      "artist": "Jr. Walker & The All Stars",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Doggone Right",
+      "artist": "Smokey Robinson & The Miracles",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 8,
+      "title": "My Cherie Amour",
+      "artist": "Stevie Wonder",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 4,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Nobody But You Babe",
+      "artist": "Clarence Reid",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 9,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 10,
+      "title": "I Do",
+      "artist": "The Moments",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 10,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 11,
+      "title": "I've Lost Everything I've Ever Loved",
+      "artist": "David Ruffin",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 11,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Oh What A Night",
+      "artist": "The Dells",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 12,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Let's Get Together",
+      "artist": "Little Milton",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Hook And Sling-Part I",
+      "artist": "Eddie Bo",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 14,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Let Me Be The Man My Daddy Was",
+      "artist": "The Chi-lites",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 15,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Till You Get Enough",
+      "artist": "The Watts 103rd Street Rhythm Band",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 16,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 17,
+      "title": "The Time Will Come",
+      "artist": "The Whispers",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 17,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Nothing Can Take The Place Of You",
+      "artist": "Brook Benton",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 19,
+      "title": "You Made A Believer (Out Of Me)",
+      "artist": "Ruby Andrews",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Ease Back",
+      "artist": "The Meters",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 20,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Moody Woman",
+      "artist": "Jerry Butler",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 3,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Reconsider Me",
+      "artist": "Johnny Adams",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 8,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Color Him Father",
+      "artist": "The Winstons",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 24,
+      "title": "One Night Affair",
+      "artist": "The O'Jays",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 15,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 25,
+      "title": "I Could Never Be President",
+      "artist": "Johnnie Taylor",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 25,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 26,
+      "title": "It's True I'm Gonna Miss You",
+      "artist": "Carolyn Franklin",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 26,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Sad Girl",
+      "artist": "The Intruders",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 27,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Uh! Uh! Boy, That's A No No",
+      "artist": "Candace",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 28,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Workin' On A Groovy Thing",
+      "artist": "The 5th Dimension",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 29,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Chains Of Love",
+      "artist": "Bobby Bland",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Free Me",
+      "artist": "Otis Redding",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 31,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 32,
+      "title": "By The Time I Get To Phoenix",
+      "artist": "The Mad Lads",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 33,
+      "title": "While You're Out Looking For Sugar?",
+      "artist": "The Honey Cone",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 26,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 34,
+      "title": "These Are The Things That Make Me Know You're Gone",
+      "artist": "Howard Tate",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 34,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Girl You're Too Young",
+      "artist": "Archie Bell & The Drells",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 13,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 36,
+      "title": "In A Moment",
+      "artist": "The Intrigues",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Ain't That Peculiar",
+      "artist": "George",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 37,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 38,
+      "title": "You Got Yours And I'll Get Mine",
+      "artist": "The Delfonics",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Out Of Sight, Out Of Mind",
+      "artist": "Little Anthony And The Imperials",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Toshisumasu",
+      "artist": "The Unifics",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 36,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Jealous Kind Of Fella",
+      "artist": "Garland Green",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Let Me Be The One",
+      "artist": "Peaches & Herb",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Prove It",
+      "artist": "Lea Roberts",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 39,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Keep On Living",
+      "artist": "Gwen Owens",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 40,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 45,
+      "title": "It's Gonna Rain",
+      "artist": "Bobby Womack",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 45,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Gang War (Don't Make No Sense)",
+      "artist": "The Corner Boys",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 46,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 47,
+      "title": "I Want You So Bad",
+      "artist": "B.B. King",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 47,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Things Got To Get Better (Get Together)",
+      "artist": "Marva Whitney",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 48,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Hot Fun In The Summertime",
+      "artist": "Sly & The Family Stone",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 50,
+      "title": "It's Too Late",
+      "artist": "Ted Taylor",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
+    }
+  ]
+}

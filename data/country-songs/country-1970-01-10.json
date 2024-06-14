@@ -1,0 +1,736 @@
+{
+  "name": "Country",
+  "chart_date": "1970-01-10",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Baby, Baby (I Know You're A Lady)",
+      "artist": "David Houston",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 2,
+      "title": "If It's All The Same To You",
+      "artist": "Bill Anderson",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 3,
+      "title": "(I'm So) Afraid Of Losing You Again",
+      "artist": "Charley Pride",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Wish I Didn't Have To Miss You",
+      "artist": "Jack Greene",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Big In Vegas",
+      "artist": "Buck Owens and The Buckaroos",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 6,
+      "title": "She's Mine/No Blues Is Good News",
+      "artist": "George Jones",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 6,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Blistered/See Ruby Fall",
+      "artist": "Johnny Cash",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 8,
+      "title": "One Minute Past Eternity",
+      "artist": "Jerry Lee Lewis",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Brown Eyed Handsome Man",
+      "artist": "Waylon Jennings",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 9,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Camelia",
+      "artist": "Marty Robbins",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 11,
+      "title": "You And Your Sweet Love",
+      "artist": "Connie Smith",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Six White Horses",
+      "artist": "Tommy Cash",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 12,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 13,
+      "title": "There's A Story (Goin' 'round)",
+      "artist": "Dottie West",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 13,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Wings Upon Your Horns",
+      "artist": "Loretta Lynn",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 15,
+      "title": "He'd Still Love Me",
+      "artist": "Lynn Anderson",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Just Someone I Used To Know",
+      "artist": "Porter Wagoner And Dolly Parton",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Your Time's Comin'",
+      "artist": "Faron Young",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 4,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Nobody's Fool/Why Do I Love You (Melody Of Love)",
+      "artist": "Jim Reeves",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 18,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 19,
+      "title": "A Week In A Country Jail",
+      "artist": "Tom T. Hall",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 19,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Thinking 'Bout You, Babe",
+      "artist": "Billy Walker",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 20,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Right Or Left At Oak Street",
+      "artist": "Roy Clark",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 22,
+      "title": "April's Fool",
+      "artist": "Ray Price",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 14,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 23,
+      "title": "A World Called You",
+      "artist": "David Rogers",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 23,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 24,
+      "title": "I'm A Lover (Not A Fighter)",
+      "artist": "Skeeter Davis",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 24,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Okie From Muskogee",
+      "artist": "Merle Haggard And The Strangers",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Try A Little Kindness",
+      "artist": "Glen Campbell",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 27,
+      "title": "God Bless America Again",
+      "artist": "Bobby Bare",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Rainbow Girl",
+      "artist": "Bobby Lord",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 28,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Down In The Boondocks",
+      "artist": "Freddy Weller",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 25,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Every Step Of The Way",
+      "artist": "Ferlin Husky",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 21,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Don't Cry Daddy",
+      "artist": "Elvis Presley",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 31,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 32,
+      "title": "When You're Hot You're Hot",
+      "artist": "Porter Wagoner",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 21,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Before The Next Teardrop Falls",
+      "artist": "Linda Martell",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 33,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Little Boy Sad",
+      "artist": "Bill Phillips",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 10,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 35,
+      "title": "That's When She Started To Stop Loving You",
+      "artist": "Conway Twitty",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 35,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Heartbreak Avenue",
+      "artist": "Carl Smith",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 36,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Friend, Lover, Woman, Wife",
+      "artist": "Claude King",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 18,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Love Ain't Never Gonna Be No Better",
+      "artist": "Webb Pierce",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 38,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Walk Unashamed",
+      "artist": "The Glaser Brothers",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 39,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Johnny's Cash And Charley's Pride",
+      "artist": "Mac Wiseman",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 40,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 41,
+      "title": "The Whole World Holding Hands",
+      "artist": "Freddie Hart",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 41,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Then He Touched Me",
+      "artist": "Jean Shepard",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 42,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Fancy",
+      "artist": "Bobbie Gentry",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 43,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 45,
+      "title": "I Hope So",
+      "artist": "Willie Nelson",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 45,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Down In The Boondocks",
+      "artist": "Penny Dehaven",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 37,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Heaven Is Just A Touch Away",
+      "artist": "Cal Smith",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 47,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Ginger Is Gentle And Waiting For Me/Drink Boys, Drink",
+      "artist": "Jim Ed Brown",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 35,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 49,
+      "title": "I Fall To Pieces",
+      "artist": "Diana Trask",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 37,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Hello, I'm A Jukebox",
+      "artist": "George Kent",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 50,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Daddy, I Love You",
+      "artist": "Billie Jo Spears",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 51,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 52,
+      "title": "California Cotton Fields",
+      "artist": "Dallas Frazier",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 45,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Two Separate Bar Stools",
+      "artist": "Wanda Jackson",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 53,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Partly Bill",
+      "artist": "Lawanda Lindsey",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 54,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Yours Forever",
+      "artist": "Wynn Stewart",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 47,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 56,
+      "title": "Mornin Mornin",
+      "artist": "Bobby Goldsboro",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 56,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 57,
+      "title": "Take A Letter Maria",
+      "artist": "Anthony Armstrong Jones",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 57,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 58,
+      "title": "The Sun's Gotta' Shine",
+      "artist": "Wilma Burgess",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 58,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 59,
+      "title": "The Weakest Kind Of Man",
+      "artist": "John Wesley Ryles, I",
+      "position": {
+        "Last Week": "68",
+        "Peak Position": 59,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 60,
+      "title": "Drifting Too Far (From Your Arms)",
+      "artist": "June Stearns",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 58,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 61,
+      "title": "Dream Baby",
+      "artist": "Bob Regan & Lucille Starr",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 61,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 62,
+      "title": "Something To Think About",
+      "artist": "Luke The Drifter, Jr",
+      "position": {
+        "Last Week": "75",
+        "Peak Position": 62,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 63,
+      "title": "My Friend",
+      "artist": "Arlene",
+      "position": {
+        "Last Week": "65",
+        "Peak Position": 63,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 64,
+      "title": "The Gun",
+      "artist": "Bob Luman",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 64,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 66,
+      "title": "Jim, Jack, And Rose/I'll Go To A Stranger",
+      "artist": "Johnny Bush",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 66,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 67,
+      "title": "Window Number Five",
+      "artist": "Johnny Duncan",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 67,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 68,
+      "title": "Nobody Wants To Hear It Like It Is",
+      "artist": "Jack Barlow",
+      "position": {
+        "Last Week": "70",
+        "Peak Position": 68,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 69,
+      "title": "Sittin' In Atlanta Station",
+      "artist": "Nat Stuckey",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 69,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 70,
+      "title": "Please Help Me, I'm Falling",
+      "artist": "Hank Locklin",
+      "position": {
+        "Last Week": "71",
+        "Peak Position": 1,
+        "Wks on Chart": 38
+      }
+    },
+    {
+      "rank": 71,
+      "title": "The Golden Rocket",
+      "artist": "Jim & Jesse",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 71,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 72,
+      "title": "Roll Over Beethoven",
+      "artist": "Jerry Lee Lewis",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 72,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 73,
+      "title": "Put A Little Love In Your Heart",
+      "artist": "Susan Raye",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 73,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 74,
+      "title": "She Cheats On Me",
+      "artist": "Glenn Barber",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 74,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 75,
+      "title": "Welfare Cadilac",
+      "artist": "Guy Drake",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 75,
+        "Wks on Chart": 1
+      }
+    }
+  ]
+}

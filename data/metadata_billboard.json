@@ -1,0 +1,179 @@
+{
+  "name": "Billboard",
+  "url": "https://www.billboard.com/charts/",
+  "base_rss": "https://www.billboard.com/rss/charts/",
+  "charts": [
+    {
+      "name": "Hot 100",
+      "folder": "hot-100",
+      "size": 100,
+      "start_date": "1958-08-04",
+      "prefix": "hot100"
+    },
+    {
+      "name": "Country",
+      "folder": "country-songs",
+      "size": 50,
+      "start_date": "1962-01-06",
+      "prefix": "country"
+    },
+    {
+      "name": "Hip-Hop",
+      "folder": "r-b-hip-hop-songs",
+      "size": 50,
+      "start_date": "1962-01-06",
+      "prefix": "hiphop"
+    },
+    {
+      "name": "Club",
+      "folder": "dance-club-play-songs",
+      "size": 50,
+      "start_date": "1976-08-28",
+      "end_date": "2020-03-28",
+      "prefix": "club"
+    },
+    {
+      "name": "Latin",
+      "folder": "latin-songs",
+      "size": 50,
+      "start_date": "1986-09-06",
+      "prefix": "latin"
+    },
+    {
+      "name": "Alternative",
+      "folder": "alternative-airplay",
+      "size": 40,
+      "start_date": "1988-09-10",
+      "prefix": "alternative"
+    },
+    {
+      "name": "Rap",
+      "folder": "rap-song",
+      "size": 25,
+      "start_date": "1989-03-11",
+      "prefix": "rap"
+    },
+    {
+      "name": "Pop",
+      "folder": "pop-songs",
+      "size": 40,
+      "start_date": "1992-10-03",
+      "prefix": "pop"
+    },
+    {
+      "name": "Rhytmic",
+      "folder": "rhythmic-40",
+      "size": 40,
+      "start_date": "1992-10-03",
+      "prefix": "rhytmic"
+    },
+    {
+      "name": "Christian",
+      "folder": "christian-songs",
+      "size": 50,
+      "start_date": "2003-06-21",
+      "prefix": "christian"
+    },
+    {
+      "name": "Gospel",
+      "folder": "gospel-songs",
+      "size": 25,
+      "start_date": "2005-03-19",
+      "prefix": "gospel"
+    },
+    {
+      "name": "Canada",
+      "folder": "canadian-hot-100",
+      "size": 100,
+      "start_date": "2007-03-31",
+      "prefix": "canada"
+    },
+    {
+      "name": "France",
+      "folder": "france-digital-song-sales",
+      "size": 10,
+      "start_date": "2007-09-08",
+      "end_date": "2022-02-12",
+      "prefix": "france"
+    },
+    {
+      "name": "TikTok",
+      "folder": "tiktok-billboard-top-50",
+      "size": 50,
+      "start_date": "2023-09-16",
+      "prefix": "tiktok"
+    },
+    {
+      "name": "Afrobeats",
+      "folder": "billboard-u-s-afrobeats-songs",
+      "size": 50,
+      "start_date": "2022-04-02",
+      "prefix": "afrobeats"
+    },
+    {
+      "name": "Rock",
+      "folder": "rock-songs",
+      "size": 50,
+      "start_date": "2009-06-20",
+      "prefix": "rock"
+    },
+    {
+      "name": "Japan",
+      "folder": "japan-hot-100",
+      "size": 100,
+      "start_date": "2011-04-09",
+      "prefix": "japan"
+    },
+    {
+      "name": "Germany",
+      "folder": "germany-songs",
+      "size": 10,
+      "start_date": "2011-05-21",
+      "end_date": "2022-02-12",
+      "prefix": "germany-songs"
+    },
+    {
+      "name": "R&B",
+      "folder": "r-and-b-songs",
+      "size": 25,
+      "start_date": "2012-10-20",
+      "prefix": "rnb"
+    },
+    {
+      "name": "Electronic",
+      "folder": "dance-electronic-songs",
+      "size": 50,
+      "start_date": "2013-01-26",
+      "prefix": "electro"
+    },
+    {
+      "name": "Soundtracks",
+      "folder": "soundtracks",
+      "size": 25,
+      "start_date": "2001-06-30",
+      "prefix": "soundtracks"
+    },
+    {
+      "name": "Euro",
+      "folder": "euro-digital-song-sales",
+      "size": 20,
+      "start_date": "2007-12-01",
+      "end_date": "2022-02-12",
+      "prefix": "euro"
+    },
+    {
+      "name": "Hard Rock",
+      "folder": "hot-hard-rock-songs",
+      "size": 25,
+      "start_date": "2020-06-13",
+      "prefix": "hard-rock"
+    },
+    {
+      "name": "Summer Songs",
+      "folder": "summer-songs",
+      "size": 20,
+      "start_date": "2010-07-17",
+      "prefix": "summer-songs"
+    }
+  ]
+}

@@ -1,0 +1,970 @@
+{
+  "name": "Club",
+  "chart_date": "1980-07-12",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Take Your Time (Do It Right)",
+      "artist": "The S.O.S. Band",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 2,
+      "title": "In The Forest",
+      "artist": "Baby O'",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 3,
+      "title": "DYNAMITE/JUMP TO THE BEAT",
+      "artist": "Stacy Lattisaw",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 4,
+      "title": "A Lover's Holiday / The Glow Of Love / Searching",
+      "artist": "Change",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 5,
+      "title": "I Feel Like Dancing/The Heart To Break The Heart",
+      "artist": "France Joli",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 6,
+      "title": "HANG TOGETHER/DON't TELL ME,TELL HER",
+      "artist": "Odyssey",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Cant Be Love-do It To Me Anyway",
+      "artist": "Peter Brown",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 8,
+      "title": "What's On Your Mind / Don't Let Your Chance Go Bye / Breakaway",
+      "artist": "Watson Beasley",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 8,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 9,
+      "title": "I'm Ready / Holly Dolly",
+      "artist": "Kano",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 9,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 10,
+      "title": "I Ain't Never",
+      "artist": "Isaac Hayes",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 10,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 11,
+      "title": "LET's GET SERIOUS/BURNIN HOT",
+      "artist": "Jermaine Jackson",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Fame / Red Light / Hot Lunch Jam",
+      "artist": "Irene Cara",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 12,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Upside Down / I'm Coming Out",
+      "artist": "Diana Ross",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 13,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 14,
+      "title": "I Wanna Take You There (Now) / Heartbreaker / Rhythm Of The World",
+      "artist": "Gino Soccio",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 14,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 15,
+      "title": "I'm OK,YOU'rE OK",
+      "artist": "American Gypsy",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 11,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Just How Sweet Is Your Love",
+      "artist": "Rhyze",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 16,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Keep Smilin' / It's Not What You Got (It's How You Use It) / Career Girl",
+      "artist": "Carrie Lucas",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 17,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 18,
+      "title": "I Love You Dancer / Do It Again",
+      "artist": "Voyage",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 17,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Stretch' In Out / Plain Outta Luck / Your Love Is A Life Saver",
+      "artist": "Gayle Adams",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 19,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 20,
+      "title": "I Like What You're Doing To Me",
+      "artist": "Young & Co.",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 20,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 21,
+      "title": "PARTY ON",
+      "artist": "Pure Energy",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 21,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Behind The Groove / You're All The Boogie I Need",
+      "artist": "Teena Marie",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 4,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 23,
+      "title": "For Those Who Like To Groove",
+      "artist": "Ray Parker Jr. & Raydio",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 23,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 24,
+      "title": "I'LL CRY FOR YOU",
+      "artist": "Kumano",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Back Together Again/Don't Make Me Wait To Long",
+      "artist": "Roberta Flack & Donny Hathaway",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 26,
+      "title": "GO FOR IT/SATURDAY NIGHT",
+      "artist": "Herbie Hancock",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 27,
+      "title": "GIVE ME A BREAK",
+      "artist": "The Ritchie Family",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 27,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 28,
+      "title": "I've Just Begun To Love You / Do Me Right / Groove Control",
+      "artist": "Dynasty",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 28,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Sweet Sensation / Never Knew Love Like This Before",
+      "artist": "Stephanie Mills",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 5,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 30,
+      "title": "HOOKED ON YOUR LOVE",
+      "artist": "The Fantastic Aleems",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 15,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Power",
+      "artist": "The Temptations",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 23,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 32,
+      "title": "It Doesn't Only Happen At Night/You're The Fire",
+      "artist": "Cissy Houston",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 24,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 33,
+      "title": "I'm SO HOT/TRY MY LOVE",
+      "artist": "Denise LaSalle",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 33,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 34,
+      "title": "THE BREAKS",
+      "artist": "Kurtis Blow",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 34,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Pop Pop Shoo Wah",
+      "artist": "Erotic Drum Band",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Two Tons O' Fun (all cuts)",
+      "artist": "Two Tons Of Fun",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 2,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Sympathy For The Devil / Two Good Reasons",
+      "artist": "Jimmy Maelen",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 37,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Taste Of Bitter Love/Bourgie Bourgie",
+      "artist": "Gladys Knight And The Pips",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 38,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Give Up The Funk (Let's Dance)",
+      "artist": "B.T. Express",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 22,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 40,
+      "title": "London Calling / Train In Vain (Stand By Me)",
+      "artist": "The Clash",
+      "position": {
+        "Last Week": "65",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Skyyzoo",
+      "artist": "Skyy",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 41,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 42,
+      "title": "FILL ME UP/YOU MADE ME DO IT AGAIN",
+      "artist": "Elaine And Ellen",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 28,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Papillion/Clouds (aka Hot Butterfly)",
+      "artist": "Chaka Khan",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 31,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 44,
+      "title": "PARTY BOYS",
+      "artist": "Foxy",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 24,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Whip It / Gates Of Steel / Freedom Of Choice",
+      "artist": "Devo",
+      "position": {
+        "Last Week": "70",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Brass In Pocket (I'm Special)",
+      "artist": "Pretenders",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 28,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Do Your Thang",
+      "artist": "One Way Featuring Al Hudson",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 48,
+      "title": "SUGAR FROSTED LOVER",
+      "artist": "The Flakes",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 48,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Get It Off/Magic Of You",
+      "artist": "Cameron",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 49,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 50,
+      "title": "WARM LEATHERETTE-ALL CUTS",
+      "artist": "Grace Jones",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 51,
+      "title": "You Gave Me Love",
+      "artist": "Crown Heights Affair",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 12,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Got To Be Enough",
+      "artist": "ConFunkShun",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 20,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 53,
+      "title": "I Wanna Know Your Name/This Feelin'",
+      "artist": "Frank Hooker And Positive People",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 33,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 54,
+      "title": "LEAVE THAT BOY ALONE/DON't STOP,KEEP MOVING",
+      "artist": "Poussez",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Spacer",
+      "artist": "Sheila And B.Devotion",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 44,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 56,
+      "title": "Cupid/I've Loved You For A Long Time",
+      "artist": "The Spinners",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 56
+      }
+    },
+    {
+      "rank": 57,
+      "title": "Overnight Sensation",
+      "artist": "Jerry Knight",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 18,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 58,
+      "title": "The Groove",
+      "artist": "Rodney Franklin",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 27,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 59,
+      "title": "Without Your Love / Alive With Love",
+      "artist": "Cut Glass",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 16,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 60,
+      "title": "Looking For Love",
+      "artist": "Candi Staton",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 60
+      }
+    },
+    {
+      "rank": 61,
+      "title": "Heartache No. 9",
+      "artist": "Delegation",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 61
+      }
+    },
+    {
+      "rank": 62,
+      "title": "SPLASHDOWN",
+      "artist": "Breakwater",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 62
+      }
+    },
+    {
+      "rank": 63,
+      "title": "SHAKE IT UP-DO THE BOOGALOO",
+      "artist": "Rod",
+      "position": {
+        "Last Week": "80",
+        "Peak Position": 63
+      }
+    },
+    {
+      "rank": 64,
+      "title": "Coming Up (Live At Glasgow)",
+      "artist": "Paul McCartney And Wings",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 64
+      }
+    },
+    {
+      "rank": 65,
+      "title": "GIVE ME THE NIGHT",
+      "artist": "George Benson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 65
+      }
+    },
+    {
+      "rank": 66,
+      "title": "DAMAGED GOODS/I FOUND THAT ESSENCE RARE",
+      "artist": "Gang Of Four",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 66
+      }
+    },
+    {
+      "rank": 67,
+      "title": "HELPLESS",
+      "artist": "Jackie Moore",
+      "position": {
+        "Last Week": "85",
+        "Peak Position": 67
+      }
+    },
+    {
+      "rank": 68,
+      "title": "Turning Japanese",
+      "artist": "The Vapors",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 68
+      }
+    },
+    {
+      "rank": 69,
+      "title": "I Dig You/Cult Hero",
+      "artist": "Cult Hero",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 69
+      }
+    },
+    {
+      "rank": 70,
+      "title": "BOYS DON't CRY/JUMPING SOMEONE ELSE's TRAIN",
+      "artist": "The Cure",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 70
+      }
+    },
+    {
+      "rank": 71,
+      "title": "Clones (We're All)",
+      "artist": "Alice Cooper",
+      "position": {
+        "Last Week": "75",
+        "Peak Position": 71
+      }
+    },
+    {
+      "rank": 72,
+      "title": "Let's Go 'round Again",
+      "artist": "Average White Band",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 72
+      }
+    },
+    {
+      "rank": 73,
+      "title": "QUE SERA MI VIDA",
+      "artist": "The Gibson Brothers",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 73
+      }
+    },
+    {
+      "rank": 74,
+      "title": "HE's NOT SUCH A BAD BOY (AFTER ALL)",
+      "artist": "Kid Creole & The Coconuts",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 74
+      }
+    },
+    {
+      "rank": 75,
+      "title": "Can't Stop The Music / Liberation",
+      "artist": "Village People",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 75
+      }
+    },
+    {
+      "rank": 76,
+      "title": "NERVOUS BREAKDOWN",
+      "artist": "Brian Briggs",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 76
+      }
+    },
+    {
+      "rank": 77,
+      "title": "CAREERING/MEMORIES",
+      "artist": "Public Image Ltd.",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 77
+      }
+    },
+    {
+      "rank": 78,
+      "title": "Stomp",
+      "artist": "The Brothers Johnson",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 79,
+      "title": "DANCE ALL NIGHT (UNTIL YOU GET IT RIGHT)",
+      "artist": "Kenny Bee",
+      "position": {
+        "Last Week": "73",
+        "Peak Position": 73
+      }
+    },
+    {
+      "rank": 80,
+      "title": "GO ALL THE WAY",
+      "artist": "The Isley Brothers",
+      "position": {
+        "Last Week": "77",
+        "Peak Position": 40,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 81,
+      "title": "In The Mood (To Groove) / When I Come Home",
+      "artist": "Aurra",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 50,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 82,
+      "title": "American Gigolo (all cuts)",
+      "artist": "Soundtrack",
+      "position": {
+        "Last Week": "67",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 83,
+      "title": "WAX ATTACK",
+      "artist": "Wax (R&B Group)",
+      "position": {
+        "Last Week": "83",
+        "Peak Position": 83
+      }
+    },
+    {
+      "rank": 84,
+      "title": "MOSCOW 1980/METRONOME",
+      "artist": "Manicured Noise",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 84
+      }
+    },
+    {
+      "rank": 85,
+      "title": "DA-A-ANCE",
+      "artist": "The Lambrettas",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 85
+      }
+    },
+    {
+      "rank": 86,
+      "title": "Shake Your Pants",
+      "artist": "Cameo",
+      "position": {
+        "Last Week": "86",
+        "Peak Position": 74
+      }
+    },
+    {
+      "rank": 87,
+      "title": "IT's STILL ROCK AND ROLL TO ME",
+      "artist": "Billy Joel",
+      "position": {
+        "Last Week": "82",
+        "Peak Position": 82
+      }
+    },
+    {
+      "rank": 88,
+      "title": "Was That All Their Was/What's On Your Mind/Give It",
+      "artist": "Jean Cairn",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 22,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 89,
+      "title": "TOO MUCH PRESSURE",
+      "artist": "Selector",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 89
+      }
+    },
+    {
+      "rank": 90,
+      "title": "Flesh And Blood/Over You/Eight Miles High",
+      "artist": "Roxy Music",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 90
+      }
+    },
+    {
+      "rank": 91,
+      "title": "RAT RACE",
+      "artist": "The Specials",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 91
+      }
+    },
+    {
+      "rank": 92,
+      "title": "MONY MONY",
+      "artist": "Vinyl Virgins",
+      "position": {
+        "Last Week": "72",
+        "Peak Position": 30,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 93,
+      "title": "Beyond",
+      "artist": "Herb Alpert",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 93
+      }
+    },
+    {
+      "rank": 94,
+      "title": "MESSAGES/RED FRAME,WHITE LIGHT",
+      "artist": "Orchestral Manoeuvres In The Dark",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 94
+      }
+    },
+    {
+      "rank": 95,
+      "title": "MY MISTAKE",
+      "artist": "The Kingbees",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 95
+      }
+    },
+    {
+      "rank": 96,
+      "title": "I WANT TO DANCE WITH YOU",
+      "artist": "Kwick",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 64
+      }
+    },
+    {
+      "rank": 97,
+      "title": "CARS",
+      "artist": "Gary Numan",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 56
+      }
+    },
+    {
+      "rank": 98,
+      "title": "All Night Thing",
+      "artist": "The Invisible Man's Band",
+      "position": {
+        "Last Week": "92",
+        "Peak Position": 10,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 99,
+      "title": "\"1-2-3\"",
+      "artist": "Salazar",
+      "position": {
+        "Last Week": "95",
+        "Peak Position": 60
+      }
+    },
+    {
+      "rank": 100,
+      "title": "DANCE OF LOVE/FEELING GOOD",
+      "artist": "Mandrill",
+      "position": {
+        "Last Week": "94",
+        "Peak Position": 56
+      }
+    }
+  ]
+}

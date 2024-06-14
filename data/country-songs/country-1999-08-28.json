@@ -1,0 +1,756 @@
+{
+  "name": "Country",
+  "chart_date": "1999-08-28",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Amazed",
+      "artist": "Lonestar",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Lesson In Leavin'",
+      "artist": "Jo Dee Messina",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 3,
+      "title": "God Must Have Spent A Little More Time On You",
+      "artist": "Alabama Featuring 'N Sync",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Single White Female",
+      "artist": "Chely Wright",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Little Good-byes",
+      "artist": "SHeDAISY",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 6,
+      "title": "You Had Me From Hello",
+      "artist": "Kenny Chesney",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 7,
+      "title": "The Secret Of Life",
+      "artist": "Faith Hill",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Little Man",
+      "artist": "Alan Jackson",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Ready To Run",
+      "artist": "Dixie Chicks",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 9,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 10,
+      "title": "A Night To Remember",
+      "artist": "Joe Diffie",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 6,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Something Like That",
+      "artist": "Tim McGraw",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 11,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Write This Down",
+      "artist": "George Strait",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 1,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Who Needs Pictures",
+      "artist": "Brad Paisley",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 14,
+      "title": "You've Got A Way",
+      "artist": "Shania Twain",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 13,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 15,
+      "title": "I'll Still Love You More",
+      "artist": "Trisha Yearwood",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 16,
+      "title": "(Now You See Me) Now You Don't",
+      "artist": "Lee Ann Womack",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 17,
+      "title": "This Heartache Never Sleeps",
+      "artist": "Mark Chesnutt",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 18,
+      "title": "I Love You",
+      "artist": "Martina McBride",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 18,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Please Remember Me",
+      "artist": "Tim McGraw",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 1,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 20,
+      "title": "She's In Love",
+      "artist": "Mark Wills",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 20,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 21,
+      "title": "What Do You Say To That",
+      "artist": "George Strait",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 21,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Whatever You Say",
+      "artist": "Martina McBride",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 2,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 23,
+      "title": "I'm Already Taken",
+      "artist": "Steve Wariner",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 23,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Make Up In Love",
+      "artist": "Doug Stone",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Almost Home",
+      "artist": "Mary Chapin Carpenter",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Lonely And Gone",
+      "artist": "Montgomery Gentry",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 26,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 27,
+      "title": "I'll Go Crazy",
+      "artist": "Andy Griggs",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 27,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Missing You",
+      "artist": "Brooks & Dunn",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 28,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Home To You",
+      "artist": "John Michael Montgomery",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 29,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 30,
+      "title": "You Go First (Do You Wanna Kiss)",
+      "artist": "Jessica Andrews",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Choices",
+      "artist": "George Jones",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 31,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Lightning Does The Work",
+      "artist": "Chad Brock",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 32,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Never Been Kissed",
+      "artist": "Sherrie Austin",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 33,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Crazy Little Thing Called Love",
+      "artist": "Dwight Yoakam",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 12,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Her",
+      "artist": "Aaron Tippin",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 33,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 36,
+      "title": "All Things Considered",
+      "artist": "Yankee Grey",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 36,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Ordinary Love",
+      "artist": "Shane Minor",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 37,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 38,
+      "title": "You're Lucky I Love You",
+      "artist": "Susan Ashton",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 38,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Trouble Is A Woman",
+      "artist": "Julie Reeves",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 39,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 40,
+      "title": "It Don't Matter To The Sun",
+      "artist": "Garth Brooks as Chris Gaines",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Are Your Eyes Still Blue",
+      "artist": "Shane McAnally",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 41,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Start Over Georgia",
+      "artist": "Collin Raye",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 42,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 43,
+      "title": "The Greatest",
+      "artist": "Kenny Rogers",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 26,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Sure Feels Real Good",
+      "artist": "Michael Peterson",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 43,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 45,
+      "title": "The Yodelin' Blues",
+      "artist": "The Wilkinsons",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 45,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 46,
+      "title": "You're Still Beautiful To Me",
+      "artist": "Bryan White",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 46,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 47,
+      "title": "A Matter Of Time",
+      "artist": "Jason Sellers",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 47,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 48,
+      "title": "My Kind Of Woman/My Kind Of Man",
+      "artist": "Vince Gill With Patty Loveless",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 27,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Live, Laugh, Love",
+      "artist": "Clay Walker",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 49,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 50,
+      "title": "A Man Ain't Made Of Stone",
+      "artist": "Randy Travis",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 50,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 51,
+      "title": "When You Love Someone",
+      "artist": "Sammy Kershaw",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 49,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Crush",
+      "artist": "Lila McCann",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 51,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Smoke Rings In The Dark",
+      "artist": "Gary Allan",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 53,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Love Trip",
+      "artist": "Jerry Kilgore",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 52,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Rub It In",
+      "artist": "Matt King",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 55,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 56,
+      "title": "On My Way To You",
+      "artist": "Sonya Isaacs",
+      "position": {
+        "Last Week": "74",
+        "Peak Position": 56,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 57,
+      "title": "The Girls Of Summer",
+      "artist": "Neal McCoy",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 42,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 58,
+      "title": "She Won't Be Lonely Long",
+      "artist": "Lee Roy Parnell",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 57,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 59,
+      "title": "Steam",
+      "artist": "Ty Herndon",
+      "position": {
+        "Last Week": "63",
+        "Peak Position": 59,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 60,
+      "title": "Baby's Got My Number",
+      "artist": "South Sixty Five",
+      "position": {
+        "Last Week": "67",
+        "Peak Position": 60,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 61,
+      "title": "Love Is Forever",
+      "artist": "John Berry",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 53,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 62,
+      "title": "She Wants To Rock",
+      "artist": "The Warren Brothers",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 37,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 63,
+      "title": "After A Kiss",
+      "artist": "Pam Tillis",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 63,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 64,
+      "title": "All I Want Is Everything",
+      "artist": "Mindy McCready",
+      "position": {
+        "Last Week": "72",
+        "Peak Position": 64,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 65,
+      "title": "I Want A Man",
+      "artist": "Lace",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 65,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 66,
+      "title": "When My Dreams Come True",
+      "artist": "Rebecca Lynn Howard",
+      "position": {
+        "Last Week": "65",
+        "Peak Position": 65,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 67,
+      "title": "Goodnight",
+      "artist": "Suzy Bogguss",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 67,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 68,
+      "title": "You Can't Hurry Love",
+      "artist": "Dixie Chicks",
+      "position": {
+        "Last Week": "71",
+        "Peak Position": 68,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 69,
+      "title": "This Time",
+      "artist": "Shana Petrone",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 45,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 70,
+      "title": "For Crying Out Loud",
+      "artist": "Anita Cochran",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 66,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 71,
+      "title": "I'm In Love With Her",
+      "artist": "Sawyer Brown",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 47,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 72,
+      "title": "Albuquerque",
+      "artist": "Sons Of The Desert",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 58,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 73,
+      "title": "It's A Love Thing",
+      "artist": "Keith Urban",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 73,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 74,
+      "title": "That's The Truth",
+      "artist": "Paul Brandt",
+      "position": {
+        "Last Week": "70",
+        "Peak Position": 47,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 75,
+      "title": "Lost In You",
+      "artist": "Garth Brooks as Chris Gaines",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 62,
+        "Wks on Chart": 4
+      }
+    }
+  ]
+}

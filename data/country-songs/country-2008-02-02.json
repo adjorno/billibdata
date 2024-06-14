@@ -1,0 +1,606 @@
+{
+  "name": "Country",
+  "chart_date": "2008-02-02",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Letter To Me",
+      "artist": "Brad Paisley",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Winner At A Losing Game",
+      "artist": "Rascal Flatts",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 3,
+      "title": "What Do Ya Think About That",
+      "artist": "Montgomery Gentry",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Stay",
+      "artist": "Sugarland",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Our Song",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Everybody",
+      "artist": "Keith Urban",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Watching Airplanes",
+      "artist": "Gary Allan",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Ready, Set, Don't Go",
+      "artist": "Billy Ray Cyrus With Miley Cyrus",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Shiftwork",
+      "artist": "Kenny Chesney Duet With George Strait",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Cleaning This Gun (Come On In Boy)",
+      "artist": "Rodney Atkins",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Small Town Southern Man",
+      "artist": "Alan Jackson",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 12,
+      "title": "All-American Girl",
+      "artist": "Carrie Underwood",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Get My Drink On",
+      "artist": "Toby Keith",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 13,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Stealing Cinderella",
+      "artist": "Chuck Wicks",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 15,
+      "title": "International Harvester",
+      "artist": "Craig Morgan",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 15,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Suspicions",
+      "artist": "Tim McGraw",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 17,
+      "title": "God Must Be Busy",
+      "artist": "Brooks & Dunn",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 18,
+      "title": "What Kinda Gone",
+      "artist": "Chris Cagle",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 18,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Laughed Until We Cried",
+      "artist": "Jason Aldean",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 19,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 20,
+      "title": "It's Good To Be Us",
+      "artist": "Bucky Covington",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 20,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Love Is A Beautiful Thing",
+      "artist": "Phil Vassar",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 21,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 22,
+      "title": "You're Gonna Miss This",
+      "artist": "Trace Adkins",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 22,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 23,
+      "title": "You Still Own Me",
+      "artist": "Emerson Drive",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Love Don't Live Here",
+      "artist": "Lady Antebellum",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 24,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Workin' For A Livin'",
+      "artist": "Garth Brooks & Huey Lewis",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 25,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Rollin' With The Flow",
+      "artist": "Mark Chesnutt",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 25,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Things That Never Cross A Man's Mind",
+      "artist": "Kellie Pickler",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Just Got Started Lovin' You",
+      "artist": "James Otto",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 28,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Somethin' About A Woman",
+      "artist": "Jake Owen",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 29,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Takin' Off This Pain",
+      "artist": "Ashton Shepherd",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 30,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Maybe She'll Get Lonely",
+      "artist": "Jack Ingram",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 31,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Another Try",
+      "artist": "Josh Turner Featuring Trisha Yearwood",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 32,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 33,
+      "title": "We Weren't Crazy",
+      "artist": "Josh Gracin",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 34,
+      "title": "It Ain't No Crime",
+      "artist": "Joe Nichols",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 34,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 35,
+      "title": "For These Times",
+      "artist": "Martina McBride",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 35,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Happy Endings",
+      "artist": "Lee Brice",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 36,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 37,
+      "title": "We Rode In Trucks",
+      "artist": "Luke Bryan",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 37,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 38,
+      "title": "In My Next Life",
+      "artist": "Terri Clark",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 38,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 39,
+      "title": "This Is Me You're Talking To",
+      "artist": "Trisha Yearwood",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 39,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 40,
+      "title": "I Don't Love You Like That",
+      "artist": "Jypsi",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 40,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Falling Into You",
+      "artist": "Whiskey Falls",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 41,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Loud",
+      "artist": "Big & Rich",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 42,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Gunpowder And Lead",
+      "artist": "Miranda Lambert",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 43,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Til I Was A Daddy Too",
+      "artist": "Tracy Lawrence",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 44,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Red Umbrella",
+      "artist": "Faith Hill",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 28,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Picture To Burn",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 46,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Trying To Stop Your Leaving",
+      "artist": "Dierks Bentley",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 47,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Better Get To Livin'",
+      "artist": "Dolly Parton",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 48,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 49,
+      "title": "I Can't Believe It's Me",
+      "artist": "Rockie Lynne",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 49,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Stronger Woman",
+      "artist": "Jewel",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 51,
+      "title": "I Don't Know When To Quit",
+      "artist": "The Road Hammers",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 52,
+      "title": "She's Pretty",
+      "artist": "Star De Azlan",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 51,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 53,
+      "title": "You Don't Have To Go Home",
+      "artist": "Gretchen Wilson",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 53,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Some Things Never Change",
+      "artist": "Sara Evans",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Make You Mine",
+      "artist": "Crossin Dixon",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 47,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 56,
+      "title": "Young Love",
+      "artist": "Carter's Chord",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 56,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 57,
+      "title": "When It Rains",
+      "artist": "Eli Young Band",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 49,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 58,
+      "title": "Every Other Weekend",
+      "artist": "Reba McEntire With Kenny Chesney",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 58,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 59,
+      "title": "She Likes It In The Morning",
+      "artist": "Clay Walker",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 59,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 60,
+      "title": "Back There All The Time",
+      "artist": "The Drew Davis Band",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 60,
+        "Wks on Chart": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "name": "Rap",
+  "chart_date": "1997-07-12",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "I'll Be Missing You",
+      "artist": "Puff Daddy & Faith Evans Featuring 112",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Smile",
+      "artist": "Scarface Featuring 2Pac & Johnny P",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Look Into My Eyes",
+      "artist": "Bone Thugs-N-Harmony",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Not Tonight",
+      "artist": "Lil' Kim Featuring Da Brat, Left Eye, Missy Elliott & Angie Martinez",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 4,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 5,
+      "title": "We Trying To Stay Alive",
+      "artist": "Wyclef Jean Featuring Refugee Allstars",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Smokin' Me Out",
+      "artist": "Warren G Featuring Ronald Isley",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Da' Dip",
+      "artist": "Freak Nasty",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 4,
+        "Wks on Chart": 41
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Just Another Case",
+      "artist": "CRU Featuring Slick Rick",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 8,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Hip Hop Drunkies",
+      "artist": "Tha Alkaholiks Featuring Ol' Dirty Bastard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Hypnotize",
+      "artist": "The Notorious B.I.G.",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Can't Nobody Hold Me Down",
+      "artist": "Puff Daddy (Featuring Mase)",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 1,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 12,
+      "title": "That's Right",
+      "artist": "DJ Taz Featuring Raheem The Dream",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 8,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Yardcore",
+      "artist": "Born Jamericans",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 8,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 14,
+      "title": "If I Could Change (From \"I'm Bout It\")",
+      "artist": "Master P Featuring Steady Mobb'n, Mia X, Mo B. Dick & O'Dell",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 5,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 15,
+      "title": "C U When U Get There (From \"Nothing To Lose\")",
+      "artist": "Coolio Featuring 40 Thevz",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 15,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 16,
+      "title": "If U Stay Ready",
+      "artist": "Suga Free",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 17,
+      "title": "My Baby Daddy",
+      "artist": "B-Rock & The Bizz",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 2,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Let Me Clear My Throat",
+      "artist": "DJ Kool",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 4,
+        "Wks on Chart": 48
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Emotions",
+      "artist": "Twista",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Talkin' Bout' Bank",
+      "artist": "The Whoridas",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 20,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Da' Dip",
+      "artist": "MC Luscious Featuring Kinsui",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 15,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Keep It On The Real",
+      "artist": "3X Krazy",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 19,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 23,
+      "title": "I'll Be",
+      "artist": "Foxy Brown Featuring Jay-Z",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 2,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Brain",
+      "artist": "Jungle Brothers",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 23,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Jazzy Belle",
+      "artist": "OutKast",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Stop The Gunfight",
+      "artist": "Trapp Featuring 2pac, Notorious B.I.G.",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 9,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Feelin' It",
+      "artist": "JAY-Z",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 13,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Step Into A World (Rapture's Delight)",
+      "artist": "KRS-One",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 8,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Who You Wit (From \"Sprung\")",
+      "artist": "JAY-Z",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 18,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Wu-Renegades",
+      "artist": "Killarmy",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 16,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 31,
+      "title": "The Theme (It's Party Time)",
+      "artist": "Tracey Lee",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 6,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 32,
+      "title": "What's Your Name (Time Of The Season)",
+      "artist": "Frost",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 32,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 33,
+      "title": "2 Much Booty (In Da Pants)",
+      "artist": "Soundmaster T",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 27,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Fast Lane",
+      "artist": "Mad Dog Clique",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 34,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Homeboyz",
+      "artist": "The Comrads",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 35,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Gangstas Make The World Go Round",
+      "artist": "Westside Connection",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 10,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Take It To The Streets",
+      "artist": "Rampage Featuring Billy Lawrence",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 38,
+      "title": "I Shot The Sheriff",
+      "artist": "Warren G",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 5,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Listen (Five Minutes)",
+      "artist": "DFC",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 40,
+      "title": "T.O.N.Y. (Top Of New York)",
+      "artist": "Capone -N- Noreaga",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 16,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 41,
+      "title": "G.O.D. Pt. III",
+      "artist": "Mobb Deep",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 18,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Do You Believe?",
+      "artist": "The Beatnuts",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 27,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Ghetto Love",
+      "artist": "Da Brat Featuring T-Boz",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 4,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Do The Damn Thing",
+      "artist": "The 2 Live Crew",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 24,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Whateva Man",
+      "artist": "Redman",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 3,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Show Me Love",
+      "artist": "Kilo Ali",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 32,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Cold Rock A Party",
+      "artist": "MC Lyte",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 1,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 48,
+      "title": "No Time",
+      "artist": "Lil' Kim Featuring Puff Daddy",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 1,
+        "Wks on Chart": 40
+      }
+    },
+    {
+      "rank": 49,
+      "title": "The Beginning Of The End",
+      "artist": "Boogiemonsters",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 30,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Pick It Up",
+      "artist": "Redman",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 5
+      }
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "name": "Club",
+  "chart_date": "2020-01-25",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "I Feel Love",
+      "artist": "Sam Smith",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Graveyard",
+      "artist": "Halsey",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 2,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Rabbit Hole",
+      "artist": "CamelPhat Featuring Jem Cooke",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 4,
+      "title": "South Of The Border",
+      "artist": "Ed Sheeran Featuring Camila Cabello & Cardi B",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 6,
+      "title": "In The Dark",
+      "artist": "Vintage Culture, Fancy Inc",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 6,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Turn Me On",
+      "artist": "Riton X Oliver Heldens Featuring Vula",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 8,
+      "title": "RITMO (Bad Boys For Life)",
+      "artist": "Black Eyed Peas X J Balvin",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Moving On Up",
+      "artist": "Heather Small Featuring Dirty Disco And Matt Consola",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 9,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 10,
+      "title": "I Don't Search I Find",
+      "artist": "Madonna",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 10,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 11,
+      "title": "All Night Long",
+      "artist": "Jonas Blue & RetroVision",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 11,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Just A Lie",
+      "artist": "Kristine W",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 12,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Raising Hell",
+      "artist": "Kesha Featuring Big Freedia",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 13,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Anything For You",
+      "artist": "Rosabel Featuring Tamara Wallace",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 14,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Dreamland",
+      "artist": "Pet Shop Boys Featuring Years & Years",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 6,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Baila Conmigo",
+      "artist": "Jennifer Lopez",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 16,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Energy",
+      "artist": "Glidesonic",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 17,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 18,
+      "title": "(I'm Gonna) Love Me Again",
+      "artist": "Elton John & Taron Egerton",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 18,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Motivation",
+      "artist": "Normani",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Sad",
+      "artist": "Chico Rose Featuring Afrojack",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 20,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Came For The Low",
+      "artist": "ZHU & partywithray",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 13,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Kickback",
+      "artist": "NIK:11 Featuring Ouiwey Collins",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 22,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Break The Wheel",
+      "artist": "Kendra Erika",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 23,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 24,
+      "title": "You Gotta Be",
+      "artist": "Bombs Away Featuring Reigan",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 11,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Lose Control",
+      "artist": "MEDUZA x Becky Hill x GOODBOYS",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Better Day",
+      "artist": "Young Bombs Featuring Aloe Blacc",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 26,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Trampoline",
+      "artist": "SHAED",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Wanted",
+      "artist": "NOTD x Daya",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 17,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Dance Monkey",
+      "artist": "Tones And I",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 29,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Stars About You",
+      "artist": "5WEST",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 30,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Trouble",
+      "artist": "VASSY",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 2,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 32,
+      "title": "God Is A Dancer",
+      "artist": "Tiesto & Mabel",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 33,
+      "title": "I Hate Me Too",
+      "artist": "Eda Green",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 33,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Not Ready For Love",
+      "artist": "TCTS Featuring Maya B",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 25,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 35,
+      "title": "On My Mind",
+      "artist": "Diplo & SIDEPIECE",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 35,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Living For The Music",
+      "artist": "Brett Oosterhaus & Debby Holiday",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 36,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Pieces",
+      "artist": "Avery Raquel",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 37,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Faith",
+      "artist": "Galantis & Dolly Parton Featuring Mr. Probz",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 29,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Just The Same",
+      "artist": "AP3",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 39,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Alive",
+      "artist": "Joey Suarez",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 40,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Good As Hell",
+      "artist": "Lizzo",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Used To Love",
+      "artist": "Martin Garrix & Dean Lewis",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Chess Game",
+      "artist": "Jasmine Crowe",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 28,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Girls Night Out",
+      "artist": "Debbie Gibson",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Into The Night 2019",
+      "artist": "Benny Mardones",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 35,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Everything I Wanted",
+      "artist": "Billie Eilish",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 46,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Cheek To Cheek",
+      "artist": "The Weather Girls, Norwood, & Terri B!",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 32,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Get Back To Love",
+      "artist": "Kris James",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Easy",
+      "artist": "Frawley",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 21,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 50,
+      "title": "One Night",
+      "artist": "MK x Sonny Fodera Featuring Raphaella",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Anthem",
+      "artist": "Connor Bvrns, Bonn",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Turn Your World Around",
+      "artist": "Bimbo Jones & Thelma Houston",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Jolean",
+      "artist": "Get Real, Claude VonStroke & Green Velvet",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Yummy",
+      "artist": "Justin Bieber",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Roxanne",
+      "artist": "Arizona Zervas",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55
+      }
+    }
+  ]
+}

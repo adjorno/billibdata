@@ -1,0 +1,506 @@
+{
+  "name": "Latin",
+  "chart_date": "2022-09-17",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Me Porto Bonito",
+      "artist": "Bad Bunny & Chencho Corleone",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Titi Me Pregunto",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Moscow Mule",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Efecto",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Provenza",
+      "artist": "Karol G",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Gatubela",
+      "artist": "Karol G x Maldy",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Party",
+      "artist": "Bad Bunny & Rauw Alejandro",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Despecha",
+      "artist": "Rosalia",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 8,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Ojitos Lindos",
+      "artist": "Bad Bunny & Bomba Estereo",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 7,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Despues de La Playa",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 3,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Neverita",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Tarot",
+      "artist": "Bad Bunny & Jhay Cortez",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 7,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 13,
+      "title": "La Bachata",
+      "artist": "Manuel Turizo",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Bzrp Music Sessions, Vol. 52",
+      "artist": "Bizarrap & Quevedo",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 12,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Sin Fin",
+      "artist": "Romeo Santos & Justin Timberlake",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 15,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 16,
+      "title": "La Corriente",
+      "artist": "Bad Bunny & Tony Dize",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 12,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Un Ratito",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 6,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 18,
+      "title": "JGL",
+      "artist": "La Adictiva & Luis R. Conriquez",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 18,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Te Felicito",
+      "artist": "Shakira & Rauw Alejandro",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 10,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Yo No Soy Celoso",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 8,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 21,
+      "title": "La Curiosidad",
+      "artist": "Ivan Cornejo & Eslabon Armado",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 20,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Un Coco",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 17,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Lokera",
+      "artist": "Rauw Alejandro, Lyanno & Brray",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 23,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 24,
+      "title": "El Panuelo",
+      "artist": "Romeo Santos & Rosalia",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Andrea",
+      "artist": "Bad Bunny & Buscabulla",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 15,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 26,
+      "title": "J.",
+      "artist": "Ivan Cornejo",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 22,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 27,
+      "title": "El Rescate",
+      "artist": "Marca Registrada + Junior H",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 20,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Otro Atardecer",
+      "artist": "Bad Bunny & The Marias",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 17,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Dos Mil 16",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 16,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 30,
+      "title": "El Apagon",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 19,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Siempre Pendientes",
+      "artist": "Peso Pluma X Luis R Conriquez",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 31,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Un Verano Sin Ti",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 20,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Aguacero",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 15,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Mercedes Tintea",
+      "artist": "Anuel AA",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 29,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Mayor Que Usted",
+      "artist": "Natti Natasha + Daddy Yankee = Wisin & Yandel",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 29,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Billete Grande",
+      "artist": "Fuerza Regida X Edgardo Nunez",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 27,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Ensename A Bailar",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 22,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Me Fui de Vacaciones",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 21,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 39,
+      "title": "La Llevo Al Cielo",
+      "artist": "Chris Jedi, Chencho Corleone, Anuel AA & Nengo Flow",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 29,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Agosto",
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 24,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Bebo",
+      "artist": "Romeo Santos",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Baile Con Mi Ex",
+      "artist": "Becky G",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 41,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 43,
+      "title": "En El Radio Un Cochinero",
+      "artist": "Victor Cibrian",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 27,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Si Fuera Facil",
+      "artist": "Marca Registrada",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 32,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 45,
+      "title": "No Se Va",
+      "artist": "Grupo Frontera",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 45,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Me Extrano",
+      "artist": "Romeo Santos & Christian Nodal",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Llorar y Llorar",
+      "artist": "Mau y Ricky & Carin Leon",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 41,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 48,
+      "title": "La Boda del Huitlacoche",
+      "artist": "Carin Leon",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 26,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Calidad",
+      "artist": "Grupo Firme & Luis Mexia",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 46,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Nos Comemos Vivos",
+      "artist": "Maluma & Chencho Corleone",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 41,
+        "Wks on Chart": 8
+      }
+    }
+  ]
+}

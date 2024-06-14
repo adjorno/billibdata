@@ -1,0 +1,506 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "1972-06-24",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Lean On Me",
+      "artist": "Bill Withers",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Woman's Gotta Have It",
+      "artist": "(The Preacher) Bobby Womack",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Outa-Space",
+      "artist": "Billy Preston",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 4,
+      "title": "I'll Take You There",
+      "artist": "The Staple Singers",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Troglodyte (Cave Man)",
+      "artist": "The Jimmy Castor Bunch",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 5,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 6,
+      "title": "I Wanna Be Where You Are",
+      "artist": "Michael Jackson",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 6,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 7,
+      "title": "You're The Man (Part 1)",
+      "artist": "Marvin Gaye",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 8,
+      "title": "I've Been Lonely For So Long",
+      "artist": "Frederick Knight",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 8,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 9,
+      "title": "(If Loving You Is Wrong) I Don't Want To Be Right",
+      "artist": "Luther Ingram",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 9,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Oh Girl",
+      "artist": "Chi-Lites",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Funk Factory",
+      "artist": "Wilson Pickett",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 11,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 12,
+      "title": "All The Kings Horses/April Fools",
+      "artist": "Aretha Franklin",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 12,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 13,
+      "title": "You Said A Bad Word",
+      "artist": "Joe Tex",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 13,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Superwoman (Where Were You When I Needed You)",
+      "artist": "Stevie Wonder",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 14,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 15,
+      "title": "People Make The World Go Round",
+      "artist": "The Stylistics",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 15,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 16,
+      "title": "There It Is (Part 1)",
+      "artist": "James Brown",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Victim Of A Foolish Heart",
+      "artist": "Bettye Swann",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Rip Off",
+      "artist": "Laura Lee",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 18,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Baby Let Me Take You (In My Arms)",
+      "artist": "Detroit Emeralds",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 19,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 20,
+      "title": "I Only Have Eyes For You",
+      "artist": "Jerry Butler",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 20,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Automatically Sunshine",
+      "artist": "The Supremes",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Just As Long As You Need Me, Part I",
+      "artist": "Independents",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 8,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 23,
+      "title": "We've Come Too Far To End It Now",
+      "artist": "Smokey Robinson & The Miracles",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 23,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Look What You Done For Me",
+      "artist": "Al Green",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 2,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Walkin' In The Rain With The One I Love",
+      "artist": "Love Unlimited",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Ask Me What You Want",
+      "artist": "Millie Jackson",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 4,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Where Is The Love",
+      "artist": "Roberta Flack & Donny Hathaway",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 27,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Love's Street And Fool's Road",
+      "artist": "Solomon Burke",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 13,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Jealous",
+      "artist": "Little Royal",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 29,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 30,
+      "title": "That's The Way It's Got To Be (Body And Soul)",
+      "artist": "Soul Generation",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 27,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Tell Me This Is A Dream",
+      "artist": "The Delfonics",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 31,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Not On The Outside",
+      "artist": "Linda Jones",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 32,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Pass The Peas",
+      "artist": "The JB's",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 29,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Too Late To Turn Back Now",
+      "artist": "Cornelius Brothers & Sister Rose",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 34,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Dreaming Out Of Season",
+      "artist": "The Montclairs",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 35,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Bed And Board",
+      "artist": "Barbara Mason",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 36,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Papa Was A Rollin' Stone",
+      "artist": "The Undisputed Truth",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 37,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Giving Up",
+      "artist": "Donny Hathaway",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 21,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Put It Where You Want It",
+      "artist": "The Crusaders",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 39,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Eddie's Love",
+      "artist": "Eddie Kendricks",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 40,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Gotta Be Funky",
+      "artist": "Monk Higgins & The Specialties",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 22,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Is It You Girl",
+      "artist": "Betty Wright",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Ride, Sally, Ride",
+      "artist": "Dennis Coffey",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 44,
+      "title": "I Thank You",
+      "artist": "Donny Hathaway And June Conquest",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 44,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Baby, I'm For Real",
+      "artist": "Esther Phillips",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 46,
+      "title": "School Of Life",
+      "artist": "Tommy Tate",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 47,
+      "title": "I Miss You (Part I)",
+      "artist": "Harold Melvin And The Blue Notes",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 47,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 48,
+      "title": "I Found A Love",
+      "artist": "Etta James",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Second Chance",
+      "artist": "Z.Z. Hill",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 50,
+      "title": "In The Ghetto",
+      "artist": "Candi Staton",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
+    }
+  ]
+}

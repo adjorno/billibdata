@@ -1,0 +1,756 @@
+{
+  "name": "Country",
+  "chart_date": "1970-05-30",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "My Love",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Hello Darlin'",
+      "artist": "Conway Twitty",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 3,
+      "title": "What Is Truth",
+      "artist": "Johnny Cash",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 4,
+      "title": "I Do My Swinging At Home",
+      "artist": "David Houston",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 5,
+      "title": "The Pool Shark",
+      "artist": "Dave Dudley",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Is Anybody Goin' To San Antone",
+      "artist": "Charley Pride",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 7,
+      "title": "She's A Little Bit Country",
+      "artist": "George Hamilton IV",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 7,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Shoeshine Man",
+      "artist": "Tom T. Hall",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Street Singer",
+      "artist": "Merle Haggard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 9,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Heart Over Mind",
+      "artist": "Mel Tillis",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Love Is A Sometimes Thing",
+      "artist": "Bill Anderson",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Rise And Shine",
+      "artist": "Tommy Cash",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Singer Of Sad Songs",
+      "artist": "Waylon Jennings",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 13,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 14,
+      "title": "I Can't Seem To Say Goodbye",
+      "artist": "Jerry Lee Lewis",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 14,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Lovin' Man (Oh Pretty Woman)",
+      "artist": "Arlene",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Long Long Texas Road",
+      "artist": "Roy Drusky",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 16,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Lilacs And Fire",
+      "artist": "George Morgan",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 17,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Togetherness",
+      "artist": "Buck Owens",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 18,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 19,
+      "title": "He Loves Me All The Way",
+      "artist": "Tammy Wynette",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 19,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Stay There 'til I Get There",
+      "artist": "Lynn Anderson",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 21,
+      "title": "My Woman, My Woman, My Wife",
+      "artist": "Marty Robbins",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Tennessee Bird Walk",
+      "artist": "Jack Blanchard & Misty Morgan",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 23,
+      "title": "I Know How",
+      "artist": "Loretta Lynn",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Love Hungry",
+      "artist": "Warner Mack",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Oh Happy Day",
+      "artist": "Glen Campbell",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 25,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 26,
+      "title": "I've Just Been Wasting My Time",
+      "artist": "John Wesley Ryles, I",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 26,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 27,
+      "title": "A Woman Lives For Love",
+      "artist": "Wanda Jackson",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 17,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 28,
+      "title": "A Woman's Hand",
+      "artist": "Jean Shepard",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 28,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 29,
+      "title": "You Wouldn't Know Love",
+      "artist": "Ray Price",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 8,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 30,
+      "title": "You And Me Against The World",
+      "artist": "Bobby Lord",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 30,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Tomorrow Never Comes",
+      "artist": "Slim Whitman",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Heavenly Sunshine",
+      "artist": "Ferlin Husky",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 32,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 33,
+      "title": "All That Keeps Ya Goin'",
+      "artist": "The Glaser Brothers",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 34,
+      "title": "I'm Leavin' It Up To You",
+      "artist": "Johnny & Jonie Mosby",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 34,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Big Wheel Cannonball",
+      "artist": "Dick Curless",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 35,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 36,
+      "title": "The Most Uncomplicated Goodbye I've Ever Heard",
+      "artist": "Henson Cargill",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 36,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 37,
+      "title": "I Never Once Stopped Loving You",
+      "artist": "Connie Smith",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 37,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Down In New Orleans",
+      "artist": "Buddy Alan",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 38,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Everything Is Beautiful",
+      "artist": "Ray Stevens",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 39,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Sugar Shack",
+      "artist": "Bobby G. Rice",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 32,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Don't Take All Your Loving",
+      "artist": "Don Gibson",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 17,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 42,
+      "title": "I Walked Out On Heaven",
+      "artist": "Hank Williams Jr.",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 12,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Old Man Willis",
+      "artist": "Nat Stuckey",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 43,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 44,
+      "title": "You're Gonna Need A Man",
+      "artist": "Johnny Duncan",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 44,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 45,
+      "title": "A Good Thing",
+      "artist": "Bill Wilbourn & Kathy Morrison",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 45,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Warmth Of The Wine",
+      "artist": "Johnny Bush",
+      "position": {
+        "Last Week": "68",
+        "Peak Position": 46,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 47,
+      "title": "If I Ever Fall In Love (With A Honky Tonk Girl)",
+      "artist": "Faron Young",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Little Bit Late",
+      "artist": "Lewie Wickham",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 36,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Pickin' Wild Mountain Berries",
+      "artist": "Lawanda Lindsey",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 27,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Darling Days",
+      "artist": "Billy Walker",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 23,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 51,
+      "title": "The Lover's Song",
+      "artist": "Ned Miller",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 51,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Little Boy's Prayer",
+      "artist": "Porter Wagoner",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 43,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 53,
+      "title": "So Much In Love With You",
+      "artist": "David Rogers",
+      "position": {
+        "Last Week": "65",
+        "Peak Position": 53,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 54,
+      "title": "But That's All Right",
+      "artist": "Hank Thompson",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 54,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 55,
+      "title": "It Don't Take But One Mistake",
+      "artist": "Luke The Drifter, Jr",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 55,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 56,
+      "title": "You Don't Care What Happens To Me",
+      "artist": "Wynn Stewart",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 56,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 57,
+      "title": "Playin' Around With Love",
+      "artist": "Barbara Mandrell",
+      "position": {
+        "Last Week": "63",
+        "Peak Position": 57,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 58,
+      "title": "Hit The Road Jack",
+      "artist": "Connie",
+      "position": {
+        "Last Week": "72",
+        "Peak Position": 58,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 59,
+      "title": "One More Mountain To Climb",
+      "artist": "Freddie Hart",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 48,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 60,
+      "title": "I Know You're Married But I Love You Still",
+      "artist": "Red Sovine",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 52,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 61,
+      "title": "I Wish I Had A Mommy Like You",
+      "artist": "Patti Page",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 61,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 62,
+      "title": "Still Loving You",
+      "artist": "Bob Luman",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 62,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 63,
+      "title": "Whoever Finds This, I Love You",
+      "artist": "Mac Davis",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 52,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 64,
+      "title": "If I'd Only Come And Gone",
+      "artist": "Clay Hart",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 64,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 65,
+      "title": "You Don't Know Me",
+      "artist": "Ray Pennington",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 65,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 66,
+      "title": "Lead Me Not Into Temptation",
+      "artist": "Anthony Armstrong Jones",
+      "position": {
+        "Last Week": "70",
+        "Peak Position": 66,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 67,
+      "title": "It's Hard To Be A Woman",
+      "artist": "Skeeter Davis",
+      "position": {
+        "Last Week": "67",
+        "Peak Position": 67,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 68,
+      "title": "I'll Be Your Baby Tonight",
+      "artist": "Claude King",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 68,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 69,
+      "title": "A Girl Named Johnny Cash",
+      "artist": "Jane Morgan",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 69,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 70,
+      "title": "Goin' Home To Your Mother",
+      "artist": "The Hagers",
+      "position": {
+        "Last Week": "73",
+        "Peak Position": 70,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 71,
+      "title": "Land Mark Tavern",
+      "artist": "Del Reeves",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 71,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 72,
+      "title": "Hello Mary Lou",
+      "artist": "Bobby Lewis",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 72,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 73,
+      "title": "Son Of A Coal Man",
+      "artist": "Del Reeves",
+      "position": {
+        "Last Week": "74",
+        "Peak Position": 73,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 74,
+      "title": "The Ballad Of J.C.",
+      "artist": "Gordon Terry",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 74,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 75,
+      "title": "Holy Cow",
+      "artist": "Jamey Ryan",
+      "position": {
+        "Last Week": "75",
+        "Peak Position": 75,
+        "Wks on Chart": 2
+      }
+    }
+  ]
+}

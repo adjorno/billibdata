@@ -1,0 +1,1006 @@
+{
+  "name": "Hot 100",
+  "chart_date": "1998-10-17",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "One Week",
+      "artist": "Barenaked Ladies",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 2,
+      "title": "The First Night",
+      "artist": "Monica",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 3,
+      "title": "I Don't Want To Miss A Thing",
+      "artist": "Aerosmith",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 4,
+      "title": "How Deep Is Your Love",
+      "artist": "Dru Hill Featuring Redman",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Crush",
+      "artist": "Jennifer Paige",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 6,
+      "title": "I'll Be",
+      "artist": "Edwin McCain",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 7,
+      "title": "This Kiss",
+      "artist": "Faith Hill",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Because Of You",
+      "artist": "98 Degrees",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 8,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Touch It",
+      "artist": "Monifah",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 9,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Time After Time",
+      "artist": "Inoj",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 6,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 11,
+      "title": "My Way",
+      "artist": "Usher",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 2,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Never Ever",
+      "artist": "All Saints",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Lately",
+      "artist": "Divine",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 13,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Westside",
+      "artist": "TQ",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 14,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 15,
+      "title": "I Still Love You",
+      "artist": "Next",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 16,
+      "title": "When The Lights Go Out",
+      "artist": "Five",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Too Close",
+      "artist": "Next",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 36
+      }
+    },
+    {
+      "rank": 18,
+      "title": "The Boy Is Mine",
+      "artist": "Brandy & Monica",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Daydreamin'",
+      "artist": "Tatyana Ali",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 6,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Thinkin' Bout It",
+      "artist": "Gerald Levert",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 12,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 21,
+      "title": "You're Still The One",
+      "artist": "Shania Twain",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 2,
+        "Wks on Chart": 36
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Just The Two Of Us",
+      "artist": "Will Smith",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 20,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 23,
+      "title": "I Can Do That",
+      "artist": "Montell Jordan",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 14,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 24,
+      "title": "The Power Of Good-Bye",
+      "artist": "Madonna",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Adia",
+      "artist": "Sarah McLachlan",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 3,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Lookin' At Me",
+      "artist": "Mase Featuring Puff Daddy",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 8,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Truly Madly Deeply",
+      "artist": "Savage Garden",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 1,
+        "Wks on Chart": 46
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Still A G Thang",
+      "artist": "Snoop Dogg",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 19,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Nobody's Supposed To Be Here",
+      "artist": "Deborah Cox",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 29,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Splackavellie",
+      "artist": "Pressha",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 27,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 31,
+      "title": "So Into You",
+      "artist": "Tamia",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 30,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 32,
+      "title": "All My Life",
+      "artist": "K-Ci & JoJo",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 1,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Friend Of Mine",
+      "artist": "Kelly Price",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 12,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Movin' On",
+      "artist": "Mya Featuring Silkk The Shocker",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 34,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Make It Hot",
+      "artist": "Nicole Featuring Missy \"Misdemeanor\" Elliott & Mocha",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 5,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 36,
+      "title": "SuperThug (What What)",
+      "artist": "Noreaga",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 36,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 37,
+      "title": "All The Places (I Will Kiss You)",
+      "artist": "Aaron Hall",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Cruel Summer",
+      "artist": "Ace Of Base",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Still Not A Player",
+      "artist": "Big Punisher Featuring Joe",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 24,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Say It",
+      "artist": "Voices Of Theory",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 10,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Ghetto Supastar (That Is What You Are)",
+      "artist": "Pras Michel Feat. Ol' Dirty Bastard & Introducing Mya",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 15,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Nobody Else",
+      "artist": "Tyrese",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 36,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Intergalactic",
+      "artist": "Beastie Boys",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 28,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 44,
+      "title": "I Had No Right",
+      "artist": "P.M. Dawn",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 44,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 45,
+      "title": "I Don't Want To Wait",
+      "artist": "Paula Cole",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 11,
+        "Wks on Chart": 51
+      }
+    },
+    {
+      "rank": 46,
+      "title": "How's It Going To Be",
+      "artist": "Third Eye Blind",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 9,
+        "Wks on Chart": 46
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Together Again",
+      "artist": "Janet",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 1,
+        "Wks on Chart": 44
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Goodbye To My Homies",
+      "artist": "Master P Featuring Silkk The Shocker, Sons Of Funk And Mo B. Dick",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 27,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Ray Of Light",
+      "artist": "Madonna",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 5,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Sex And Candy",
+      "artist": "Marcy Playground",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 8,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Shimmer",
+      "artist": "Fuel",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 42,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Everything's Gonna Be Alright",
+      "artist": "Sweetbox",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 52,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Invasion Of The Flat Booty B*****s",
+      "artist": "Too $hort",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 51,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Come With Me",
+      "artist": "Puff Daddy Featuring Jimmy Page",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 4,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 55,
+      "title": "26 Cents",
+      "artist": "The Wilkinsons",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 55,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 56,
+      "title": "Ooh La La",
+      "artist": "Rod Stewart",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 39,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 57,
+      "title": "No Fool No More",
+      "artist": "En Vogue",
+      "position": {
+        "Last Week": "63",
+        "Peak Position": 57,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 58,
+      "title": "If You Could Read My Mind",
+      "artist": "Stars On 54: Ultra Nate, Amber, Jocelyn Enriquez",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 58,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 59,
+      "title": "Wherever You Go",
+      "artist": "Voices Of Theory",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 59,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 60,
+      "title": "Can I Get A...",
+      "artist": "Jay-Z Featuring Amil (Of Major Coinz) & Ja",
+      "position": {
+        "Last Week": "65",
+        "Peak Position": 60,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 61,
+      "title": "Can't We Try",
+      "artist": "Rockell [Duet With Collage]",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 59,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 62,
+      "title": "Yesterday",
+      "artist": "Debelah Morgan",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 56,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 63,
+      "title": "Lost In Love",
+      "artist": "Nastyboy Klick",
+      "position": {
+        "Last Week": "68",
+        "Peak Position": 63,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 64,
+      "title": "Touch Me",
+      "artist": "Solo",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 59,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 65,
+      "title": "Better Days",
+      "artist": "WC Featuring Jon B.",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 65,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 66,
+      "title": "Landslide",
+      "artist": "Fleetwood Mac",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 51,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 67,
+      "title": "Jackie's Strength",
+      "artist": "Tori Amos",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 54,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 68,
+      "title": "Money Ain't A Thang",
+      "artist": "JD Featuring Jay-Z",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 52,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 69,
+      "title": "Horse & Carriage",
+      "artist": "Cam'Ron Featuring Mase",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 41,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 70,
+      "title": "You Only Have To Say You Love Me",
+      "artist": "Hannah Jones",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 65,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 71,
+      "title": "Music Sounds Better With You",
+      "artist": "Stardust",
+      "position": {
+        "Last Week": "84",
+        "Peak Position": 71,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 72,
+      "title": "Cleopatra's Theme",
+      "artist": "Cleopatra",
+      "position": {
+        "Last Week": "67",
+        "Peak Position": 26,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 73,
+      "title": "What U See Is What U Get",
+      "artist": "Xzibit",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 50,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 74,
+      "title": "For You I Will",
+      "artist": "Aaron Tippin",
+      "position": {
+        "Last Week": "76",
+        "Peak Position": 74,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 75,
+      "title": "Here We Go",
+      "artist": "Funkmaster Flex Presents Khadejia Featuring Product",
+      "position": {
+        "Last Week": "75",
+        "Peak Position": 72,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 76,
+      "title": "Gotta Be",
+      "artist": "Jagged Edge",
+      "position": {
+        "Last Week": "70",
+        "Peak Position": 23,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 77,
+      "title": "Nobody Does It Better",
+      "artist": "Nate Dogg Featuring Warren G",
+      "position": {
+        "Last Week": "71",
+        "Peak Position": 18,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 78,
+      "title": "Only When I Lose Myself",
+      "artist": "Depeche Mode",
+      "position": {
+        "Last Week": "74",
+        "Peak Position": 61,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 79,
+      "title": "Dr. Greenthumb",
+      "artist": "Cypress Hill",
+      "position": {
+        "Last Week": "78",
+        "Peak Position": 70,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 80,
+      "title": "How's It Goin' Down",
+      "artist": "DMX Featuring Faith Evans",
+      "position": {
+        "Last Week": "72",
+        "Peak Position": 72,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 81,
+      "title": "Woof Woof",
+      "artist": "69 Boyz",
+      "position": {
+        "Last Week": "80",
+        "Peak Position": 31,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 82,
+      "title": "You Won't Forget Me",
+      "artist": "La Bouche",
+      "position": {
+        "Last Week": "81",
+        "Peak Position": 48,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 83,
+      "title": "The Rockafeller Skank",
+      "artist": "Fatboy Slim",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 83,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 84,
+      "title": "I Should Cheat On You",
+      "artist": "J'Son",
+      "position": {
+        "Last Week": "82",
+        "Peak Position": 72,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 85,
+      "title": "Stop",
+      "artist": "Spice Girls",
+      "position": {
+        "Last Week": "79",
+        "Peak Position": 16,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 86,
+      "title": "Ava Adore",
+      "artist": "The Smashing Pumpkins",
+      "position": {
+        "Last Week": "88",
+        "Peak Position": 42,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 87,
+      "title": "Definition",
+      "artist": "Mos Def & Kweli Are Black Star",
+      "position": {
+        "Last Week": "73",
+        "Peak Position": 60,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 88,
+      "title": "It's Alright",
+      "artist": "Memphis Bleek (& Jay-Z)",
+      "position": {
+        "Last Week": "77",
+        "Peak Position": 61,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 89,
+      "title": "If I Lost You",
+      "artist": "Travis Tritt",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 89,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 90,
+      "title": "Wide Open Spaces",
+      "artist": "Dixie Chicks",
+      "position": {
+        "Last Week": "83",
+        "Peak Position": 81,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 91,
+      "title": "A Little Past Little Rock",
+      "artist": "Lee Ann Womack",
+      "position": {
+        "Last Week": "89",
+        "Peak Position": 89,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 92,
+      "title": "Deadly Zone",
+      "artist": "Bounty Killer Featuring Mobb Deep & Rappin' Noyd",
+      "position": {
+        "Last Week": "93",
+        "Peak Position": 92,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 93,
+      "title": "What I Didn't Know",
+      "artist": "Athenaeum",
+      "position": {
+        "Last Week": "94",
+        "Peak Position": 58,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 94,
+      "title": "Find A Way",
+      "artist": "A Tribe Called Quest",
+      "position": {
+        "Last Week": "86",
+        "Peak Position": 71,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 95,
+      "title": "If I Had The Chance",
+      "artist": "Cynthia",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 95,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 96,
+      "title": "Delicious",
+      "artist": "Pure Sugar",
+      "position": {
+        "Last Week": "87",
+        "Peak Position": 66,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 97,
+      "title": "Remember When",
+      "artist": "Color Me Badd",
+      "position": {
+        "Last Week": "92",
+        "Peak Position": 48,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 98,
+      "title": "Paper",
+      "artist": "Queen Latifah Featuring Apache",
+      "position": {
+        "Last Week": "90",
+        "Peak Position": 50,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 99,
+      "title": "'98 Thug Paradise",
+      "artist": "Tragedy, Capone, Infinite",
+      "position": {
+        "Last Week": "91",
+        "Peak Position": 86,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 100,
+      "title": "I Wasn't With It",
+      "artist": "Jesse Powell",
+      "position": {
+        "Last Week": "96",
+        "Peak Position": 85,
+        "Wks on Chart": 9
+      }
+    }
+  ]
+}

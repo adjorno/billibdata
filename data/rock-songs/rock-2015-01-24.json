@@ -1,0 +1,506 @@
+{
+  "name": "Rock",
+  "chart_date": "2015-01-24",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Take Me To Church",
+      "artist": "Hozier",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 37
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Centuries",
+      "artist": "Fall Out Boy",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Riptide",
+      "artist": "Vance Joy",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 47
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Stolen Dance",
+      "artist": "Milky Chance",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 32
+      }
+    },
+    {
+      "rank": 5,
+      "title": "I Bet My Life",
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Shut Up And Dance",
+      "artist": "WALK THE MOON",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Irresistible",
+      "artist": "Fall Out Boy",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 8,
+      "title": "A Sky Full Of Stars",
+      "artist": "Coldplay",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 37
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Blank Space",
+      "artist": "I Prevail",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 9,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Yellow Flicker Beat",
+      "artist": "Lorde",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Budapest",
+      "artist": "George Ezra",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Immortals",
+      "artist": "Fall Out Boy",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 13,
+      "title": "First Kiss",
+      "artist": "Kid Rock",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Something From Nothing",
+      "artist": "Foo Fighters",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 8,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Cigarette Daydreams",
+      "artist": "Cage The Elephant",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Lampshades On Fire",
+      "artist": "Modest Mouse",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 16,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Reflections",
+      "artist": "MisterWives",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Work Song",
+      "artist": "Hozier",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Mess Is Mine",
+      "artist": "Vance Joy",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 19,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Wrong Side Of Heaven",
+      "artist": "Five Finger Death Punch",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 11,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Figure It Out",
+      "artist": "Royal Blood",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 18,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 22,
+      "title": "The Kids Aren't Alright",
+      "artist": "Fall Out Boy",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 10,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 23,
+      "title": "From Eden",
+      "artist": "Hozier",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 17,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Rollercoaster",
+      "artist": "Bleachers",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 24,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Warriors",
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 10,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Gooey",
+      "artist": "Glass Animals",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 26,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Drown",
+      "artist": "Bring Me The Horizon",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 11,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 28,
+      "title": "I Am Machine",
+      "artist": "Three Days Grace",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 20,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 29,
+      "title": "The Devil In I",
+      "artist": "Slipknot",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 12,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Weekend",
+      "artist": "Priory",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 30,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Angel Of Small Death And The Codeine Scene",
+      "artist": "Hozier",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Like Real People Do",
+      "artist": "Hozier",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 32,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Gold",
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 12,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Same Damn Life",
+      "artist": "Seether",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 35,
+      "title": "American Beauty / American Psycho",
+      "artist": "Fall Out Boy",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 15,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Cherry Wine",
+      "artist": "Hozier",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 36,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Electric Love",
+      "artist": "BORNS",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Kansas City",
+      "artist": "The New Basement Tapes",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 35,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Jackie And Wilson",
+      "artist": "Hozier",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Kathleen",
+      "artist": "Catfish And The Bottlemen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Every Breaking Wave",
+      "artist": "U2",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 39,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Cecilia And The Satellite",
+      "artist": "Andrew McMahon In The Wilderness",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 42,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Flashed Junk Mind",
+      "artist": "Milky Chance",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 41,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Fools Gold",
+      "artist": "Fitz And The Tantrums",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 26,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Deep Six",
+      "artist": "Marilyn Manson",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 27,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Something Different",
+      "artist": "Godsmack",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 38,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Can You Feel My Heart",
+      "artist": "Bring Me The Horizon",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 39,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 48,
+      "title": "The Last Goodbye",
+      "artist": "Billy Boyd",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 29,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Moving On",
+      "artist": "Asking Alexandria",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Cocoon",
+      "artist": "Catfish And The Bottlemen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "name": "Country",
+  "chart_date": "1969-09-06",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "A Boy Named Sue",
+      "artist": "Johnny Cash",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Wine Me Up",
+      "artist": "Faron Young",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 3,
+      "title": "To Make A Man (Feel Like A Man)",
+      "artist": "Loretta Lynn",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 4,
+      "title": "But You Know I Love You",
+      "artist": "Bill Anderson",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 5,
+      "title": "I'm Down To My Last \"I Love You\"",
+      "artist": "David Houston",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Workin' Man Blues",
+      "artist": "Merle Haggard",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 7,
+      "title": "If Not For You",
+      "artist": "George Jones",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 8,
+      "title": "I Can't Say Goodbye",
+      "artist": "Marty Robbins",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 9,
+      "title": "True Grit",
+      "artist": "Glen Campbell",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 10,
+      "title": "That's A No No",
+      "artist": "Lynn Anderson",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 11,
+      "title": "These Are Not My People",
+      "artist": "Freddy Weller",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 11,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Me And Bobby McGee",
+      "artist": "Roger Miller",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Tall Dark Stranger",
+      "artist": "Buck Owens",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 13,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 14,
+      "title": "All I Have To Offer You (Is Me)",
+      "artist": "Charley Pride",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 15,
+      "title": "This Thing",
+      "artist": "Webb Pierce",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 15,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Invitation To Your Party",
+      "artist": "Jerry Lee Lewis",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 16,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 17,
+      "title": "These Lonely Hands Of Mine",
+      "artist": "Mel Tillis",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 17,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 18,
+      "title": "That's Why I Love You So Much",
+      "artist": "Ferlin Husky",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 19,
+      "title": "World-Wide Travelin' Man",
+      "artist": "Wynn Stewart",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 19,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Which One Will It Be",
+      "artist": "Bobby Bare",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 20,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Yesterday, When I Was Young",
+      "artist": "Roy Clark",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 22,
+      "title": "I Love You Because",
+      "artist": "Carl Smith",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 22,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Big Wind",
+      "artist": "Porter Wagoner",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 3,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Color Him Father",
+      "artist": "Linda Martell",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 24,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Proud Mary",
+      "artist": "Anthony Armstrong Jones",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Every Day I Have To Cry Some",
+      "artist": "Bob Luman",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 27,
+      "title": "The Ways To Love A Man",
+      "artist": "Tammy Wynette",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 27,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Wicked California",
+      "artist": "The Glaser Brothers",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 28,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 29,
+      "title": "The Three Bells",
+      "artist": "Jim Ed Brown",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 29,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Raining In My Heart",
+      "artist": "Ray Price",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 30,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Wherever You Are",
+      "artist": "Johnny Paycheck",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 32,
+      "title": "But For Love",
+      "artist": "Eddy Arnold",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Tennessee Hound Dog",
+      "artist": "The Osborne Brothers",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 33,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Young Love",
+      "artist": "Connie Smith & Nat Stuckey",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 20,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Sweet Memories",
+      "artist": "Dottie West",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 32,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 36,
+      "title": "My Cup Runneth Over",
+      "artist": "Johnny Bush",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 36,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Better Homes And Gardens",
+      "artist": "Bobby Russell",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 37,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Canadian Pacific",
+      "artist": "George Hamilton IV",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 25,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Growin' Up",
+      "artist": "Tex Ritter",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 39,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Mama Lou",
+      "artist": "Penny Dehaven",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 40,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 41,
+      "title": "One Has My Name (The Other Has My Heart)",
+      "artist": "Jerry Lee Lewis",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Life's Little Ups And Downs",
+      "artist": "Charlie Rich",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 42,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Statue Of A Fool",
+      "artist": "Jack Greene",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 1,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 44,
+      "title": "So Long",
+      "artist": "Bobby Helms",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 44,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Ruby, Don't Take Your Love To Town",
+      "artist": "Kenny Rogers & The First Edition",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 39,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 46,
+      "title": "San Francisco Is A Lonely Town",
+      "artist": "Ben Peters",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 46,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 47,
+      "title": "That See Me Later Look",
+      "artist": "Bonnie Guitar",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 47,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 48,
+      "title": "The Woman In Your Life",
+      "artist": "Wilma Burgess",
+      "position": {
+        "Last Week": "63",
+        "Peak Position": 48,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Homecoming",
+      "artist": "Tom T. Hall",
+      "position": {
+        "Last Week": "65",
+        "Peak Position": 49,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 50,
+      "title": "In The Ghetto",
+      "artist": "Dolly Parton",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 50,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 51,
+      "title": "That's Your Hang Up",
+      "artist": "Johnny Carver",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 51,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 52,
+      "title": "When She Touches Me",
+      "artist": "Johnny Duncan",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Reconsider Me",
+      "artist": "Ray Pillow",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 53,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Hold Me, Thrill Me, Kiss Me",
+      "artist": "Johnny A.",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 38,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 55,
+      "title": "The Pathway Of My Life",
+      "artist": "Hank Thompson",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 46,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 56,
+      "title": "Muddy Mississippi Line",
+      "artist": "Bobby Goldsboro",
+      "position": {
+        "Last Week": "67",
+        "Peak Position": 56,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 57,
+      "title": "Ain't Gonna Worry",
+      "artist": "Leon Ashley",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 57,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 58,
+      "title": "Hurry Up",
+      "artist": "Darrell Mccall",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 53,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 59,
+      "title": "MacArthur Park",
+      "artist": "Waylon Jennings & The Kimberlys",
+      "position": {
+        "Last Week": "68",
+        "Peak Position": 59,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 60,
+      "title": "Brownville Lumberyard",
+      "artist": "Sammi Smith",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 60,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 61,
+      "title": "Are You From Dixie (Cause I'm From Dixie Too)",
+      "artist": "Jerry Reed",
+      "position": {
+        "Last Week": "71",
+        "Peak Position": 61,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 62,
+      "title": "Who Am I",
+      "artist": "Red Sovine",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 62,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 63,
+      "title": "Sweet 'N' Sassy",
+      "artist": "Jerry Smith and his Pianos",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 63,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 64,
+      "title": "George (And The North Woods)",
+      "artist": "Dave Dudley",
+      "position": {
+        "Last Week": "72",
+        "Peak Position": 64,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 65,
+      "title": "Walk Among The People",
+      "artist": "Cheryl",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 57,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 66,
+      "title": "A Woman's Hand",
+      "artist": "Barbara Fairchild",
+      "position": {
+        "Last Week": "70",
+        "Peak Position": 66,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 67,
+      "title": "Since I Met You, Baby",
+      "artist": "Sonny James",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 67,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 68,
+      "title": "Blue Collar Job",
+      "artist": "Darrell Statler",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 68,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 69,
+      "title": "Moffett, Oklahoma",
+      "artist": "Charlie",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 69,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 70,
+      "title": "Children",
+      "artist": "Diana Trask",
+      "position": {
+        "Last Week": "73",
+        "Peak Position": 70,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 71,
+      "title": "Better Homes And Gardens",
+      "artist": "Billy Walker",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 71,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 72,
+      "title": "Seven Lonely Days",
+      "artist": "Jean Shepard",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 72,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 73,
+      "title": "The House Of Blue Lights",
+      "artist": "Earl Richards",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 73,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 74,
+      "title": "I Will Always",
+      "artist": "Don Gibson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 74,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 75,
+      "title": "Reason To Believe",
+      "artist": "Suzi Jane Hokum",
+      "position": {
+        "Last Week": "75",
+        "Peak Position": 75,
+        "Wks on Chart": 2
+      }
+    }
+  ]
+}

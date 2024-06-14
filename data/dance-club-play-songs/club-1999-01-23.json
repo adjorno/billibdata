@@ -1,0 +1,551 @@
+{
+  "name": "Club",
+  "chart_date": "1999-01-23",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "It's Not Right But It's Okay",
+      "artist": "Whitney Houston",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Blue Monday",
+      "artist": "Orgy",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Outside",
+      "artist": "George Michael",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Up & Down",
+      "artist": "Vengaboys",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Pressure",
+      "artist": "Ultra Nate",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 5,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Believe",
+      "artist": "Cher",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 7,
+      "title": "These Are The Times",
+      "artist": "Pure Sugar",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 8,
+      "title": "I'm Beautiful",
+      "artist": "Bette Midler",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 8,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Power",
+      "artist": "Joi Cardwell",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 9,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Release Me",
+      "artist": "Engelbert Humperdinck",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 10,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Don't Let This Moment End",
+      "artist": "Gloria Estefan",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 12,
+      "title": "I Like The Way",
+      "artist": "Deni Hines",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 4,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Take Me To The Top",
+      "artist": "Plasmic Honey",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 13,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 14,
+      "title": "This Joy",
+      "artist": "Vernessa Mitchell",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Contact",
+      "artist": "Brooklyn Bounce",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 15,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 16,
+      "title": "The Reason",
+      "artist": "Sylk 130",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 16,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Wishing On A Star",
+      "artist": "Randy Crawford",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 14,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 18,
+      "title": "U Got My Love",
+      "artist": "DJ Jean",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 18,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 19,
+      "title": "I'm Gonna Get Ya Baby",
+      "artist": "Black Connection",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 3,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Join In The Chant",
+      "artist": "Kevin Aviance",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 8,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 21,
+      "title": "That Zipper Track",
+      "artist": "DJ Dan Presents Needle Damage",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 21,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Skin",
+      "artist": "Charlotte",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 22,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 23,
+      "title": "No Nos Tenemos (NNT)",
+      "artist": "Proyecto Uno",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Une Very Stylish Fille",
+      "artist": "Dimitri From Paris",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 18,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 25,
+      "title": "High",
+      "artist": "Lighthouse Family",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 25,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Sunshine Day",
+      "artist": "Matt Bianco",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Activate",
+      "artist": "That Kid Chris & DJ Mada Pres. Hardfeelings",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 27,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Godspeed",
+      "artist": "BT",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 28,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Muscles",
+      "artist": "Club 69 Featuring Suzanne Palmer",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 18,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Special",
+      "artist": "Garbage",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 30,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Find Another Woman",
+      "artist": "Reina",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 2,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Snow On The Sahara",
+      "artist": "Anggun",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 16,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Someone To Hold",
+      "artist": "Veronica",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 33,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Flower Duet '99",
+      "artist": "Jonathan Peters Presents Luminaire",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 34,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Strong In Love",
+      "artist": "Chicane Featuring Mason",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 5,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Take The Long Way Home",
+      "artist": "Faithless",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 36,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 37,
+      "title": "I've Had Enough",
+      "artist": "Regina Belle",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 37,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 38,
+      "title": "(You Got Me) Burnin' Up",
+      "artist": "Cevin Fisher",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 39,
+      "title": "I'm Comin'",
+      "artist": "Taana Gardner",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 35,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Get Up, Feel The Music",
+      "artist": "PM Network",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Tomorrow",
+      "artist": "Kim English",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 41,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Give Away My Fear",
+      "artist": "Aether",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 9,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Obsession",
+      "artist": "Fuzzy Logic",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 44,
+      "title": "I Know I Can Do It",
+      "artist": "Lisahall",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Cut Chemist Suite",
+      "artist": "Ozomatli",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 42,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Someone",
+      "artist": "Ascension",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 47,
+      "title": "To The Rhythm",
+      "artist": "Pepstar",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 13,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Looking For The Perfect Beat",
+      "artist": "Afrika Bambaataa & Soul Sonic Force",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 18,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Ain't No Mountain High Enough",
+      "artist": "Jocelyn Brown",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Satisfied",
+      "artist": "Erin Hamilton",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Eternal Flames",
+      "artist": "Hypertrophy",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "The Lover That You Are (Remix 2000)",
+      "artist": "Pulse Featuring Antoinette Roberson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52
+      }
+    },
+    {
+      "rank": 53,
+      "title": "We Like To Party!",
+      "artist": "Vengaboys",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Happy",
+      "artist": "Donna Blakely",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Joy",
+      "artist": "Kathy Brown",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55
+      }
+    }
+  ]
+}

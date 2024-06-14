@@ -1,0 +1,506 @@
+{
+  "name": "Rock",
+  "chart_date": "2012-08-11",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Burn It Down",
+      "artist": "Linkin Park",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Oh Love",
+      "artist": "Green Day",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Gold On The Ceiling",
+      "artist": "The Black Keys",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Some Nights",
+      "artist": "fun.",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Days Go By",
+      "artist": "The Offspring",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Little Talks",
+      "artist": "Of Monsters And Men",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Tongue Tied",
+      "artist": "Grouplove",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 3,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Too Close",
+      "artist": "Alex Clare",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 8,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Unity",
+      "artist": "Shinedown",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Ho Hey",
+      "artist": "The Lumineers",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 10,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 11,
+      "title": "It's Time",
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 6,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Hats Off To The Bull",
+      "artist": "Chevelle",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 6,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Runaways",
+      "artist": "The Killers",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 13,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Still Counting",
+      "artist": "Volbeat",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Midnight City",
+      "artist": "M83.",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 7,
+        "Wks on Chart": 35
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Live To Rise",
+      "artist": "Soundgarden",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 4,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Somebody That I Used To Know",
+      "artist": "Gotye Featuring Kimbra",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 1,
+        "Wks on Chart": 34
+      }
+    },
+    {
+      "rank": 18,
+      "title": "These Days",
+      "artist": "Foo Fighters",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 2,
+        "Wks on Chart": 43
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Settle Down",
+      "artist": "No Doubt",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 19,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Coming Down",
+      "artist": "Five Finger Death Punch",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 20,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Anna Sun",
+      "artist": "WALK THE MOON",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 20,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Bloody Mary (Nerve Endings)",
+      "artist": "Silversun Pickups",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 16,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Criticize",
+      "artist": "Adelitas Way",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Lost In Forever (Scream)",
+      "artist": "P.O.D.",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 24,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Rocky Mountain Way",
+      "artist": "Godsmack",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 17,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 26,
+      "title": "45",
+      "artist": "The Gaslight Anthem",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 26,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Take A Walk",
+      "artist": "Passion Pit",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 27,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Now",
+      "artist": "Staind",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 28,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Kill Your Heroes",
+      "artist": "AWOLNATION",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 29,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Mercy",
+      "artist": "Dave Matthews Band",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 30,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Wait For Me",
+      "artist": "Rise Against",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 31,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Weatherman",
+      "artist": "Dead Sara",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Spread Too Thin",
+      "artist": "The Dirty Heads",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 22,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Hold On",
+      "artist": "Alabama Shakes",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 28,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 35,
+      "title": "I Miss The Misery",
+      "artist": "Halestorm",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 35,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Here And Now",
+      "artist": "Seether",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 36,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Little Black Submarines",
+      "artist": "The Black Keys",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 37,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Comeback",
+      "artist": "Redlight King",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 38,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 39,
+      "title": "No Light, No Light",
+      "artist": "Florence + The Machine",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 26,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Lights",
+      "artist": "Ellie Goulding",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 40,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 41,
+      "title": "America",
+      "artist": "Deuce",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 41,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Youth Without Youth",
+      "artist": "Metric",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 28,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Soldiers",
+      "artist": "Otherwise",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 43,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Sorry",
+      "artist": "Art Of Dying",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 37,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Legendary Child",
+      "artist": "Aerosmith",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 27,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Figure It Out",
+      "artist": "Serj Tankian",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 44,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Satisfied",
+      "artist": "Aranda",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Bringing Down The Giant",
+      "artist": "Saving Abel",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Queen Of California",
+      "artist": "John Mayer",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 50,
+      "title": "That Wasn't Me",
+      "artist": "Brandi Carlile",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
+    }
+  ]
+}

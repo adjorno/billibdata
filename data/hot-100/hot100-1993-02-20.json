@@ -1,0 +1,1006 @@
+{
+  "name": "Hot 100",
+  "chart_date": "1993-02-20",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "I Will Always Love You",
+      "artist": "Whitney Houston",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 2,
+      "title": "A Whole New World (Aladdin's Theme)",
+      "artist": "Peabo Bryson & Regina Belle",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Ordinary World",
+      "artist": "Duran Duran",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 4,
+      "title": "I'm Every Woman (From \"The Bodyguard\")",
+      "artist": "Whitney Houston",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 4,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Saving Forever For You (From \"Beverly Hills, 90210\")",
+      "artist": "Shanice",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Mr. Wendal",
+      "artist": "Arrested Development",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 7,
+      "title": "If I Ever Fall In Love",
+      "artist": "Shai",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 8,
+      "title": "7",
+      "artist": "Prince And The New Power Generation",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 9,
+      "title": "In The Still Of The Nite (From \"The Jacksons\")",
+      "artist": "Boyz II Men",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Hip Hop Hooray",
+      "artist": "Naughty By Nature",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 10,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Here We Go Again!",
+      "artist": "Portrait",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Nuthin' But A \"G\" Thang",
+      "artist": "Dr. Dre",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 12,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Don't Walk Away",
+      "artist": "Jade",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 13,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Get Away",
+      "artist": "Bobby Brown",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 14,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Informer",
+      "artist": "Snow",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 15,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Rebirth Of Slick (Cool Like Dat)",
+      "artist": "Digable Planets",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 16,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Rump Shaker",
+      "artist": "Wreckx-N-Effect",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 2,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Bed Of Roses",
+      "artist": "Bon Jovi",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 18,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Rhythm Is A Dancer",
+      "artist": "Snap!",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 5,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Give It Up, Turn It Loose",
+      "artist": "En Vogue",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 21,
+      "title": "When She Cries",
+      "artist": "Restless Heart",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 11,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Good Enough",
+      "artist": "Bobby Brown",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 7,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Deeper And Deeper",
+      "artist": "Madonna",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 7,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Ditty",
+      "artist": "Paperboy",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 23,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 25,
+      "title": "That's What Love Can Do",
+      "artist": "Boy Krazy",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 25,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Comforter",
+      "artist": "Shai",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 26,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 27,
+      "title": "I Got A Man",
+      "artist": "Positive K",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 27,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 28,
+      "title": "I'd Die Without You (From \"Boomerang\")",
+      "artist": "P.M. Dawn",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 3,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Walk On The Ocean",
+      "artist": "Toad The Wet Sprocket",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 18,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Forever In Love",
+      "artist": "Kenny G",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 30,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Do You Believe In Us",
+      "artist": "Jon Secada",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 13,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Faithful",
+      "artist": "Go West",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 14,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Steam",
+      "artist": "Peter Gabriel",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 32,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 34,
+      "title": "No Mistakes",
+      "artist": "Patty Smyth",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 34,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Real Love",
+      "artist": "Mary J. Blige",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 7,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 36,
+      "title": "The Right Kind Of Love (From \"Beverly Hills, 90210\")",
+      "artist": "Jeremy Jordan",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 36,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 37,
+      "title": "I Got A Thang 4 Ya!",
+      "artist": "Lo-Key?",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 27,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 38,
+      "title": "What About Your Friends",
+      "artist": "TLC",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 7,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Two Princes",
+      "artist": "Spin Doctors",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 39,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Sweet Thing",
+      "artist": "Mary J. Blige",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 40,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Everything's Gonna Be Alright",
+      "artist": "Father M.C.",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 37,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Freak Me",
+      "artist": "Silk",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Quality Time",
+      "artist": "Hi-Five",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 38,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 44,
+      "title": "No Ordinary Love",
+      "artist": "Sade",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 28,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 45,
+      "title": "End Of The Road (From \"Boomerang\")",
+      "artist": "Boyz II Men",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 1,
+        "Wks on Chart": 32
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Stand Up (Kick Love Into Motion)",
+      "artist": "Def Leppard",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 34,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Dazzey Duks",
+      "artist": "Duice",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 47,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 48,
+      "title": "To Love Somebody",
+      "artist": "Michael Bolton",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 11,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Walking On Broken Glass",
+      "artist": "Annie Lennox",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 14,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Angel",
+      "artist": "Jon Secada",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 50,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Hat 2 Da Back",
+      "artist": "TLC",
+      "position": {
+        "Last Week": "89",
+        "Peak Position": 51,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Love Shoulda Brought You Home (From \"Boomerang\")",
+      "artist": "Toni Braxton",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 33,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 53,
+      "title": "I Love You Period",
+      "artist": "Dan Baird",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 26,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Heal The World",
+      "artist": "Michael Jackson",
+      "position": {
+        "Last Week": "65",
+        "Peak Position": 52,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 55,
+      "title": "It's Gonna Be A Lovely Day",
+      "artist": "The S.O.U.L. S.Y.S.T.E.M.",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 34,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 56,
+      "title": "Love Is (From \"Beverly Hills, 90210\")",
+      "artist": "Vanessa Williams/Brian McKnight",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 56,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 57,
+      "title": "Never A Time",
+      "artist": "Genesis",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 21,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 58,
+      "title": "Murder She Wrote",
+      "artist": "Chaka Demus & Pliers",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 57,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 59,
+      "title": "Little Bird",
+      "artist": "Annie Lennox",
+      "position": {
+        "Last Week": "67",
+        "Peak Position": 59,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 60,
+      "title": "Stand",
+      "artist": "Poison",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 60,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 61,
+      "title": "I'm So Into You",
+      "artist": "SWV",
+      "position": {
+        "Last Week": "76",
+        "Peak Position": 61,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 62,
+      "title": "Man On The Moon",
+      "artist": "R.E.M.",
+      "position": {
+        "Last Week": "70",
+        "Peak Position": 62,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 63,
+      "title": "I'm Gonna Get You",
+      "artist": "Bizarre Inc",
+      "position": {
+        "Last Week": "63",
+        "Peak Position": 63,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 64,
+      "title": "The Last Song",
+      "artist": "Elton John",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 23,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 65,
+      "title": "Tell The Truth",
+      "artist": "Jude Cole",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 65,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 66,
+      "title": "Understand This Groove",
+      "artist": "Sound Factory",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 58,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 67,
+      "title": "Irresistible",
+      "artist": "Cathy Dennis",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 61,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 68,
+      "title": "Homies",
+      "artist": "Lighter Shade Of Brown",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 57,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 69,
+      "title": "Love Can Move Mountains",
+      "artist": "Celine Dion",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 36,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 70,
+      "title": "Little Miss Can't Be Wrong",
+      "artist": "Spin Doctors",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 17,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 71,
+      "title": "Feels Like Heaven",
+      "artist": "Peter Cetera (Duet With Chaka Khan)",
+      "position": {
+        "Last Week": "71",
+        "Peak Position": 71,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 72,
+      "title": "Gangsta Bitch",
+      "artist": "Apache",
+      "position": {
+        "Last Week": "78",
+        "Peak Position": 72,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 73,
+      "title": "Cat's In The Cradle",
+      "artist": "Ugly Kid Joe",
+      "position": {
+        "Last Week": "79",
+        "Peak Position": 73,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 74,
+      "title": "Reminisce",
+      "artist": "Mary J. Blige",
+      "position": {
+        "Last Week": "72",
+        "Peak Position": 57,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 75,
+      "title": "Bad Girl",
+      "artist": "Madonna",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 75,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 76,
+      "title": "I See Your Smile",
+      "artist": "Gloria Estefan",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 76,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 77,
+      "title": "If I Ever Lose My Faith In You",
+      "artist": "Sting",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 77,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 78,
+      "title": "Gangsta",
+      "artist": "Bell Biv DeVoe",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 21,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 79,
+      "title": "Baby I'm For Real/Natural High",
+      "artist": "After 7",
+      "position": {
+        "Last Week": "73",
+        "Peak Position": 55,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 80,
+      "title": "Passionate Kisses",
+      "artist": "Mary Chapin Carpenter",
+      "position": {
+        "Last Week": "90",
+        "Peak Position": 80,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 81,
+      "title": "Slow And Sexy",
+      "artist": "Shabba Ranks (Featuring Johnny Gill)",
+      "position": {
+        "Last Week": "77",
+        "Peak Position": 33,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 82,
+      "title": "Come In Out Of The Rain",
+      "artist": "Wendy Moten",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 82,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 83,
+      "title": "Supermodel (You Better Work)",
+      "artist": "RuPaul",
+      "position": {
+        "Last Week": "91",
+        "Peak Position": 83,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 84,
+      "title": "Sweet Thing",
+      "artist": "Mick Jagger",
+      "position": {
+        "Last Week": "84",
+        "Peak Position": 84,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 85,
+      "title": "Speed",
+      "artist": "Alpha Team",
+      "position": {
+        "Last Week": "74",
+        "Peak Position": 74,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 86,
+      "title": "So Alone",
+      "artist": "Men At Large",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 86,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 87,
+      "title": "Happy Days",
+      "artist": "Silk",
+      "position": {
+        "Last Week": "94",
+        "Peak Position": 87,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 88,
+      "title": "Hope Of Deliverance",
+      "artist": "Paul McCartney",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 88,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 89,
+      "title": "Knock-N-Boots",
+      "artist": "Wreckx-N-Effect",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 89,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 90,
+      "title": "Love's Taken Over",
+      "artist": "Chante Moore",
+      "position": {
+        "Last Week": "87",
+        "Peak Position": 86,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 91,
+      "title": "Losin' Myself",
+      "artist": "Debbie Gibson",
+      "position": {
+        "Last Week": "86",
+        "Peak Position": 86,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 92,
+      "title": "Punks Jump Up To Get Beat Down",
+      "artist": "Brand Nubian",
+      "position": {
+        "Last Week": "82",
+        "Peak Position": 77,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 93,
+      "title": "Beautiful Girl",
+      "artist": "INXS",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 93,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 94,
+      "title": "Where You Goin' Now",
+      "artist": "Damn Yankees",
+      "position": {
+        "Last Week": "81",
+        "Peak Position": 20,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 95,
+      "title": "Stop The World",
+      "artist": "Extreme",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 95,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 96,
+      "title": "Lights",
+      "artist": "Journey",
+      "position": {
+        "Last Week": "96",
+        "Peak Position": 68,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 97,
+      "title": "Toss-Up",
+      "artist": "N2Deep",
+      "position": {
+        "Last Week": "92",
+        "Peak Position": 92,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 98,
+      "title": "Get Up (Move Boy Move)",
+      "artist": "AB Logic",
+      "position": {
+        "Last Week": "85",
+        "Peak Position": 83,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 99,
+      "title": "Flex",
+      "artist": "Mad Cobra",
+      "position": {
+        "Last Week": "80",
+        "Peak Position": 13,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 100,
+      "title": "Who's Gonna Ride Your Wild Horses",
+      "artist": "U2",
+      "position": {
+        "Last Week": "88",
+        "Peak Position": 35,
+        "Wks on Chart": 16
+      }
+    }
+  ]
+}

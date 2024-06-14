@@ -1,0 +1,506 @@
+{
+  "name": "Rap",
+  "chart_date": "1996-01-06",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Hey Lover",
+      "artist": "LL Cool J",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Tonite's Tha Night",
+      "artist": "Kris Kross",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Cell Therapy",
+      "artist": "Goodie Mob",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Gangsta's Paradise (From \"Dangerous Minds\")",
+      "artist": "Coolio Featuring L.V.",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Danger",
+      "artist": "Blahzay Blahzay",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Just Tah Let U Know",
+      "artist": "Eazy-E",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Too Hot",
+      "artist": "Coolio",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 6,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 8,
+      "title": "East 1999",
+      "artist": "Bone Thugs-N-Harmony",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 8,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Hurricane",
+      "artist": "The Click",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 4,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Let's Play House",
+      "artist": "Tha Dogg Pound Featuring Michel'le",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Fades Em All",
+      "artist": "Jamal",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 11,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 12,
+      "title": "The Riddler (From \"Batman Forever\")",
+      "artist": "Method Man",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 4,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Goin' Up Yonder",
+      "artist": "M.C. Hammer Feat. Angel Burgess & The San Jose Community Choir",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 13,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Fast Life",
+      "artist": "Kool G Rap",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 7,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Cold World",
+      "artist": "Genius/GZA Featuring Inspektah Deck",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Ridin' Low",
+      "artist": "L.A.D.",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 16,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Funkorama",
+      "artist": "Redman",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 17,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Throw Your Set In The Air",
+      "artist": "Cypress Hill",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Y'all Ain't Ready Yet",
+      "artist": "Mystikal",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 12,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Drop/Runnin'",
+      "artist": "The Pharcyde",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 5,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Fu-Gee-La",
+      "artist": "Fugees",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 22,
+      "title": "I Got 5 On It",
+      "artist": "Luniz",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 2,
+        "Wks on Chart": 32
+      }
+    },
+    {
+      "rank": 23,
+      "title": "I Need You Tonight",
+      "artist": "Junior M.A.F.I.A. Featuring Aaliyah",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 12,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Return Of Da Livin' Dead",
+      "artist": "The D.O.C.",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 9,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Wings Of The Morning",
+      "artist": "Capleton",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 6,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Leflaur Leflah Eshkushka",
+      "artist": "Heltah Skeltah And O.G.C. As The Fab 5",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Beware Of My Crew",
+      "artist": "L.B.C. Crew Feat. Tray D & South Sentrell",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 15,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Incarcerated Scarfaces/Ice Cream",
+      "artist": "Raekwon",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 5,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Pop Goz The Nine",
+      "artist": "Gripsta",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 29,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Last Dayz",
+      "artist": "Onyx",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 10,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Playa Hata",
+      "artist": "Luniz Featuring Teddy",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 13,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Jeeps, Lex Coups, Bimaz & Benz",
+      "artist": "Lost Boyz",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 11,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Sugar Hill",
+      "artist": "AZ",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 3,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 34,
+      "title": "One More Chance/Stay With Me",
+      "artist": "The Notorious B.I.G.",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 1,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Liquid Swords",
+      "artist": "Genius/GZA",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 3,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Summertime In The LBC (From \"The Show\")",
+      "artist": "The Dove Shack",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 11,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Gimme Yours",
+      "artist": "AZ",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Player's Anthem",
+      "artist": "Junior M.A.F.I.A.",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 2,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 39,
+      "title": "How High (From \"The Show\")",
+      "artist": "Redman/Method Man",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 2,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Ain't Nothin' But A She Thing",
+      "artist": "Salt-N-Pepa",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 15,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Boombastic/In The Summertime",
+      "artist": "Shaggy",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 1,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 42,
+      "title": "1st Of Tha Month",
+      "artist": "Bone Thugs-N-Harmony",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 4,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 43,
+      "title": "East Side Rendezvous",
+      "artist": "Frost",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 23,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Bomdigi",
+      "artist": "Erick Sermon",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 9,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Broken Language/Hustlin'",
+      "artist": "Smoothe Da Hustler",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 37,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Wrekonize/Sound Bwoy Burial",
+      "artist": "Smif-N-Wessun",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 29,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Temptations",
+      "artist": "2Pac",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Girlz Wit All Da Booty",
+      "artist": "MC Nas-D",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 35,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Whatz Up, Whatz Up",
+      "artist": "Playa Poncho Featuring L.A. Sno",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 17,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 50,
+      "title": "I Wish",
+      "artist": "Skee-Lo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 8,
+        "Wks on Chart": 33
+      }
+    }
+  ]
+}

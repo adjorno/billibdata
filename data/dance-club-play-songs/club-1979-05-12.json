@@ -1,0 +1,775 @@
+{
+  "name": "Club",
+  "chart_date": "1979-05-12",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Dancer/Dance To Dance",
+      "artist": "Gino Soccio",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Take Me Home",
+      "artist": "Cher",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Forbidden Love / You And I",
+      "artist": "Madleen Kane",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 4,
+      "title": "HE's THE GREATEST DANCER/WE ARE FAMILY",
+      "artist": "Sister Sledge",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 5,
+      "title": "I WHO HAVE NOTHING/STARS/BODY STRONG",
+      "artist": "Sylvester",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 5,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Ring My Bell",
+      "artist": "Anita Ward",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 6,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Dance With You",
+      "artist": "Carrie Lucas",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 8,
+      "title": "MY BABY's BABY",
+      "artist": "Liquid Gold",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 9,
+      "title": "ONE MORE MINUTE/FILL MY LIFE WITH LOVE/BELLE DE JO",
+      "artist": "Saint Tropez",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 9,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Work That Body",
+      "artist": "Taana Gardner",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 10,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 11,
+      "title": "BRIDGE OVER TROUBLED WATERS/DON't GIVE IT UP",
+      "artist": "Linda Clifford",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 11,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 12,
+      "title": "BAD,BAD BOY-ALL CUTS",
+      "artist": "Theo Vaness",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 12,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Disco Nights (Rock-Freak)",
+      "artist": "G.Q.",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Music Is My Way Of Life",
+      "artist": "Patti LaBelle",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 14,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Hold Your Horses",
+      "artist": "First Choice",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 5,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Hot Stuff/Bad Girls",
+      "artist": "Donna Summer",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 16,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 17,
+      "title": "BANG A GONG/ALL RIGHT NOW",
+      "artist": "Witch Queen",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 8,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 18,
+      "title": "In The Navy / Manhattan Woman / Go West",
+      "artist": "Village People",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 18,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Happiness",
+      "artist": "The Pointer Sisters",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 19,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 20,
+      "title": "ROCK IT TO THE TOP",
+      "artist": "Mantus",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 20,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 21,
+      "title": "By The Way You Dance (I Knew It Was You)",
+      "artist": "Bunny Sigler",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 16,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Pick Me Up,i'll Dance",
+      "artist": "Melba Moore",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 22,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 23,
+      "title": "I Got My Mind Made Up (You Can Get It Girl)",
+      "artist": "Instant Funk",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 24,
+      "title": "MAKIN' IT",
+      "artist": "David Naughton",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 11,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Boogie Woogie Dancin' Shoes",
+      "artist": "Claudja Barry",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 25,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 26,
+      "title": "EVERYBODY HERE MUST PARTY",
+      "artist": "Direct Current",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 26,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 27,
+      "title": "(Everybody) Get Dancin' / Don't Stop The Music",
+      "artist": "Bombers",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 3,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Ain't No Stoppin' Us Now",
+      "artist": "McFadden & Whitehead",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 28,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 29,
+      "title": "PANIC",
+      "artist": "French Kiss",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 29,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 30,
+      "title": "CUBA",
+      "artist": "The Gibson Brothers",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 30,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 31,
+      "title": "I Can Tell",
+      "artist": "Chanson",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 31,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 32,
+      "title": "There'but For The Grace Of God Go I",
+      "artist": "Machine",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 8,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Have A Cigar",
+      "artist": "Rosebud",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 33,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Blame It On The Boogie / Shake Your Body (Down To The Ground)",
+      "artist": "Jackson",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 20,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 35,
+      "title": "NIGHTTIME FANTASY",
+      "artist": "Vicki Sue Robinson",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 21,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 36,
+      "title": "LA BAMBA",
+      "artist": "Antonia Rodriquez",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 36,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Knock On Wood",
+      "artist": "Amii Stewart",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 5,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Poussez! (all cuts)",
+      "artist": "Poussez",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Hot Number",
+      "artist": "Foxy",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 39,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 41,
+      "title": "WHAT A FOOL BELIEVES",
+      "artist": "The Doobie Brothers",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 40,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Hot For You",
+      "artist": "Brainstorm",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 35,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Saturday Night,sunday Morning",
+      "artist": "Thelma Houston",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 33,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 44,
+      "title": "KEEP ON DANCIN'/DO IT AT THE DISCO",
+      "artist": "Gary's Gang",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 1,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Climb / Rushin' To Meet You",
+      "artist": "Midnight Rhythm",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 19,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Fire Night Dance (all cuts)",
+      "artist": "Peter Jacques Band",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 6,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Got To Be Real / Star Love / You Saved My Day",
+      "artist": "Cheryl Lynn",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 11,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 48,
+      "title": "WUTHERING HEIGHTS-ALL CUTS",
+      "artist": "Ferrara",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 34,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Here Comes The Night",
+      "artist": "The Beach Boys",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 48,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 50,
+      "title": "I Just Keep Thinking About You Baby",
+      "artist": "Tata Vega",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 51,
+      "title": "I ONLY WANNA GET UP AND DANCE",
+      "artist": "The Raes",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 47,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 52,
+      "title": "For Your Love",
+      "artist": "Chilly",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 38,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Ultimate (all cuts)",
+      "artist": "Ultimate",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 6,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 54,
+      "title": "STREET SENSE/212 NORTH 12TH",
+      "artist": "The Salsoul Orchestra",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 55,
+      "title": "PARTY SONG/TAKIN' A CHANCE/NIGHT TIME",
+      "artist": "Sticky Fingers",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 24,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 56,
+      "title": "Keep Your Body Working",
+      "artist": "Kleeer",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 57,
+      "title": "One Chain (Don't Make No Prison)",
+      "artist": "Santana",
+      "position": {
+        "Last Week": "73",
+        "Peak Position": 57
+      }
+    },
+    {
+      "rank": 58,
+      "title": "Disco People",
+      "artist": "Mike Theodore Orchestra",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 58
+      }
+    },
+    {
+      "rank": 59,
+      "title": "Heaven Must Have Sent You",
+      "artist": "Bonnie Pointer",
+      "position": {
+        "Last Week": "70",
+        "Peak Position": 59
+      }
+    },
+    {
+      "rank": 60,
+      "title": "Shoulda Gone Dancin'",
+      "artist": "High Inergy",
+      "position": {
+        "Last Week": "74",
+        "Peak Position": 60
+      }
+    },
+    {
+      "rank": 61,
+      "title": "SUNSHINE HOTEL",
+      "artist": "Richard T.Bear",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 41,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 62,
+      "title": "Jammin At The Disco",
+      "artist": "Philly Cream",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 62
+      }
+    },
+    {
+      "rank": 63,
+      "title": "Good,good Feelin'",
+      "artist": "War",
+      "position": {
+        "Last Week": "63",
+        "Peak Position": 63
+      }
+    },
+    {
+      "rank": 64,
+      "title": "Body Talkin'",
+      "artist": "Kathy Barnes",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 64
+      }
+    },
+    {
+      "rank": 65,
+      "title": "BABY BABA BOOGIE/SHAKE",
+      "artist": "The Gap Band",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 65
+      }
+    },
+    {
+      "rank": 66,
+      "title": "IT's OVER",
+      "artist": "Alma Faye Brooks",
+      "position": {
+        "Last Week": "68",
+        "Peak Position": 66
+      }
+    },
+    {
+      "rank": 67,
+      "title": "You Gonna Make Me Love Somebody Else",
+      "artist": "The Jones Girls",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 67
+      }
+    },
+    {
+      "rank": 68,
+      "title": "All Through Me",
+      "artist": "Laura Taylor",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 68
+      }
+    },
+    {
+      "rank": 69,
+      "title": "BOOGIE BUSINESS",
+      "artist": "Lamont Dozier",
+      "position": {
+        "Last Week": "72",
+        "Peak Position": 69
+      }
+    },
+    {
+      "rank": 70,
+      "title": "STAY WITH ME",
+      "artist": "Salsoul Orchestra Featuring Charo",
+      "position": {
+        "Last Week": "71",
+        "Peak Position": 70
+      }
+    },
+    {
+      "rank": 71,
+      "title": "Heart Of Glass",
+      "artist": "Blondie",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 58
+      }
+    },
+    {
+      "rank": 72,
+      "title": "MY LOVE IS MUSIC",
+      "artist": "Spaces",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 59
+      }
+    },
+    {
+      "rank": 73,
+      "title": "At Midnight",
+      "artist": "T-Connection",
+      "position": {
+        "Last Week": "67",
+        "Peak Position": 3,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 74,
+      "title": "I Will Survive / Substitute / Anybody Wanna Party? / I Said Yes",
+      "artist": "Gloria Gaynor",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 1,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 75,
+      "title": "Like An Eagle / New York By Night",
+      "artist": "Dennis Parker",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 47,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 76,
+      "title": "I Don't Want Nobody Else (To Dance With You)",
+      "artist": "Narada Michael Walden",
+      "position": {
+        "Last Week": "65",
+        "Peak Position": 64
+      }
+    },
+    {
+      "rank": 77,
+      "title": "Don't You Need",
+      "artist": "Linda Evans",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 55
+      }
+    },
+    {
+      "rank": 78,
+      "title": "SPANK",
+      "artist": "Jimmy 'Bo' Horne",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 48,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 79,
+      "title": "Bad For Me",
+      "artist": "Dee Dee Bridgewater",
+      "position": {
+        "Last Week": "75",
+        "Peak Position": 75
+      }
+    },
+    {
+      "rank": 80,
+      "title": "LET ME TAKE YOU DANCING",
+      "artist": "Bryan Adams",
+      "position": {
+        "Last Week": "76",
+        "Peak Position": 76
+      }
+    }
+  ]
+}

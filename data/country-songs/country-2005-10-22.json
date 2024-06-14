@@ -1,0 +1,606 @@
+{
+  "name": "Country",
+  "chart_date": "2005-10-22",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Better Life",
+      "artist": "Keith Urban",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Something To Be Proud Of",
+      "artist": "Montgomery Gentry",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Redneck Yacht Club",
+      "artist": "Craig Morgan",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Somebody's Hero",
+      "artist": "Jamie O'Neal",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Stay With Me (Brass Bed)",
+      "artist": "Josh Gracin",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Probably Wouldn't Be This Way",
+      "artist": "LeAnn Rimes",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 7,
+      "title": "A Real Fine Place To Start",
+      "artist": "Sara Evans",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Skin (Sarabeth)",
+      "artist": "Rascal Flatts",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 8,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Who You'd Be Today",
+      "artist": "Kenny Chesney",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 9,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Hicktown",
+      "artist": "Jason Aldean",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Come A Little Closer",
+      "artist": "Dierks Bentley",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 12,
+      "title": "You're Like Comin' Home",
+      "artist": "Lonestar",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Tequila Makes Her Clothes Fall Off",
+      "artist": "Joe Nichols",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 13,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Big Blue Note",
+      "artist": "Toby Keith",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 14,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Billy's Got His Beer Goggles On",
+      "artist": "Neal McCoy",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 14,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Best I Ever Had",
+      "artist": "Gary Allan",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 17,
+      "title": "All Jacked Up",
+      "artist": "Gretchen Wilson",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 8,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Good Ride Cowboy",
+      "artist": "Garth Brooks",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Like We Never Loved At All",
+      "artist": "Faith Hill",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 19,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 20,
+      "title": "She Let Herself Go",
+      "artist": "George Strait",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 20,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Boondocks",
+      "artist": "Little Big Town",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 20,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Must Be Doin' Somethin' Right",
+      "artist": "Billy Currington",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 22,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 23,
+      "title": "USA Today",
+      "artist": "Alan Jackson",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 23,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Good Ole Days",
+      "artist": "Phil Vassar",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Miss Me Baby",
+      "artist": "Chris Cagle",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 25,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 26,
+      "title": "(I Never Promised You A) Rose Garden",
+      "artist": "Martina McBride",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 26,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Delicious Surprise (I Believe It)",
+      "artist": "Jo Dee Messina",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 23,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Just Might (Make Me Believe)",
+      "artist": "Sugarland",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 28,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 29,
+      "title": "XXL",
+      "artist": "Keith Anderson",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 29,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Honky Tonk Badonkadonk",
+      "artist": "Trace Adkins",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 30,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Shoes",
+      "artist": "Shania Twain",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 31,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 32,
+      "title": "When I Get Where I'm Going",
+      "artist": "Brad Paisley Featuring Dolly Parton",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 32,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 33,
+      "title": "My Old Friend",
+      "artist": "Tim McGraw",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 33,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Comin' To Your City",
+      "artist": "Big & Rich",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 34,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 35,
+      "title": "She Didn't Have Time",
+      "artist": "Terri Clark",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Your Man",
+      "artist": "Josh Turner",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 36,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 37,
+      "title": "The Dollar",
+      "artist": "Jamey Johnson",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 37,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Nobody But Me",
+      "artist": "Blake Shelton",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 38,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Texas",
+      "artist": "George Strait",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 35,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Used To The Pain",
+      "artist": "Tracy Lawrence",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 35,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 41,
+      "title": "You're Gonna Be (Always Loved By Me)",
+      "artist": "Reba McEntire",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 40,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Nobody Gonna Tell Me What To Do",
+      "artist": "Van Zant",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 42,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Fightin' For",
+      "artist": "Cross Canadian Ragweed",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 43,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 44,
+      "title": "They Don't Understand",
+      "artist": "Sawyer Brown",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 44,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Kerosene",
+      "artist": "Miranda Lambert",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 45,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Arlington",
+      "artist": "Trace Adkins",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 16,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 47,
+      "title": "I Don't",
+      "artist": "Danielle Peck",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 47,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 48,
+      "title": "My Kind Of Music",
+      "artist": "Ray Scott",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 48,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Believe",
+      "artist": "Brooks & Dunn",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 50,
+      "title": "I Don't Feel Like Loving You Today",
+      "artist": "Gretchen Wilson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 51,
+      "title": "American By God's Amazing Grace",
+      "artist": "Luke Stricklin",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 50,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Anywhere But Here",
+      "artist": "Brice Long",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 52,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Ain't Wastin' Good Whiskey On You",
+      "artist": "Trick Pony",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 53,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Here's To You",
+      "artist": "Rascal Flatts",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 54,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 55,
+      "title": "She Don't Tell Me To",
+      "artist": "Montgomery Gentry",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 56,
+      "title": "Drunker Than Me",
+      "artist": "Trent Tomlinson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 56,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 57,
+      "title": "Good People",
+      "artist": "Jeff Bates",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 46,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 58,
+      "title": "Way Down",
+      "artist": "Bobby Pinson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 58,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 59,
+      "title": "Wherever You Are",
+      "artist": "Jack Ingram",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 59,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 60,
+      "title": "I Hope",
+      "artist": "Dixie Chicks",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 60,
+        "Wks on Chart": 1
+      }
+    }
+  ]
+}

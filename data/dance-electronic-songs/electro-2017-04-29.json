@@ -1,0 +1,506 @@
+{
+  "name": "Electronic",
+  "chart_date": "2017-04-29",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Something Just Like This",
+      "artist": "The Chainsmokers & Coldplay",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Paris",
+      "artist": "The Chainsmokers",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 3,
+      "title": "It Ain't Me",
+      "artist": "Kygo x Selena Gomez",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Rockabye",
+      "artist": "Clean Bandit Featuring Sean Paul & Anne-Marie",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Stay",
+      "artist": "Zedd & Alessia Cara",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Closer",
+      "artist": "The Chainsmokers Featuring Halsey",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 38
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Slide",
+      "artist": "Calvin Harris Featuring Frank Ocean & Migos",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Let Me Love You",
+      "artist": "DJ Snake Featuring Justin Bieber",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 2,
+        "Wks on Chart": 36
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Call On Me",
+      "artist": "Starley",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 10,
+      "title": "The One",
+      "artist": "The Chainsmokers",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 10,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Scared To Be Lonely",
+      "artist": "Martin Garrix & Dua Lipa",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Break Up Every Night",
+      "artist": "The Chainsmokers",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 12,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Symphony",
+      "artist": "Clean Bandit Featuring Zara Larsson",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 12,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 14,
+      "title": "My Type",
+      "artist": "The Chainsmokers Featuring Emily Warren",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 14,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Bloodstream",
+      "artist": "The Chainsmokers",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 15,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Last Day Alive",
+      "artist": "The Chainsmokers Featuring Florida Georgia Line",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 16,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Run Up",
+      "artist": "Major Lazer Featuring PARTYNEXTDOOR & Nicki Minaj",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 9,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Young",
+      "artist": "The Chainsmokers",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Don't Say",
+      "artist": "The Chainsmokers Featuring Emily Warren",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Honest",
+      "artist": "The Chainsmokers",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Heatstroke",
+      "artist": "Calvin Harris Featuring Young Thug, Pharrell Williams & Ariana Grande",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 22,
+      "title": "No Promises",
+      "artist": "Cheat Codes Featuring Demi Lovato",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Wake Up Alone",
+      "artist": "The Chainsmokers Featuring Jhene Aiko",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 24,
+      "title": "It Won't Kill Ya",
+      "artist": "The Chainsmokers Featuring Louane",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 25,
+      "title": "You Don't Know Me",
+      "artist": "Jax Jones Featuring RAYE",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 26,
+      "title": "I Love You",
+      "artist": "Axwell & Ingrosso Featuring Kid Ink",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Solo Dance",
+      "artist": "Martin Jensen",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 17,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Andromeda",
+      "artist": "Gorillaz Featuring D.R.A.M.",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 16,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Just Hold On",
+      "artist": "Steve Aoki & Louis Tomlinson",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 7,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Shooting Stars",
+      "artist": "Bag Raiders",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 11,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Light My Body Up",
+      "artist": "David Guetta Featuring Nicki Minaj & Lil Wayne",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 13,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Alone",
+      "artist": "Alan Walker",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 21,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Nova",
+      "artist": "Ahrix",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Falling",
+      "artist": "Alesso",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 29,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Say Less",
+      "artist": "Dillon Francis Featuring G-Eazy",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Feel Good",
+      "artist": "Gryffin And ILLENIUM Featuring Daya",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 17,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Light",
+      "artist": "San Holo",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 13,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Trouble",
+      "artist": "R3HAB Featuring Verite",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 26,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Hey Baby",
+      "artist": "Dimitri Vegas & Like Mike vs Diplo Featuring Deb's Daughter",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Sexual",
+      "artist": "NEIKED Featuring Dyo",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 22,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Places",
+      "artist": "Xenia Ghali Featuring Raquel Castro",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 38,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 42,
+      "title": "1 Night",
+      "artist": "Mura Masa & Charli XCX",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Find Me",
+      "artist": "Sigma Featuring Birdy",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 29,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Shed A Light",
+      "artist": "Robin Schulz & David Guetta & Cheat Codes",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 11,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Here Comes The Night",
+      "artist": "DJ Snake Featuring Mr. Hudson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Not Going Home",
+      "artist": "DVBBS X CMC$ Featuring Gia Koka",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 19,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Chasing Colors",
+      "artist": "Marshmello x Ookay Featuring Noah Cyrus",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 31,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 48,
+      "title": "I Miss You",
+      "artist": "Grey Featuring Bahari",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 21,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Byte",
+      "artist": "Martin Garrix x Brooks",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Hear Me Now",
+      "artist": "Alok, Bruno Martini, Zeeba",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 20,
+        "Wks on Chart": 17
+      }
+    }
+  ]
+}

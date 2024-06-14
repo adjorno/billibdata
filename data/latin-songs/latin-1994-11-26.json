@@ -1,0 +1,406 @@
+{
+  "name": "Latin",
+  "chart_date": "1994-11-26",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "La Media Vuelta",
+      "artist": "Luis Miguel",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Ni El Primero Ni El Ultimo",
+      "artist": "Los Rehenes",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Me Duele Estar Solo",
+      "artist": "La Mafia",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Te Amo, Te Amo, Te Amo",
+      "artist": "Sparx",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 5,
+      "title": "No Me Queda Mas",
+      "artist": "Selena",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 5,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Bidi Bidi Bom Bom",
+      "artist": "Selena",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 7,
+      "title": "El Puchoncito",
+      "artist": "Banda Machos",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Tu Lo Decidiste",
+      "artist": "Ana Gabriel",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 9,
+      "title": "La Nina Fresa",
+      "artist": "Banda Z",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 5,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Vivire",
+      "artist": "Juan Luis Guerra 440",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Mi Forma De Sentir",
+      "artist": "Pedro Fernandez",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 11,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Quiero Que Me Hagas El Amor",
+      "artist": "Ednita Nazario",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 13,
+      "title": "No, No Y No",
+      "artist": "Vicente Fernandez",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 13,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Para Que",
+      "artist": "Grupo Mojado",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Asi Es La Vida",
+      "artist": "Luis Enrique",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Lentamente",
+      "artist": "Juan Gabriel",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 16,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 17,
+      "title": "A Pesar De Todo",
+      "artist": "Alejandro Fernandez",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 17,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Te Amare Un Millon De Veces",
+      "artist": "Fandango USA",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 14,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Tragos Amargos",
+      "artist": "Tiranos del Norte",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 19,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 20,
+      "title": "A Capa Y Espada",
+      "artist": "Industria del Amor",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 9,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 21,
+      "title": "El Lloron",
+      "artist": "Los Reyes Locos",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Nada",
+      "artist": "Ana Barbara",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Si Lo Quieres",
+      "artist": "La Diferenzia",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 17,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Yo Tu Dueno",
+      "artist": "Los Fugitivos",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 24,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Lagrimas Al Recordar",
+      "artist": "Los Caminantes",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 20,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Quiero Volverte A Ver",
+      "artist": "Fama",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 26,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 27,
+      "title": "En Las Nubes",
+      "artist": "Edgar Joel",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 6,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Pero Que Necesidad",
+      "artist": "Juan Gabriel",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 29,
+      "title": "No Mas Boleros",
+      "artist": "Los Yonic's",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 18,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Vida",
+      "artist": "La Mafia",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 1,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Amor Lunatico",
+      "artist": "Giro",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 12,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Ramito De Violetas",
+      "artist": "Banda El Mexicano",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 32,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Me Estoy Enloqueciendo Por Ti",
+      "artist": "Jerry Rivera",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Querida",
+      "artist": "Chayanne",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 33,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Manana",
+      "artist": "Cristian",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 2,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Swing Latino",
+      "artist": "Banda Blanca",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 36,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Siempre Contigo",
+      "artist": "Lucero",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Te Amo",
+      "artist": "Los Mier",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Apiadate De Mi",
+      "artist": "Victor Manuelle",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 16,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Aunque Lo Dudes",
+      "artist": "Lalo Rodriguez",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "name": "Germany",
+  "chart_date": "2015-12-05",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Hello",
+      "artist": "Adele",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Geiles Leben",
+      "artist": "Glasperlenspiel",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Avenir",
+      "artist": "Louane",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Sorry",
+      "artist": "Justin Bieber",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 3,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Astronaut",
+      "artist": "Sido Featuring Andreas Bourani",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Lush Life",
+      "artist": "Zara Larsson",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 6,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Love Yourself",
+      "artist": "Justin Bieber",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 8,
+      "title": "What Do You Mean?",
+      "artist": "Justin Bieber",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 4,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Lieblingsmensch",
+      "artist": "Namika",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Photograph",
+      "artist": "Ed Sheeran",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 4,
+        "Wks on Chart": 15
+      }
+    }
+  ]
+}

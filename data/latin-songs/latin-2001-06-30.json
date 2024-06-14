@@ -1,0 +1,406 @@
+{
+  "name": "Latin",
+  "chart_date": "2001-06-30",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Azul",
+      "artist": "Cristian",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 2,
+      "title": "O Me Voy O Te Vas",
+      "artist": "Marco Antonio Solis",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 3,
+      "title": "La Bomba",
+      "artist": "Azul Azul",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 35
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Abrazame Muy Fuerte",
+      "artist": "Juan Gabriel",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Y Llegaste Tu",
+      "artist": "Banda El Recodo de Cruz Lizarraga",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 6,
+      "title": "No Te Podias Quedar",
+      "artist": "Conjunto Primavera",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Yo No Soy Esa Mujer",
+      "artist": "Paulina Rubio",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 7,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Y Yo Sigo Aqui",
+      "artist": "Paulina Rubio",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Besame",
+      "artist": "Ricardo Montaner",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 9,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Tu Mayor Tentacion",
+      "artist": "Yaire",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Te Quise Olvidar",
+      "artist": "MDO",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 1,
+        "Wks on Chart": 36
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Candela",
+      "artist": "Chayanne",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 8,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Como Se Cura Una Herida",
+      "artist": "Jaci Velasquez",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 9,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Tu Recuerdo",
+      "artist": "Ilegales",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 4,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 15,
+      "title": "La Gran Noche",
+      "artist": "Los Tucanes de Tijuana",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 15,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Solo Quiero Amarte",
+      "artist": "Ricky Martin",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Despreciado",
+      "artist": "Lupillo Rivera",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 11,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 18,
+      "title": "No Me Conoces Aun",
+      "artist": "Palomo",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 18,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Quiero",
+      "artist": "Jerry Rivera",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Me Declaro Culpable",
+      "artist": "Los Tigres del Norte",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 13,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Dulce Veneno",
+      "artist": "Carolina Lao",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 21,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Con Cada Beso",
+      "artist": "Huey Dunbar",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 22,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Amame",
+      "artist": "Rogelio Martinez \"EL RM\"",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 15,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Como Se Lo Explico Al Corazon",
+      "artist": "Victor Manuelle",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 16,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Bajo Cero",
+      "artist": "Ednita Nazario",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Pero No Me Ama",
+      "artist": "Gilberto Santa Rosa",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 7,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Me Libere",
+      "artist": "El Gran Combo de Puerto Rico",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 28,
+      "title": "El Amor Sonado",
+      "artist": "Los Tucanes de Tijuana",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 6,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Deja",
+      "artist": "Banda El Recodo de Cruz Lizarraga",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 9,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Dejame Amarte",
+      "artist": "Intocable",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Un Amor Asi",
+      "artist": "Tito Nieves",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Sueno Su Boca",
+      "artist": "Grupo Mojado",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Me Da Lo Mismo",
+      "artist": "Victor Manuelle",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 5,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Y...",
+      "artist": "Luis Miguel",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 8,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Esclavo Y Amo",
+      "artist": "Pepe Aguilar",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 14,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Sin Ti",
+      "artist": "MDO",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 36,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Para No Verte Mas",
+      "artist": "La Mosca Tse Tse",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 24,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Por Amar Asi",
+      "artist": "Julio Preciado Y Su Banda Perla del Pacifico",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Te He Prometido",
+      "artist": "El Original de La Sierra",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 38,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Disculpe Usted",
+      "artist": "Los Humildes",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 12,
+        "Wks on Chart": 24
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+# IntelliJ
+.idea/
+.idea/**
+*.iml
+modules.xml
+*.ipr
+out/
+
+### OSX ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Log file
+*.log
+*.log**
+
+# Thumbnails
+._*

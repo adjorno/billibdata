@@ -1,0 +1,506 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "1970-09-26",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Don't Play That Song",
+      "artist": "Aretha Franklin with The Dixie Flyers",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Ain't No Mountain High Enough",
+      "artist": "Diana Ross",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Patches",
+      "artist": "Clarence Carter",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Express Yourself",
+      "artist": "Charles Wright",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 5,
+      "title": "It's A Shame",
+      "artist": "The Spinners",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Seems Like I Gotta Do Wrong",
+      "artist": "The Whispers",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 6,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 7,
+      "title": "If I Didn't Care",
+      "artist": "The Moments",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 7,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Still Water (Love)",
+      "artist": "Four Tops",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 8,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Somebody's Been Sleeping",
+      "artist": "100 Proof Aged in Soul",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 9,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Get Up (I Feel Like Being Like A) Sex Machine (Part 1)",
+      "artist": "James Brown",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 2,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Signed, Sealed, Delivered I'm Yours",
+      "artist": "Stevie Wonder",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 12,
+      "title": "War",
+      "artist": "Edwin Starr",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 3,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 13,
+      "title": "I Have Learned To Do Without You",
+      "artist": "Mavis Staples",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 13,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Everything's Tuesday",
+      "artist": "Chairman Of The Board",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 15,
+      "title": "(Baby) Turn On To Me",
+      "artist": "The Impressions",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 15,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Groovy Situation",
+      "artist": "Gene Chandler",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 8,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 17,
+      "title": "When You Get Right Down To It",
+      "artist": "The Delfonics",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 17,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Do You See My Love (For You Growing)",
+      "artist": "Jr. Walker & The All Stars",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 3,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 19,
+      "title": "I Like Your Lovin' (Do You Like Mine)",
+      "artist": "The Chi-lites",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 11,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 20,
+      "title": "We Can Make It Baby/I Like Your Style",
+      "artist": "The Originals",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 20,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Stand By Your Man",
+      "artist": "Candi Staton",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 21,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 22,
+      "title": "I'll Be There",
+      "artist": "Jackson 5",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 23,
+      "title": "She Said Yes",
+      "artist": "Wilson Pickett",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 20,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 24,
+      "title": "(If You Let Me Make Love To You Then) Why Can't I Touch You?",
+      "artist": "Ronnie Dyson",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 9,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 25,
+      "title": "I Do Take You",
+      "artist": "The Three Degrees",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 25,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Yours Love",
+      "artist": "Joe Simon",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 10,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Don't Make Me Over",
+      "artist": "Brenda & The Tabulations",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 15,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 28,
+      "title": "You're Gonna Make It",
+      "artist": "Festival",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 28,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 29,
+      "title": "(I Know) I'm Losing You",
+      "artist": "Rare Earth",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 29,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Baby, I Need Your Loving",
+      "artist": "O.C. Smith",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Love Uprising",
+      "artist": "Otis Leaville",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 31,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 32,
+      "title": "I Stand Accused",
+      "artist": "Isaac Hayes",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 32,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 33,
+      "title": "I Wanna Know If It's Good To You?",
+      "artist": "Funkadelic",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 27,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Part Time Love",
+      "artist": "Ann Peebles",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 34,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Hey Romeo",
+      "artist": "The Sequins",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 35,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Everybody's Got The Right To Love",
+      "artist": "The Supremes",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 11,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Gimme Some (Part I)",
+      "artist": "General Crook",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Stay Away From Me (I Love You Too Much)",
+      "artist": "Major Lance",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 13,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Black Fox",
+      "artist": "Freddy Robinson",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 29,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 40,
+      "title": "In My Opinion",
+      "artist": "The Vandals",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 35,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 41,
+      "title": "I Won't Cry",
+      "artist": "Johnny Adams",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 41,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 42,
+      "title": "A Message From The Meters",
+      "artist": "The Meters",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 42,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 43,
+      "title": "I Need Help (I Can't Do It Alone) Pt. 1",
+      "artist": "Bobby Byrd",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 43,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Pure Love",
+      "artist": "Betty Wright",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 40,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Funky Man",
+      "artist": "Kool & The Gang",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 45,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Let Me Try",
+      "artist": "Odds & Ends",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 46,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Baby Don't Take Your Love",
+      "artist": "Faith, Hope And Charity",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Double Lovin'",
+      "artist": "Spencer Wiggins",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 48,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Deeper & Deeper",
+      "artist": "Freda Payne",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 50,
+      "title": "5-10-15-20 (25-30 Years Of Love)",
+      "artist": "The Presidents",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
+    }
+  ]
+}

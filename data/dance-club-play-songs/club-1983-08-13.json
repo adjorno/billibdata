@@ -1,0 +1,796 @@
+{
+  "name": "Club",
+  "chart_date": "1983-08-13",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "STATE FARM/NOBODY's DIARY",
+      "artist": "Yaz",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Do It Again/Billie Jean",
+      "artist": "Slingshot",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 2,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 3,
+      "title": "She Works Hard For The Money",
+      "artist": "Donna Summer",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 4,
+      "title": "SO MANY MEN, SO LITTLE TIME",
+      "artist": "Miquel Brown",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Rockit",
+      "artist": "Herbie Hancock",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 5,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 6,
+      "title": "I.O.U.",
+      "artist": "Freeez",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Sweet Dreams (Are Made Of This)",
+      "artist": "Eurythmics",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 7,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Maniac",
+      "artist": "Michael Sembello",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Speaking In Tongues (all cuts)",
+      "artist": "Talking Heads",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 9,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 10,
+      "title": "OUT IN THE NIGHT",
+      "artist": "Serge Ponsar",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 10,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Get It Right",
+      "artist": "Aretha Franklin",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 11,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 12,
+      "title": "(Keep Feeling) Fascination",
+      "artist": "The Human League",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Maschine Brennt / On The Run (Auf Der Flucht)",
+      "artist": "Falco",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 14,
+      "title": "I'll Tumble 4 Ya",
+      "artist": "Culture Club",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 14,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 15,
+      "title": "I DON't WANT TO TALK ABOUT IT",
+      "artist": "Pamala Stanley",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 15,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 16,
+      "title": "I LOVE YOU",
+      "artist": "Yello",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 17,
+      "title": "STAND BACK",
+      "artist": "Stevie Nicks",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 17,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Dead Giveaway",
+      "artist": "Shalamar",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 18,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 19,
+      "title": "JUST BE GOOD TO ME",
+      "artist": "The S.O.S. Band",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 19,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Whammy/Legal Tender/Songs For The Future Generation",
+      "artist": "The B-52s",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 9,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Pieces Of Ice",
+      "artist": "Diana Ross",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 21,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 22,
+      "title": "GUILTY",
+      "artist": "Lime",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 22,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 23,
+      "title": "What's She Got",
+      "artist": "Liquid Gold",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 23,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 24,
+      "title": "The Safety Dance",
+      "artist": "Men Without Hats",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Potential New Boyfriend",
+      "artist": "Dolly Parton",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 14,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 26,
+      "title": "FACE TO FACE, HEART TO HEART",
+      "artist": "The Twins",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 27,
+      "title": "BAND OF GOLD",
+      "artist": "Sylvester",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 27,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 28,
+      "title": "EVERY BREATH YOU TAKE",
+      "artist": "Otis Liggett",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 28,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 29,
+      "title": "YOU BROUGHT THE SUNSHINE",
+      "artist": "The Clark Sisters",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 29,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 30,
+      "title": "BLIND VISION",
+      "artist": "Blancmange",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 3,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 31,
+      "title": "DANCE TO THE MUSIC",
+      "artist": "Junior Byron",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 32,
+      "title": "LOVE SO DEEP",
+      "artist": "Toney Lee",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 33,
+      "title": "I WANTED TO TELL HER",
+      "artist": "Ministry",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Is There Something I Should Know",
+      "artist": "Duran Duran",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 34,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Lined Up / My Spine (Is The Bassline) / Accretions",
+      "artist": "Shriekback",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 35,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 36,
+      "title": "A.E.I.O.U. (SOMETIMES Y)",
+      "artist": "Ebn/ozn",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 36,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Love Me Tonight",
+      "artist": "Attitude",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 37,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 38,
+      "title": "MY TURN TO LOVE YOU",
+      "artist": "Lenny White",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 38,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Puttin' On The Ritz",
+      "artist": "Taco",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 39,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 40,
+      "title": "TO SIR WITH LOVE",
+      "artist": "Vicki Sue Robinson",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 40,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 41,
+      "title": "EVERY BREATH YOU TAKE",
+      "artist": "The Police",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 26,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 42,
+      "title": "LOVE THIS WAY",
+      "artist": "Lee Prentiss",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Cold Blooded",
+      "artist": "Rick James",
+      "position": {
+        "Last Week": "65",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 44,
+      "title": "PICK ME UP (CAN WE GO)",
+      "artist": "Electric Mind",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 44,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 45,
+      "title": "VIDEO BURNOUT",
+      "artist": "Little Toni Marsh",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 45,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Backstreet Romance",
+      "artist": "Lovered",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 46,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Searchin' (I've Gotta Find A Man)",
+      "artist": "Hazell Dean",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Party Time",
+      "artist": "Kurtis Blow",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 49,
+      "title": "The Haunted House Of Rock",
+      "artist": "Whodini",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 27,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 50,
+      "title": "BUILD ME A BRIDGE",
+      "artist": "Adele Bertei",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Ain't Nobody",
+      "artist": "Chaka Khan",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Let No Man Put Asunder",
+      "artist": "First Choice",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 13,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Keep Giving Me Love",
+      "artist": "D Train",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 54,
+      "title": "HEOBAH",
+      "artist": "Fonda Rae",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 19,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 55,
+      "title": "YOU ARE IN MY SYSTEM",
+      "artist": "Robert Palmer",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 4,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 56,
+      "title": "THESE MEMORIES",
+      "artist": "O Romeo",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 18,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 57,
+      "title": "INFATUATION",
+      "artist": "Upfront",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 57
+      }
+    },
+    {
+      "rank": 58,
+      "title": "GO DEH YAKA (GO TO THE TOP)",
+      "artist": "Monyaka",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 58
+      }
+    },
+    {
+      "rank": 59,
+      "title": "Freak-A-Zoid",
+      "artist": "Midnight Star",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 44,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 60,
+      "title": "HIGH NOON",
+      "artist": "Two Sisters",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 60
+      }
+    },
+    {
+      "rank": 61,
+      "title": "HIGHRISE",
+      "artist": "Ashford & Simpson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 61
+      }
+    },
+    {
+      "rank": 62,
+      "title": "Flashdance...What A Feeling",
+      "artist": "Irene Cara",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 63,
+      "title": "Thriller (all cuts)",
+      "artist": "Michael Jackson (all cuts)",
+      "position": {
+        "Last Week": "63",
+        "Peak Position": 1,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 64,
+      "title": "TEMPTATION/WE LIVE SO FAST",
+      "artist": "Heaven 17",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 34,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 65,
+      "title": "STOP AND GO",
+      "artist": "David Grant",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 65
+      }
+    },
+    {
+      "rank": 66,
+      "title": "DOUBLE DUTCH",
+      "artist": "Malcolm McLaren",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 66
+      }
+    },
+    {
+      "rank": 67,
+      "title": "BAD BOYS",
+      "artist": "Wham!",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 67
+      }
+    },
+    {
+      "rank": 68,
+      "title": "Inside Love (so Personal)",
+      "artist": "George Benson",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 7,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 69,
+      "title": "CAVERN",
+      "artist": "Liquid Liquid",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 50,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 70,
+      "title": "MEMORY",
+      "artist": "Manage",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 13,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 71,
+      "title": "ADVENTURES IN SUCCESS",
+      "artist": "Will Powers",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 33,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 72,
+      "title": "BABY JANE",
+      "artist": "Rod Stewart",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 47,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 73,
+      "title": "LOW DOWN DIRTY RHYTHM",
+      "artist": "Sarah Dash",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 37,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 74,
+      "title": "Don't Be So Serious",
+      "artist": "Starpoint",
+      "position": {
+        "Last Week": "67",
+        "Peak Position": 46,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 75,
+      "title": "STAY WITH ME",
+      "artist": "India",
+      "position": {
+        "Last Week": "71",
+        "Peak Position": 28,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 76,
+      "title": "Riding The Tiger",
+      "artist": "Phyllis Hyman",
+      "position": {
+        "Last Week": "72",
+        "Peak Position": 20,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 77,
+      "title": "Let's Dance",
+      "artist": "David Bowie",
+      "position": {
+        "Last Week": "74",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 78,
+      "title": "Save The Overtime (For Me)",
+      "artist": "Gladys Knight And The Pips",
+      "position": {
+        "Last Week": "75",
+        "Peak Position": 18,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 79,
+      "title": "JIMMY JIMMY",
+      "artist": "Ric Ocasek",
+      "position": {
+        "Last Week": "73",
+        "Peak Position": 60
+      }
+    },
+    {
+      "rank": 80,
+      "title": "LET's LIVE IT UP (NITE PEOPLE)",
+      "artist": "David Joseph",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 55
+      }
+    }
+  ]
+}

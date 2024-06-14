@@ -1,0 +1,1006 @@
+{
+  "name": "Hot 100",
+  "chart_date": "1968-04-27",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Honey",
+      "artist": "Bobby Goldsboro",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Cry Like A Baby",
+      "artist": "The Box Tops",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Young Girl",
+      "artist": "The Union Gap Featuring Gary Puckett",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Lady Madonna",
+      "artist": "The Beatles",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 4,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 5,
+      "title": "(Sweet Sweet Baby) Since You've Been Gone",
+      "artist": "Aretha Franklin",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 6,
+      "title": "I Got The Feelin'",
+      "artist": "James Brown And The Famous Flames",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 6,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 7,
+      "title": "(Sittin' On) The Dock Of The Bay",
+      "artist": "Otis Redding",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Dance To The Music",
+      "artist": "Sly & The Family Stone",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Tighten Up",
+      "artist": "Archie Bell & The Drells",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 9,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 10,
+      "title": "The Ballad Of Bonnie And Clyde",
+      "artist": "Georgie Fame",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 11,
+      "title": "If You Can Want",
+      "artist": "Smokey Robinson & The Miracles",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 11,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 12,
+      "title": "The Unicorn",
+      "artist": "The Irish Rovers",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 12,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Cowboys To Girls",
+      "artist": "The Intruders",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 13,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 14,
+      "title": "The Good, The Bad And The Ugly",
+      "artist": "Hugo Montenegro, His Orchestra And Chorus",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 14,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 15,
+      "title": "La - La - Means I Love You",
+      "artist": "The Delfonics",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 4,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Summertime Blues",
+      "artist": "Blue Cheer",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Playboy",
+      "artist": "Gene And Debbe",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Sweet Inspiration",
+      "artist": "The Sweet Inspirations",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 18,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 19,
+      "title": "A Beautiful Morning",
+      "artist": "The Rascals",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 19,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Take Time To Know Her",
+      "artist": "Percy Sledge",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 20,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Ain't No Way",
+      "artist": "Aretha Franklin",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Love Is All Around",
+      "artist": "The Troggs",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Funky Street",
+      "artist": "Arthur Conley",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 23,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Scarborough Fair (/Canticle)",
+      "artist": "Simon & Garfunkel",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Love Is Blue (L'amour Est Bleu)",
+      "artist": "Paul Mauriat And His Orchestra",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Jennifer Juniper",
+      "artist": "Donovan",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 26,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Do You Know The Way To San José",
+      "artist": "Dionne Warwick",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 27,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Forever Came Today",
+      "artist": "Diana Ross & The Supremes",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 28,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Mighty Quinn (Quinn The Eskimo)",
+      "artist": "Manfred Mann",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Cab Driver",
+      "artist": "The Mills Brothers",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 23,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Shoo-Be-Doo-Be-Doo-Da-Day",
+      "artist": "Stevie Wonder",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 31,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 32,
+      "title": "U.S. Male",
+      "artist": "Elvis Presley With The Jordanaires",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 32,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Take Good Care Of My Baby",
+      "artist": "Bobby Vinton",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 33,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Delilah",
+      "artist": "Tom Jones",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 34,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Security",
+      "artist": "Etta James",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 35,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Soul Serenade",
+      "artist": "Willie Mitchell",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 36,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Ame Caline (Soul Coaxing)",
+      "artist": "Raymond Lefevre and His Orchestra",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 37,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Kiss Me Goodbye",
+      "artist": "Petula Clark",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 15,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Ain't Nothing Like The Real Thing",
+      "artist": "Marvin Gaye & Tammi Terrell",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 39,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 40,
+      "title": "The Son Of Hickory Holler's Tramp",
+      "artist": "O.C. Smith",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 40,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 41,
+      "title": "She's Lookin' Good",
+      "artist": "Wilson Pickett",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 41,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 42,
+      "title": "The Impossible Dream",
+      "artist": "The Hesitations",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 42,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Jennifer Eccles",
+      "artist": "The Hollies",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 43,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 44,
+      "title": "I Will Always Think About You",
+      "artist": "The New Colony Six",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 44,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Valleri",
+      "artist": "The Monkees",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 3,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Simon Says",
+      "artist": "1910 Fruitgum Co.",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 4,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Call Me Lightning",
+      "artist": "The Who",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 47,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 48,
+      "title": "The Unknown Soldier",
+      "artist": "The Doors",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 48,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Mony Mony",
+      "artist": "Tommy James And The Shondells",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 49,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Look To Your Soul",
+      "artist": "Johnny Rivers",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 50,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Loving You Has Made Me Bananas",
+      "artist": "Guy Marks",
+      "position": {
+        "Last Week": "67",
+        "Peak Position": 51,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Sherry Don't Go",
+      "artist": "The Lettermen",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 52,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Goodbye Baby (I Don't Want To See You Cry)",
+      "artist": "Tommy Boyce & Bobby Hart",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 53,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Little Green Apples",
+      "artist": "Roger Miller",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 39,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Foggy Mountain Breakdown",
+      "artist": "Flatt & Scruggs",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 55,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 56,
+      "title": "Paying The Cost To Be The Boss",
+      "artist": "B.B. King",
+      "position": {
+        "Last Week": "73",
+        "Peak Position": 56,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 57,
+      "title": "Jumbo",
+      "artist": "Bee Gees",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 57,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 58,
+      "title": "Mrs. Robinson",
+      "artist": "Simon & Garfunkel",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 58,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 59,
+      "title": "L. David Sloane",
+      "artist": "Michele Lee",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 52,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 60,
+      "title": "You've Still Got A Place In My Heart",
+      "artist": "Dean Martin",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 60,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 61,
+      "title": "Like To Get To Know You",
+      "artist": "Spanky And Our Gang",
+      "position": {
+        "Last Week": "71",
+        "Peak Position": 61,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 62,
+      "title": "Red Red Wine",
+      "artist": "Neil Diamond",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 62,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 63,
+      "title": "I Wanna Live",
+      "artist": "Glen Campbell",
+      "position": {
+        "Last Week": "63",
+        "Peak Position": 63,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 64,
+      "title": "Wear It On Our Face",
+      "artist": "The Dells",
+      "position": {
+        "Last Week": "70",
+        "Peak Position": 64,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 65,
+      "title": "I Can't Believe I'm Losing You",
+      "artist": "Frank Sinatra",
+      "position": {
+        "Last Week": "65",
+        "Peak Position": 65,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 66,
+      "title": "Gentle On My Mind",
+      "artist": "Patti Page",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 66,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 67,
+      "title": "Me, The Peaceful Heart",
+      "artist": "Lulu",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 53,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 68,
+      "title": "Cinderella Rockefella",
+      "artist": "Esther & Abi Ofarim",
+      "position": {
+        "Last Week": "68",
+        "Peak Position": 68,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 69,
+      "title": "100 Years",
+      "artist": "Nancy Sinatra",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 69,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 70,
+      "title": "Friends",
+      "artist": "The Beach Boys",
+      "position": {
+        "Last Week": "96",
+        "Peak Position": 70,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 71,
+      "title": "Impossible Mission (Mission Impossible)",
+      "artist": "Soul Survivors",
+      "position": {
+        "Last Week": "72",
+        "Peak Position": 71,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 72,
+      "title": "My Girl/Hey Girl",
+      "artist": "Bobby Vee",
+      "position": {
+        "Last Week": "82",
+        "Peak Position": 72,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 73,
+      "title": "Funky Walk Part I (East)",
+      "artist": "Dyke And The Blazers",
+      "position": {
+        "Last Week": "74",
+        "Peak Position": 73,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 74,
+      "title": "I Got A Sure Thing",
+      "artist": "Ollie & The Nightingales",
+      "position": {
+        "Last Week": "75",
+        "Peak Position": 74,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 75,
+      "title": "Master Jack",
+      "artist": "Four Jacks And A Jill",
+      "position": {
+        "Last Week": "76",
+        "Peak Position": 75,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 76,
+      "title": "If You Don't Want My Love",
+      "artist": "Robert John",
+      "position": {
+        "Last Week": "77",
+        "Peak Position": 76,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 77,
+      "title": "We're Rolling On (Part I)",
+      "artist": "The Impressions",
+      "position": {
+        "Last Week": "78",
+        "Peak Position": 77,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 78,
+      "title": "Does Your Mama Know About Me",
+      "artist": "Bobby Taylor & The Vancouvers",
+      "position": {
+        "Last Week": "97",
+        "Peak Position": 78,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 79,
+      "title": "Goin' Away",
+      "artist": "The Fireballs",
+      "position": {
+        "Last Week": "80",
+        "Peak Position": 79,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 80,
+      "title": "Anything",
+      "artist": "Eric Burdon & The Animals",
+      "position": {
+        "Last Week": "81",
+        "Peak Position": 80,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 81,
+      "title": "Cabaret",
+      "artist": "Herb Alpert & The Tijuana Brass",
+      "position": {
+        "Last Week": "83",
+        "Peak Position": 81,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 82,
+      "title": "(You Keep Me) Hangin' On",
+      "artist": "Joe Simon",
+      "position": {
+        "Last Week": "85",
+        "Peak Position": 82,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 83,
+      "title": "I Promise To Wait My Love",
+      "artist": "Martha Reeves & The Vandellas",
+      "position": {
+        "Last Week": "84",
+        "Peak Position": 83,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 84,
+      "title": "May I Take A Giant Step (Into Your Heart)",
+      "artist": "1910 Fruitgum Co.",
+      "position": {
+        "Last Week": "86",
+        "Peak Position": 84,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 85,
+      "title": "I Love You",
+      "artist": "People",
+      "position": {
+        "Last Week": "87",
+        "Peak Position": 85,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 86,
+      "title": "Chain Gang",
+      "artist": "Jackie Wilson & Count Basie",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 86,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 87,
+      "title": "The Happy Song (Dum-Dum)",
+      "artist": "Otis Redding",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 87,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 88,
+      "title": "Baby Make Your Own Sweet Music",
+      "artist": "Jay And The Techniques",
+      "position": {
+        "Last Week": "92",
+        "Peak Position": 88,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 89,
+      "title": "Show Time",
+      "artist": "Detroit Emeralds",
+      "position": {
+        "Last Week": "89",
+        "Peak Position": 89,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 90,
+      "title": "You'll Never Walk Alone",
+      "artist": "Elvis Presley With The Jordanaires",
+      "position": {
+        "Last Week": "90",
+        "Peak Position": 90,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 91,
+      "title": "Your Heart Is Free Just Like The Wind",
+      "artist": "Vikki Carr",
+      "position": {
+        "Last Week": "91",
+        "Peak Position": 91,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 92,
+      "title": "I'm Sorry",
+      "artist": "The Delfonics",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 92,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 93,
+      "title": "Love In Them There Hills",
+      "artist": "The Vibrations",
+      "position": {
+        "Last Week": "93",
+        "Peak Position": 93,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 94,
+      "title": "I Can Remember",
+      "artist": "James & Bobby Purify",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 94,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 95,
+      "title": "Never Get Enough Of Your Love",
+      "artist": "Oscar Toney, Jr.",
+      "position": {
+        "Last Week": "95",
+        "Peak Position": 95,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 96,
+      "title": "Lili Marlene",
+      "artist": "Al Martino",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 96,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 97,
+      "title": "Unwind",
+      "artist": "Ray Stevens",
+      "position": {
+        "Last Week": "99",
+        "Peak Position": 97,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 98,
+      "title": "Greasy Heart",
+      "artist": "Jefferson Airplane",
+      "position": {
+        "Last Week": "98",
+        "Peak Position": 98,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 99,
+      "title": "If I Were A Carpenter",
+      "artist": "Four Tops",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 99,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 100,
+      "title": "A Tribute To A King",
+      "artist": "William Bell",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 100,
+        "Wks on Chart": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "name": "Rap",
+  "chart_date": "2001-05-26",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "My Baby",
+      "artist": "Lil' Romeo",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 2,
+      "title": "What Would You Do?",
+      "artist": "City High",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Oochie Wally",
+      "artist": "QB Finest Featuring Nas & Bravehearts",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Bigacts Littleacts",
+      "artist": "Afu-Ra Featuring GZA",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Who's Gonna Love Ya'",
+      "artist": "Bigga Figgaz",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Bow Wow (That's My Name)",
+      "artist": "Lil Bow Wow",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Angel",
+      "artist": "Shaggy Featuring Rayvon",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 8,
+      "title": "All I Wanna Do",
+      "artist": "The Young Millionaires Featuring Lil' One -- The Young Millionairess",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 8,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 9,
+      "title": "What Side You On",
+      "artist": "Shamus, Flu, Karachi-Raw, Skar & Maximillan",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 6,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Did That!",
+      "artist": "812 Souljaz Featuring Whoo Whee",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 9,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 11,
+      "title": "That's The Way We Roll",
+      "artist": "Alley Life",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Request Line",
+      "artist": "The Black Eyed Peas Featuring Macy Gray",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 2,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Let's Get It",
+      "artist": "Three The... G. Dep, P. Diddy & Black Rob",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 13,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Da B.O.M.B.",
+      "artist": "Caponiac",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 5,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Cross The Border",
+      "artist": "Philly's Most Wanted",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 3,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Bomb Bomb Girl",
+      "artist": "J.A.G. Featuring Cameo And Raa'k",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 10,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Let's Get Dirty (I Can't Get In Da Club)",
+      "artist": "Redman Featuring DJ Kool",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Torture",
+      "artist": "Screwball Featuring M.O.P.",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Let Me Blow Ya Mind",
+      "artist": "Eve Featuring Gwen Stefani",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Ms. Jackson",
+      "artist": "OutKast",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 1,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Come Ride With Me",
+      "artist": "Jahari",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 9,
+        "Wks on Chart": 32
+      }
+    },
+    {
+      "rank": 22,
+      "title": "One More Chance/Stay With Me",
+      "artist": "The Notorious B.I.G.",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 1,
+        "Wks on Chart": 46
+      }
+    },
+    {
+      "rank": 23,
+      "title": "It Wasn't Me",
+      "artist": "Shaggy Featuring Ricardo \"RikRok\" Ducent",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 1,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Big Poppa/Warning",
+      "artist": "The Notorious B.I.G.",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 1,
+        "Wks on Chart": 46
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Lick Shots",
+      "artist": "Missy \"Misdemeanor\" Elliott",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 25,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Best U Can",
+      "artist": "Tha Liks",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 26,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Superb",
+      "artist": "Superb",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 27,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Get Ur Freak On",
+      "artist": "Missy \"Misdemeanor\" Elliott",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 7,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Gravel Pit",
+      "artist": "Wu-Tang Clan",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 20,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Dollaz, Drank & Dank",
+      "artist": "Mr. Short Khop Featuring Kokane",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 2,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 31,
+      "title": "B.K. Anthem/Oh Yeah",
+      "artist": "Foxy Brown",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 22,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Like That",
+      "artist": "Domino Featuring Diamonique",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 8,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Ya Style",
+      "artist": "Sylk-E. Fyne Featuring Snoop Dogg & Bizzy Bone",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 17,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Flava In Ya Ear",
+      "artist": "Craig Mack",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 1,
+        "Wks on Chart": 37
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Lay Low/Snoop Dogg",
+      "artist": "Snoop Dogg Featuring Master P, Nate Dogg, Butch Cassidy & Tha Eastsidaz",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 8,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 36,
+      "title": "I Cry",
+      "artist": "Ja Rule Featuring Lil' Mo",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 25,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 37,
+      "title": "The Streets",
+      "artist": "Kool G Rap",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 29,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Whae Da' Freaks",
+      "artist": "Durdy Harry & Killa C",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 38,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Take It To Da House",
+      "artist": "Trick Daddy Featuring The SNS Express",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 20,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Tha Rodeo",
+      "artist": "Phenomenon",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 6,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 41,
+      "title": "$#!* On You",
+      "artist": "D12",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 2,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Southern Hospitality",
+      "artist": "Ludacris",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 5,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Talk Like Sex Pt. 2",
+      "artist": "Smut Peddlers Featuring Kool G Rap",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Problems",
+      "artist": "AZ",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 34,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 45,
+      "title": "I'll Be Missing You",
+      "artist": "Puff Daddy & Faith Evans Featuring 112",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 1,
+        "Wks on Chart": 42
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Live",
+      "artist": "Joey Chavez Presents The Original Structure Featuring Iriscience",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 36,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 47,
+      "title": "So Fresh, So Clean",
+      "artist": "OutKast",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 13,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Mind Throbbin",
+      "artist": "Low Life Organization",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 21,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Where I Wanna Be",
+      "artist": "Damizza Presents Shade Sheist Featuring Nate Dogg & Kurupt",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 2,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Son Of A B!t<h",
+      "artist": "Lady Saw & Marsha",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 19,
+        "Wks on Chart": 11
+      }
+    }
+  ]
+}

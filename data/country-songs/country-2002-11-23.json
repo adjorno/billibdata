@@ -1,0 +1,606 @@
+{
+  "name": "Country",
+  "chart_date": "2002-11-23",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Somebody Like You",
+      "artist": "Keith Urban",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 2,
+      "title": "These Days",
+      "artist": "Rascal Flatts",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 2,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Landslide",
+      "artist": "Dixie Chicks",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 4,
+      "title": "She'll Leave You With A Smile",
+      "artist": "George Strait",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 4,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 5,
+      "title": "My Town",
+      "artist": "Montgomery Gentry",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Work In Progress",
+      "artist": "Alan Jackson",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Who's Your Daddy?",
+      "artist": "Toby Keith",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 8,
+      "title": "I'm Gonna Getcha Good!",
+      "artist": "Shania Twain",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 8,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Beautiful Mess",
+      "artist": "Diamond Rio",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 1,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Red Rag Top",
+      "artist": "Tim McGraw",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Where Would You Be",
+      "artist": "Martina McBride",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 3,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Forgive",
+      "artist": "Rebecca Lynn Howard",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 12,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Fall Into Me",
+      "artist": "Emerson Drive",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 13,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 14,
+      "title": "I Just Wanna Be Mad",
+      "artist": "Terri Clark",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 14,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Every River",
+      "artist": "Brooks & Dunn",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 15,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Strong Enough To Be Your Man",
+      "artist": "Travis Tritt",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 17,
+      "title": "A Lot Of Things Different",
+      "artist": "Kenny Chesney",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 17,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 18,
+      "title": "19 Somethin'",
+      "artist": "Mark Wills",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 18,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 19,
+      "title": "The Good Stuff",
+      "artist": "Kenny Chesney",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 1,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 20,
+      "title": "The Impossible",
+      "artist": "Joe Nichols",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 3,
+        "Wks on Chart": 36
+      }
+    },
+    {
+      "rank": 21,
+      "title": "I Wish You'd Stay",
+      "artist": "Brad Paisley",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 21,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 22,
+      "title": "'Til Nothing Comes Between Us",
+      "artist": "John Michael Montgomery",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 22,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 23,
+      "title": "You Can't Hide Beautiful",
+      "artist": "Aaron Lines",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 23,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Unusually Unusual",
+      "artist": "Lonestar",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Man To Man",
+      "artist": "Gary Allan",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 25,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 26,
+      "title": "One Day Closer To You",
+      "artist": "Carolyn Dawn Johnson",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 26,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 27,
+      "title": "The Baby",
+      "artist": "Blake Shelton",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 27,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 28,
+      "title": "At The End Of The Day",
+      "artist": "Kellie Coffey",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 28,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 29,
+      "title": "On A Mission",
+      "artist": "Trick Pony",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 28,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Chrome",
+      "artist": "Trace Adkins",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 31,
+      "title": "I'm Not Breakin'",
+      "artist": "Steve Holy",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 31,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Beautiful Goodbye",
+      "artist": "Jennifer Hanson",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 32,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Waitin' On Joe",
+      "artist": "Steve Azar",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 32,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Family Tree",
+      "artist": "Darryl Worley",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 34,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Practice Life",
+      "artist": "Andy Griggs With Martina McBride",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 35,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 36,
+      "title": "There's No Limit",
+      "artist": "Deana Carter",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 36,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Cry",
+      "artist": "Faith Hill",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 12,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 38,
+      "title": "A Memory Like I'm Gonna Be",
+      "artist": "Tanya Tucker",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 37,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Next Big Thing",
+      "artist": "Vince Gill",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 39,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Brokenheartsville",
+      "artist": "Joe Nichols",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 40,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 41,
+      "title": "John J. Blanchard",
+      "artist": "Anthony Smith",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 41,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 42,
+      "title": "My Old Man",
+      "artist": "Rodney Atkins",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 40,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Forever Everyday",
+      "artist": "Lee Ann Womack",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 43,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 44,
+      "title": "What We're Gonna Do About It",
+      "artist": "Tommy Shane Steiner With Bridgette Wilson-Sampras",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 44,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Picture",
+      "artist": "Kid Rock Featuring Sheryl Crow Or Allison Moorer",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 45,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 46,
+      "title": "It'll Go Away",
+      "artist": "Kevin Denney",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 46,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 47,
+      "title": "I Want My Baby Back",
+      "artist": "Mark Chesnutt",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 47,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 48,
+      "title": "I'd Love To Lay You Down",
+      "artist": "Daryle Singletary",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 43,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Lately (Been Dreamin' 'Bout Babies)",
+      "artist": "Tracy Byrd",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 49,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 50,
+      "title": "The Luckiest Man In The World",
+      "artist": "Neal McCoy",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 46,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Almost Home",
+      "artist": "Craig Morgan",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 51,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Rub Me The Right Way",
+      "artist": "Brad Martin",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 51,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 53,
+      "title": "When The Lights Go Down",
+      "artist": "Faith Hill",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 54,
+      "title": "I Drove All Night",
+      "artist": "Pinmonkey",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 54,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 55,
+      "title": "If Her Lovin' Don't Kill Me",
+      "artist": "Aaron Tippin",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 40,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 56,
+      "title": "Lonesome Road",
+      "artist": "Chalee Tennison",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 56,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 57,
+      "title": "What A Beautiful Day",
+      "artist": "Chris Cagle",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 57,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 58,
+      "title": "I Believe",
+      "artist": "Diamond Rio",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 58,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 59,
+      "title": "Everyday Angel",
+      "artist": "Radney Foster",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 43,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 60,
+      "title": "Hello God",
+      "artist": "Dolly Parton",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 60,
+        "Wks on Chart": 1
+      }
+    }
+  ]
+}

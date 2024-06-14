@@ -1,0 +1,551 @@
+{
+  "name": "Club",
+  "chart_date": "1993-01-09",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "It's Gonna Be A Lovely Day",
+      "artist": "The S.O.U.L. S.Y.S.T.E.M.",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 2,
+      "title": "I'm Gonna Get You",
+      "artist": "Bizarre Inc Featuring Angie Brown",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Don't You Want Me",
+      "artist": "Felix Featuring Jomanda",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 3,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Deeper And Deeper",
+      "artist": "Madonna",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 4,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Love Can Move Mountains",
+      "artist": "Celine Dion",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Gonna Get Back To You",
+      "artist": "MAW & Co. Featuring Xaviera Gold",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 6,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 7,
+      "title": "I Need You",
+      "artist": "Space Master",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 7,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Easy Way Out",
+      "artist": "Praise",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 8,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Rump Shaker",
+      "artist": "Wreckx-N-Effect",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 10,
+      "title": "They're Here",
+      "artist": "EMF",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 11,
+      "title": "I Got My Education",
+      "artist": "Uncanny Alliance",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 11,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Pussycat Meow",
+      "artist": "Deee-Lite",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 12,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Symphony",
+      "artist": "Donell Rush",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 14,
+      "title": "If You Don't Love Me",
+      "artist": "Prefab Sprout",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 15,
+      "title": "The New Anthem",
+      "artist": "Reel 2 Real Featuring Erick Moore",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Leash Called Love",
+      "artist": "The Sugarcubes",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Duelling Techno",
+      "artist": "Pood, Bhud 'N' Pflug",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 17,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 18,
+      "title": "What Are You Under",
+      "artist": "Definition Of Sound",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 4,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Always",
+      "artist": "MK Featuring Alana",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 19,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 20,
+      "title": "The Message",
+      "artist": "Sofia Shinas",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 20,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Carry On",
+      "artist": "Martha Wash",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Fruit Of Love",
+      "artist": "Transformer 2",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 22,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Dem No Worry We",
+      "artist": "Super Cat",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 23,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 24,
+      "title": "What About This Love?",
+      "artist": "Mr. Fingers",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 2,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Supermodel (You Better Work)",
+      "artist": "RuPaul",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 25,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Only Time Will Tell",
+      "artist": "Ten City",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 27,
+      "title": "I Must Increase My Bust",
+      "artist": "Lords Of Acid",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 27,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Good Time",
+      "artist": "Trilogy",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 28,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Let This Housebeat Drop",
+      "artist": "Ya Kid K",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 21,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Joy",
+      "artist": "The Sounds Of Blackness",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 30,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Next Is The E",
+      "artist": "Moby",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 31,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Soul Freedom (Free Your Soul)",
+      "artist": "Degrees Of Motion Featuring Biti",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 4,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Shamrocks And Shenanigans",
+      "artist": "House Of Pain",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 33,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Halcyon",
+      "artist": "Orbital",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 34,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 35,
+      "title": "My Name Is Prince",
+      "artist": "Prince And The N.P.G.",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 9,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Rising Sun",
+      "artist": "The Farm",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 14,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Just Us",
+      "artist": "Joey Washington Featuring The Mens Club",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 37,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Living In Ecstasy",
+      "artist": "BKS",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 38,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Get Up (Move Boy Move)",
+      "artist": "AB Logic",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 39,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Bingo",
+      "artist": "The Movement",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 40,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Sunshine And Love",
+      "artist": "Happy Mondays",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Brutal-8-E",
+      "artist": "Altern 8",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 43,
+      "title": "How Does It Feel?",
+      "artist": "Electroset",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 44,
+      "title": "The Music Is Movin'",
+      "artist": "Fargetta",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Blue",
+      "artist": "LaTour",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Here We Go Again!",
+      "artist": "Portrait",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Love Is Everywhere",
+      "artist": "G.T.O.",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 48,
+      "title": "The Message",
+      "artist": "49-ers",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 32,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Fire",
+      "artist": "The Prodigy",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 28,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 50,
+      "title": "So Much Love",
+      "artist": "Malaika",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 5,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Mr. Wendal",
+      "artist": "Arrested Development",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Let Me Be Your Underwear",
+      "artist": "Club 69",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Nush",
+      "artist": "Nush",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Mindstream",
+      "artist": "Meat Beat Manifesto",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Djapana",
+      "artist": "Yothu Yindi",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55
+      }
+    }
+  ]
+}

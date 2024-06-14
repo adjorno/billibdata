@@ -1,0 +1,551 @@
+{
+  "name": "Club",
+  "chart_date": "2005-10-22",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Feels Just Like It Should",
+      "artist": "Jamiroquai",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Everything U",
+      "artist": "Superchumbo",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Precious",
+      "artist": "Depeche Mode",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 3,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Moody",
+      "artist": "BPT Featuring DM Binxter",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 5,
+      "title": "The Feeling",
+      "artist": "Chris \"The Greek\" Panaghi",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 5,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 6,
+      "title": "No Strings",
+      "artist": "Lola",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 6,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Pon de Replay",
+      "artist": "Rihanna",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 8,
+      "title": "I Like It (But I Don't Need It)",
+      "artist": "Vivian Green",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Say Hello",
+      "artist": "Deep Dish",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Cliche",
+      "artist": "Simone Denny",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Cool (Richard X/Photek Mixes)",
+      "artist": "Gwen Stefani",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 11,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Walkin' & Talkin'",
+      "artist": "Ray Charles Vs. DIO",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 12,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 13,
+      "title": "The Other Side",
+      "artist": "Paul Van Dyk Featuring Wayne Jackson",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 13,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 14,
+      "title": "What Will She Do For Love? (Kaskade/A. Caldwell/Ken Mixes)",
+      "artist": "Colette",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Night Of My Life",
+      "artist": "Barbra Streisand",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 15,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Sugar Daddy",
+      "artist": "Yerba Buena",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Mesmerized (Freemasons/B. Watt/D. Hernandez Mixes)",
+      "artist": "Faith Evans",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 1,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Ends Of The Earth",
+      "artist": "Sun",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 18,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 19,
+      "title": "The Creeps",
+      "artist": "Camille Jones",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 19,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Jesus By 45",
+      "artist": "Ebony Tay",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 20,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 21,
+      "title": "All About Us",
+      "artist": "t.A.T.u.",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 21,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Bleed Like Me (E. Kupper Mixes)",
+      "artist": "Garbage",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 6,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Love In A Trashcan (E. Baez/Passengerz Mixes)",
+      "artist": "The Raveonettes",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 8,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Fascinated",
+      "artist": "Suzanne Palmer",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 10,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 25,
+      "title": "The Sound Of San Francisco",
+      "artist": "Global Deejays",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 25,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Extraordinary Way",
+      "artist": "Conjure One",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 26,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Deeper Love",
+      "artist": "David Longoria Featuring CeCe Peniston",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 27,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Jetstream",
+      "artist": "New Order Featuring Ana Matronic",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 3,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Stranded In Paradise",
+      "artist": "Alex Gold",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 29,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 30,
+      "title": "I Still Believe",
+      "artist": "Rachel Panay",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 30,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Lose Control (Remixes)",
+      "artist": "Missy Elliott Featuring Ciara & Fat Man Scoop",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Electric Shock (J. Rizzo/Roman S. Mixes)",
+      "artist": "Matthew Duffy",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 32,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Shake It Off",
+      "artist": "Mariah Carey",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 33,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Love Will Take Over",
+      "artist": "Ari Gold",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 34,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Only (Richard X/EL-P Mixes)",
+      "artist": "Nine Inch Nails",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 35,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Back To Basics",
+      "artist": "Shape: UK",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 37,
+      "title": "First Time",
+      "artist": "Offer Nissim Featuring Maya",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 10,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 38,
+      "title": "La Gorda Linda (Norty Cotto Mixes)",
+      "artist": "Arthur Hanlon Featuring Tito Nieves",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 25,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 39,
+      "title": "I Don't Care",
+      "artist": "Ricky Martin Featuring Fat Joe & Amerie",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Only This Moment",
+      "artist": "Royksopp",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 40,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Design",
+      "artist": "Origene",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 41,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Out Of My Mind",
+      "artist": "Sarah Atereth",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 43,
+      "title": "These Boots Are Made For Walkin'",
+      "artist": "Jessica Simpson",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 35,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Fearless (Richard X/R. Vision/J. Sanchez Mixes)",
+      "artist": "The Bravery",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 44,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 45,
+      "title": "I Like The Way",
+      "artist": "BodyRockers",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 20,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 46,
+      "title": "We Belong Together (P. Rauhofer/Atlantic Soul Mixes)",
+      "artist": "Mariah Carey",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 47,
+      "title": "When The Broken Hearted Love Again",
+      "artist": "Danielle Bollinger",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 9,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Waiting In The Darkness",
+      "artist": "Erick Morillo Featuring Leslie Carter",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Too Funky",
+      "artist": "Fredrick Ford",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 50,
+      "title": "No More (T. Young/C. Jack/Tomer G. Mixes)",
+      "artist": "Jason Walker",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Hung Up",
+      "artist": "Madonna",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "First Love (LEX/The Moves/S. Augello Mixes)",
+      "artist": "Goapele",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52
+      }
+    },
+    {
+      "rank": 53,
+      "title": "4Ever",
+      "artist": "The Veronicas",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Twisted Transistor (E. Kupper/J. Harris/Dummies Mixes)",
+      "artist": "Korn",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Turn On The Music",
+      "artist": "Roger Sanchez Featuring G.T.O.",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55
+      }
+    }
+  ]
+}

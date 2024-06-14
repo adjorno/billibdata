@@ -1,0 +1,506 @@
+{
+  "name": "Country",
+  "chart_date": "2015-08-01",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Girl Crush",
+      "artist": "Little Big Town",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 33
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Kick The Dust Up",
+      "artist": "Luke Bryan",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Take Your Time",
+      "artist": "Sam Hunt",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 38
+      }
+    },
+    {
+      "rank": 4,
+      "title": "House Party",
+      "artist": "Sam Hunt",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 30
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Sangria",
+      "artist": "Blake Shelton",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Tonight Looks Good On You",
+      "artist": "Jason Aldean",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 6,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Crash And Burn",
+      "artist": "Thomas Rhett",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 8,
+      "title": "One Hell Of An Amen",
+      "artist": "Brantley Gilbert",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 8,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Love You Like That",
+      "artist": "Canaan Smith",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 6,
+        "Wks on Chart": 42
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Like A Wrecking Ball",
+      "artist": "Eric Church",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Buy Me A Boat",
+      "artist": "Chris Janson",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Loving You Easy",
+      "artist": "Zac Brown Band",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Kiss You In The Morning",
+      "artist": "Michael Ray",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 13,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 14,
+      "title": "John Cougar, John Deere, John 3:16",
+      "artist": "Keith Urban",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Young & Crazy",
+      "artist": "Frankie Ballard",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 15,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Crushin' It",
+      "artist": "Brad Paisley",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Hell Of A Night",
+      "artist": "Dustin Lynch",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Lose My Mind",
+      "artist": "Brett Eldredge",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 18,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Real Life",
+      "artist": "Jake Owen",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 19,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Little Toy Guns",
+      "artist": "Carrie Underwood",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 6,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Break Up With Him",
+      "artist": "Old Dominion",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 21,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Fly",
+      "artist": "Maddie & Tae",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 22,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Burning House",
+      "artist": "Cam",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 23,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 24,
+      "title": "I'm Comin' Over",
+      "artist": "Chris Young",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 8,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Let Me See Ya Girl",
+      "artist": "Cole Swindell",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 25,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Anything Goes",
+      "artist": "Florida Georgia Line",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 19,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Gonna Wanna Tonight",
+      "artist": "Chase Rice",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 27,
+        "Wks on Chart": 28
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Nothin' Like You",
+      "artist": "Dan + Shay",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 28,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 29,
+      "title": "I'm To Blame",
+      "artist": "Kip Moore",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 29,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Stay A Little Longer",
+      "artist": "Brothers Osborne",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 30,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Save It For A Rainy Day",
+      "artist": "Kenny Chesney",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 31,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 32,
+      "title": "I Got The Boy",
+      "artist": "Jana Kramer",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 31,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 33,
+      "title": "21",
+      "artist": "Hunter Hayes",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 30,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Love Is Your Name",
+      "artist": "Steven Tyler",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 19,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Long Stretch Of Love",
+      "artist": "Lady Antebellum",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 35,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Already Callin' You Mine",
+      "artist": "Parmalee",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 36,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Biscuits",
+      "artist": "Kacey Musgraves",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 28,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 38,
+      "title": "I Love This Life",
+      "artist": "LOCASH",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 38,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Smokin' And Drinkin'",
+      "artist": "Miranda Lambert Featuring Little Big Town",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 38,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Ride",
+      "artist": "Chase Rice",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 38,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 41,
+      "title": "It Feels Good",
+      "artist": "Drake White",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 41,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 42,
+      "title": "All Country On You",
+      "artist": "Austin Webb",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 42,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Country",
+      "artist": "Mo Pitney",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 43,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 44,
+      "title": "We Went",
+      "artist": "Randy Houser",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 42,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 45,
+      "title": "White Lightning",
+      "artist": "The Cadillac Three",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 45,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Riser",
+      "artist": "Dierks Bentley",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 46,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Jim And Jack And Hank",
+      "artist": "Alan Jackson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 48,
+      "title": "For A Boy",
+      "artist": "RaeLynn",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 32,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 49,
+      "title": "That Don't Sound Like You",
+      "artist": "Lee Brice",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 39,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Where It All Begins",
+      "artist": "Hunter Hayes Featuring Lady Antebellum",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 3
+      }
+    }
+  ]
+}

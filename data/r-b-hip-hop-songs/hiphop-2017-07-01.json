@@ -1,0 +1,506 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "2017-07-01",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "I'm The One",
+      "artist": "DJ Khaled Featuring Justin Bieber, Quavo, Chance The Rapper & Lil Wayne",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 2,
+      "title": "That's What I Like",
+      "artist": "Bruno Mars",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Humble.",
+      "artist": "Kendrick Lamar",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Mask Off",
+      "artist": "Future",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Congratulations",
+      "artist": "Post Malone Featuring Quavo",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 6,
+      "title": "XO TOUR Llif3",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Redbone",
+      "artist": "Childish Gambino",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 7,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Unforgettable",
+      "artist": "French Montana Featuring Swae Lee",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 9,
+      "title": "iSpy",
+      "artist": "KYLE Featuring Lil Yachty",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 3,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Rolex",
+      "artist": "Ayo & Teo",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 10,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Location",
+      "artist": "Khalid",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 8,
+        "Wks on Chart": 24
+      }
+    },
+    {
+      "rank": 12,
+      "title": "DNA.",
+      "artist": "Kendrick Lamar",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 3,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Magnolia",
+      "artist": "Playboi Carti",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 13,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Slippery",
+      "artist": "Migos Featuring Gucci Mane",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 14,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Everyday We Lit",
+      "artist": "YFN Lucci Featuring PnB Rock",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 15,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Tunnel Vision",
+      "artist": "Kodak Black",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 4,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 17,
+      "title": "T-Shirt",
+      "artist": "Migos",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 11,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Drowning",
+      "artist": "A Boogie Wit da Hoodie Featuring Kodak Black",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 18,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Passionfruit",
+      "artist": "Drake",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 5,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Slide",
+      "artist": "Calvin Harris Featuring Frank Ocean & Migos",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 12,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Both",
+      "artist": "Gucci Mane Featuring Drake",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 16,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 22,
+      "title": "To The Max",
+      "artist": "DJ Khaled Featuring Drake",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Look At Me!",
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 18,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 24,
+      "title": "First Day Out",
+      "artist": "Tee Grizzley",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 24,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Love.",
+      "artist": "Kendrick Lamar Featuring Zacari",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 10,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Portland",
+      "artist": "Drake Featuring Quavo & Travis Scott",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 6,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 27,
+      "title": "1-800-273-8255",
+      "artist": "Logic Featuring Alessia Cara & Khalid",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 21,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Privacy",
+      "artist": "Chris Brown",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 28,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Love Galore",
+      "artist": "SZA Featuring Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 29,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Loyalty.",
+      "artist": "Kendrick Lamar Featuring Rihanna",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 7,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Losin Control",
+      "artist": "Russ",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 28,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Butterfly Effect",
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 32,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Wokeuplikethis*",
+      "artist": "Playboi Carti Featuring Lil Uzi Vert",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 32,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 34,
+      "title": "4 AM",
+      "artist": "2 Chainz Featuring Travis Scott",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 30,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Nobody Else But You",
+      "artist": "Trey Songz",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 35,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Good Drank",
+      "artist": "2 Chainz x Gucci Mane x Quavo",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 34,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 37,
+      "title": "It's A Vibe",
+      "artist": "2 Chainz Featuring Ty Dolla $ign, Trey Songz & Jhene Aiko",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 37,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Reminder",
+      "artist": "The Weeknd",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 14,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Gyalchester",
+      "artist": "Drake",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 15,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Know No Better",
+      "artist": "Major Lazer Featuring Travis Scott, Camila Cabello & Quavo",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 36,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Neighbors",
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 8,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Met Gala",
+      "artist": "Gucci Mane Featuring Offset",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 37,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Peek A Boo",
+      "artist": "Lil Yachty Featuring Migos",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 33,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Whatever You Need",
+      "artist": "Meek Mill Featuring Chris Brown & Ty Dolla $ign",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 34,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Do Re Mi",
+      "artist": "blackbear",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 37,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Get Right Witcha",
+      "artist": "Migos",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 29,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Pull Up Wit Ah Stick",
+      "artist": "SahBabii Featuring Loso Loaded",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 48,
+      "title": "From The D To The A",
+      "artist": "Tee Grizzley Featuring Lil Yachty",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Go Flex",
+      "artist": "Post Malone",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 43,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 50,
+      "title": "The Weekend",
+      "artist": "SZA",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
+    }
+  ]
+}
