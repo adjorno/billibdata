@@ -7,6 +7,7 @@
       "title": "MIA",
       "artist": "Bad Bunny Featuring Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 8
       }
@@ -104,7 +105,12 @@
     {
       "rank": 11,
       "title": "MALA",
-      "artist": "6ix9ine Featuring Anuel AA"
+      "artist": "6ix9ine Featuring Anuel AA",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 11,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 12,
@@ -189,7 +195,7 @@
     {
       "rank": 20,
       "title": "A Traves del Vaso",
-      "artist": "Banda Los Sebastianes",
+      "artist": "Banda Los Sebastianes de Mazatlan, Sinaloa.",
       "position": {
         "Last Week": "26",
         "Peak Position": 20,
@@ -359,7 +365,7 @@
     {
       "rank": 37,
       "title": "Calma",
-      "artist": "Pedro Capo",
+      "artist": "Pedro Capo X Farruko",
       "position": {
         "Last Week": "37",
         "Peak Position": 33,
@@ -489,7 +495,12 @@
     {
       "rank": 50,
       "title": "Ya Me Entere",
-      "artist": "Chayin Rubio"
+      "artist": "Chayin Rubio",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

@@ -7,6 +7,7 @@
       "title": "The Middle",
       "artist": "Zedd, Maren Morris & Grey",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 24
       }
@@ -294,17 +295,32 @@
     {
       "rank": 30,
       "title": "Dancing Alone",
-      "artist": "Axwell & Ingrosso Featuring Romans"
+      "artist": "Axwell & Ingrosso Featuring Romans",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,
       "title": "Be Right Here",
-      "artist": "Kungs & Stargate Featuring GOLDN"
+      "artist": "Kungs & Stargate Featuring GOLDN",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
       "title": "All For You",
-      "artist": "Years & Years"
+      "artist": "Years & Years",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,
@@ -449,7 +465,7 @@
     {
       "rank": 47,
       "title": "Lullaby",
-      "artist": "Sigala & Paloma Faith",
+      "artist": "Sigala. & Paloma Faith",
       "position": {
         "Last Week": "-",
         "Peak Position": 26,
@@ -469,12 +485,22 @@
     {
       "rank": 49,
       "title": "I'm In Love With You",
-      "artist": "Tony Moran Featuring Jason Walker"
+      "artist": "Tony Moran Featuring Jason Walker",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,
       "title": "2AM",
-      "artist": "Booyah Riot"
+      "artist": "Booyah Riot",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

@@ -7,6 +7,7 @@
       "title": "Youngblood",
       "artist": "5 Seconds Of Summer",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 20
       }
@@ -124,7 +125,7 @@
     {
       "rank": 13,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "13",
         "Peak Position": 13,
@@ -304,12 +305,22 @@
     {
       "rank": 31,
       "title": "Don't Matter To Me",
-      "artist": "Drake Featuring Michael Jackson"
+      "artist": "Drake Featuring Michael Jackson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
       "title": "Consequences",
-      "artist": "Camila Cabello"
+      "artist": "Camila Cabello",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,
@@ -354,22 +365,42 @@
     {
       "rank": 37,
       "title": "Trust My Lonely",
-      "artist": "Alessia Cara"
+      "artist": "Alessia Cara",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
       "title": "Sunflower (Spider-Man: Into The Spider-Verse)",
-      "artist": "Post Malone & Swae Lee"
+      "artist": "Post Malone & Swae Lee",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
       "title": "I Love It",
-      "artist": "Kanye West & Lil Pump"
+      "artist": "Kanye West & Lil Pump",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "Better",
-      "artist": "Khalid"
+      "artist": "Khalid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

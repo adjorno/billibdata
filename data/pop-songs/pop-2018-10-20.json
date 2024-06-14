@@ -7,6 +7,7 @@
       "title": "Youngblood",
       "artist": "5 Seconds Of Summer",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 19
       }
@@ -124,7 +125,7 @@
     {
       "rank": 13,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "14",
         "Peak Position": 13,
@@ -284,7 +285,12 @@
     {
       "rank": 29,
       "title": "Without Me",
-      "artist": "Halsey"
+      "artist": "Halsey",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 29,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 30,
@@ -359,7 +365,12 @@
     {
       "rank": 37,
       "title": "This Feeling",
-      "artist": "The Chainsmokers Featuring Kelsea Ballerini"
+      "artist": "The Chainsmokers Featuring Kelsea Ballerini",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,

@@ -7,6 +7,7 @@
       "title": "The Middle",
       "artist": "Zedd, Maren Morris & Grey",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 25
       }
@@ -204,7 +205,12 @@
     {
       "rank": 21,
       "title": "Karma",
-      "artist": "Years & Years"
+      "artist": "Years & Years",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,
@@ -299,7 +305,12 @@
     {
       "rank": 31,
       "title": "Better",
-      "artist": "SG Lewis X Clairo"
+      "artist": "SG Lewis & Clairo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
@@ -374,7 +385,12 @@
     {
       "rank": 39,
       "title": "Ring Ring",
-      "artist": "Jax Jones Featuring Mabel And Rich The Kid"
+      "artist": "Jax Jones Featuring Mabel And Rich The Kid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
@@ -439,12 +455,17 @@
     {
       "rank": 46,
       "title": "Toy",
-      "artist": "Netta"
+      "artist": "Netta",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
       "title": "Lullaby",
-      "artist": "Sigala & Paloma Faith",
+      "artist": "Sigala. & Paloma Faith",
       "position": {
         "Last Week": "47",
         "Peak Position": 26,

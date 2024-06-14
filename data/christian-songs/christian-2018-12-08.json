@@ -7,6 +7,7 @@
       "title": "You Say",
       "artist": "Lauren Daigle",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 21
       }
@@ -104,7 +105,12 @@
     {
       "rank": 11,
       "title": "Christmas Hallelujah",
-      "artist": "Caleb + Kelsey"
+      "artist": "Caleb + Kelsey",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 11,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 12,
@@ -229,7 +235,7 @@
     {
       "rank": 24,
       "title": "Forever On Your Side",
-      "artist": "NEEDTOBREATHE Featuring JOHNNYSWIM",
+      "artist": "NEEDTOBREATHE",
       "position": {
         "Last Week": "23",
         "Peak Position": 19,
@@ -339,7 +345,12 @@
     {
       "rank": 35,
       "title": "The Prayer",
-      "artist": "Danny Gokey & Natalie Grant"
+      "artist": "Danny Gokey & Natalie Grant",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
@@ -414,7 +425,12 @@
     {
       "rank": 43,
       "title": "Christmas Every Day",
-      "artist": "David Archuleta"
+      "artist": "David Archuleta",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 44,
@@ -469,7 +485,12 @@
     {
       "rank": 49,
       "title": "O Come All Ye Faithful",
-      "artist": "Marc Martel Featuring Jason Gray"
+      "artist": "Marc Martel Featuring Jason Gray",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,

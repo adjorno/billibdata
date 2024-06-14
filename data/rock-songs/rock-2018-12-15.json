@@ -7,6 +7,7 @@
       "title": "High Hopes",
       "artist": "Panic! At The Disco",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 29
       }
@@ -64,7 +65,7 @@
     {
       "rank": 7,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "9",
         "Peak Position": 6,
@@ -304,7 +305,12 @@
     {
       "rank": 31,
       "title": "I Always Wanna Die (Sometimes)",
-      "artist": "The 1975"
+      "artist": "The 1975",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
@@ -349,7 +355,12 @@
     {
       "rank": 36,
       "title": "Be My Mistake",
-      "artist": "The 1975"
+      "artist": "The 1975",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -384,7 +395,12 @@
     {
       "rank": 40,
       "title": "We Appreciate Power",
-      "artist": "Grimes Featuring HANA"
+      "artist": "Grimes Featuring HANA",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 41,
@@ -419,7 +435,12 @@
     {
       "rank": 44,
       "title": "I Like America & America Likes Me",
-      "artist": "The 1975"
+      "artist": "The 1975",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 45,

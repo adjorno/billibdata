@@ -7,13 +7,14 @@
       "title": "Meant To Be",
       "artist": "Bebe Rexha & Florida Georgia Line",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 48
       }
     },
     {
       "rank": 2,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "2",
@@ -164,7 +165,12 @@
     {
       "rank": 17,
       "title": "Good As You",
-      "artist": "Kane Brown"
+      "artist": "Kane Brown",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 17,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 18,

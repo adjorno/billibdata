@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 4
       }
@@ -24,7 +25,12 @@
     {
       "rank": 3,
       "title": "FEFE",
-      "artist": "6ix9ine Featuring Nicki Minaj & Murda Beatz"
+      "artist": "6ix9ine Featuring Nicki Minaj & Murda Beatz",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 3,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 4,
@@ -239,7 +245,12 @@
     {
       "rank": 25,
       "title": "I Might Need Security",
-      "artist": "Chance The Rapper"
+      "artist": "Chance The Rapper",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 26,
@@ -284,7 +295,12 @@
     {
       "rank": 30,
       "title": "Level Up",
-      "artist": "Ciara"
+      "artist": "Ciara",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,
@@ -309,7 +325,12 @@
     {
       "rank": 33,
       "title": "Best Part",
-      "artist": "Daniel Caesar Featuring H.E.R."
+      "artist": "Daniel Caesar Featuring H.E.R.",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 34,
@@ -414,7 +435,12 @@
     {
       "rank": 44,
       "title": "Creeping",
-      "artist": "Lil Skies Featuring Rich The Kid"
+      "artist": "Lil Skies Featuring Rich The Kid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 45,
@@ -439,7 +465,12 @@
     {
       "rank": 47,
       "title": "That's On Me",
-      "artist": "Yella Beezy"
+      "artist": "Yella Beezy",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,

@@ -7,6 +7,7 @@
       "title": "Despacito",
       "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 82
       }
@@ -344,7 +345,12 @@
     {
       "rank": 35,
       "title": "Satisfaccion",
-      "artist": "Nicky Jam, Bad Bunny & Arcangel"
+      "artist": "Nicky Jam, Bad Bunny & Arcangel",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
@@ -389,7 +395,12 @@
     {
       "rank": 40,
       "title": "Quien Sabe",
-      "artist": "Natti Natasha"
+      "artist": "Natti Natasha",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 41,
@@ -414,7 +425,12 @@
     {
       "rank": 43,
       "title": "Antecedentes de Culpa",
-      "artist": "Alfredo Olivas"
+      "artist": "Alfredo Olivas",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 44,
@@ -439,7 +455,12 @@
     {
       "rank": 46,
       "title": "Todo El Amor",
-      "artist": "De La Ghetto, Wisin & Maluma"
+      "artist": "De La Ghetto, Wisin & Maluma",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
@@ -454,7 +475,12 @@
     {
       "rank": 48,
       "title": "Cuando Te Bese",
-      "artist": "Becky G + Paulo Londra"
+      "artist": "Becky G + Paulo Londra",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,
@@ -469,7 +495,12 @@
     {
       "rank": 50,
       "title": "Donde Estaras",
-      "artist": "Raymix"
+      "artist": "Raymix",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

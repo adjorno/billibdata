@@ -28,7 +28,7 @@
       "artist": "Lady Gaga",
       "position": {
         "Last Week": "8",
-        "Peak Position": 1,
+        "Peak Position": 3,
         "Wks on Chart": 3
       }
     },
@@ -48,7 +48,7 @@
       "artist": "Janet",
       "position": {
         "Last Week": "6",
-        "Peak Position": 1,
+        "Peak Position": 5,
         "Wks on Chart": 6
       }
     },
@@ -78,7 +78,7 @@
       "artist": "Noferini & Marini vs Sylvia Tosun",
       "position": {
         "Last Week": "11",
-        "Peak Position": 1,
+        "Peak Position": 8,
         "Wks on Chart": 8
       }
     },
@@ -98,7 +98,7 @@
       "artist": "Chad Jack & Tim Letteer vs. Fawn",
       "position": {
         "Last Week": "15",
-        "Peak Position": 6,
+        "Peak Position": 10,
         "Wks on Chart": 9
       }
     },
@@ -128,7 +128,7 @@
       "artist": "Andrea Carnell",
       "position": {
         "Last Week": "17",
-        "Peak Position": 6,
+        "Peak Position": 13,
         "Wks on Chart": 7
       }
     },
@@ -138,7 +138,7 @@
       "artist": "Lola Featuring Pitbull",
       "position": {
         "Last Week": "20",
-        "Peak Position": 1,
+        "Peak Position": 14,
         "Wks on Chart": 4
       }
     },
@@ -158,7 +158,7 @@
       "artist": "Simone Denny + Barry Harris",
       "position": {
         "Last Week": "21",
-        "Peak Position": 5,
+        "Peak Position": 16,
         "Wks on Chart": 6
       }
     },
@@ -178,7 +178,7 @@
       "artist": "Britney Spears",
       "position": {
         "Last Week": "24",
-        "Peak Position": 16,
+        "Peak Position": 18,
         "Wks on Chart": 5
       }
     },
@@ -208,17 +208,17 @@
       "artist": "David Guetta Featuring Estelle",
       "position": {
         "Last Week": "32",
-        "Peak Position": 1,
+        "Peak Position": 21,
         "Wks on Chart": 2
       }
     },
     {
       "rank": 22,
       "title": "Heavy Cross",
-      "artist": "The Gossip",
+      "artist": "Gossip",
       "position": {
         "Last Week": "25",
-        "Peak Position": 8,
+        "Peak Position": 22,
         "Wks on Chart": 6
       }
     },
@@ -228,7 +228,7 @@
       "artist": "Kelly King",
       "position": {
         "Last Week": "26",
-        "Peak Position": 19,
+        "Peak Position": 23,
         "Wks on Chart": 6
       }
     },
@@ -238,7 +238,7 @@
       "artist": "Dave Matthias Featuring Natalia Flores",
       "position": {
         "Last Week": "27",
-        "Peak Position": 23,
+        "Peak Position": 24,
         "Wks on Chart": 7
       }
     },
@@ -268,7 +268,7 @@
       "artist": "The Crystal Method Featuring Emily Haines",
       "position": {
         "Last Week": "35",
-        "Peak Position": 4,
+        "Peak Position": 27,
         "Wks on Chart": 5
       }
     },
@@ -278,7 +278,7 @@
       "artist": "Stephen Keyes",
       "position": {
         "Last Week": "31",
-        "Peak Position": 14,
+        "Peak Position": 28,
         "Wks on Chart": 5
       }
     },
@@ -298,7 +298,7 @@
       "artist": "Shakira",
       "position": {
         "Last Week": "49",
-        "Peak Position": 1,
+        "Peak Position": 30,
         "Wks on Chart": 2
       }
     },
@@ -328,7 +328,7 @@
       "artist": "Anjulie",
       "position": {
         "Last Week": "39",
-        "Peak Position": 3,
+        "Peak Position": 33,
         "Wks on Chart": 3
       }
     },
@@ -368,7 +368,7 @@
       "artist": "Ranny Featuring Nina Flowers",
       "position": {
         "Last Week": "41",
-        "Peak Position": 15,
+        "Peak Position": 37,
         "Wks on Chart": 2
       }
     },
@@ -378,7 +378,7 @@
       "artist": "Kaylah Marin",
       "position": {
         "Last Week": "40",
-        "Peak Position": 3,
+        "Peak Position": 38,
         "Wks on Chart": 3
       }
     },
@@ -398,7 +398,7 @@
       "artist": "The Black Eyed Peas",
       "position": {
         "Last Week": "47",
-        "Peak Position": 17,
+        "Peak Position": 40,
         "Wks on Chart": 2
       }
     },
@@ -418,7 +418,7 @@
       "artist": "Taylor Bright",
       "position": {
         "Last Week": "43",
-        "Peak Position": 29,
+        "Peak Position": 42,
         "Wks on Chart": 3
       }
     },
@@ -428,7 +428,7 @@
       "artist": "Whitney Houston",
       "position": {
         "Last Week": "48",
-        "Peak Position": 35,
+        "Peak Position": 43,
         "Wks on Chart": 2
       }
     },
@@ -438,7 +438,7 @@
       "artist": "Rod Carrillo & Shefali",
       "position": {
         "Last Week": "45",
-        "Peak Position": 22,
+        "Peak Position": 44,
         "Wks on Chart": 2
       }
     },
@@ -448,7 +448,7 @@
       "artist": "Hannah",
       "position": {
         "Last Week": "46",
-        "Peak Position": 14,
+        "Peak Position": 45,
         "Wks on Chart": 2
       }
     },
@@ -467,8 +467,8 @@
       "title": "Why Don't You Love Me",
       "artist": "Beyonce",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 1,
+        "Last Week": "-",
+        "Peak Position": 47,
         "Wks on Chart": 1
       }
     },
@@ -495,11 +495,56 @@
     {
       "rank": 50,
       "title": "Whatcha Say",
-      "artist": "Jason DeRulo",
+      "artist": "Jason Derulo",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 32,
+        "Last Week": "-",
+        "Peak Position": 50,
         "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 51,
+      "title": "You Are",
+      "artist": "Tony Moran Featuring Frenchie Davis",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Bodies",
+      "artist": "Robbie Williams",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Can You Feel It",
+      "artist": "DJ Dan",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53
+      }
+    },
+    {
+      "rank": 54,
+      "title": "I'm Back",
+      "artist": "Richard Grey",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "I'm The Shit",
+      "artist": "Bebe Zahara Benet",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55
       }
     }
   ]

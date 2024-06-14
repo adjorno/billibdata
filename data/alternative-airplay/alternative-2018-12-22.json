@@ -7,6 +7,7 @@
       "title": "High Hopes",
       "artist": "Panic! At The Disco",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 21
       }
@@ -14,7 +15,7 @@
     {
       "rank": 2,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "3",
         "Peak Position": 2,
@@ -294,7 +295,12 @@
     {
       "rank": 30,
       "title": "April In Houston",
-      "artist": "SWMRS"
+      "artist": "SWMRS",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,
@@ -319,12 +325,22 @@
     {
       "rank": 33,
       "title": "Salvation",
-      "artist": "The Strumbellas"
+      "artist": "The Strumbellas",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 34,
       "title": "You're The One",
-      "artist": "Greta Van Fleet"
+      "artist": "Greta Van Fleet",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 34,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 35,
@@ -369,7 +385,12 @@
     {
       "rank": 39,
       "title": "First Person On Earth",
-      "artist": "Robert DeLong"
+      "artist": "Robert DeLong",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,

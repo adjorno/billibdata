@@ -7,6 +7,7 @@
       "title": "The Middle",
       "artist": "Zedd, Maren Morris & Grey",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 33
       }
@@ -174,7 +175,12 @@
     {
       "rank": 18,
       "title": "Remedy",
-      "artist": "Alesso"
+      "artist": "Alesso",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 19,
@@ -259,7 +265,12 @@
     {
       "rank": 27,
       "title": "Love No More",
-      "artist": "Loud Luxury x Anders"
+      "artist": "Loud Luxury x Anders",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 27,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 28,
@@ -294,7 +305,7 @@
     {
       "rank": 31,
       "title": "We Don't Care",
-      "artist": "Sigala & The Vamps",
+      "artist": "Sigala. & The Vamps",
       "position": {
         "Last Week": "29",
         "Peak Position": 27,
@@ -324,12 +335,17 @@
     {
       "rank": 34,
       "title": "Electricity",
-      "artist": "Silk City x Dua Lipa"
+      "artist": "Silk City x Dua Lipa",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 34,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 35,
       "title": "Take You Down",
-      "artist": "Illenium",
+      "artist": "ILLENIUM",
       "position": {
         "Last Week": "34",
         "Peak Position": 23,
@@ -388,7 +404,7 @@
     },
     {
       "rank": 41,
-      "title": "Miss Me ",
+      "title": "Miss Me",
       "artist": "Sted-E & Hybrid Heights Featuring Mimi",
       "position": {
         "Last Week": "48",
@@ -419,12 +435,22 @@
     {
       "rank": 44,
       "title": "Blah Blah Blah",
-      "artist": "Armin van Buuren"
+      "artist": "Armin van Buuren",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 45,
       "title": "Flavor",
-      "artist": "Niiko x SWAE + Alicia Madison"
+      "artist": "NIIKO x SWAE + Alicia Madison",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,

@@ -7,6 +7,7 @@
       "title": "Speechless",
       "artist": "Dan + Shay",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 28
       }
@@ -23,7 +24,7 @@
     },
     {
       "rank": 3,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "2",
@@ -464,12 +465,22 @@
     {
       "rank": 47,
       "title": "Bring It On Over",
-      "artist": "Billy Currington"
+      "artist": "Billy Currington",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,
       "title": "Die From A Broken Heart",
-      "artist": "Maddie & Tae"
+      "artist": "Maddie & Tae",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,
@@ -484,7 +495,12 @@
     {
       "rank": 50,
       "title": "Friends Don't",
-      "artist": "Maddie & Tae"
+      "artist": "Maddie & Tae",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

@@ -7,6 +7,7 @@
       "title": "Youngblood",
       "artist": "5 Seconds Of Summer",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 21
       }
@@ -104,7 +105,7 @@
     {
       "rank": 11,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "13",
         "Peak Position": 11,
@@ -334,7 +335,12 @@
     {
       "rank": 34,
       "title": "Shallow",
-      "artist": "Lady Gaga & Bradley Cooper"
+      "artist": "Lady Gaga & Bradley Cooper",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 34,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 35,
@@ -349,7 +355,12 @@
     {
       "rank": 36,
       "title": "Be Alright",
-      "artist": "Dean Lewis"
+      "artist": "Dean Lewis",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -374,12 +385,22 @@
     {
       "rank": 39,
       "title": "Tequila",
-      "artist": "Dan + Shay"
+      "artist": "Dan + Shay",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "My Blood",
-      "artist": "twenty one pilots"
+      "artist": "Twenty One Pilots",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

@@ -7,6 +7,7 @@
       "title": "Sicko Mode",
       "artist": "Travis Scott",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 14
       }
@@ -184,7 +185,7 @@
     {
       "rank": 19,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "22",
         "Peak Position": 19,
@@ -354,7 +355,12 @@
     {
       "rank": 36,
       "title": "Fine China",
-      "artist": "Future & Juice WRLD"
+      "artist": "Future & Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -369,7 +375,12 @@
     {
       "rank": 38,
       "title": "Overdose",
-      "artist": "AGNEZ MO x Chris Brown"
+      "artist": "AGNEZ MO x Chris Brown",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,

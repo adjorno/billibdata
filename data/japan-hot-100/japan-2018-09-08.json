@@ -7,6 +7,7 @@
       "title": "Idea",
       "artist": "Gen Hoshino",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 2
       }
@@ -34,7 +35,7 @@
     {
       "rank": 4,
       "title": "Fanfale",
-      "artist": "Sumika",
+      "artist": "sumika",
       "position": {
         "Last Week": "58",
         "Peak Position": 4,
@@ -54,7 +55,7 @@
     {
       "rank": 6,
       "title": "Jikochu De Ikou!",
-      "artist": "Nogizaka46",
+      "artist": "Nogizaka 46",
       "position": {
         "Last Week": "7",
         "Peak Position": 1,
@@ -84,12 +85,17 @@
     {
       "rank": 9,
       "title": "Trinity Field",
-      "artist": "Rin Shibuya (Ayaka Fukuhara), Karen Houjo (Mai Fuchigami), Nao Kamiya (Eriko Matsui)"
+      "artist": "Rin Shibuya (Ayaka Fukuhara), Karen Houjo (Mai Fuchigami), Nao Kamiya (Eriko Matsui)",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 9,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 10,
-      "title": "Ai No Katachi ",
-      "artist": "MISIA Feat.HIDE(GReeeen)",
+      "title": "Ai No Katachi",
+      "artist": "MISIA Feat.HIDE (GReeeen)",
       "position": {
         "Last Week": "6",
         "Peak Position": 6,
@@ -98,7 +104,7 @@
     },
     {
       "rank": 11,
-      "title": "IDOL",
+      "title": "Idol",
       "artist": "BTS",
       "position": {
         "Last Week": "44",
@@ -109,17 +115,27 @@
     {
       "rank": 12,
       "title": "Bi Ni Iri Sai Wo Ugatsu",
-      "artist": "Sae Kobayakawa (Rika Tachibana)"
+      "artist": "Sae Kobayakawa (Rika Tachibana)",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 12,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 13,
       "title": "Crazy Crazy",
-      "artist": "Shiki Ichinose (Kotomi Aihara), Frederica Miyamoto (Asami Takano)"
+      "artist": "Shiki Ichinose (Kotomi Aihara), Frederica Miyamoto (Asami Takano)",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 14,
       "title": "Marigold",
-      "artist": "Aimyon",
+      "artist": "aimyon",
       "position": {
         "Last Week": "13",
         "Peak Position": 5,
@@ -149,17 +165,27 @@
     {
       "rank": 17,
       "title": "Koushien",
-      "artist": "Masaharu Fukuyama"
+      "artist": "Masaharu Fukuyama",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 17,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 18,
       "title": "Kawaii make MY day!",
-      "artist": "Yuka Nakano (Shino Shimoji), Yukari Mizumoto (Akane Fujita), Noriko Shiina (Chiyo Tomaru)"
+      "artist": "Yuka Nakano (Shino Shimoji), Yukari Mizumoto (Akane Fujita), Noriko Shiina (Chiyo Tomaru)",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 19,
       "title": "Ao To Natsu",
-      "artist": "Mrs.GREEN APPLE",
+      "artist": "Mrs. GREEN APPLE",
       "position": {
         "Last Week": "17",
         "Peak Position": 10,
@@ -179,7 +205,12 @@
     {
       "rank": 21,
       "title": "Souyoku No Aria",
-      "artist": "Ranko Kanzaki (Maaya Uchida), Asuka Ninomiya (Shiki Aoki)"
+      "artist": "Ranko Kanzaki (Maaya Uchida), Asuka Ninomiya (Shiki Aoki)",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,
@@ -194,21 +225,36 @@
     {
       "rank": 23,
       "title": "Sadame",
-      "artist": "First Place"
+      "artist": "First Place",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
       "title": "Burning Festival",
-      "artist": "Team Syachihoko * Radio Fish"
+      "artist": "Team Syachihoko * Radio Fish",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
       "title": "Shunkashuutou",
-      "artist": "Sumika"
+      "artist": "sumika",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 26,
-      "title": "DDU-DU DDU-DU",
+      "title": "Ddu-du Ddu-du",
       "artist": "BLACKPINK",
       "position": {
         "Last Week": "10",
@@ -229,7 +275,12 @@
     {
       "rank": 28,
       "title": "Juusho",
-      "artist": "KICK THE CAN CREW Feat. Yasuyuki Okamura"
+      "artist": "KICK THE CAN CREW Feat. Yasuyuki Okamura",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 28,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 29,
@@ -274,12 +325,22 @@
     {
       "rank": 33,
       "title": "Deko Boko Speed Star",
-      "artist": "Nana Abe (Marie Miyake), Shin Sato (Yumiri Hanamori)"
+      "artist": "Nana Abe (Marie Miyake), Shin Sato (Yumiri Hanamori)",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 34,
       "title": "Twin kuru Teeru",
-      "artist": "Mika Jogasaki (Haruka Yoshimura), Rika Jogasaki (Nozomi Yamamoto)"
+      "artist": "Mika Jogasaki (Haruka Yoshimura), Rika Jogasaki (Nozomi Yamamoto)",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 34,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 35,
@@ -294,7 +355,12 @@
     {
       "rank": 36,
       "title": "I'm Fine",
-      "artist": "BTS"
+      "artist": "BTS",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -319,7 +385,7 @@
     {
       "rank": 39,
       "title": "Hanabi",
-      "artist": "Mr. Children",
+      "artist": "Mr.Children",
       "position": {
         "Last Week": "31",
         "Peak Position": 9,
@@ -329,7 +395,12 @@
     {
       "rank": 40,
       "title": "Happy New Yeah!",
-      "artist": "Uduki Shimamura (Ayaka Ohashi),Rin Shibuya( Ayaka Fukuhara),Mio Honda (Sayuri Hara)…"
+      "artist": "Uduki Shimamura (Ayaka Ohashi),Rin Shibuya( Ayaka Fukuhara),Mio Honda (Sayuri Hara)…",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 41,
@@ -364,7 +435,12 @@
     {
       "rank": 44,
       "title": "Vast world",
-      "artist": "Chieri Ogata (Naomi Ozora), Koume Shirasaka (Chiyo Osaki), Yuko Hori (Eri Suzuki)..."
+      "artist": "Chieri Ogata (Naomi Ozora), Koume Shirasaka (Chiyo Osaki), Yuko Hori (Eri Suzuki)...",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 45,
@@ -379,7 +455,12 @@
     {
       "rank": 46,
       "title": "Tatsuo...Yome Wo Ore Ni Kure",
-      "artist": "Golden Bomber"
+      "artist": "Golden Bomber",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
@@ -394,7 +475,12 @@
     {
       "rank": 48,
       "title": "Ikiru",
-      "artist": "The Cro-Magnons"
+      "artist": "The Cro-Magnons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,
@@ -439,7 +525,12 @@
     {
       "rank": 53,
       "title": "Beyond the Moon",
-      "artist": "Luna Kaguya"
+      "artist": "Luna Kaguya",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 54,
@@ -474,12 +565,22 @@
     {
       "rank": 57,
       "title": "Bimabe!",
-      "artist": "Beboga!"
+      "artist": "Beboga!",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 57,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 58,
       "title": "It`s My Turn",
-      "artist": "The Dance For Philosophy"
+      "artist": "The Dance For Philosophy",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 58,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 59,
@@ -504,7 +605,7 @@
     {
       "rank": 61,
       "title": "Kimi Ha Rock Wo Kikanai",
-      "artist": "Aimyon",
+      "artist": "aimyon",
       "position": {
         "Last Week": "48",
         "Peak Position": 25,
@@ -544,7 +645,7 @@
     {
       "rank": 65,
       "title": "Natsuhayate",
-      "artist": "Arashi",
+      "artist": "ARASHI",
       "position": {
         "Last Week": "24",
         "Peak Position": 7,
@@ -554,7 +655,12 @@
     {
       "rank": 66,
       "title": "Joe Decky!!!",
-      "artist": "Hayabusa"
+      "artist": "Hayabusa",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 66,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 67,
@@ -589,7 +695,12 @@
     {
       "rank": 70,
       "title": "Maji Manji!!!",
-      "artist": "Papimache"
+      "artist": "Papimache",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 70,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 71,
@@ -604,12 +715,22 @@
     {
       "rank": 72,
       "title": "Front Liner",
-      "artist": "Fruity"
+      "artist": "Fruity",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 72,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 73,
       "title": "Yellow Yellow Happy",
-      "artist": "Pocket Biscuits"
+      "artist": "Pocket Biscuits",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 73,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 74,
@@ -674,7 +795,12 @@
     {
       "rank": 80,
       "title": "Only One",
-      "artist": "iri"
+      "artist": "iri",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 80,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 81,
@@ -689,7 +815,12 @@
     {
       "rank": 82,
       "title": "Sweet Hurt",
-      "artist": "Reona"
+      "artist": "ReoNa",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 82,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 83,
@@ -714,12 +845,22 @@
     {
       "rank": 85,
       "title": "Euphoria",
-      "artist": "BTS"
+      "artist": "BTS",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 85,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 86,
       "title": "DeCIDE",
-      "artist": "SUMMONERS 2+"
+      "artist": "SUMMONERS 2+",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 86,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 87,
@@ -794,7 +935,12 @@
     {
       "rank": 94,
       "title": "Kibou -Yell- (Represent NEWS Mix)",
-      "artist": "NEWS"
+      "artist": "NEWS",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 94,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 95,

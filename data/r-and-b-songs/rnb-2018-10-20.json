@@ -7,6 +7,7 @@
       "title": "Trip",
       "artist": "Ella Mai",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 10
       }
@@ -84,7 +85,12 @@
     {
       "rank": 9,
       "title": "Whatchamacallit",
-      "artist": "Ella Mai Featuring Chris Brown"
+      "artist": "Ella Mai Featuring Chris Brown",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 9,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 10,
@@ -119,7 +125,7 @@
     {
       "rank": 13,
       "title": "Girls Need Love",
-      "artist": "Summer Walker",
+      "artist": "Summer Walker X Drake",
       "position": {
         "Last Week": "17",
         "Peak Position": 13,
@@ -209,7 +215,12 @@
     {
       "rank": 22,
       "title": "With You",
-      "artist": "Mariah Carey"
+      "artist": "Mariah Carey",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 23,
@@ -224,7 +235,12 @@
     {
       "rank": 24,
       "title": "You",
-      "artist": "Jacquees"
+      "artist": "Jacquees",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,

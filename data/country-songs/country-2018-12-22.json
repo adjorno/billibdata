@@ -7,6 +7,7 @@
       "title": "Speechless",
       "artist": "Dan + Shay",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 30
       }
@@ -23,7 +24,7 @@
     },
     {
       "rank": 3,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "2",
@@ -314,7 +315,12 @@
     {
       "rank": 32,
       "title": "Don't Wanna Write This Song",
-      "artist": "Brett Young"
+      "artist": "Brett Young",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,
@@ -439,7 +445,12 @@
     {
       "rank": 45,
       "title": "Don't Let The Old Man In",
-      "artist": "Toby Keith"
+      "artist": "Toby Keith",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,
@@ -454,7 +465,12 @@
     {
       "rank": 47,
       "title": "Blue",
-      "artist": "Chevel Shepherd"
+      "artist": "Chevel Shepherd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,

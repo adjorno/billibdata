@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 10
       }
@@ -44,7 +45,12 @@
     {
       "rank": 5,
       "title": "Lucky You",
-      "artist": "Eminem Featuring Joyner Lucas"
+      "artist": "Eminem Featuring Joyner Lucas",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 5,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 6,
@@ -59,7 +65,12 @@
     {
       "rank": 7,
       "title": "The Ringer",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 8,
@@ -84,12 +95,22 @@
     {
       "rank": 10,
       "title": "Fall",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 11,
       "title": "Kamikaze",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 11,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 12,
@@ -114,12 +135,22 @@
     {
       "rank": 14,
       "title": "Greatest",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 14,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 15,
       "title": "Not Alike",
-      "artist": "Eminem Featuring Royce Da 5'9"
+      "artist": "Eminem Featuring Royce Da 5'9",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 15,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 16,
@@ -144,17 +175,32 @@
     {
       "rank": 18,
       "title": "Normal",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 19,
       "title": "Stepping Stone",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,
       "title": "Venom",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 21,

@@ -7,6 +7,7 @@
       "title": "Happier",
       "artist": "Marshmello & Bastille",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 17
       }
@@ -164,7 +165,7 @@
     {
       "rank": 17,
       "title": "I Found You",
-      "artist": "Benny Blanco & Calvin Harris",
+      "artist": "benny blanco & Calvin Harris",
       "position": {
         "Last Week": "16",
         "Peak Position": 13,
@@ -314,7 +315,12 @@
     {
       "rank": 32,
       "title": "On Your Mind",
-      "artist": "Kaskade"
+      "artist": "Kaskade",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,
@@ -409,7 +415,7 @@
     {
       "rank": 42,
       "title": "Just Got Paid",
-      "artist": "Sigala, Meghan Trainor, Ella Eyre & French Montana",
+      "artist": "Sigala., Meghan Trainor, Ella Eyre & French Montana",
       "position": {
         "Last Week": "38",
         "Peak Position": 24,
@@ -479,7 +485,12 @@
     {
       "rank": 49,
       "title": "Self Control",
-      "artist": "Kendra Erika"
+      "artist": "Kendra Erika",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,

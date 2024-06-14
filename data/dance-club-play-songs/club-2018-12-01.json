@@ -304,7 +304,7 @@
     },
     {
       "rank": 31,
-      "title": "Riot ",
+      "title": "Riot",
       "artist": "Jen Raina",
       "position": {
         "Last Week": "41",
@@ -385,7 +385,12 @@
     {
       "rank": 39,
       "title": "I Don't Need Your Love",
-      "artist": "Bleona"
+      "artist": "Bleona",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
@@ -400,7 +405,12 @@
     {
       "rank": 41,
       "title": "Hey Mami",
-      "artist": "Katerina Villegas"
+      "artist": "Katerina Villegas",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 42,
@@ -415,7 +425,12 @@
     {
       "rank": 43,
       "title": "So Good",
-      "artist": "Krys Monique"
+      "artist": "Krys Monique",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 44,
@@ -439,7 +454,7 @@
     },
     {
       "rank": 46,
-      "title": "Orbit ",
+      "title": "Orbit",
       "artist": "Geneve",
       "position": {
         "Last Week": "49",
@@ -470,7 +485,7 @@
     {
       "rank": 49,
       "title": "Hydrolove",
-      "artist": "Dan De Leon & Anthony Griego Featuring Kris Kollins ",
+      "artist": "Dan De Leon & Anthony Griego Featuring Kris Kollins",
       "position": {
         "Last Week": "38",
         "Peak Position": 30,
@@ -485,6 +500,51 @@
         "Last Week": "45",
         "Peak Position": 45,
         "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Little Voices",
+      "artist": "Sextronica Featuring Claudia Monet",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Moment",
+      "artist": "Gigi Radics Featuring RIO",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Without Me",
+      "artist": "Halsey",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Trust My Lonely",
+      "artist": "Alessia Cara",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Runway",
+      "artist": "Duke Dumont",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55
       }
     }
   ]

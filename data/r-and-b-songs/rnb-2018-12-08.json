@@ -7,6 +7,7 @@
       "title": "Trip",
       "artist": "Ella Mai",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 17
       }
@@ -104,7 +105,7 @@
     {
       "rank": 11,
       "title": "Girls Need Love",
-      "artist": "Summer Walker",
+      "artist": "Summer Walker X Drake",
       "position": {
         "Last Week": "10",
         "Peak Position": 8,
@@ -144,7 +145,7 @@
     {
       "rank": 15,
       "title": "Saturday Nights",
-      "artist": "Khalid",
+      "artist": "Khalid & Kane Brown",
       "position": {
         "Last Week": "16",
         "Peak Position": 4,
@@ -234,7 +235,12 @@
     {
       "rank": 24,
       "title": "Overdose",
-      "artist": "AGNEZ MO x Chris Brown"
+      "artist": "AGNEZ MO x Chris Brown",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,

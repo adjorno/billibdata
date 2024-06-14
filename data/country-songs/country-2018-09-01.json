@@ -7,6 +7,7 @@
       "title": "Meant To Be",
       "artist": "Bebe Rexha & Florida Georgia Line",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 39
       }
@@ -123,7 +124,7 @@
     },
     {
       "rank": 13,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "18",
@@ -324,7 +325,12 @@
     {
       "rank": 33,
       "title": "Dad's Old Number",
-      "artist": "Cole Swindell"
+      "artist": "Cole Swindell",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 34,
@@ -339,7 +345,12 @@
     {
       "rank": 35,
       "title": "Heart Like A Wheel",
-      "artist": "Eric Church"
+      "artist": "Eric Church",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
@@ -374,7 +385,12 @@
     {
       "rank": 39,
       "title": "Turnin' Me On",
-      "artist": "Blake Shelton"
+      "artist": "Blake Shelton",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
@@ -469,12 +485,22 @@
     {
       "rank": 49,
       "title": "All Of It",
-      "artist": "Cole Swindell"
+      "artist": "Cole Swindell",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,
       "title": "Night Shift",
-      "artist": "Jon Pardi"
+      "artist": "Jon Pardi",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

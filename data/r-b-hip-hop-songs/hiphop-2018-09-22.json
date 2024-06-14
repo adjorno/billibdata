@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 11
       }
@@ -44,7 +45,12 @@
     {
       "rank": 5,
       "title": "I Love It",
-      "artist": "Kanye West & Lil Pump"
+      "artist": "Kanye West & Lil Pump",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 5,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 6,
@@ -89,7 +95,12 @@
     {
       "rank": 10,
       "title": "Rap Devil",
-      "artist": "Machine Gun Kelly"
+      "artist": "Machine Gun Kelly",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 11,
@@ -164,7 +175,12 @@
     {
       "rank": 18,
       "title": "Self Care",
-      "artist": "Mac Miller"
+      "artist": "Mac Miller",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 19,
@@ -238,7 +254,7 @@
     },
     {
       "rank": 26,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "30",
@@ -269,7 +285,12 @@
     {
       "rank": 29,
       "title": "Hurt Feelings",
-      "artist": "Mac Miller"
+      "artist": "Mac Miller",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 29,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 30,
@@ -384,7 +405,12 @@
     {
       "rank": 41,
       "title": "Come Back To Earth",
-      "artist": "Mac Miller"
+      "artist": "Mac Miller",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 42,
@@ -459,12 +485,22 @@
     {
       "rank": 49,
       "title": "2009",
-      "artist": "Mac Miller"
+      "artist": "Mac Miller",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,
       "title": "Ladders",
-      "artist": "Mac Miller"
+      "artist": "Mac Miller",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

@@ -7,6 +7,7 @@
       "title": "I Like It",
       "artist": "Cardi B, Bad Bunny & J Balvin",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 14
       }
@@ -304,12 +305,22 @@
     {
       "rank": 31,
       "title": "FEFE",
-      "artist": "6ix9ine Featuring Nicki Minaj & Murda Beatz"
+      "artist": "6ix9ine Featuring Nicki Minaj & Murda Beatz",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
       "title": "No Brainer",
-      "artist": "DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo"
+      "artist": "DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,

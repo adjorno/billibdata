@@ -7,6 +7,7 @@
       "title": "You Say",
       "artist": "Lauren Daigle",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 17
       }
@@ -204,7 +205,7 @@
     {
       "rank": 21,
       "title": "Forever On Your Side",
-      "artist": "NEEDTOBREATHE Featuring JOHNNYSWIM",
+      "artist": "NEEDTOBREATHE",
       "position": {
         "Last Week": "24",
         "Peak Position": 19,
@@ -374,7 +375,12 @@
     {
       "rank": 38,
       "title": "Holy Roar",
-      "artist": "Chris Tomlin"
+      "artist": "Chris Tomlin",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
@@ -479,7 +485,12 @@
     {
       "rank": 49,
       "title": "Gold",
-      "artist": "Apollo LTD"
+      "artist": "Apollo LTD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,

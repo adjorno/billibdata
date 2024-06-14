@@ -7,6 +7,7 @@
       "title": "Natural",
       "artist": "Imagine Dragons",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 15
       }
@@ -64,7 +65,7 @@
     {
       "rank": 7,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "6",
         "Peak Position": 6,
@@ -154,12 +155,17 @@
     {
       "rank": 16,
       "title": "Somebody To Love",
-      "artist": "Queen"
+      "artist": "Queen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 16,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 17,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "9",
         "Peak Position": 6,
@@ -189,7 +195,7 @@
     {
       "rank": 20,
       "title": "Chlorine",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "10",
         "Peak Position": 10,
@@ -219,12 +225,17 @@
     {
       "rank": 23,
       "title": "It's Not Living (If It's Not With You)",
-      "artist": "The 1975"
+      "artist": "The 1975",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
       "title": "Morph",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "12",
         "Peak Position": 9,
@@ -234,7 +245,7 @@
     {
       "rank": 25,
       "title": "Nico And The Niners",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "14",
         "Peak Position": 7,
@@ -284,7 +295,12 @@
     {
       "rank": 30,
       "title": "You're The One",
-      "artist": "Greta Van Fleet"
+      "artist": "Greta Van Fleet",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,
@@ -329,12 +345,17 @@
     {
       "rank": 35,
       "title": "Party Of One",
-      "artist": "Brandi Carlile Featuring Sam Smith"
+      "artist": "Brandi Carlile Featuring Sam Smith",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
       "title": "Smithereens",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "20",
         "Peak Position": 14,
@@ -354,7 +375,7 @@
     {
       "rank": 38,
       "title": "Neon Gravestones",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "21",
         "Peak Position": 13,
@@ -374,7 +395,7 @@
     {
       "rank": 40,
       "title": "Levitate",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "22",
         "Peak Position": 11,
@@ -384,7 +405,7 @@
     {
       "rank": 41,
       "title": "The Hype",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "24",
         "Peak Position": 15,
@@ -394,7 +415,7 @@
     {
       "rank": 42,
       "title": "Pet Cheetah",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "26",
         "Peak Position": 16,
@@ -434,7 +455,7 @@
     {
       "rank": 46,
       "title": "Bandito",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "27",
         "Peak Position": 18,
@@ -454,7 +475,7 @@
     {
       "rank": 48,
       "title": "Cut My Lip",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "28",
         "Peak Position": 19,

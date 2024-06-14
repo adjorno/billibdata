@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 4
       }
@@ -34,7 +35,12 @@
     {
       "rank": 4,
       "title": "FEFE",
-      "artist": "6ix9ine Featuring Nicki Minaj & Murda Beatz"
+      "artist": "6ix9ine Featuring Nicki Minaj & Murda Beatz",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 4,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 5,
@@ -299,7 +305,7 @@
     {
       "rank": 31,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "48",
         "Peak Position": 31,
@@ -399,7 +405,12 @@
     {
       "rank": 41,
       "title": "Natural",
-      "artist": "Imagine Dragons"
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 42,
@@ -684,7 +695,12 @@
     {
       "rank": 70,
       "title": "You Should See Me In A Crown",
-      "artist": "Billie Eilish"
+      "artist": "Billie Eilish",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 70,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 71,
@@ -749,7 +765,12 @@
     {
       "rank": 77,
       "title": "Happy Now",
-      "artist": "Zedd & Elley Duhe"
+      "artist": "Zedd & Elley Duhe",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 77,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 78,
@@ -774,7 +795,12 @@
     {
       "rank": 80,
       "title": "I Might Need Security",
-      "artist": "Chance The Rapper"
+      "artist": "Chance The Rapper",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 80,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 81,
@@ -869,7 +895,12 @@
     {
       "rank": 90,
       "title": "Hotel Key",
-      "artist": "Old Dominion"
+      "artist": "Old Dominion",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 90,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 91,
@@ -894,7 +925,12 @@
     {
       "rank": 93,
       "title": "Creeping",
-      "artist": "Lil Skies Featuring Rich The Kid"
+      "artist": "Lil Skies Featuring Rich The Kid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 93,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 94,

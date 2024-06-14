@@ -7,6 +7,7 @@
       "title": "Shallow",
       "artist": "Lady Gaga & Bradley Cooper",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 5
       }
@@ -44,7 +45,12 @@
     {
       "rank": 5,
       "title": "Mood",
-      "artist": "Eva"
+      "artist": "Eva",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 5,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 6,
@@ -79,7 +85,12 @@
     {
       "rank": 9,
       "title": "Madrina",
-      "artist": "Maes Featuring Booba"
+      "artist": "Maes Featuring Booba",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 9,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 10,

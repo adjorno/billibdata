@@ -7,6 +7,7 @@
       "title": "The Middle",
       "artist": "Zedd, Maren Morris & Grey",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 32
       }
@@ -114,7 +115,12 @@
     {
       "rank": 12,
       "title": "Goodbye",
-      "artist": "Jason Derulo X David Guetta Featuring Nicki Minaj & Willy William"
+      "artist": "Jason Derulo X David Guetta Featuring Nicki Minaj & Willy William",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 12,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 13,
@@ -129,7 +135,12 @@
     {
       "rank": 14,
       "title": "Right Now",
-      "artist": "Nick Jonas vs Robin Schulz"
+      "artist": "Nick Jonas vs Robin Schulz",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 14,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 15,
@@ -194,7 +205,12 @@
     {
       "rank": 21,
       "title": "Save Yourself",
-      "artist": "The Chainsmokers & NGHTMRE"
+      "artist": "The Chainsmokers & NGHTMRE",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,
@@ -269,7 +285,7 @@
     {
       "rank": 29,
       "title": "We Don't Care",
-      "artist": "Sigala & The Vamps",
+      "artist": "Sigala. & The Vamps",
       "position": {
         "Last Week": "27",
         "Peak Position": 27,
@@ -289,7 +305,12 @@
     {
       "rank": 31,
       "title": "Drive",
-      "artist": "Black Coffee & David Guetta Featuring Delilah Montagu"
+      "artist": "Black Coffee & David Guetta Featuring Delilah Montagu",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
@@ -314,7 +335,7 @@
     {
       "rank": 34,
       "title": "Take You Down",
-      "artist": "Illenium",
+      "artist": "ILLENIUM",
       "position": {
         "Last Week": "32",
         "Peak Position": 23,
@@ -364,7 +385,12 @@
     {
       "rank": 39,
       "title": "Where Angels Fear To Tread",
-      "artist": "Disclosure"
+      "artist": "Disclosure",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
@@ -419,7 +445,12 @@
     {
       "rank": 45,
       "title": "Moonlight",
-      "artist": "Disclosure"
+      "artist": "Disclosure",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,
@@ -443,8 +474,13 @@
     },
     {
       "rank": 48,
-      "title": "Miss Me ",
-      "artist": "Sted-E & Hybrid Heights Featuring Mimi"
+      "title": "Miss Me",
+      "artist": "Sted-E & Hybrid Heights Featuring Mimi",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,

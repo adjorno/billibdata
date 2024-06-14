@@ -7,6 +7,7 @@
       "title": "I Feel Like I'm Drowning",
       "artist": "Two Feet",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 20
       }
@@ -374,17 +375,32 @@
     {
       "rank": 38,
       "title": "She's Kerosene",
-      "artist": "The Interrupters"
+      "artist": "The Interrupters",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
       "title": "Screws",
-      "artist": "DREAMERS"
+      "artist": "DREAMERS",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "Pictures Of Girls",
-      "artist": "Wallows"
+      "artist": "Wallows",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

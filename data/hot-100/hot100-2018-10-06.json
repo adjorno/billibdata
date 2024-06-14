@@ -7,6 +7,7 @@
       "title": "Girls Like You",
       "artist": "Maroon 5 Featuring Cardi B",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 18
       }
@@ -264,7 +265,7 @@
     {
       "rank": 27,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "29",
         "Peak Position": 27,
@@ -464,11 +465,16 @@
     {
       "rank": 47,
       "title": "No Stylist",
-      "artist": "French Montana Featuring Drake"
+      "artist": "French Montana Featuring Drake",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "50",
@@ -629,11 +635,16 @@
     {
       "rank": 64,
       "title": "Head Above Water",
-      "artist": "Avril Lavigne"
+      "artist": "Avril Lavigne",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 64,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 65,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "70",
@@ -724,7 +735,12 @@
     {
       "rank": 74,
       "title": "This Feeling",
-      "artist": "The Chainsmokers Featuring Kelsea Ballerini"
+      "artist": "The Chainsmokers Featuring Kelsea Ballerini",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 74,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 75,
@@ -899,7 +915,12 @@
     {
       "rank": 92,
       "title": "Backin' It Up",
-      "artist": "Pardison Fontaine Featuring Cardi B"
+      "artist": "Pardison Fontaine Featuring Cardi B",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 92,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 93,
@@ -934,7 +955,12 @@
     {
       "rank": 96,
       "title": "Rich",
-      "artist": "Maren Morris"
+      "artist": "Maren Morris",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 96,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 97,

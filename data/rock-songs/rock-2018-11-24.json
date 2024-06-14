@@ -7,6 +7,7 @@
       "title": "High Hopes",
       "artist": "Panic! At The Disco",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 26
       }
@@ -114,7 +115,7 @@
     {
       "rank": 12,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "12",
         "Peak Position": 6,
@@ -264,12 +265,22 @@
     {
       "rank": 27,
       "title": "Boomerang",
-      "artist": "Imagine Dragons"
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 27,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 28,
       "title": "West Coast",
-      "artist": "Imagine Dragons"
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 28,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 29,
@@ -364,27 +375,47 @@
     {
       "rank": 38,
       "title": "Cool Out",
-      "artist": "Imagine Dragons"
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
       "title": "Worst Nites",
-      "artist": "Foster The People"
+      "artist": "Foster The People",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "Holy Hell",
-      "artist": "Architects"
+      "artist": "Architects",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 41,
       "title": "Bullet In A Gun",
-      "artist": "Imagine Dragons"
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 42,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "34",
         "Peak Position": 6,
@@ -394,7 +425,12 @@
     {
       "rank": 43,
       "title": "Radio Ga Ga (Live Aid)",
-      "artist": "Queen"
+      "artist": "Queen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 44,
@@ -409,12 +445,17 @@
     {
       "rank": 45,
       "title": "Only",
-      "artist": "Imagine Dragons"
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,
       "title": "Chlorine",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "37",
         "Peak Position": 10,
@@ -434,12 +475,22 @@
     {
       "rank": 48,
       "title": "Stuck",
-      "artist": "Imagine Dragons"
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,
       "title": "Ay-Oh (Live Aid)",
-      "artist": "Queen"
+      "artist": "Queen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,

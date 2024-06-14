@@ -7,6 +7,7 @@
       "title": "Alright",
       "artist": "Jain",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 8
       }
@@ -74,7 +75,12 @@
     {
       "rank": 8,
       "title": "Otto",
-      "artist": "SCH"
+      "artist": "SCH",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 8,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 9,
@@ -89,7 +95,12 @@
     {
       "rank": 10,
       "title": "Pour Oublier",
-      "artist": "Kendji Girac"
+      "artist": "Kendji Girac",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

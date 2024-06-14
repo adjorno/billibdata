@@ -7,6 +7,7 @@
       "title": "Natural",
       "artist": "Imagine Dragons",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 13
       }
@@ -54,7 +55,7 @@
     {
       "rank": 6,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "7",
         "Peak Position": 6,
@@ -254,7 +255,7 @@
     {
       "rank": 26,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "26",
         "Peak Position": 1,
@@ -334,7 +335,12 @@
     {
       "rank": 34,
       "title": "Song About You",
-      "artist": "Mike Posner"
+      "artist": "Mike Posner",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 34,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 35,
@@ -389,7 +395,12 @@
     {
       "rank": 40,
       "title": "Silvery Sometimes (Ghosts)",
-      "artist": "The Smashing Pumpkins"
+      "artist": "The Smashing Pumpkins",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

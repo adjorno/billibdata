@@ -7,6 +7,7 @@
       "title": "Happier",
       "artist": "Marshmello & Bastille",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 10
       }
@@ -104,7 +105,12 @@
     {
       "rank": 11,
       "title": "Waste It On Me",
-      "artist": "Steve Aoki Featuring BTS"
+      "artist": "Steve Aoki Featuring BTS",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 11,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 12,
@@ -199,7 +205,12 @@
     {
       "rank": 21,
       "title": "Blow That Smoke",
-      "artist": "Major Lazer Featuring Tove Lo"
+      "artist": "Major Lazer Featuring Tove Lo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,
@@ -244,7 +255,12 @@
     {
       "rank": 26,
       "title": "Waiting For Tomorrow",
-      "artist": "Martin Garrix & Pierce Fulton Featuring Mike Shinoda"
+      "artist": "Martin Garrix & Pierce Fulton Featuring Mike Shinoda",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 26,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 27,
@@ -259,7 +275,12 @@
     {
       "rank": 28,
       "title": "Treat You Better",
-      "artist": "RUFUS DU SOL"
+      "artist": "RUFUS DU SOL",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 28,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 29,
@@ -324,7 +345,12 @@
     {
       "rank": 35,
       "title": "Agen Wida",
-      "artist": "JOYRYDE & Skrillex"
+      "artist": "JOYRYDE & Skrillex",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
@@ -339,12 +365,17 @@
     {
       "rank": 37,
       "title": "Slow Down",
-      "artist": "Normani X Calvin Harris"
+      "artist": "Normani X Calvin Harris",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
       "title": "Take You Down",
-      "artist": "Illenium",
+      "artist": "ILLENIUM",
       "position": {
         "Last Week": "31",
         "Peak Position": 23,
@@ -364,7 +395,7 @@
     {
       "rank": 40,
       "title": "Just Got Paid",
-      "artist": "Sigala, Meghan Trainor, Ella Eyre & French Montana",
+      "artist": "Sigala., Meghan Trainor, Ella Eyre & French Montana",
       "position": {
         "Last Week": "29",
         "Peak Position": 24,

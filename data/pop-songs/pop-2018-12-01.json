@@ -7,6 +7,7 @@
       "title": "Happier",
       "artist": "Marshmello & Bastille",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 13
       }
@@ -84,7 +85,7 @@
     {
       "rank": 9,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "11",
         "Peak Position": 9,
@@ -364,7 +365,7 @@
     {
       "rank": 37,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "37",
         "Peak Position": 37,
@@ -384,12 +385,22 @@
     {
       "rank": 39,
       "title": "Waste It On Me",
-      "artist": "Steve Aoki Featuring BTS"
+      "artist": "Steve Aoki Featuring BTS",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "MIA",
-      "artist": "Bad Bunny Featuring Drake"
+      "artist": "Bad Bunny Featuring Drake",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

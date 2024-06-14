@@ -7,6 +7,7 @@
       "title": "Sicko Mode",
       "artist": "Travis Scott",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 13
       }
@@ -214,7 +215,7 @@
     {
       "rank": 22,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "25",
         "Peak Position": 22,
@@ -344,7 +345,12 @@
     {
       "rank": 35,
       "title": "Money",
-      "artist": "Cardi B"
+      "artist": "Cardi B",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
@@ -359,7 +365,12 @@
     {
       "rank": 37,
       "title": "Talk To Me",
-      "artist": "Tory Lanez & Rich The Kid"
+      "artist": "Tory Lanez & Rich The Kid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
@@ -374,7 +385,12 @@
     {
       "rank": 39,
       "title": "Arms Around You",
-      "artist": "XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee"
+      "artist": "XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,

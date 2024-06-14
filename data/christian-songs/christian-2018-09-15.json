@@ -7,6 +7,7 @@
       "title": "You Say",
       "artist": "Lauren Daigle",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 9
       }
@@ -334,7 +335,12 @@
     {
       "rank": 34,
       "title": "Echo",
-      "artist": "Elevation Worship Featuring Tauren Wells"
+      "artist": "Elevation Worship Featuring Tauren Wells",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 34,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 35,
@@ -349,7 +355,7 @@
     {
       "rank": 36,
       "title": "Forever On Your Side",
-      "artist": "NEEDTOBREATHE Featuring JOHNNYSWIM",
+      "artist": "NEEDTOBREATHE",
       "position": {
         "Last Week": "37",
         "Peak Position": 19,
@@ -448,7 +454,7 @@
     },
     {
       "rank": 46,
-      "title": "Let Go                     ",
+      "title": "Let Go",
       "artist": "Hillsong Young & Free",
       "position": {
         "Last Week": "45",
@@ -479,7 +485,12 @@
     {
       "rank": 49,
       "title": "Born Again",
-      "artist": "Austin French"
+      "artist": "Austin French",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,

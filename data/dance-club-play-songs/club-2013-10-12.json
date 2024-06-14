@@ -18,7 +18,7 @@
       "artist": "Krewella",
       "position": {
         "Last Week": "3",
-        "Peak Position": 1,
+        "Peak Position": 2,
         "Wks on Chart": 7
       }
     },
@@ -28,7 +28,7 @@
       "artist": "Katy Perry",
       "position": {
         "Last Week": "8",
-        "Peak Position": 1,
+        "Peak Position": 3,
         "Wks on Chart": 4
       }
     },
@@ -38,7 +38,7 @@
       "artist": "Cazzette",
       "position": {
         "Last Week": "4",
-        "Peak Position": 3,
+        "Peak Position": 4,
         "Wks on Chart": 9
       }
     },
@@ -58,7 +58,7 @@
       "artist": "Daft Punk Featuring Pharrell Williams",
       "position": {
         "Last Week": "7",
-        "Peak Position": 1,
+        "Peak Position": 6,
         "Wks on Chart": 5
       }
     },
@@ -78,7 +78,7 @@
       "artist": "Havana Brown",
       "position": {
         "Last Week": "10",
-        "Peak Position": 1,
+        "Peak Position": 8,
         "Wks on Chart": 7
       }
     },
@@ -88,7 +88,7 @@
       "artist": "Zendaya",
       "position": {
         "Last Week": "11",
-        "Peak Position": 3,
+        "Peak Position": 9,
         "Wks on Chart": 8
       }
     },
@@ -118,7 +118,7 @@
       "artist": "Colette Carr",
       "position": {
         "Last Week": "17",
-        "Peak Position": 11,
+        "Peak Position": 12,
         "Wks on Chart": 6
       }
     },
@@ -128,7 +128,7 @@
       "artist": "Rihanna",
       "position": {
         "Last Week": "28",
-        "Peak Position": 1,
+        "Peak Position": 13,
         "Wks on Chart": 3
       }
     },
@@ -138,14 +138,14 @@
       "artist": "Asher Monroe",
       "position": {
         "Last Week": "21",
-        "Peak Position": 10,
+        "Peak Position": 14,
         "Wks on Chart": 6
       }
     },
     {
       "rank": 15,
       "title": "Summertime Sadness",
-      "artist": "Lana Del Rey & Cedric Gervais",
+      "artist": "Lana Del Rey vs. Cedric Gervais",
       "position": {
         "Last Week": "15",
         "Peak Position": 15,
@@ -165,7 +165,7 @@
     {
       "rank": 17,
       "title": "Not Into You",
-      "artist": "Kim Cameron",
+      "artist": "Side FX & Kim Cameron",
       "position": {
         "Last Week": "22",
         "Peak Position": 17,
@@ -175,7 +175,7 @@
     {
       "rank": 18,
       "title": "Electricity & Drums (Bad Boy)",
-      "artist": "Dave Aude Featuring Akon & Luciana",
+      "artist": "Aude Featuring Akon & Luciana",
       "position": {
         "Last Week": "27",
         "Peak Position": 18,
@@ -195,10 +195,10 @@
     {
       "rank": 20,
       "title": "$$$ex",
-      "artist": "Vanessa Hudgens Vs. YLA",
+      "artist": "YLA vs. Vanessa Hudgens",
       "position": {
         "Last Week": "23",
-        "Peak Position": 13,
+        "Peak Position": 20,
         "Wks on Chart": 5
       }
     },
@@ -238,7 +238,7 @@
       "artist": "Namy & Kathy Brown",
       "position": {
         "Last Week": "29",
-        "Peak Position": 19,
+        "Peak Position": 24,
         "Wks on Chart": 4
       }
     },
@@ -278,7 +278,7 @@
       "artist": "Foxes",
       "position": {
         "Last Week": "47",
-        "Peak Position": 1,
+        "Peak Position": 28,
         "Wks on Chart": 2
       }
     },
@@ -308,17 +308,17 @@
       "artist": "Robin Thicke Featuring Kendrick Lamar",
       "position": {
         "Last Week": "42",
-        "Peak Position": 21,
+        "Peak Position": 31,
         "Wks on Chart": 2
       }
     },
     {
       "rank": 32,
       "title": "It Feels So Good",
-      "artist": "Nexus",
+      "artist": "(We Are) Nexus",
       "position": {
         "Last Week": "43",
-        "Peak Position": 29,
+        "Peak Position": 32,
         "Wks on Chart": 2
       }
     },
@@ -338,7 +338,7 @@
       "artist": "Steve Aoki, Chris Lake & Tujamo",
       "position": {
         "Last Week": "46",
-        "Peak Position": 22,
+        "Peak Position": 34,
         "Wks on Chart": 2
       }
     },
@@ -358,7 +358,7 @@
       "artist": "Mat Zo Featuring Chuck D",
       "position": {
         "Last Week": "41",
-        "Peak Position": 30,
+        "Peak Position": 36,
         "Wks on Chart": 3
       }
     },
@@ -397,8 +397,8 @@
       "title": "Animals",
       "artist": "Martin Garrix",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 1,
+        "Last Week": "-",
+        "Peak Position": 40,
         "Wks on Chart": 7
       }
     },
@@ -408,7 +408,7 @@
       "artist": "Meital",
       "position": {
         "Last Week": "48",
-        "Peak Position": 7,
+        "Peak Position": 41,
         "Wks on Chart": 2
       }
     },
@@ -438,7 +438,7 @@
       "artist": "Empire Of The Sun",
       "position": {
         "Last Week": "51",
-        "Peak Position": 8,
+        "Peak Position": 44,
         "Wks on Chart": 1
       }
     },
@@ -447,8 +447,8 @@
       "title": "Lights Out",
       "artist": "Jessica Sutta",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 3,
+        "Last Week": "-",
+        "Peak Position": 45,
         "Wks on Chart": 1
       }
     },
@@ -500,6 +500,51 @@
         "Last Week": "44",
         "Peak Position": 3,
         "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Wrecking Ball",
+      "artist": "Miley Cyrus",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Work B**ch!",
+      "artist": "Britney Spears",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Feva",
+      "artist": "Ranny Featuring Deepa Soul",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Beg Borrow Steal",
+      "artist": "Ayah Marar",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Baby I",
+      "artist": "Ariana Grande",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55
       }
     }
   ]

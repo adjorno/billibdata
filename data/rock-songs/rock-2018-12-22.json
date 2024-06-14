@@ -7,6 +7,7 @@
       "title": "High Hopes",
       "artist": "Panic! At The Disco",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 30
       }
@@ -54,7 +55,7 @@
     {
       "rank": 6,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "7",
         "Peak Position": 6,
@@ -414,7 +415,7 @@
     {
       "rank": 42,
       "title": "Chlorine",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "-",
         "Peak Position": 10,
@@ -434,7 +435,12 @@
     {
       "rank": 44,
       "title": "\"99\"",
-      "artist": "Barns Courtney"
+      "artist": "Barns Courtney",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 45,
@@ -489,7 +495,12 @@
     {
       "rank": 50,
       "title": "We Are The Champions (Live Aid)",
-      "artist": "Queen"
+      "artist": "Queen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

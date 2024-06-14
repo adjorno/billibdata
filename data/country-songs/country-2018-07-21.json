@@ -7,6 +7,7 @@
       "title": "Meant To Be",
       "artist": "Bebe Rexha & Florida Georgia Line",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 33
       }
@@ -184,7 +185,12 @@
     {
       "rank": 19,
       "title": "Talk You Out Of It",
-      "artist": "Florida Georgia Line"
+      "artist": "Florida Georgia Line",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,
@@ -368,7 +374,7 @@
     },
     {
       "rank": 38,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "48",
@@ -439,7 +445,12 @@
     {
       "rank": 45,
       "title": "Desperate Man",
-      "artist": "Eric Church"
+      "artist": "Eric Church",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,
@@ -464,7 +475,12 @@
     {
       "rank": 48,
       "title": "David Ashley Parker From Powder Springs",
-      "artist": "Travis Denning"
+      "artist": "Travis Denning",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,
@@ -479,7 +495,12 @@
     {
       "rank": 50,
       "title": "Take It From Me",
-      "artist": "Jordan Davis"
+      "artist": "Jordan Davis",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

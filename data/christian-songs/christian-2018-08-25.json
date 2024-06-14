@@ -7,6 +7,7 @@
       "title": "You Say",
       "artist": "Lauren Daigle",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 6
       }
@@ -164,7 +165,12 @@
     {
       "rank": 17,
       "title": "Still Rolling Stones",
-      "artist": "Lauren Daigle"
+      "artist": "Lauren Daigle",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 17,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 18,
@@ -219,7 +225,12 @@
     {
       "rank": 23,
       "title": "Only Jesus",
-      "artist": "Casting Crowns"
+      "artist": "Casting Crowns",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
@@ -313,7 +324,7 @@
     },
     {
       "rank": 33,
-      "title": "Let Go                     ",
+      "title": "Let Go",
       "artist": "Hillsong Young & Free",
       "position": {
         "Last Week": "32",
@@ -334,7 +345,7 @@
     {
       "rank": 35,
       "title": "Forever On Your Side",
-      "artist": "NEEDTOBREATHE Featuring JOHNNYSWIM",
+      "artist": "NEEDTOBREATHE",
       "position": {
         "Last Week": "38",
         "Peak Position": 19,
@@ -354,7 +365,12 @@
     {
       "rank": 37,
       "title": "Where No One Stands Alone",
-      "artist": "Elvis Presley With Lisa Marie Presley"
+      "artist": "Elvis Presley With Lisa Marie Presley",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
@@ -419,7 +435,12 @@
     {
       "rank": 44,
       "title": "Stand In Your Love",
-      "artist": "Josh Baldwin"
+      "artist": "Josh Baldwin",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 45,
@@ -474,7 +495,12 @@
     {
       "rank": 50,
       "title": "You Found Me",
-      "artist": "Switchfoot"
+      "artist": "Switchfoot",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

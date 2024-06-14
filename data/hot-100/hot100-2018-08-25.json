@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 7
       }
@@ -174,7 +175,12 @@
     {
       "rank": 18,
       "title": "Barbie Dreams",
-      "artist": "Nicki Minaj"
+      "artist": "Nicki Minaj",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 19,
@@ -449,7 +455,12 @@
     {
       "rank": 46,
       "title": "Taking A Walk",
-      "artist": "Trippie Redd"
+      "artist": "Trippie Redd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
@@ -464,7 +475,7 @@
     {
       "rank": 48,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "55",
         "Peak Position": 44,
@@ -564,7 +575,12 @@
     {
       "rank": 58,
       "title": "Majesty",
-      "artist": "Nicki Minaj Featuring Eminem & Labrinth"
+      "artist": "Nicki Minaj Featuring Eminem & Labrinth",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 58,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 59,
@@ -579,7 +595,12 @@
     {
       "rank": 60,
       "title": "Ganja Burns",
-      "artist": "Nicki Minaj"
+      "artist": "Nicki Minaj",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 60,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 61,
@@ -693,8 +714,13 @@
     },
     {
       "rank": 72,
-      "title": "W O R K I N  M E",
-      "artist": "Quavo"
+      "title": "W O R K I N M E",
+      "artist": "Quavo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 72,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 73,
@@ -839,7 +865,12 @@
     {
       "rank": 87,
       "title": "Album Of The Year (Freestyle)",
-      "artist": "J. Cole"
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 87,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 88,
@@ -864,12 +895,22 @@
     {
       "rank": 90,
       "title": "Have It All",
-      "artist": "Jason Mraz"
+      "artist": "Jason Mraz",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 90,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 91,
       "title": "Drew Barrymore",
-      "artist": "Bryce Vine"
+      "artist": "Bryce Vine",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 91,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 92,
@@ -903,8 +944,13 @@
     },
     {
       "rank": 95,
-      "title": "She Got The Best Of Me ",
-      "artist": "Luke Combs"
+      "title": "She Got The Best Of Me",
+      "artist": "Luke Combs",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 95,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 96,
@@ -929,7 +975,12 @@
     {
       "rank": 98,
       "title": "Thought I Knew You",
-      "artist": "Nicki Minaj Featuring The Weeknd"
+      "artist": "Nicki Minaj Featuring The Weeknd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 98,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 99,

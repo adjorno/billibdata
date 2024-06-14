@@ -7,13 +7,14 @@
       "title": "Meant To Be",
       "artist": "Bebe Rexha & Florida Georgia Line",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 47
       }
     },
     {
       "rank": 2,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "4",
@@ -454,12 +455,22 @@
     {
       "rank": 46,
       "title": "Things That We Drink To",
-      "artist": "Morgan Evans"
+      "artist": "Morgan Evans",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
       "title": "Whiskey Glasses",
-      "artist": "Morgan Wallen"
+      "artist": "Morgan Wallen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,

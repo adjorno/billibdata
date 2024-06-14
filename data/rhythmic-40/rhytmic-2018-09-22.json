@@ -7,6 +7,7 @@
       "title": "Taste",
       "artist": "Tyga Featuring Offset",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 13
       }
@@ -263,7 +264,7 @@
     },
     {
       "rank": 27,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "32",
@@ -364,12 +365,17 @@
     {
       "rank": 37,
       "title": "Up Now",
-      "artist": "Saweetie X London On Da Track Featuring G-Eazy & Rich The Kid"
+      "artist": "Saweetie X London On Da Track Featuring G-Eazy & Rich The Kid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "38",
         "Peak Position": 38,
@@ -389,7 +395,12 @@
     {
       "rank": 40,
       "title": "Moonlight",
-      "artist": "XXXTENTACION"
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

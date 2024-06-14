@@ -244,7 +244,7 @@
     },
     {
       "rank": 25,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "23",
@@ -275,7 +275,7 @@
     {
       "rank": 28,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "30",
         "Peak Position": 28,
@@ -345,7 +345,12 @@
     {
       "rank": 35,
       "title": "Bottled Up",
-      "artist": "Dinah Jane Featuring Ty Dolla $ign & Marc E. Bassy"
+      "artist": "Dinah Jane Featuring Ty Dolla $ign & Marc E. Bassy",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
@@ -360,7 +365,12 @@
     {
       "rank": 37,
       "title": "Uproar",
-      "artist": "Lil Wayne"
+      "artist": "Lil Wayne",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
@@ -385,7 +395,12 @@
     {
       "rank": 40,
       "title": "Hey Up There",
-      "artist": "Buddy Featuring Ty Dolla $ign"
+      "artist": "Buddy Featuring Ty Dolla $ign",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

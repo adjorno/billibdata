@@ -7,6 +7,7 @@
       "title": "Meant To Be",
       "artist": "Bebe Rexha & Florida Georgia Line",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 36
       }
@@ -204,7 +205,12 @@
     {
       "rank": 21,
       "title": "Drunk Me",
-      "artist": "Mitchell Tenpenny"
+      "artist": "Mitchell Tenpenny",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,
@@ -268,7 +274,7 @@
     },
     {
       "rank": 28,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "29",
@@ -439,7 +445,12 @@
     {
       "rank": 45,
       "title": "Better Boat",
-      "artist": "Kenny Chesney Featuring Mindy Smith"
+      "artist": "Kenny Chesney Featuring Mindy Smith",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,

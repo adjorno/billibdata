@@ -7,6 +7,7 @@
       "title": "Sicko Mode",
       "artist": "Travis Scott",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 18
       }
@@ -14,7 +15,12 @@
     {
       "rank": 2,
       "title": "Going Bad",
-      "artist": "Meek Mill Featuring Drake"
+      "artist": "Meek Mill Featuring Drake",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 2,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 3,
@@ -89,7 +95,12 @@
     {
       "rank": 10,
       "title": "What's Free",
-      "artist": "Meek Mill Featuring Rick Ross & JAY-Z"
+      "artist": "Meek Mill Featuring Rick Ross & JAY-Z",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 11,
@@ -104,7 +115,12 @@
     {
       "rank": 12,
       "title": "On Me",
-      "artist": "Meek Mill Featuring Cardi B"
+      "artist": "Meek Mill Featuring Cardi B",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 12,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 13,
@@ -129,7 +145,12 @@
     {
       "rank": 15,
       "title": "Uptown Vibes",
-      "artist": "Meek Mill Featuring Fabolous & Anuel AA"
+      "artist": "Meek Mill Featuring Fabolous & Anuel AA",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 15,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 16,
@@ -164,7 +185,12 @@
     {
       "rank": 19,
       "title": "Pure Cocaine",
-      "artist": "Lil Baby"
+      "artist": "Lil Baby",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,
@@ -179,7 +205,12 @@
     {
       "rank": 21,
       "title": "WAKA",
-      "artist": "6ix9ine Featuring A Boogie Wit da Hoodie"
+      "artist": "6ix9ine Featuring A Boogie Wit da Hoodie",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,
@@ -204,12 +235,22 @@
     {
       "rank": 24,
       "title": "24/7",
-      "artist": "Meek Mill Featuring Ella Mai"
+      "artist": "Meek Mill Featuring Ella Mai",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
       "title": "Intro",
-      "artist": "Meek Mill"
+      "artist": "Meek Mill",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

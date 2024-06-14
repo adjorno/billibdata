@@ -7,6 +7,7 @@
       "title": "Whatever It Takes",
       "artist": "Imagine Dragons",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 52
       }
@@ -94,11 +95,16 @@
     {
       "rank": 10,
       "title": "Hey Look Ma, I Made It",
-      "artist": "Panic! At The Disco"
+      "artist": "Panic! At The Disco",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 11,
-      "title": "King Of The Clouds            ",
+      "title": "King Of The Clouds",
       "artist": "Panic! At The Disco",
       "position": {
         "Last Week": "20",
@@ -129,7 +135,12 @@
     {
       "rank": 14,
       "title": "Roaring 20s",
-      "artist": "Panic! At The Disco"
+      "artist": "Panic! At The Disco",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 14,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 15,
@@ -143,23 +154,43 @@
     },
     {
       "rank": 16,
-      "title": "Dancing's Not A Crime         ",
-      "artist": "Panic! At The Disco"
+      "title": "Dancing's Not A Crime",
+      "artist": "Panic! At The Disco",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 16,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 17,
-      "title": "Dying In LA                ",
-      "artist": "Panic! At The Disco"
+      "title": "Dying In LA",
+      "artist": "Panic! At The Disco",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 17,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 18,
       "title": "Let It Be",
-      "artist": "The Beatles"
+      "artist": "The Beatles",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 19,
       "title": "One Of The Drunks",
-      "artist": "Panic! At The Disco"
+      "artist": "Panic! At The Disco",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,
@@ -184,17 +215,32 @@
     {
       "rank": 22,
       "title": "Old Fashioned",
-      "artist": "Panic! At The Disco"
+      "artist": "Panic! At The Disco",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 23,
       "title": "The Overpass",
-      "artist": "Panic! At The Disco"
+      "artist": "Panic! At The Disco",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
       "title": "Come On To Me",
-      "artist": "Paul McCartney"
+      "artist": "Paul McCartney",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
@@ -269,7 +315,12 @@
     {
       "rank": 32,
       "title": "Big God",
-      "artist": "Florence + The Machine"
+      "artist": "Florence + The Machine",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,
@@ -324,7 +375,7 @@
     {
       "rank": 38,
       "title": "Blue On Black",
-      "artist": "Five Finger Death Punch",
+      "artist": "Five Finger Death Punch Featuring Kenny Wayne Shepherd, Brantley Gilbert & Brian May",
       "position": {
         "Last Week": "30",
         "Peak Position": 19,
@@ -334,7 +385,12 @@
     {
       "rank": 39,
       "title": "I Don't Know",
-      "artist": "Paul McCartney"
+      "artist": "Paul McCartney",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,

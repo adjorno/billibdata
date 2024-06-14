@@ -7,6 +7,7 @@
       "title": "Thank U, Next",
       "artist": "Ariana Grande",
       "position": {
+        "Last Week": "-",
         "Peak Position": 1,
         "Wks on Chart": 1
       }
@@ -84,7 +85,7 @@
     {
       "rank": 9,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "6",
         "Peak Position": 6,
@@ -284,7 +285,12 @@
     {
       "rank": 29,
       "title": "Bohemian Rhapsody",
-      "artist": "Queen"
+      "artist": "Queen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 29,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 30,
@@ -379,12 +385,22 @@
     {
       "rank": 39,
       "title": "10 Freaky Girls",
-      "artist": "Metro Boomin Featuring 21 Savage"
+      "artist": "Metro Boomin Featuring 21 Savage",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "Space Cadet",
-      "artist": "Metro Boomin Featuring Gunna"
+      "artist": "Metro Boomin Featuring Gunna",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 41,
@@ -449,7 +465,12 @@
     {
       "rank": 47,
       "title": "Don't Come Out The House",
-      "artist": "Metro Boomin Featuring 21 Savage"
+      "artist": "Metro Boomin Featuring 21 Savage",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,
@@ -484,7 +505,12 @@
     {
       "rank": 51,
       "title": "Dip",
-      "artist": "Tyga & Nicki Minaj"
+      "artist": "Tyga & Nicki Minaj",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 52,
@@ -528,7 +554,7 @@
     },
     {
       "rank": 56,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "53",
@@ -599,7 +625,12 @@
     {
       "rank": 63,
       "title": "Know Me",
-      "artist": "NAV"
+      "artist": "NAV",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 63,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 64,
@@ -624,7 +655,7 @@
     {
       "rank": 66,
       "title": "Saturday Nights",
-      "artist": "Khalid",
+      "artist": "Khalid & Kane Brown",
       "position": {
         "Last Week": "85",
         "Peak Position": 37,
@@ -634,12 +665,22 @@
     {
       "rank": 67,
       "title": "Overdue",
-      "artist": "Metro Boomin Featuring Travis Scott"
+      "artist": "Metro Boomin Featuring Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 67,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 68,
       "title": "Dreamcatcher",
-      "artist": "Metro Boomin Featuring Swae Lee & Travis Scott"
+      "artist": "Metro Boomin Featuring Swae Lee & Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 68,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 69,
@@ -664,7 +705,12 @@
     {
       "rank": 71,
       "title": "No More",
-      "artist": "Metro Boomin Featuring Travis Scott, Kodak Black & 21 Savage"
+      "artist": "Metro Boomin Featuring Travis Scott, Kodak Black & 21 Savage",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 71,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 72,
@@ -819,7 +865,12 @@
     {
       "rank": 87,
       "title": "Casper",
-      "artist": "TakeOff"
+      "artist": "TakeOff",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 87,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 88,
@@ -874,7 +925,12 @@
     {
       "rank": 93,
       "title": "Borrowed Love",
-      "artist": "Metro Boomin Featuring Swae Lee & WizKid"
+      "artist": "Metro Boomin Featuring Swae Lee & WizKid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 93,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 94,
@@ -889,12 +945,22 @@
     {
       "rank": 95,
       "title": "I Found You",
-      "artist": "Benny Blanco & Calvin Harris"
+      "artist": "benny blanco & Calvin Harris",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 95,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 96,
       "title": "Up To Something",
-      "artist": "Metro Boomin Featuring Travis Scott & Young Thug"
+      "artist": "Metro Boomin Featuring Travis Scott & Young Thug",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 96,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 97,
@@ -929,7 +995,12 @@
     {
       "rank": 100,
       "title": "Party For One",
-      "artist": "Carly Rae Jepsen"
+      "artist": "Carly Rae Jepsen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 100,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

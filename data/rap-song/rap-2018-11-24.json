@@ -7,6 +7,7 @@
       "title": "Sicko Mode",
       "artist": "Travis Scott",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 15
       }
@@ -64,7 +65,12 @@
     {
       "rank": 7,
       "title": "BAD!",
-      "artist": "XXXTENTACION"
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 8,
@@ -179,7 +185,12 @@
     {
       "rank": 19,
       "title": "Armed And Dangerous",
-      "artist": "Juice WRLD"
+      "artist": "Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,
@@ -204,12 +215,22 @@
     {
       "rank": 22,
       "title": "Topanga",
-      "artist": "Trippie Redd"
+      "artist": "Trippie Redd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 23,
       "title": "1400 / 999 Freestyle",
-      "artist": "Trippie Redd Featuring Juice WRLD"
+      "artist": "Trippie Redd Featuring Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
@@ -224,7 +245,12 @@
     {
       "rank": 25,
       "title": "Dangerous",
-      "artist": "Meek Mill Featuring Jeremih & PnB Rock"
+      "artist": "Meek Mill Featuring Jeremih & PnB Rock",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

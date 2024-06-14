@@ -5,8 +5,9 @@
     {
       "rank": 1,
       "title": "Kokain",
-      "artist": "Bonez MC, Raf Camora & Gzuz",
+      "artist": "Bonez MC, RAF Camora & Gzuz",
       "position": {
+        "Last Week": "-",
         "Peak Position": 1,
         "Wks on Chart": 1
       }
@@ -24,12 +25,17 @@
     {
       "rank": 3,
       "title": "Bonnie & Clyde",
-      "artist": "Loredana x Mozzik"
+      "artist": "Loredana x Mozzik",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 3,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 4,
       "title": "500 PS",
-      "artist": "Bonez MC & Raf Camora",
+      "artist": "Bonez MC & RAF Camora",
       "position": {
         "Last Week": "2",
         "Peak Position": 2,
@@ -39,7 +45,7 @@
     {
       "rank": 5,
       "title": "Dior 2001",
-      "artist": "Rin",
+      "artist": "RIN",
       "position": {
         "Last Week": "4",
         "Peak Position": 4,
@@ -59,7 +65,12 @@
     {
       "rank": 7,
       "title": "Mephisto",
-      "artist": "Bushido"
+      "artist": "Bushido",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 8,
@@ -84,7 +95,12 @@
     {
       "rank": 10,
       "title": "I Love It",
-      "artist": "Kanye West & Lil Pump"
+      "artist": "Kanye West & Lil Pump",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

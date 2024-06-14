@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 3
       }
@@ -44,7 +45,12 @@
     {
       "rank": 5,
       "title": "God Is A Woman",
-      "artist": "Ariana Grande"
+      "artist": "Ariana Grande",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 5,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 6,
@@ -319,7 +325,12 @@
     {
       "rank": 33,
       "title": "Summertime Magic",
-      "artist": "Childish Gambino"
+      "artist": "Childish Gambino",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 34,
@@ -464,7 +475,12 @@
     {
       "rank": 48,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid"
+      "artist": "benny blanco, Halsey & Khalid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,
@@ -589,7 +605,12 @@
     {
       "rank": 61,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots"
+      "artist": "Twenty One Pilots",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 61,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 62,
@@ -704,7 +725,12 @@
     {
       "rank": 73,
       "title": "Wasted",
-      "artist": "Juice WRLD Featuring Lil Uzi Vert"
+      "artist": "Juice WRLD Featuring Lil Uzi Vert",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 73,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 74,
@@ -799,7 +825,12 @@
     {
       "rank": 83,
       "title": "Hopeless Romantic",
-      "artist": "Wiz Khalifa Featuring Swae Lee"
+      "artist": "Wiz Khalifa Featuring Swae Lee",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 83,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 84,
@@ -844,7 +875,12 @@
     {
       "rank": 88,
       "title": "Desperate Man",
-      "artist": "Eric Church"
+      "artist": "Eric Church",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 88,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 89,
@@ -859,7 +895,12 @@
     {
       "rank": 90,
       "title": "Mercy",
-      "artist": "Brett Young"
+      "artist": "Brett Young",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 90,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 91,
@@ -904,17 +945,32 @@
     {
       "rank": 95,
       "title": "Broken",
-      "artist": "lovelytheband"
+      "artist": "lovelytheband",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 95,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 96,
       "title": "Getting Closer",
-      "artist": "NEW CITY"
+      "artist": "NEW CITY",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 96,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 97,
       "title": "IDWK",
-      "artist": "DVBBS X Blackbear"
+      "artist": "DVBBS X Blackbear",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 97,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 98,

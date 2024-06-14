@@ -7,6 +7,7 @@
       "title": "Better Now",
       "artist": "Post Malone",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 14
       }
@@ -214,7 +215,7 @@
     {
       "rank": 22,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "23",
         "Peak Position": 22,
@@ -354,7 +355,12 @@
     {
       "rank": 36,
       "title": "Goodbye",
-      "artist": "Jason Derulo X David Guetta Featuring Nicki Minaj & Willy William"
+      "artist": "Jason Derulo X David Guetta Featuring Nicki Minaj & Willy William",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -379,7 +385,12 @@
     {
       "rank": 39,
       "title": "High Hopes",
-      "artist": "Panic! At The Disco"
+      "artist": "Panic! At The Disco",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,

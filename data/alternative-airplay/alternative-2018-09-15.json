@@ -7,6 +7,7 @@
       "title": "Natural",
       "artist": "Imagine Dragons",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 8
       }
@@ -84,7 +85,7 @@
     {
       "rank": 9,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "3",
         "Peak Position": 1,
@@ -194,7 +195,7 @@
     {
       "rank": 20,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "32",
         "Peak Position": 20,
@@ -374,7 +375,12 @@
     {
       "rank": 38,
       "title": "Ghost",
-      "artist": "Badflower"
+      "artist": "Badflower",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,

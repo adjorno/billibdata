@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 12
       }
@@ -14,7 +15,12 @@
     {
       "rank": 2,
       "title": "Killshot",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 2,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 3,
@@ -169,12 +175,22 @@
     {
       "rank": 18,
       "title": "Drip Too Hard",
-      "artist": "Lil Baby & Gunna"
+      "artist": "Lil Baby & Gunna",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 19,
       "title": "Wake Up In The Sky",
-      "artist": "Gucci Mane X Bruno Mars X Kodak Black"
+      "artist": "Gucci Mane X Bruno Mars X Kodak Black",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,
@@ -189,7 +205,12 @@
     {
       "rank": 21,
       "title": "New Patek",
-      "artist": "Lil Uzi Vert"
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,
@@ -204,7 +225,12 @@
     {
       "rank": 23,
       "title": "Better",
-      "artist": "Khalid"
+      "artist": "Khalid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
@@ -298,7 +324,7 @@
     },
     {
       "rank": 33,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "26",
@@ -319,7 +345,12 @@
     {
       "rank": 35,
       "title": "Pretty Little Fears",
-      "artist": "6LACK Featuring J. Cole"
+      "artist": "6LACK Featuring J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
@@ -414,7 +445,12 @@
     {
       "rank": 45,
       "title": "Leave Me Alone",
-      "artist": "Flipp Dinero"
+      "artist": "Flipp Dinero",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,
@@ -439,7 +475,12 @@
     {
       "rank": 48,
       "title": "Noticed",
-      "artist": "Lil Mosey"
+      "artist": "Lil Mosey",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,
@@ -454,7 +495,12 @@
     {
       "rank": 50,
       "title": "Slow Dancing In The Dark",
-      "artist": "Joji"
+      "artist": "Joji",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

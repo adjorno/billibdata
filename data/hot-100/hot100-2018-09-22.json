@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 11
       }
@@ -54,7 +55,12 @@
     {
       "rank": 6,
       "title": "I Love It",
-      "artist": "Kanye West & Lil Pump"
+      "artist": "Kanye West & Lil Pump",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 6,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 7,
@@ -119,7 +125,12 @@
     {
       "rank": 13,
       "title": "Rap Devil",
-      "artist": "Machine Gun Kelly"
+      "artist": "Machine Gun Kelly",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 14,
@@ -264,7 +275,7 @@
     {
       "rank": 28,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "34",
         "Peak Position": 28,
@@ -314,7 +325,12 @@
     {
       "rank": 33,
       "title": "Self Care",
-      "artist": "Mac Miller"
+      "artist": "Mac Miller",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 34,
@@ -548,7 +564,7 @@
     },
     {
       "rank": 57,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "66",
@@ -608,7 +624,7 @@
     },
     {
       "rank": 63,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "64",
@@ -679,7 +695,12 @@
     {
       "rank": 70,
       "title": "Hurt Feelings",
-      "artist": "Mac Miller"
+      "artist": "Mac Miller",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 70,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 71,
@@ -884,7 +905,12 @@
     {
       "rank": 91,
       "title": "Come Back To Earth",
-      "artist": "Mac Miller"
+      "artist": "Mac Miller",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 91,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 92,
@@ -909,17 +935,32 @@
     {
       "rank": 94,
       "title": "Vaina Loca",
-      "artist": "Ozuna x Manuel Turizo"
+      "artist": "Ozuna x Manuel Turizo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 94,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 95,
       "title": "Speechless",
-      "artist": "Dan + Shay"
+      "artist": "Dan + Shay",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 95,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 96,
       "title": "Electricity",
-      "artist": "Silk City x Dua Lipa"
+      "artist": "Silk City x Dua Lipa",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 96,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 97,

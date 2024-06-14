@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 4
       }
@@ -24,7 +25,12 @@
     {
       "rank": 3,
       "title": "FEFE",
-      "artist": "6ix9ine Featuring Nicki Minaj & Murda Beatz"
+      "artist": "6ix9ine Featuring Nicki Minaj & Murda Beatz",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 3,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 4,
@@ -209,7 +215,12 @@
     {
       "rank": 22,
       "title": "I Might Need Security",
-      "artist": "Chance The Rapper"
+      "artist": "Chance The Rapper",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 23,
@@ -224,7 +235,12 @@
     {
       "rank": 24,
       "title": "Sin Pijama",
-      "artist": "Becky G + Natti Natasha"
+      "artist": "Becky G + Natti Natasha",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,

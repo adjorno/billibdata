@@ -7,6 +7,7 @@
       "title": "High Hopes",
       "artist": "Panic! At The Disco",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 27
       }
@@ -104,7 +105,7 @@
     {
       "rank": 11,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "12",
         "Peak Position": 6,
@@ -154,7 +155,12 @@
     {
       "rank": 16,
       "title": "Movement",
-      "artist": "Hozier"
+      "artist": "Hozier",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 16,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 17,
@@ -319,7 +325,12 @@
     {
       "rank": 33,
       "title": "42",
-      "artist": "Mumford & Sons"
+      "artist": "Mumford & Sons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 34,
@@ -354,7 +365,7 @@
     {
       "rank": 37,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "42",
         "Peak Position": 6,
@@ -364,7 +375,12 @@
     {
       "rank": 38,
       "title": "Beloved",
-      "artist": "Mumford & Sons"
+      "artist": "Mumford & Sons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
@@ -419,7 +435,7 @@
     {
       "rank": 44,
       "title": "Chlorine",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "46",
         "Peak Position": 10,
@@ -429,7 +445,12 @@
     {
       "rank": 45,
       "title": "Woman",
-      "artist": "Mumford & Sons"
+      "artist": "Mumford & Sons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,

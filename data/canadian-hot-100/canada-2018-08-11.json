@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 5
       }
@@ -34,7 +35,12 @@
     {
       "rank": 4,
       "title": "No Brainer",
-      "artist": "DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo"
+      "artist": "DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 4,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 5,
@@ -259,7 +265,7 @@
     {
       "rank": 27,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "31",
         "Peak Position": 27,
@@ -519,7 +525,12 @@
     {
       "rank": 53,
       "title": "Side Effects",
-      "artist": "The Chainsmokers Featuring Emily Warren"
+      "artist": "The Chainsmokers Featuring Emily Warren",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 54,
@@ -644,7 +655,12 @@
     {
       "rank": 66,
       "title": "Don't Leave Me Alone",
-      "artist": "David Guetta Featuring Anne-Marie"
+      "artist": "David Guetta Featuring Anne-Marie",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 66,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 67,
@@ -729,7 +745,12 @@
     {
       "rank": 75,
       "title": "Sunrise, Sunburn, Sunset",
-      "artist": "Luke Bryan"
+      "artist": "Luke Bryan",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 75,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 76,
@@ -764,7 +785,12 @@
     {
       "rank": 79,
       "title": "Bad Habits",
-      "artist": "Delaney Jane"
+      "artist": "Delaney Jane",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 79,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 80,
@@ -789,7 +815,12 @@
     {
       "rank": 82,
       "title": "SWISH",
-      "artist": "Tyga"
+      "artist": "Tyga",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 82,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 83,
@@ -884,7 +915,12 @@
     {
       "rank": 92,
       "title": "One Day",
-      "artist": "Logic Featuring Ryan Tedder"
+      "artist": "Logic Featuring Ryan Tedder",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 92,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 93,
@@ -929,7 +965,12 @@
     {
       "rank": 97,
       "title": "Tokyo Nights",
-      "artist": "Digital Farm Animals, Shaun Frank & Dragonette"
+      "artist": "Digital Farm Animals, Shaun Frank & Dragonette",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 97,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 98,

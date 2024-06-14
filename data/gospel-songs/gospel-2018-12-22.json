@@ -7,6 +7,7 @@
       "title": "Won't He Do It",
       "artist": "Koryn Hawthorne",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 66
       }
@@ -164,7 +165,12 @@
     {
       "rank": 17,
       "title": "Give Love On Christmas Day",
-      "artist": "Lexi"
+      "artist": "Lexi",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 17,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 18,
@@ -219,12 +225,22 @@
     {
       "rank": 23,
       "title": "Promises",
-      "artist": "Jason McGee + The Choir Featuring Lena Byrd Miles"
+      "artist": "Jason McGee + The Choir Featuring Lena Byrd Miles",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
       "title": "Never Alone",
-      "artist": "Kymberli Joye"
+      "artist": "Kymberli Joye",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,

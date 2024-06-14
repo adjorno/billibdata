@@ -7,13 +7,14 @@
       "title": "Meant To Be",
       "artist": "Bebe Rexha & Florida Georgia Line",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 50
       }
     },
     {
       "rank": 2,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "2",
@@ -474,7 +475,12 @@
     {
       "rank": 48,
       "title": "Got My Name Changed Back",
-      "artist": "Pistol Annies"
+      "artist": "Pistol Annies",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,

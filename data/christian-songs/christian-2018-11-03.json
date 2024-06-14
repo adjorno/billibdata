@@ -7,6 +7,7 @@
       "title": "You Say",
       "artist": "Lauren Daigle",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 16
       }
@@ -234,7 +235,7 @@
     {
       "rank": 24,
       "title": "Forever On Your Side",
-      "artist": "NEEDTOBREATHE Featuring JOHNNYSWIM",
+      "artist": "NEEDTOBREATHE",
       "position": {
         "Last Week": "28",
         "Peak Position": 19,
@@ -244,7 +245,12 @@
     {
       "rank": 25,
       "title": "Native Tongue",
-      "artist": "Switchfoot"
+      "artist": "Switchfoot",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 26,
@@ -418,7 +424,7 @@
     },
     {
       "rank": 43,
-      "title": "Scars                         ",
+      "title": "Scars",
       "artist": "tobyMac",
       "position": {
         "Last Week": "24",
@@ -489,7 +495,12 @@
     {
       "rank": 50,
       "title": "Well Done",
-      "artist": "The Afters"
+      "artist": "The Afters",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

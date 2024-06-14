@@ -25,7 +25,7 @@
     {
       "rank": 3,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
@@ -315,7 +315,12 @@
     {
       "rank": 32,
       "title": "My Blood",
-      "artist": "twenty one pilots"
+      "artist": "Twenty One Pilots",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,
@@ -360,12 +365,22 @@
     {
       "rank": 37,
       "title": "Happy Man",
-      "artist": "Jungle"
+      "artist": "Jungle",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
       "title": "Back Down",
-      "artist": "Bob Moses"
+      "artist": "Bob Moses",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
@@ -380,7 +395,12 @@
     {
       "rank": 40,
       "title": "Ohio",
-      "artist": "Andrew McMahon In The Wilderness"
+      "artist": "Andrew McMahon In The Wilderness",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

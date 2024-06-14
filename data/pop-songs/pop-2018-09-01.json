@@ -7,6 +7,7 @@
       "title": "Girls Like You",
       "artist": "Maroon 5 Featuring Cardi B",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 12
       }
@@ -264,7 +265,7 @@
     {
       "rank": 27,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "28",
         "Peak Position": 27,
@@ -374,17 +375,32 @@
     {
       "rank": 38,
       "title": "Taste",
-      "artist": "Tyga Featuring Offset"
+      "artist": "Tyga Featuring Offset",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
       "title": "Rise",
-      "artist": "Jonas Blue Featuring Jack & Jack"
+      "artist": "Jonas Blue Featuring Jack & Jack",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "Promises",
-      "artist": "Calvin Harris & Sam Smith"
+      "artist": "Calvin Harris & Sam Smith",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

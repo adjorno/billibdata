@@ -7,6 +7,7 @@
       "title": "Youngblood",
       "artist": "5 Seconds Of Summer",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 18
       }
@@ -134,7 +135,7 @@
     {
       "rank": 14,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "15",
         "Peak Position": 14,
@@ -394,7 +395,12 @@
     {
       "rank": 40,
       "title": "Don't Leave Me Alone",
-      "artist": "David Guetta Featuring Anne-Marie"
+      "artist": "David Guetta Featuring Anne-Marie",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

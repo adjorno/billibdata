@@ -7,6 +7,7 @@
       "title": "Bella Ciao",
       "artist": "Naestro Featuring Maitre Gims, Vitaa, Dadju & Slimane",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 8
       }
@@ -14,7 +15,12 @@
     {
       "rank": 2,
       "title": "Maradona",
-      "artist": "AM La Scampia Featuring Lacrim"
+      "artist": "AM La Scampia Featuring Lacrim",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 2,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 3,
@@ -49,12 +55,22 @@
     {
       "rank": 6,
       "title": "Bottles Up",
-      "artist": "Big Ali x Busta Rhymes x R-Wan"
+      "artist": "Big Ali x Busta Rhymes x R-Wan",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 6,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 7,
       "title": "Wakanda",
-      "artist": "Mokobe"
+      "artist": "Mokobe",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 8,
@@ -69,7 +85,12 @@
     {
       "rank": 9,
       "title": "Toto Et Ninetta",
-      "artist": "Jul"
+      "artist": "JUL",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 9,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 10,

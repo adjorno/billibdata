@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 6
       }
@@ -24,7 +25,12 @@
     {
       "rank": 3,
       "title": "Sicko Mode",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 3,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 4,
@@ -59,7 +65,12 @@
     {
       "rank": 7,
       "title": "Stargazing",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 8,
@@ -164,17 +175,32 @@
     {
       "rank": 18,
       "title": "Yosemite",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 19,
       "title": "Stop Trying To Be God",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,
       "title": "Carousel",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 21,
@@ -229,7 +255,7 @@
     {
       "rank": 26,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "27",
         "Peak Position": 26,
@@ -239,12 +265,22 @@
     {
       "rank": 27,
       "title": "Wake Up",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 27,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 28,
       "title": "R.I.P Screw",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 28,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 29,
@@ -299,17 +335,32 @@
     {
       "rank": 34,
       "title": "No Bystanders",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 34,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 35,
       "title": "Can't Say",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
       "title": "5% Tint",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -344,22 +395,42 @@
     {
       "rank": 40,
       "title": "NC-17",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 41,
       "title": "Who? What!",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 42,
       "title": "Skeletons",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 43,
       "title": "Astrothunder",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 44,
@@ -424,7 +495,12 @@
     {
       "rank": 50,
       "title": "Houstonfornication",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 51,
@@ -529,7 +605,12 @@
     {
       "rank": 61,
       "title": "Coffee Bean",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 61,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 62,
@@ -574,7 +655,12 @@
     {
       "rank": 66,
       "title": "Beautiful",
-      "artist": "Bazzi Featuring Camila Cabello"
+      "artist": "Bazzi Featuring Camila Cabello",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 66,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 67,
@@ -729,7 +815,12 @@
     {
       "rank": 82,
       "title": "High On Life",
-      "artist": "Martin Garrix Featuring Bonn"
+      "artist": "Martin Garrix Featuring Bonn",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 82,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 83,
@@ -834,7 +925,12 @@
     {
       "rank": 93,
       "title": "Lean Wit Me",
-      "artist": "Juice WRLD"
+      "artist": "Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 93,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 94,
@@ -869,7 +965,12 @@
     {
       "rank": 97,
       "title": "In My Mind",
-      "artist": "Dynoro & Gigi D'Agostino"
+      "artist": "Dynoro & Gigi D'Agostino",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 97,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 98,

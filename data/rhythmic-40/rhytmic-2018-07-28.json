@@ -7,6 +7,7 @@
       "title": "I Like It",
       "artist": "Cardi B, Bad Bunny & J Balvin",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 13
       }
@@ -294,7 +295,12 @@
     {
       "rank": 30,
       "title": "Summertime Magic",
-      "artist": "Childish Gambino"
+      "artist": "Childish Gambino",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,
@@ -319,7 +325,12 @@
     {
       "rank": 33,
       "title": "Ocean",
-      "artist": "TK Kravitz Featuring Jacqueez"
+      "artist": "TK Kravitz Featuring Jacqueez",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 34,
@@ -334,7 +345,12 @@
     {
       "rank": 35,
       "title": "Beautiful",
-      "artist": "Bazzi Featuring Camila Cabello"
+      "artist": "Bazzi Featuring Camila Cabello",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
@@ -359,17 +375,32 @@
     {
       "rank": 38,
       "title": "Love You Better",
-      "artist": "King Combs & Chris Brown"
+      "artist": "King Combs & Chris Brown",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
       "title": "OTW",
-      "artist": "Khalid, Ty Dolla $ign & 6LACK"
+      "artist": "Khalid, Ty Dolla $ign & 6LACK",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "Easy",
-      "artist": "Caye Featuring Wiz Khalifa"
+      "artist": "Caye Featuring Wiz Khalifa",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

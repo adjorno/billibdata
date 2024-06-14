@@ -7,6 +7,7 @@
       "title": "Won't He Do It",
       "artist": "Koryn Hawthorne",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 46
       }
@@ -14,7 +15,7 @@
     {
       "rank": 2,
       "title": "I'm Blessed",
-      "artist": "Charlie Wilson Featuring T.I.",
+      "artist": "Charlie Wilson",
       "position": {
         "Last Week": "2",
         "Peak Position": 1,
@@ -244,7 +245,12 @@
     {
       "rank": 25,
       "title": "Goshen 432HZ",
-      "artist": "Donald Lawrence Presents The Tri-City Singers Featuring Sheri Jones-Moffett"
+      "artist": "Donald Lawrence Presents The Tri-City Singers Featuring Sheri Jones-Moffett",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

@@ -7,6 +7,7 @@
       "title": "Meant To Be",
       "artist": "Bebe Rexha & Florida Georgia Line",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 40
       }
@@ -123,7 +124,7 @@
     },
     {
       "rank": 13,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "13",
@@ -294,7 +295,12 @@
     {
       "rank": 30,
       "title": "Sittin' Pretty",
-      "artist": "Florida Georgia Line"
+      "artist": "Florida Georgia Line",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,
@@ -469,12 +475,22 @@
     {
       "rank": 48,
       "title": "There Was This Girl",
-      "artist": "Riley Green"
+      "artist": "Riley Green",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,
       "title": "Drop Everything",
-      "artist": "Carlton Anderson"
+      "artist": "Carlton Anderson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,

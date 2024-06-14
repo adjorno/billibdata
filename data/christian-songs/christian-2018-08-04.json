@@ -7,6 +7,7 @@
       "title": "You Say",
       "artist": "Lauren Daigle",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 3
       }
@@ -204,7 +205,12 @@
     {
       "rank": 21,
       "title": "Coming In Hot",
-      "artist": "Lecrae & Andy Mineo"
+      "artist": "Lecrae & Andy Mineo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,
@@ -238,7 +244,7 @@
     },
     {
       "rank": 25,
-      "title": "Let Go                     ",
+      "title": "Let Go",
       "artist": "Hillsong Young & Free",
       "position": {
         "Last Week": "24",
@@ -299,7 +305,7 @@
     {
       "rank": 31,
       "title": "Forever On Your Side",
-      "artist": "NEEDTOBREATHE Featuring JOHNNYSWIM",
+      "artist": "NEEDTOBREATHE",
       "position": {
         "Last Week": "19",
         "Peak Position": 19,
@@ -379,7 +385,12 @@
     {
       "rank": 39,
       "title": "If You Ain't In It",
-      "artist": "Danny Gokey"
+      "artist": "Danny Gokey",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
@@ -474,12 +485,22 @@
     {
       "rank": 49,
       "title": "Needing You Now",
-      "artist": "Meredith Andrews & We Are Messengers"
+      "artist": "Meredith Andrews & We Are Messengers",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,
       "title": "My Revival",
-      "artist": "Lauren Daigle"
+      "artist": "Lauren Daigle",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

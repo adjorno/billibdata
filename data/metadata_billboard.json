@@ -97,18 +97,25 @@
       "prefix": "france"
     },
     {
+      "name": "TikTok",
+      "folder": "tiktok-billboard-top-50",
+      "size": 50,
+      "start_date": "2023-09-16",
+      "prefix": "tiktok"
+    },
+    {
+      "name": "Afrobeats",
+      "folder": "billboard-u-s-afrobeats-songs",
+      "size": 50,
+      "start_date": "2022-04-02",
+      "prefix": "afrobeats"
+    },
+    {
       "name": "Rock",
       "folder": "rock-songs",
       "size": 50,
       "start_date": "2009-06-20",
       "prefix": "rock"
-    },
-    {
-      "name": "UK",
-      "folder": "official-uk-albums",
-      "size": 20,
-      "start_date": "2011-01-29",
-      "prefix": "uk"
     },
     {
       "name": "Japan",
@@ -124,14 +131,6 @@
       "start_date": "2011-05-21",
       "end_date": "2022-02-12",
       "prefix": "germany-songs"
-    },
-    {
-      "name": "Youtube",
-      "folder": "youtube",
-      "size": 25,
-      "start_date": "2011-08-13",
-      "end_date": "2018-12-22",
-      "prefix": "youtube"
     },
     {
       "name": "R&B",

@@ -7,6 +7,7 @@
       "title": "Natural",
       "artist": "Imagine Dragons",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 11
       }
@@ -74,7 +75,7 @@
     {
       "rank": 8,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "12",
         "Peak Position": 8,
@@ -254,7 +255,7 @@
     {
       "rank": 26,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "27",
         "Peak Position": 1,
@@ -364,12 +365,22 @@
     {
       "rank": 37,
       "title": "Baby",
-      "artist": "Bishop Briggs"
+      "artist": "Bishop Briggs",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
       "title": "Make It Up As I Go",
-      "artist": "Mike Shinoda Featuring k.flay"
+      "artist": "Mike Shinoda Featuring k.flay",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,

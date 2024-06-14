@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 3
       }
@@ -234,12 +235,22 @@
     {
       "rank": 24,
       "title": "Wasted",
-      "artist": "Juice WRLD Featuring Lil Uzi Vert"
+      "artist": "Juice WRLD Featuring Lil Uzi Vert",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
       "title": "Hopeless Romantic",
-      "artist": "Wiz Khalifa Featuring Swae Lee"
+      "artist": "Wiz Khalifa Featuring Swae Lee",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

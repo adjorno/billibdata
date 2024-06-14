@@ -195,7 +195,12 @@
     {
       "rank": 20,
       "title": "No Stylist",
-      "artist": "French Montana Featuring Drake"
+      "artist": "French Montana Featuring Drake",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 21,
@@ -230,11 +235,16 @@
     {
       "rank": 24,
       "title": "Lie",
-      "artist": "NF"
+      "artist": "NF",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "-",

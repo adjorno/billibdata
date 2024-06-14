@@ -7,6 +7,7 @@
       "title": "Sicko Mode",
       "artist": "Travis Scott",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 18
       }
@@ -14,7 +15,12 @@
     {
       "rank": 2,
       "title": "Going Bad",
-      "artist": "Meek Mill Featuring Drake"
+      "artist": "Meek Mill Featuring Drake",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 2,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 3,
@@ -89,7 +95,12 @@
     {
       "rank": 10,
       "title": "What's Free",
-      "artist": "Meek Mill Featuring Rick Ross & JAY-Z"
+      "artist": "Meek Mill Featuring Rick Ross & JAY-Z",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 11,
@@ -114,7 +125,12 @@
     {
       "rank": 13,
       "title": "On Me",
-      "artist": "Meek Mill Featuring Cardi B"
+      "artist": "Meek Mill Featuring Cardi B",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 14,
@@ -149,7 +165,12 @@
     {
       "rank": 17,
       "title": "Uptown Vibes",
-      "artist": "Meek Mill Featuring Fabolous & Anuel AA"
+      "artist": "Meek Mill Featuring Fabolous & Anuel AA",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 17,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 18,
@@ -174,7 +195,12 @@
     {
       "rank": 20,
       "title": "Pure Cocaine",
-      "artist": "Lil Baby"
+      "artist": "Lil Baby",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 21,
@@ -219,17 +245,32 @@
     {
       "rank": 25,
       "title": "24/7",
-      "artist": "Meek Mill Featuring Ella Mai"
+      "artist": "Meek Mill Featuring Ella Mai",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 26,
       "title": "Intro",
-      "artist": "Meek Mill"
+      "artist": "Meek Mill",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 26,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 27,
       "title": "Respect The Game",
-      "artist": "Meek Mill"
+      "artist": "Meek Mill",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 27,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 28,
@@ -244,27 +285,52 @@
     {
       "rank": 29,
       "title": "Good Form",
-      "artist": "Nicki Minaj Featuring Lil Wayne"
+      "artist": "Nicki Minaj Featuring Lil Wayne",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 29,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 30,
       "title": "Trauma",
-      "artist": "Meek Mill"
+      "artist": "Meek Mill",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,
       "title": "Time",
-      "artist": "Lil Baby Featuring Meek Mill"
+      "artist": "Lil Baby Featuring Meek Mill",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
       "title": "Nuketown",
-      "artist": "Ski Mask The Slump God Featuring Juice WRLD"
+      "artist": "Ski Mask The Slump God Featuring Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,
       "title": "Calling My Spirit",
-      "artist": "Kodak Black"
+      "artist": "Kodak Black",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 34,
@@ -279,22 +345,42 @@
     {
       "rank": 35,
       "title": "Ready",
-      "artist": "Lil Baby Featuring Gunna"
+      "artist": "Lil Baby Featuring Gunna",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
       "title": "Championships",
-      "artist": "Meek Mill"
+      "artist": "Meek Mill",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
       "title": "Tic Tac Toe",
-      "artist": "Meek Mill Featuring Kodak Black"
+      "artist": "Meek Mill Featuring Kodak Black",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
       "title": "Almost Slipped",
-      "artist": "Meek Mill"
+      "artist": "Meek Mill",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
@@ -329,12 +415,22 @@
     {
       "rank": 42,
       "title": "Splash Warning",
-      "artist": "Meek Mill Featuring Future, Roddy Ricch & Young Thug"
+      "artist": "Meek Mill Featuring Future, Roddy Ricch & Young Thug",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 43,
       "title": "Pay You Back",
-      "artist": "Meek Mill Featuring 21 Savage"
+      "artist": "Meek Mill Featuring 21 Savage",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 44,
@@ -349,12 +445,22 @@
     {
       "rank": 45,
       "title": "Foot Fungus",
-      "artist": "Ski Mask The Slump God"
+      "artist": "Ski Mask The Slump God",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,
       "title": "Crush A Lot",
-      "artist": "Lil Baby"
+      "artist": "Lil Baby",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
@@ -379,7 +485,12 @@
     {
       "rank": 49,
       "title": "Oodles O' Noodles Babies",
-      "artist": "Meek Mill"
+      "artist": "Meek Mill",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,

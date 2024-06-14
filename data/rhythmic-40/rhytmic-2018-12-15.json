@@ -7,6 +7,7 @@
       "title": "Wake Up In The Sky",
       "artist": "Gucci Mane X Bruno Mars X Kodak Black",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 12
       }
@@ -184,7 +185,7 @@
     {
       "rank": 19,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "19",
         "Peak Position": 19,
@@ -354,12 +355,22 @@
     {
       "rank": 36,
       "title": "Topanga",
-      "artist": "Trippie Redd"
+      "artist": "Trippie Redd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
       "title": "Breathin",
-      "artist": "Ariana Grande"
+      "artist": "Ariana Grande",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
@@ -374,7 +385,12 @@
     {
       "rank": 39,
       "title": "Without Me",
-      "artist": "Halsey"
+      "artist": "Halsey",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,

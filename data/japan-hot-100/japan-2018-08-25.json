@@ -15,12 +15,17 @@
     {
       "rank": 2,
       "title": "Start Dash!",
-      "artist": "Johnny's WEST"
+      "artist": "Johnny's WEST",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 2,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 3,
       "title": "Jikochu De Ikou!",
-      "artist": "Nogizaka46",
+      "artist": "Nogizaka 46",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
@@ -59,8 +64,8 @@
     },
     {
       "rank": 7,
-      "title": "Ai No Katachi ",
-      "artist": "MISIA Feat.HIDE(GReeeen)",
+      "title": "Ai No Katachi",
+      "artist": "MISIA Feat.HIDE (GReeeen)",
       "position": {
         "Last Week": "10",
         "Peak Position": 7,
@@ -70,7 +75,7 @@
     {
       "rank": 8,
       "title": "Marigold",
-      "artist": "Aimyon",
+      "artist": "aimyon",
       "position": {
         "Last Week": "5",
         "Peak Position": 5,
@@ -80,7 +85,7 @@
     {
       "rank": 9,
       "title": "Natsuhayate",
-      "artist": "Arashi",
+      "artist": "ARASHI",
       "position": {
         "Last Week": "7",
         "Peak Position": 7,
@@ -100,7 +105,12 @@
     {
       "rank": 11,
       "title": "Associate",
-      "artist": "Gaku Yaotome"
+      "artist": "Gaku Yaotome",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 11,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 12,
@@ -115,7 +125,12 @@
     {
       "rank": 13,
       "title": "BDZ",
-      "artist": "TWICE"
+      "artist": "TWICE",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 14,
@@ -130,7 +145,7 @@
     {
       "rank": 15,
       "title": "Ao To Natsu",
-      "artist": "Mrs.GREEN APPLE",
+      "artist": "Mrs. GREEN APPLE",
       "position": {
         "Last Week": "14",
         "Peak Position": 10,
@@ -160,7 +175,7 @@
     {
       "rank": 18,
       "title": "Hanabi",
-      "artist": "Mr. Children",
+      "artist": "Mr.Children",
       "position": {
         "Last Week": "19",
         "Peak Position": 9,
@@ -170,7 +185,12 @@
     {
       "rank": 19,
       "title": "Super Ball",
-      "artist": "DOBERMAN INFINITY"
+      "artist": "DOBERMAN INFINITY",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,
@@ -205,7 +225,12 @@
     {
       "rank": 23,
       "title": "Paprika",
-      "artist": "Foorin"
+      "artist": "Foorin",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
@@ -270,7 +295,12 @@
     {
       "rank": 30,
       "title": "Summer Time",
-      "artist": "TEAM H"
+      "artist": "TEAM H",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,
@@ -325,12 +355,17 @@
     {
       "rank": 36,
       "title": "Futari No Hane",
-      "artist": "YURiKA"
+      "artist": "YURiKA",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
       "title": "Kimi Ha Rock Wo Kikanai",
-      "artist": "Aimyon",
+      "artist": "aimyon",
       "position": {
         "Last Week": "41",
         "Peak Position": 25,
@@ -370,16 +405,26 @@
     {
       "rank": 41,
       "title": "Eien No Hitotsu",
-      "artist": "Yukari Tamura"
+      "artist": "Yukari Tamura",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 42,
       "title": "Lost One's Weeping",
-      "artist": "Afterglow"
+      "artist": "Afterglow",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 43,
-      "title": "DDU-DU DDU-DU",
+      "title": "Ddu-du Ddu-du",
       "artist": "BLACKPINK",
       "position": {
         "Last Week": "39",
@@ -420,12 +465,22 @@
     {
       "rank": 47,
       "title": "Future Pop",
-      "artist": "Perfume"
+      "artist": "Perfume",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,
       "title": "Adamas",
-      "artist": "LiSA"
+      "artist": "LiSA",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,
@@ -440,12 +495,17 @@
     {
       "rank": 50,
       "title": "Hola! Hola! Summer",
-      "artist": "Akishibu Project"
+      "artist": "Akishibu Project",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 51,
       "title": "Syncronicity",
-      "artist": "Nogizaka46",
+      "artist": "Nogizaka 46",
       "position": {
         "Last Week": "49",
         "Peak Position": 1,
@@ -455,7 +515,12 @@
     {
       "rank": 52,
       "title": "Hyakugojuichi",
-      "artist": "Okido Hakase To Pokemon Kids"
+      "artist": "Okido Hakase To Pokemon Kids",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 53,
@@ -550,7 +615,12 @@
     {
       "rank": 62,
       "title": "Baburin Squash!",
-      "artist": "SUPER GiRLS"
+      "artist": "SUPER GiRLS",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 62,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 63,
@@ -585,7 +655,12 @@
     {
       "rank": 66,
       "title": "Alien Alien",
-      "artist": "Hello, Happy World!"
+      "artist": "Hello, Happy World!",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 66,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 67,
@@ -690,7 +765,12 @@
     {
       "rank": 77,
       "title": "Dream Catcher",
-      "artist": "Berry Goodman"
+      "artist": "Berry Goodman",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 77,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 78,
@@ -715,7 +795,12 @@
     {
       "rank": 80,
       "title": "Romeo To Cinderella",
-      "artist": "Poppin'Party"
+      "artist": "Poppin'Party",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 80,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 81,
@@ -740,7 +825,12 @@
     {
       "rank": 83,
       "title": "Hitorijime Shitai",
-      "artist": "2o Love to Sweet Bullet"
+      "artist": "2o Love to Sweet Bullet",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 83,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 84,
@@ -825,7 +915,7 @@
     {
       "rank": 92,
       "title": "Fanfale",
-      "artist": "Sumika",
+      "artist": "sumika",
       "position": {
         "Last Week": "62",
         "Peak Position": 51,
@@ -845,7 +935,12 @@
     {
       "rank": 94,
       "title": "Hi Ga Noboru Made",
-      "artist": "Keyakizaka46"
+      "artist": "Keyakizaka46",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 94,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 95,
@@ -890,7 +985,12 @@
     {
       "rank": 99,
       "title": "Be Myself",
-      "artist": "Daichi Miura"
+      "artist": "Daichi Miura",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 99,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 100,

@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 12
       }
@@ -14,7 +15,12 @@
     {
       "rank": 2,
       "title": "Killshot",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 2,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 3,
@@ -139,12 +145,22 @@
     {
       "rank": 15,
       "title": "Drip Too Hard",
-      "artist": "Lil Baby & Gunna"
+      "artist": "Lil Baby & Gunna",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 15,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 16,
       "title": "Wake Up In The Sky",
-      "artist": "Gucci Mane X Bruno Mars X Kodak Black"
+      "artist": "Gucci Mane X Bruno Mars X Kodak Black",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 16,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 17,
@@ -159,7 +175,12 @@
     {
       "rank": 18,
       "title": "New Patek",
-      "artist": "Lil Uzi Vert"
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 19,

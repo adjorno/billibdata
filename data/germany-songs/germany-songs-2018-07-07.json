@@ -7,6 +7,7 @@
       "title": "Je Ne Parle Pas Francais",
       "artist": "Namika Featuring Black M",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 7
       }
@@ -14,7 +15,12 @@
     {
       "rank": 2,
       "title": "Zusammen",
-      "artist": "Die Fantastischen Vier Featuring Clueso"
+      "artist": "Die Fantastischen Vier Featuring Clueso",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 2,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 3,
@@ -29,7 +35,12 @@
     {
       "rank": 4,
       "title": "Kennzeichen B-TK",
-      "artist": "Capital Bra Featuring King Khalil"
+      "artist": "Capital Bra Featuring King Khalil",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 4,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 5,

@@ -15,7 +15,7 @@
     {
       "rank": 2,
       "title": "500 PS",
-      "artist": "Bonez MC & Raf Camora",
+      "artist": "Bonez MC & RAF Camora",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
@@ -25,7 +25,12 @@
     {
       "rank": 3,
       "title": "Fight Club",
-      "artist": "Capital Bra, Samra x AK Ausserkontrolle"
+      "artist": "Capital Bra, Samra x AK Ausserkontrolle",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 3,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 4,
@@ -40,7 +45,7 @@
     {
       "rank": 5,
       "title": "Kokain",
-      "artist": "Bonez MC, Raf Camora & Gzuz",
+      "artist": "Bonez MC, RAF Camora & Gzuz",
       "position": {
         "Last Week": "2",
         "Peak Position": 1,
@@ -50,7 +55,7 @@
     {
       "rank": 6,
       "title": "Nummer Unterdruckt",
-      "artist": "Bonez MC & Raf Camora",
+      "artist": "Bonez MC & RAF Camora",
       "position": {
         "Last Week": "3",
         "Peak Position": 3,
@@ -70,17 +75,32 @@
     {
       "rank": 8,
       "title": "High Hopes",
-      "artist": "Panic! At The Disco"
+      "artist": "Panic! At The Disco",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 8,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 9,
       "title": "Taki Taki",
-      "artist": "DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+      "artist": "DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 9,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 10,
       "title": "Happier",
-      "artist": "Marshmello & Bastille"
+      "artist": "Marshmello & Bastille",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

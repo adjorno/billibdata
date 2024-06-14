@@ -18,7 +18,7 @@
       "artist": "Bimbo Jones",
       "position": {
         "Last Week": "3",
-        "Peak Position": 1,
+        "Peak Position": 2,
         "Wks on Chart": 9
       }
     },
@@ -28,7 +28,7 @@
       "artist": "Lindsay Lohan",
       "position": {
         "Last Week": "4",
-        "Peak Position": 1,
+        "Peak Position": 3,
         "Wks on Chart": 6
       }
     },
@@ -38,7 +38,7 @@
       "artist": "Georgie Porgie",
       "position": {
         "Last Week": "5",
-        "Peak Position": 1,
+        "Peak Position": 4,
         "Wks on Chart": 8
       }
     },
@@ -88,7 +88,7 @@
       "artist": "Tami Chynn Featuring Akon",
       "position": {
         "Last Week": "11",
-        "Peak Position": 3,
+        "Peak Position": 9,
         "Wks on Chart": 6
       }
     },
@@ -98,7 +98,7 @@
       "artist": "Fireball",
       "position": {
         "Last Week": "14",
-        "Peak Position": 4,
+        "Peak Position": 10,
         "Wks on Chart": 7
       }
     },
@@ -108,7 +108,7 @@
       "artist": "Danny Tenaglia",
       "position": {
         "Last Week": "13",
-        "Peak Position": 1,
+        "Peak Position": 11,
         "Wks on Chart": 5
       }
     },
@@ -168,7 +168,7 @@
       "artist": "Vanessa Hudgens",
       "position": {
         "Last Week": "20",
-        "Peak Position": 8,
+        "Peak Position": 17,
         "Wks on Chart": 6
       }
     },
@@ -178,7 +178,7 @@
       "artist": "Kreesha Turner",
       "position": {
         "Last Week": "24",
-        "Peak Position": 1,
+        "Peak Position": 18,
         "Wks on Chart": 4
       }
     },
@@ -198,7 +198,7 @@
       "artist": "Tina Sugandh",
       "position": {
         "Last Week": "22",
-        "Peak Position": 4,
+        "Peak Position": 20,
         "Wks on Chart": 6
       }
     },
@@ -228,7 +228,7 @@
       "artist": "Jipsta",
       "position": {
         "Last Week": "26",
-        "Peak Position": 6,
+        "Peak Position": 23,
         "Wks on Chart": 5
       }
     },
@@ -248,7 +248,7 @@
       "artist": "Bingo Players Vs. Chocolate Puma",
       "position": {
         "Last Week": "29",
-        "Peak Position": 21,
+        "Peak Position": 25,
         "Wks on Chart": 4
       }
     },
@@ -258,7 +258,7 @@
       "artist": "Jody Watley",
       "position": {
         "Last Week": "32",
-        "Peak Position": 5,
+        "Peak Position": 26,
         "Wks on Chart": 4
       }
     },
@@ -325,7 +325,7 @@
     {
       "rank": 33,
       "title": "Heaven Can Wait",
-      "artist": "Luvndreams Feat. Elisa Rodriguez",
+      "artist": "Luvndreams Featuring Elisa Rodriguez",
       "position": {
         "Last Week": "35",
         "Peak Position": 33,
@@ -348,7 +348,7 @@
       "artist": "Robyn",
       "position": {
         "Last Week": "36",
-        "Peak Position": 7,
+        "Peak Position": 35,
         "Wks on Chart": 3
       }
     },
@@ -358,7 +358,7 @@
       "artist": "India",
       "position": {
         "Last Week": "43",
-        "Peak Position": 3,
+        "Peak Position": 36,
         "Wks on Chart": 2
       }
     },
@@ -368,7 +368,7 @@
       "artist": "Jenn Frederick",
       "position": {
         "Last Week": "37",
-        "Peak Position": 31,
+        "Peak Position": 37,
         "Wks on Chart": 4
       }
     },
@@ -378,7 +378,7 @@
       "artist": "John Legend Featuring Andre 3000",
       "position": {
         "Last Week": "39",
-        "Peak Position": 4,
+        "Peak Position": 38,
         "Wks on Chart": 3
       }
     },
@@ -388,7 +388,7 @@
       "artist": "Keri Hilson",
       "position": {
         "Last Week": "45",
-        "Peak Position": 12,
+        "Peak Position": 39,
         "Wks on Chart": 2
       }
     },
@@ -398,7 +398,7 @@
       "artist": "Sylvia Tosun",
       "position": {
         "Last Week": "48",
-        "Peak Position": 6,
+        "Peak Position": 40,
         "Wks on Chart": 2
       }
     },
@@ -408,7 +408,7 @@
       "artist": "Mary Mary",
       "position": {
         "Last Week": "51",
-        "Peak Position": 1,
+        "Peak Position": 41,
         "Wks on Chart": 1
       }
     },
@@ -418,7 +418,7 @@
       "artist": "Loveless Featuring Amanda Wilson",
       "position": {
         "Last Week": "46",
-        "Peak Position": 23,
+        "Peak Position": 42,
         "Wks on Chart": 2
       }
     },
@@ -447,7 +447,7 @@
       "title": "No Secrets",
       "artist": "SupaNova",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 45,
         "Wks on Chart": 1
       }
@@ -467,8 +467,8 @@
       "title": "Life",
       "artist": "Joshua Klipp",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 41,
+        "Last Week": "-",
+        "Peak Position": 47,
         "Wks on Chart": 1
       }
     },
@@ -497,9 +497,54 @@
       "title": "Elle Est Tres L.A.",
       "artist": "Lenna",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 43,
+        "Last Week": "-",
+        "Peak Position": 50,
         "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Grass Is Greener",
+      "artist": "Dave Aude Featuring Sisely Treasure",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Worked Up!",
+      "artist": "Brian Anthony",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Juliet Of The Spirits",
+      "artist": "The B-52s",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53
+      }
+    },
+    {
+      "rank": 54,
+      "title": "The Greatest",
+      "artist": "Michelle Williams",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "You Make Me Feel",
+      "artist": "AnnaGrace",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55
       }
     }
   ]

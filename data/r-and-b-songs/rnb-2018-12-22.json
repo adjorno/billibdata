@@ -7,6 +7,7 @@
       "title": "Trip",
       "artist": "Ella Mai",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 19
       }
@@ -24,7 +25,12 @@
     {
       "rank": 3,
       "title": "whoa (mind in awe)",
-      "artist": "XXXTENTACION"
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 3,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 4,
@@ -59,7 +65,12 @@
     {
       "rank": 7,
       "title": "Difference (Interlude)",
-      "artist": "XXXTENTACION"
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 8,
@@ -114,7 +125,7 @@
     {
       "rank": 13,
       "title": "Girls Need Love",
-      "artist": "Summer Walker",
+      "artist": "Summer Walker X Drake",
       "position": {
         "Last Week": "11",
         "Peak Position": 8,
@@ -154,7 +165,7 @@
     {
       "rank": 17,
       "title": "Saturday Nights",
-      "artist": "Khalid",
+      "artist": "Khalid & Kane Brown",
       "position": {
         "Last Week": "15",
         "Peak Position": 4,

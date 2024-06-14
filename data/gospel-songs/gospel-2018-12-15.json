@@ -7,6 +7,7 @@
       "title": "Won't He Do It",
       "artist": "Koryn Hawthorne",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 65
       }
@@ -214,7 +215,12 @@
     {
       "rank": 22,
       "title": "Jesus Oh What A Wonderful Child",
-      "artist": "The Walls Group"
+      "artist": "The Walls Group",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 23,

@@ -7,6 +7,7 @@
       "title": "You Say",
       "artist": "Lauren Daigle",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 5
       }
@@ -234,7 +235,12 @@
     {
       "rank": 24,
       "title": "Won't Stop Now",
-      "artist": "Elevation Worship"
+      "artist": "Elevation Worship",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
@@ -269,7 +275,12 @@
     {
       "rank": 28,
       "title": "Beautiful Day",
-      "artist": "Mike Smith & Jonathan Hay"
+      "artist": "Mike Smith & Jonathan Hay",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 28,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 29,
@@ -303,7 +314,7 @@
     },
     {
       "rank": 32,
-      "title": "Let Go                     ",
+      "title": "Let Go",
       "artist": "Hillsong Young & Free",
       "position": {
         "Last Week": "26",
@@ -364,7 +375,7 @@
     {
       "rank": 38,
       "title": "Forever On Your Side",
-      "artist": "NEEDTOBREATHE Featuring JOHNNYSWIM",
+      "artist": "NEEDTOBREATHE",
       "position": {
         "Last Week": "37",
         "Peak Position": 19,
@@ -424,7 +435,12 @@
     {
       "rank": 44,
       "title": "Song In My Soul",
-      "artist": "Phil Wickham"
+      "artist": "Phil Wickham",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 45,
@@ -479,7 +495,12 @@
     {
       "rank": 50,
       "title": "Great Things",
-      "artist": "Phil Wickham"
+      "artist": "Phil Wickham",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

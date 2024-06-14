@@ -7,6 +7,7 @@
       "title": "Despacito",
       "artist": "Luis Fonsi & Daddy Yankee Featuring Justin Bieber",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 81
       }
@@ -344,7 +345,12 @@
     {
       "rank": 35,
       "title": "Triste",
-      "artist": "Bryant Myers & Bad Bunny"
+      "artist": "Bryant Myers & Bad Bunny",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
@@ -449,12 +455,22 @@
     {
       "rank": 46,
       "title": "La Cintura",
-      "artist": "Alvaro Soler"
+      "artist": "Alvaro Soler",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
       "title": "Ni Contigo Ni Sin Ti",
-      "artist": "Los Angeles Azules Featuring Pepe Aguilar"
+      "artist": "Los Angeles Azules Featuring Pepe Aguilar",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,

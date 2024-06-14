@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 8
       }
@@ -304,7 +305,12 @@
     {
       "rank": 31,
       "title": "Chanel (Go Get It)",
-      "artist": "Young Thug Featuring Gunna & Lil Baby"
+      "artist": "Young Thug Featuring Gunna & Lil Baby",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
@@ -349,7 +355,12 @@
     {
       "rank": 36,
       "title": "Made For Now",
-      "artist": "Janet & Daddy Yankee"
+      "artist": "Janet & Daddy Yankee",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -373,7 +384,7 @@
     },
     {
       "rank": 39,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "34",
@@ -464,7 +475,12 @@
     {
       "rank": 48,
       "title": "Smile (Living My Best Life)",
-      "artist": "Lil' Duval Featuring Snoop Dogg & Ball Greezy"
+      "artist": "Lil' Duval Featuring Snoop Dogg & Ball Greezy",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,

@@ -14,7 +14,7 @@
     },
     {
       "rank": 2,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "3",
@@ -425,7 +425,12 @@
     {
       "rank": 43,
       "title": "From Now On",
-      "artist": "Zac Brown Band"
+      "artist": "Zac Brown Band",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 44,
@@ -490,7 +495,12 @@
     {
       "rank": 50,
       "title": "You're In It",
-      "artist": "Granger Smith"
+      "artist": "Granger Smith",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

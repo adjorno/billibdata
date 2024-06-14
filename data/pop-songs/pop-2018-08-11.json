@@ -7,6 +7,7 @@
       "title": "Girls Like You",
       "artist": "Maroon 5 Featuring Cardi B",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 9
       }
@@ -314,7 +315,12 @@
     {
       "rank": 32,
       "title": "Side Effects",
-      "artist": "The Chainsmokers Featuring Emily Warren"
+      "artist": "The Chainsmokers Featuring Emily Warren",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,
@@ -339,7 +345,7 @@
     {
       "rank": 35,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "40",
         "Peak Position": 35,

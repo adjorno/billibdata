@@ -7,6 +7,7 @@
       "title": "Sicko Mode",
       "artist": "Travis Scott",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 15
       }
@@ -64,7 +65,12 @@
     {
       "rank": 7,
       "title": "BAD!",
-      "artist": "XXXTENTACION"
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 8,
@@ -179,7 +185,12 @@
     {
       "rank": 19,
       "title": "Armed And Dangerous",
-      "artist": "Juice WRLD"
+      "artist": "Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,
@@ -224,7 +235,12 @@
     {
       "rank": 24,
       "title": "1400 / 999 Freestyle",
-      "artist": "Trippie Redd Featuring Juice WRLD"
+      "artist": "Trippie Redd Featuring Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
@@ -349,7 +365,12 @@
     {
       "rank": 37,
       "title": "Love Scars 3",
-      "artist": "Trippie Redd"
+      "artist": "Trippie Redd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
@@ -383,7 +404,7 @@
     },
     {
       "rank": 41,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "38",
@@ -424,7 +445,12 @@
     {
       "rank": 45,
       "title": "Negative Energy",
-      "artist": "Trippie Redd Featuring Kodie Shane"
+      "artist": "Trippie Redd Featuring Kodie Shane",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,
@@ -449,7 +475,12 @@
     {
       "rank": 48,
       "title": "Toxic Waste",
-      "artist": "Trippie Redd"
+      "artist": "Trippie Redd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,
@@ -464,7 +495,12 @@
     {
       "rank": 50,
       "title": "Can't Love",
-      "artist": "Trippie Redd"
+      "artist": "Trippie Redd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

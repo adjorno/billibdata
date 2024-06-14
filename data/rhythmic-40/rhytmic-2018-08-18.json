@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 5
       }
@@ -254,7 +255,12 @@
     {
       "rank": 26,
       "title": "One Day",
-      "artist": "Logic Featuring Ryan Tedder"
+      "artist": "Logic Featuring Ryan Tedder",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 26,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 27,
@@ -309,7 +315,12 @@
     {
       "rank": 32,
       "title": "ATM",
-      "artist": "J. Cole"
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,
@@ -364,12 +375,22 @@
     {
       "rank": 38,
       "title": "Kream",
-      "artist": "Iggy Azalea Feauring Tyga"
+      "artist": "Iggy Azalea Feauring Tyga",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
       "title": "Medicine",
-      "artist": "Queen Naija"
+      "artist": "Queen Naija",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,

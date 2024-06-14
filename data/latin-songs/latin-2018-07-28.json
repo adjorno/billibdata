@@ -7,6 +7,7 @@
       "title": "Te Bote",
       "artist": "Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 13
       }
@@ -124,7 +125,12 @@
     {
       "rank": 13,
       "title": "Bella",
-      "artist": "Wolfine"
+      "artist": "Wolfine",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 14,
@@ -469,7 +475,12 @@
     {
       "rank": 48,
       "title": "Brindemos",
-      "artist": "Anuel AA Featuring Ozuna"
+      "artist": "Anuel AA Featuring Ozuna",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,

@@ -85,7 +85,12 @@
     {
       "rank": 9,
       "title": "OTW",
-      "artist": "Khalid, Ty Dolla $ign & 6LACK"
+      "artist": "Khalid, Ty Dolla $ign & 6LACK",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 9,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 10,
@@ -240,7 +245,12 @@
     {
       "rank": 25,
       "title": "Leave It Smokin'",
-      "artist": "Tamia"
+      "artist": "Tamia",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

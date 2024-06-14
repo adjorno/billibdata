@@ -7,6 +7,7 @@
       "title": "Thank U, Next",
       "artist": "Ariana Grande",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 4
       }
@@ -94,7 +95,7 @@
     {
       "rank": 10,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "10",
         "Peak Position": 6,
@@ -354,7 +355,12 @@
     {
       "rank": 36,
       "title": "Come Out And Play",
-      "artist": "Billie Eilish"
+      "artist": "Billie Eilish",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -379,7 +385,12 @@
     {
       "rank": 39,
       "title": "KIKA",
-      "artist": "6ix9ine Featuring Tory Lanez"
+      "artist": "6ix9ine Featuring Tory Lanez",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
@@ -494,7 +505,12 @@
     {
       "rank": 51,
       "title": "MAMA",
-      "artist": "6ix9ine Featuring Nicki Minaj & Kanye West"
+      "artist": "6ix9ine Featuring Nicki Minaj & Kanye West",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 52,
@@ -539,7 +555,12 @@
     {
       "rank": 56,
       "title": "WAKA",
-      "artist": "6ix9ine Featuring A Boogie Wit da Hoodie"
+      "artist": "6ix9ine Featuring A Boogie Wit da Hoodie",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 56,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 57,
@@ -594,7 +615,12 @@
     {
       "rank": 62,
       "title": "TIC TOC",
-      "artist": "6ix9ine Featuring Lil Baby"
+      "artist": "6ix9ine Featuring Lil Baby",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 62,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 63,
@@ -629,7 +655,7 @@
     {
       "rank": 66,
       "title": "Saturday Nights",
-      "artist": "Khalid",
+      "artist": "Khalid & Kane Brown",
       "position": {
         "Last Week": "71",
         "Peak Position": 37,
@@ -658,7 +684,7 @@
     },
     {
       "rank": 69,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "61",
@@ -819,7 +845,12 @@
     {
       "rank": 85,
       "title": "Rewrite The Stars",
-      "artist": "James Arthur & Anne-Marie"
+      "artist": "James Arthur & Anne-Marie",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 85,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 86,
@@ -854,7 +885,7 @@
     {
       "rank": 89,
       "title": "Solo",
-      "artist": "JENNIE",
+      "artist": "Jennie",
       "position": {
         "Last Week": "67",
         "Peak Position": 67,
@@ -864,12 +895,22 @@
     {
       "rank": 90,
       "title": "Sundress",
-      "artist": "A$AP Rocky"
+      "artist": "A$AP Rocky",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 90,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 91,
       "title": "Best Shot",
-      "artist": "Jimmie Allen"
+      "artist": "Jimmie Allen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 91,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 92,

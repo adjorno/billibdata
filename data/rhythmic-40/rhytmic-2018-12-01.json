@@ -185,7 +185,7 @@
     {
       "rank": 19,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "19",
         "Peak Position": 19,
@@ -375,17 +375,32 @@
     {
       "rank": 38,
       "title": "Missin You Crazy",
-      "artist": "Russ"
+      "artist": "Russ",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
       "title": "Yosemite",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "Slay",
-      "artist": "YG Featuring Quavo"
+      "artist": "YG Featuring Quavo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

@@ -18,7 +18,7 @@
       "artist": "Dido",
       "position": {
         "Last Week": "3",
-        "Peak Position": 1,
+        "Peak Position": 2,
         "Wks on Chart": 10
       }
     },
@@ -38,7 +38,7 @@
       "artist": "Annie Lennox",
       "position": {
         "Last Week": "7",
-        "Peak Position": 1,
+        "Peak Position": 4,
         "Wks on Chart": 9
       }
     },
@@ -58,7 +58,7 @@
       "artist": "Enrique Iglesias",
       "position": {
         "Last Week": "8",
-        "Peak Position": 4,
+        "Peak Position": 6,
         "Wks on Chart": 9
       }
     },
@@ -78,7 +78,7 @@
       "artist": "Madonna",
       "position": {
         "Last Week": "13",
-        "Peak Position": 1,
+        "Peak Position": 8,
         "Wks on Chart": 5
       }
     },
@@ -108,17 +108,17 @@
       "artist": "Michelle Branch",
       "position": {
         "Last Week": "16",
-        "Peak Position": 3,
+        "Peak Position": 11,
         "Wks on Chart": 6
       }
     },
     {
       "rank": 12,
-      "title": "Fallen (Remixes)",
+      "title": "Fallen",
       "artist": "Sarah McLachlan",
       "position": {
         "Last Week": "15",
-        "Peak Position": 3,
+        "Peak Position": 12,
         "Wks on Chart": 7
       }
     },
@@ -128,7 +128,7 @@
       "artist": "Murk",
       "position": {
         "Last Week": "10",
-        "Peak Position": 5,
+        "Peak Position": 1,
         "Wks on Chart": 12
       }
     },
@@ -138,7 +138,7 @@
       "artist": "Mac Quayle Featuring Donna Delory",
       "position": {
         "Last Week": "19",
-        "Peak Position": 8,
+        "Peak Position": 14,
         "Wks on Chart": 7
       }
     },
@@ -148,7 +148,7 @@
       "artist": "Kevin Aviance",
       "position": {
         "Last Week": "21",
-        "Peak Position": 1,
+        "Peak Position": 15,
         "Wks on Chart": 5
       }
     },
@@ -158,7 +158,7 @@
       "artist": "Simply Red",
       "position": {
         "Last Week": "22",
-        "Peak Position": 1,
+        "Peak Position": 16,
         "Wks on Chart": 5
       }
     },
@@ -174,11 +174,11 @@
     },
     {
       "rank": 18,
-      "title": "Walk On By",
+      "title": "Walk On By (S.A.F. & Eddie X Mixes)",
       "artist": "Cyndi Lauper",
       "position": {
         "Last Week": "23",
-        "Peak Position": 15,
+        "Peak Position": 18,
         "Wks on Chart": 7
       }
     },
@@ -198,7 +198,7 @@
       "artist": "Monica",
       "position": {
         "Last Week": "24",
-        "Peak Position": 13,
+        "Peak Position": 20,
         "Wks on Chart": 6
       }
     },
@@ -218,7 +218,7 @@
       "artist": "Kylie Minogue",
       "position": {
         "Last Week": "26",
-        "Peak Position": 1,
+        "Peak Position": 22,
         "Wks on Chart": 5
       }
     },
@@ -255,10 +255,10 @@
     {
       "rank": 26,
       "title": "Just A Little More Love",
-      "artist": "David Guetta Featuring Chris Willis",
+      "artist": "David Guetta & Chris Willis",
       "position": {
         "Last Week": "29",
-        "Peak Position": 15,
+        "Peak Position": 26,
         "Wks on Chart": 4
       }
     },
@@ -278,7 +278,7 @@
       "artist": "Arthur Baker Featuring Astrid Williamson",
       "position": {
         "Last Week": "34",
-        "Peak Position": 22,
+        "Peak Position": 28,
         "Wks on Chart": 5
       }
     },
@@ -288,27 +288,27 @@
       "artist": "Ferry Corsten",
       "position": {
         "Last Week": "37",
-        "Peak Position": 24,
+        "Peak Position": 29,
         "Wks on Chart": 4
       }
     },
     {
       "rank": 30,
       "title": "Burning",
-      "artist": "Robbie Rivera & Axwell Feat. Suzan Brittan",
+      "artist": "Robbie Rivera & Axwell Featuring Suzan Brittan",
       "position": {
         "Last Week": "41",
-        "Peak Position": 1,
+        "Peak Position": 30,
         "Wks on Chart": 2
       }
     },
     {
       "rank": 31,
       "title": "Kiss My Eyes",
-      "artist": "Bob Sinclair",
+      "artist": "Bob Sinclar",
       "position": {
         "Last Week": "38",
-        "Peak Position": 23,
+        "Peak Position": 31,
         "Wks on Chart": 4
       }
     },
@@ -338,17 +338,17 @@
       "artist": "Damian Featuring Sasha Lazard",
       "position": {
         "Last Week": "40",
-        "Peak Position": 32,
+        "Peak Position": 34,
         "Wks on Chart": 4
       }
     },
     {
       "rank": 35,
-      "title": "Haru (Widelife Mix)",
+      "title": "Haru (Widelife, J. Vasquez, & DeMarko Mixes)",
       "artist": "Haru",
       "position": {
         "Last Week": "43",
-        "Peak Position": 21,
+        "Peak Position": 35,
         "Wks on Chart": 2
       }
     },
@@ -364,11 +364,11 @@
     },
     {
       "rank": 37,
-      "title": "Me, Myself And I (Junior's Remix)",
+      "title": "Me, Myself And I",
       "artist": "Beyonce",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 17,
+        "Last Week": "-",
+        "Peak Position": 37,
         "Wks on Chart": 1
       }
     },
@@ -394,11 +394,11 @@
     },
     {
       "rank": 40,
-      "title": "Into The Light",
+      "title": "Into The Light (Dave Aude Remixes)",
       "artist": "Cause And Effect",
       "position": {
         "Last Week": "45",
-        "Peak Position": 22,
+        "Peak Position": 40,
         "Wks on Chart": 2
       }
     },
@@ -417,14 +417,14 @@
       "title": "Slippin' Away",
       "artist": "Sweet Rains",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 4,
+        "Last Week": "-",
+        "Peak Position": 42,
         "Wks on Chart": 1
       }
     },
     {
       "rank": 43,
-      "title": "Rock Wit U (Awww Baby) [A. Van Helden & Pound Boys]",
+      "title": "Rock Wit U (Awww Baby)",
       "artist": "Ashanti",
       "position": {
         "Last Week": "32",
@@ -455,10 +455,10 @@
     {
       "rank": 46,
       "title": "Face To Face",
-      "artist": "Daft Punk",
+      "artist": "Daft Punk Featuring Todd Edwards",
       "position": {
         "Last Week": "51",
-        "Peak Position": 1,
+        "Peak Position": 46,
         "Wks on Chart": 1
       }
     },
@@ -478,7 +478,7 @@
       "artist": "Motorcycle",
       "position": {
         "Last Week": "49",
-        "Peak Position": 41,
+        "Peak Position": 45,
         "Wks on Chart": 6
       }
     },
@@ -500,6 +500,51 @@
         "Last Week": "46",
         "Peak Position": 1,
         "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Where Did Love Go",
+      "artist": "Sun",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Powerless (Say What You Want) [Widelife, Junior, & Chab Mixes]",
+      "artist": "Nelly Furtado",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Love Profusion (R. Rosario, Craig J., Passengerz, & Blow-Up Mixes)",
+      "artist": "Madonna",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Rocking Music",
+      "artist": "Martin Solveig",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "The Trouble With Love Is",
+      "artist": "Kelly Clarkson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55
       }
     }
   ]

@@ -7,6 +7,7 @@
       "title": "Killshot",
       "artist": "Eminem",
       "position": {
+        "Last Week": "-",
         "Peak Position": 1,
         "Wks on Chart": 1
       }
@@ -134,7 +135,7 @@
     {
       "rank": 14,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "15",
         "Peak Position": 14,
@@ -224,7 +225,12 @@
     {
       "rank": 23,
       "title": "Better",
-      "artist": "Khalid"
+      "artist": "Khalid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
@@ -339,7 +345,12 @@
     {
       "rank": 35,
       "title": "Drip Too Hard",
-      "artist": "Lil Baby & Gunna"
+      "artist": "Lil Baby & Gunna",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
@@ -404,7 +415,12 @@
     {
       "rank": 42,
       "title": "Falling Down",
-      "artist": "Lil Peep & XXXTENTACION"
+      "artist": "Lil Peep & XXXTENTACION",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 43,
@@ -519,7 +535,12 @@
     {
       "rank": 54,
       "title": "Wake Up In The Sky",
-      "artist": "Gucci Mane X Bruno Mars X Kodak Black"
+      "artist": "Gucci Mane X Bruno Mars X Kodak Black",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 55,
@@ -564,11 +585,16 @@
     {
       "rank": 59,
       "title": "New Patek",
-      "artist": "Lil Uzi Vert"
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 59,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 60,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "65",
@@ -619,7 +645,12 @@
     {
       "rank": 65,
       "title": "Pretty Little Fears",
-      "artist": "6LACK Featuring J. Cole"
+      "artist": "6LACK Featuring J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 65,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 66,
@@ -773,7 +804,7 @@
     },
     {
       "rank": 81,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "69",
@@ -854,7 +885,12 @@
     {
       "rank": 89,
       "title": "Lose It",
-      "artist": "Kane Brown"
+      "artist": "Kane Brown",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 89,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 90,
@@ -919,12 +955,22 @@
     {
       "rank": 96,
       "title": "Better Off",
-      "artist": "Elijah Woods x Jamie Fine"
+      "artist": "Elijah Woods x Jamie Fine",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 96,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 97,
       "title": "Slow Dancing In The Dark",
-      "artist": "Joji"
+      "artist": "Joji",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 97,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 98,
@@ -939,12 +985,22 @@
     {
       "rank": 99,
       "title": "Switch",
-      "artist": "6LACK"
+      "artist": "6LACK",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 99,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 100,
       "title": "Blue Tacoma",
-      "artist": "Russell Dickerson"
+      "artist": "Russell Dickerson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 100,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

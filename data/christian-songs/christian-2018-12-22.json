@@ -7,6 +7,7 @@
       "title": "You Say",
       "artist": "Lauren Daigle",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 23
       }
@@ -104,7 +105,12 @@
     {
       "rank": 11,
       "title": "Good Grace",
-      "artist": "Hillsong UNITED"
+      "artist": "Hillsong UNITED",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 11,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 12,
@@ -379,7 +385,12 @@
     {
       "rank": 39,
       "title": "Here Comes Heaven",
-      "artist": "Elevation Worship"
+      "artist": "Elevation Worship",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
@@ -444,7 +455,12 @@
     {
       "rank": 46,
       "title": "Christmas Time Is Here",
-      "artist": "Lauren Daigle"
+      "artist": "Lauren Daigle",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
@@ -469,7 +485,12 @@
     {
       "rank": 49,
       "title": "Little Drummer Boy (Rewrapped)",
-      "artist": "for KING & COUNTRY"
+      "artist": "for KING & COUNTRY",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,

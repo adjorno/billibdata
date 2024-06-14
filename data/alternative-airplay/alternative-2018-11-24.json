@@ -7,6 +7,7 @@
       "title": "High Hopes",
       "artist": "Panic! At The Disco",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 17
       }
@@ -24,7 +25,7 @@
     {
       "rank": 3,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "3",
         "Peak Position": 3,
@@ -244,7 +245,12 @@
     {
       "rank": 25,
       "title": "Fast Talk",
-      "artist": "Houses"
+      "artist": "Houses",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 26,
@@ -329,7 +335,12 @@
     {
       "rank": 34,
       "title": "Worst Nites",
-      "artist": "Foster The People"
+      "artist": "Foster The People",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 34,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 35,
@@ -354,7 +365,12 @@
     {
       "rank": 37,
       "title": "Clean Eyes",
-      "artist": "SYML"
+      "artist": "SYML",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,

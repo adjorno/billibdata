@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 4
       }
@@ -34,7 +35,12 @@
     {
       "rank": 4,
       "title": "FEFE",
-      "artist": "6ix9ine Featuring Nicki Minaj & Murda Beatz"
+      "artist": "6ix9ine Featuring Nicki Minaj & Murda Beatz",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 4,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 5,
@@ -359,7 +365,12 @@
     {
       "rank": 37,
       "title": "Natural",
-      "artist": "Imagine Dragons"
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
@@ -504,7 +515,7 @@
     {
       "rank": 52,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "56",
         "Peak Position": 52,
@@ -584,7 +595,12 @@
     {
       "rank": 60,
       "title": "I Might Need Security",
-      "artist": "Chance The Rapper"
+      "artist": "Chance The Rapper",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 60,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 61,
@@ -749,7 +765,12 @@
     {
       "rank": 77,
       "title": "Level Up",
-      "artist": "Ciara"
+      "artist": "Ciara",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 77,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 78,
@@ -784,7 +805,12 @@
     {
       "rank": 81,
       "title": "Best Part",
-      "artist": "Daniel Caesar Featuring H.E.R."
+      "artist": "Daniel Caesar Featuring H.E.R.",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 81,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 82,
@@ -849,7 +875,7 @@
     {
       "rank": 88,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "50",
         "Peak Position": 50,
@@ -869,7 +895,12 @@
     {
       "rank": 90,
       "title": "Nevermind",
-      "artist": "Dennis Lloyd"
+      "artist": "Dennis Lloyd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 90,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 91,
@@ -894,7 +925,12 @@
     {
       "rank": 93,
       "title": "You Should See Me In A Crown",
-      "artist": "Billie Eilish"
+      "artist": "Billie Eilish",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 93,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 94,
@@ -929,7 +965,12 @@
     {
       "rank": 97,
       "title": "Lie",
-      "artist": "NF"
+      "artist": "NF",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 97,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 98,

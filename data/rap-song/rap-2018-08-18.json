@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 6
       }
@@ -24,7 +25,12 @@
     {
       "rank": 3,
       "title": "Sicko Mode",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 3,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 4,
@@ -59,7 +65,12 @@
     {
       "rank": 7,
       "title": "Stargazing",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 8,
@@ -114,22 +125,42 @@
     {
       "rank": 13,
       "title": "Carousel",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 14,
       "title": "Yosemite",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 14,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 15,
       "title": "R.I.P Screw",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 15,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 16,
       "title": "Stop Trying To Be God",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 16,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 17,
@@ -154,37 +185,72 @@
     {
       "rank": 19,
       "title": "No Bystanders",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,
       "title": "5% Tint",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 21,
       "title": "Can't Say",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,
       "title": "NC-17",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 23,
       "title": "Who? What!",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
       "title": "Skeletons",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
       "title": "Astrothunder",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

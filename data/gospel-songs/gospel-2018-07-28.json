@@ -7,6 +7,7 @@
       "title": "Won't He Do It",
       "artist": "Koryn Hawthorne",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 45
       }
@@ -14,7 +15,7 @@
     {
       "rank": 2,
       "title": "I'm Blessed",
-      "artist": "Charlie Wilson Featuring T.I.",
+      "artist": "Charlie Wilson",
       "position": {
         "Last Week": "2",
         "Peak Position": 1,
@@ -204,7 +205,12 @@
     {
       "rank": 21,
       "title": "Speak The Name",
-      "artist": "Koryn Hawthorne Featuring Natalie Grant"
+      "artist": "Koryn Hawthorne Featuring Natalie Grant",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,

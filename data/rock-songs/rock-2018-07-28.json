@@ -7,6 +7,7 @@
       "title": "Whatever It Takes",
       "artist": "Imagine Dragons",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 55
       }
@@ -54,7 +55,7 @@
     {
       "rank": 6,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "6",
         "Peak Position": 6,
@@ -64,7 +65,7 @@
     {
       "rank": 7,
       "title": "Nico And The Niners",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "9",
         "Peak Position": 7,
@@ -124,7 +125,12 @@
     {
       "rank": 13,
       "title": "Natural",
-      "artist": "Imagine Dragons"
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 14,
@@ -199,7 +205,12 @@
     {
       "rank": 21,
       "title": "When The Curtain Falls",
-      "artist": "Greta Van Fleet"
+      "artist": "Greta Van Fleet",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,
@@ -274,7 +285,7 @@
     {
       "rank": 29,
       "title": "Blue On Black",
-      "artist": "Five Finger Death Punch",
+      "artist": "Five Finger Death Punch Featuring Kenny Wayne Shepherd, Brantley Gilbert & Brian May",
       "position": {
         "Last Week": "33",
         "Peak Position": 19,
@@ -404,7 +415,12 @@
     {
       "rank": 42,
       "title": "Scotland",
-      "artist": "The Lumineers"
+      "artist": "The Lumineers",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 43,
@@ -429,7 +445,12 @@
     {
       "rank": 45,
       "title": "Forever On Your Side",
-      "artist": "NEEDTOBREATHE Featuring JOHNNYSWIM"
+      "artist": "NEEDTOBREATHE Featuring JOHNNYSWIM",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,

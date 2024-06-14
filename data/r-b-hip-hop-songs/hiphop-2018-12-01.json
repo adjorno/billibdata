@@ -7,6 +7,7 @@
       "title": "Sicko Mode",
       "artist": "Travis Scott",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 16
       }
@@ -394,7 +395,12 @@
     {
       "rank": 40,
       "title": "Take One",
-      "artist": "Kodak Black"
+      "artist": "Kodak Black",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 41,
@@ -418,7 +424,7 @@
     },
     {
       "rank": 43,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "41",
@@ -449,7 +455,12 @@
     {
       "rank": 46,
       "title": "Twerk",
-      "artist": "City Girls Featuring Cardi B"
+      "artist": "City Girls Featuring Cardi B",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,

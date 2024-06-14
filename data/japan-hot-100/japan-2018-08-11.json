@@ -7,6 +7,7 @@
       "title": "Cosmic Human",
       "artist": "Hey! Say! JUMP",
       "position": {
+        "Last Week": "-",
         "Peak Position": 1,
         "Wks on Chart": 1
       }
@@ -14,12 +15,22 @@
     {
       "rank": 2,
       "title": "Fly To The Future",
-      "artist": "QUARTET NIGHT"
+      "artist": "QUARTET NIGHT",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 2,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 3,
       "title": "Thank you, FRIENDS!!",
-      "artist": "Aqours"
+      "artist": "Aqours",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 3,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 4,
@@ -44,12 +55,17 @@
     {
       "rank": 6,
       "title": "Sweet Devil",
-      "artist": "Super Dragon"
+      "artist": "Super Dragon",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 6,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 7,
       "title": "Natsushippu",
-      "artist": "Arashi",
+      "artist": "ARASHI",
       "position": {
         "Last Week": "1",
         "Peak Position": 1,
@@ -79,7 +95,7 @@
     {
       "rank": 10,
       "title": "Ao To Natsu",
-      "artist": "Mrs.GREEN APPLE",
+      "artist": "Mrs. GREEN APPLE",
       "position": {
         "Last Week": "33",
         "Peak Position": 10,
@@ -99,7 +115,7 @@
     {
       "rank": 12,
       "title": "Jikochu De Ikou!",
-      "artist": "Nogizaka46",
+      "artist": "Nogizaka 46",
       "position": {
         "Last Week": "27",
         "Peak Position": 12,
@@ -119,17 +135,32 @@
     {
       "rank": 14,
       "title": "Moshi Kimi Wo Yurusetara",
-      "artist": "Leo Ieiri"
+      "artist": "Leo Ieiri",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 14,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 15,
       "title": "Suki De Suki De Shouganai",
-      "artist": "Last Idol"
+      "artist": "Last Idol",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 15,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 16,
       "title": "Suki Nante",
-      "artist": "RAINZ"
+      "artist": "RAINZ",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 16,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 17,
@@ -144,7 +175,7 @@
     {
       "rank": 18,
       "title": "Hanabi",
-      "artist": "Mr. Children",
+      "artist": "Mr.Children",
       "position": {
         "Last Week": "15",
         "Peak Position": 9,
@@ -154,7 +185,12 @@
     {
       "rank": 19,
       "title": "Muscat",
-      "artist": "Yuzu"
+      "artist": "Yuzu",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,
@@ -188,13 +224,23 @@
     },
     {
       "rank": 23,
-      "title": "Ai No Katachi ",
-      "artist": "MISIA Feat.HIDE(GReeeen)"
+      "title": "Ai No Katachi",
+      "artist": "MISIA Feat.HIDE (GReeeen)",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
       "title": "After Light",
-      "artist": "Hyde"
+      "artist": "Hyde",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
@@ -219,7 +265,7 @@
     {
       "rank": 27,
       "title": "Road",
-      "artist": "Toho Shinki",
+      "artist": "Tohoshinki",
       "position": {
         "Last Week": "2",
         "Peak Position": 2,
@@ -229,7 +275,7 @@
     {
       "rank": 28,
       "title": "Marigold",
-      "artist": "Aimyon",
+      "artist": "aimyon",
       "position": {
         "Last Week": "25",
         "Peak Position": 22,
@@ -239,7 +285,12 @@
     {
       "rank": 29,
       "title": "No Brainer",
-      "artist": "DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo"
+      "artist": "DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 29,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 30,
@@ -284,7 +335,12 @@
     {
       "rank": 34,
       "title": "Baberusitei Gureisu",
-      "artist": "L`Antica"
+      "artist": "L`Antica",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 34,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 35,
@@ -299,7 +355,12 @@
     {
       "rank": 36,
       "title": "Relax & Chill",
-      "artist": "Nissy"
+      "artist": "Nissy",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -323,7 +384,7 @@
     },
     {
       "rank": 39,
-      "title": "DDU-DU DDU-DU",
+      "title": "Ddu-du Ddu-du",
       "artist": "BLACKPINK",
       "position": {
         "Last Week": "18",
@@ -464,7 +525,12 @@
     {
       "rank": 53,
       "title": "Let Me Know",
-      "artist": "Perfume"
+      "artist": "Perfume",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 54,
@@ -479,7 +545,12 @@
     {
       "rank": 55,
       "title": "Hikari",
-      "artist": "androp"
+      "artist": "androp",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 56,
@@ -514,7 +585,7 @@
     {
       "rank": 59,
       "title": "Syncronicity",
-      "artist": "Nogizaka46",
+      "artist": "Nogizaka 46",
       "position": {
         "Last Week": "55",
         "Peak Position": 1,
@@ -534,7 +605,12 @@
     {
       "rank": 61,
       "title": "Killing Me",
-      "artist": "iKON"
+      "artist": "iKON",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 61,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 62,
@@ -609,12 +685,22 @@
     {
       "rank": 69,
       "title": "Sora Tobira",
-      "artist": "Nogizaka46"
+      "artist": "Nogizaka 46",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 69,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 70,
-      "title": "Tenbyou No Uta ",
-      "artist": "Mrs.GREEN APPLE Feat. Sonoko Inoue"
+      "title": "Tenbyou No Uta",
+      "artist": "Mrs. GREEN APPLE Feat. Sonoko Inoue",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 70,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 71,
@@ -639,7 +725,12 @@
     {
       "rank": 73,
       "title": "Akatsukino Requiem",
-      "artist": "Linked Horizon"
+      "artist": "Linked Horizon",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 73,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 74,
@@ -654,12 +745,17 @@
     {
       "rank": 75,
       "title": "Sai The Kou",
-      "artist": "Rock-A-Japonica"
+      "artist": "Rock-A-Japonica",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 75,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 76,
       "title": "Kimi Ha Rock Wo Kikanai",
-      "artist": "Aimyon",
+      "artist": "aimyon",
       "position": {
         "Last Week": "83",
         "Peak Position": 25,
@@ -679,12 +775,22 @@
     {
       "rank": 78,
       "title": "Re:Story",
-      "artist": "Momoiro Clover Z"
+      "artist": "Momoiro Clover Z",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 78,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 79,
       "title": "Livin' It Up",
-      "artist": "MONSTA X"
+      "artist": "MONSTA X",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 79,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 80,
@@ -739,7 +845,12 @@
     {
       "rank": 85,
       "title": "Jungle",
-      "artist": "TOHOSHINKI"
+      "artist": "Tohoshinki",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 85,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 86,
@@ -794,7 +905,7 @@
     {
       "rank": 91,
       "title": "Fanfale",
-      "artist": "Sumika",
+      "artist": "sumika",
       "position": {
         "Last Week": "51",
         "Peak Position": 51,
@@ -814,7 +925,12 @@
     {
       "rank": 93,
       "title": "Found & Lost",
-      "artist": "Survive Said The Prophet"
+      "artist": "Survive Said The Prophet",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 93,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 94,
@@ -869,7 +985,12 @@
     {
       "rank": 99,
       "title": "Hitoiki Tsukinagara",
-      "artist": "Kijima Yutaka"
+      "artist": "Kijima Yutaka",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 99,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 100,

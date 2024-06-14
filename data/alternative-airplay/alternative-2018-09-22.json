@@ -7,6 +7,7 @@
       "title": "Natural",
       "artist": "Imagine Dragons",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 9
       }
@@ -144,7 +145,7 @@
     {
       "rank": 15,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "20",
         "Peak Position": 15,
@@ -164,7 +165,7 @@
     {
       "rank": 17,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "9",
         "Peak Position": 1,
@@ -364,12 +365,22 @@
     {
       "rank": 37,
       "title": "Revolutionary",
-      "artist": "Robert DeLong"
+      "artist": "Robert DeLong",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
       "title": "\"99\"",
-      "artist": "Barns Courtney"
+      "artist": "Barns Courtney",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
@@ -384,7 +395,12 @@
     {
       "rank": 40,
       "title": "Daylight",
-      "artist": "Blue October"
+      "artist": "Blue October",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

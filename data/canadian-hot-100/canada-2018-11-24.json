@@ -7,6 +7,7 @@
       "title": "Thank U, Next",
       "artist": "Ariana Grande",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 2
       }
@@ -94,12 +95,17 @@
     {
       "rank": 10,
       "title": "BAD!",
-      "artist": "XXXTENTACION"
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 11,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "9",
         "Peak Position": 6,
@@ -419,7 +425,12 @@
     {
       "rank": 43,
       "title": "Armed And Dangerous",
-      "artist": "Juice WRLD"
+      "artist": "Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 44,
@@ -484,7 +495,12 @@
     {
       "rank": 50,
       "title": "Bad Liar",
-      "artist": "Imagine Dragons"
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 51,
@@ -529,7 +545,12 @@
     {
       "rank": 55,
       "title": "Chances",
-      "artist": "Backstreet Boys"
+      "artist": "Backstreet Boys",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 56,
@@ -593,7 +614,7 @@
     },
     {
       "rank": 62,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "56",
@@ -654,7 +675,12 @@
     {
       "rank": 68,
       "title": "Topanga",
-      "artist": "Trippie Redd"
+      "artist": "Trippie Redd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 68,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 69,
@@ -689,7 +715,7 @@
     {
       "rank": 72,
       "title": "Saturday Nights",
-      "artist": "Khalid",
+      "artist": "Khalid & Kane Brown",
       "position": {
         "Last Week": "66",
         "Peak Position": 37,
@@ -729,7 +755,12 @@
     {
       "rank": 76,
       "title": "1400 / 999 Freestyle",
-      "artist": "Trippie Redd Featuring Juice WRLD"
+      "artist": "Trippie Redd Featuring Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 76,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 77,
@@ -764,7 +795,12 @@
     {
       "rank": 80,
       "title": "Love Someone",
-      "artist": "Lukas Graham"
+      "artist": "Lukas Graham",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 80,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 81,
@@ -879,12 +915,22 @@
     {
       "rank": 92,
       "title": "Hang Ups",
-      "artist": "Scott Helman"
+      "artist": "Scott Helman",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 92,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 93,
       "title": "Ocean Eyes",
-      "artist": "Billie Eilish"
+      "artist": "Billie Eilish",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 93,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 94,
@@ -909,7 +955,12 @@
     {
       "rank": 96,
       "title": "Kamikaze",
-      "artist": "Lil Mosey"
+      "artist": "Lil Mosey",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 96,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 97,
@@ -944,7 +995,12 @@
     {
       "rank": 100,
       "title": "idontwannabeyouanymore",
-      "artist": "Billie Eilish"
+      "artist": "Billie Eilish",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 100,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

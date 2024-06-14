@@ -7,6 +7,7 @@
       "title": "Natural",
       "artist": "Imagine Dragons",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 12
       }
@@ -74,7 +75,7 @@
     {
       "rank": 8,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "11",
         "Peak Position": 8,
@@ -144,7 +145,7 @@
     {
       "rank": 15,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "15",
         "Peak Position": 6,
@@ -254,7 +255,7 @@
     {
       "rank": 26,
       "title": "Nico And The Niners",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "25",
         "Peak Position": 7,
@@ -274,7 +275,7 @@
     {
       "rank": 28,
       "title": "Blue On Black",
-      "artist": "Five Finger Death Punch",
+      "artist": "Five Finger Death Punch Featuring Kenny Wayne Shepherd, Brantley Gilbert & Brian May",
       "position": {
         "Last Week": "24",
         "Peak Position": 18,
@@ -324,7 +325,12 @@
     {
       "rank": 33,
       "title": "Pressure",
-      "artist": "Muse"
+      "artist": "Muse",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 34,
@@ -339,7 +345,12 @@
     {
       "rank": 35,
       "title": "Disease",
-      "artist": "Beartooth"
+      "artist": "Beartooth",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
@@ -364,7 +375,12 @@
     {
       "rank": 38,
       "title": "Rise",
-      "artist": "League Of Legends With The Glitch Mob, Mako & The Word Alive"
+      "artist": "League Of Legends With The Glitch Mob, Mako & The Word Alive",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
@@ -439,7 +455,12 @@
     {
       "rank": 46,
       "title": "These Are My Friends",
-      "artist": "lovelytheband"
+      "artist": "lovelytheband",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
@@ -474,7 +495,12 @@
     {
       "rank": 50,
       "title": "S.O.S. (Sawed Off Shotgun)",
-      "artist": "The Glorious Sons"
+      "artist": "The Glorious Sons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

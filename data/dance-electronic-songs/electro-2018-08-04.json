@@ -7,6 +7,7 @@
       "title": "The Middle",
       "artist": "Zedd, Maren Morris & Grey",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 27
       }
@@ -184,7 +185,7 @@
     {
       "rank": 19,
       "title": "Gold (Stupid Love)",
-      "artist": "Excision & Illenium Featuring Shallows",
+      "artist": "Excision & ILLENIUM Featuring Shallows",
       "position": {
         "Last Week": "33",
         "Peak Position": 19,
@@ -224,7 +225,12 @@
     {
       "rank": 23,
       "title": "In My Mind",
-      "artist": "Dynoro & Gigi D'Agostino"
+      "artist": "Dynoro & Gigi D'Agostino",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
@@ -359,7 +365,7 @@
     {
       "rank": 37,
       "title": "Lullaby",
-      "artist": "Sigala & Paloma Faith",
+      "artist": "Sigala. & Paloma Faith",
       "position": {
         "Last Week": "37",
         "Peak Position": 26,
@@ -439,7 +445,12 @@
     {
       "rank": 45,
       "title": "Side Effects",
-      "artist": "The Chainsmokers Featuring Emily Warren"
+      "artist": "The Chainsmokers Featuring Emily Warren",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,
@@ -464,17 +475,32 @@
     {
       "rank": 48,
       "title": "Superlove",
-      "artist": "Whethan Featuring Oh Wonder"
+      "artist": "Whethan Featuring Oh Wonder",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,
       "title": "Sticks & Stones",
-      "artist": "Metro & Nelly Furtado"
+      "artist": "Metro & Nelly Furtado",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,
       "title": "There For You",
-      "artist": "Hilary Roberts"
+      "artist": "Hilary Roberts",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

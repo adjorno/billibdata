@@ -7,6 +7,7 @@
       "title": "You Say",
       "artist": "Lauren Daigle",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 22
       }
@@ -34,7 +35,12 @@
     {
       "rank": 4,
       "title": "Amazing Grace",
-      "artist": "Sarah Grace"
+      "artist": "Sarah Grace",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 4,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 5,
@@ -59,7 +65,12 @@
     {
       "rank": 7,
       "title": "The Christmas Song",
-      "artist": "Lauren Daigle"
+      "artist": "Lauren Daigle",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 8,
@@ -244,7 +255,12 @@
     {
       "rank": 26,
       "title": "Oceans (Where Feet May Fail)",
-      "artist": "Kymberli Joye"
+      "artist": "Kymberli Joye",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 26,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 27,
@@ -259,7 +275,12 @@
     {
       "rank": 28,
       "title": "Winter Wonderland",
-      "artist": "Hannah Kerr"
+      "artist": "Hannah Kerr",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 28,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 29,
@@ -354,7 +375,12 @@
     {
       "rank": 38,
       "title": "O Come O Come Emmanuel",
-      "artist": "Lauren Daigle"
+      "artist": "Lauren Daigle",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
@@ -379,7 +405,12 @@
     {
       "rank": 41,
       "title": "Born On That Day",
-      "artist": "Matt Maher"
+      "artist": "Matt Maher",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 42,
@@ -404,12 +435,22 @@
     {
       "rank": 44,
       "title": "Christmas Is Here",
-      "artist": "Stars Go Dim"
+      "artist": "Stars Go Dim",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 45,
       "title": "Love Came Down",
-      "artist": "Kim Walker-Smith"
+      "artist": "Kim Walker-Smith",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,
@@ -444,7 +485,12 @@
     {
       "rank": 49,
       "title": "Christmas Is All About You",
-      "artist": "Mallary Hope"
+      "artist": "Mallary Hope",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,

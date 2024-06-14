@@ -7,6 +7,7 @@
       "title": "You Say",
       "artist": "Lauren Daigle",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 20
       }
@@ -204,7 +205,12 @@
     {
       "rank": 21,
       "title": "You Say",
-      "artist": "Reagan Strange"
+      "artist": "Reagan Strange",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,
@@ -219,7 +225,7 @@
     {
       "rank": 23,
       "title": "Forever On Your Side",
-      "artist": "NEEDTOBREATHE Featuring JOHNNYSWIM",
+      "artist": "NEEDTOBREATHE",
       "position": {
         "Last Week": "22",
         "Peak Position": 19,
@@ -349,7 +355,12 @@
     {
       "rank": 36,
       "title": "Nobody",
-      "artist": "Casting Crowns Featuring Matthew West"
+      "artist": "Casting Crowns Featuring Matthew West",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -434,7 +445,12 @@
     {
       "rank": 45,
       "title": "Winter Wonderland",
-      "artist": "Lauren Daigle"
+      "artist": "Lauren Daigle",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,
@@ -459,7 +475,12 @@
     {
       "rank": 48,
       "title": "Stand By Me (Acoustic Live)",
-      "artist": "NEEDTOBREATHE"
+      "artist": "NEEDTOBREATHE",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,
@@ -474,7 +495,12 @@
     {
       "rank": 50,
       "title": "Praise Before My Breakthrough",
-      "artist": "Bryan & Katie Torwalt"
+      "artist": "Bryan & Katie Torwalt",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

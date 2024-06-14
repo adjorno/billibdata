@@ -55,7 +55,12 @@
     {
       "rank": 6,
       "title": "Sunflower (Spider-Man: Into The Spider-Verse)",
-      "artist": "Post Malone & Swae Lee"
+      "artist": "Post Malone & Swae Lee",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 6,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 7,
@@ -120,7 +125,12 @@
     {
       "rank": 13,
       "title": "Fine China",
-      "artist": "Future & Juice WRLD"
+      "artist": "Future & Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 14,
@@ -225,12 +235,22 @@
     {
       "rank": 24,
       "title": "Leave Me Alone",
-      "artist": "Flipp Dinero"
+      "artist": "Flipp Dinero",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
       "title": "Money",
-      "artist": "Cardi B"
+      "artist": "Cardi B",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

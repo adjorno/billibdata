@@ -7,6 +7,7 @@
       "title": "Meant To Be",
       "artist": "Bebe Rexha & Florida Georgia Line",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 44
       }
@@ -33,7 +34,7 @@
     },
     {
       "rank": 4,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "6",
@@ -484,12 +485,22 @@
     {
       "rank": 49,
       "title": "One That Got Away",
-      "artist": "Michael Ray"
+      "artist": "Michael Ray",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,
       "title": "Never Comin Down",
-      "artist": "Keith Urban"
+      "artist": "Keith Urban",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

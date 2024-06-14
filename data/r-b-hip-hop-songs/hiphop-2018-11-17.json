@@ -7,6 +7,7 @@
       "title": "Sicko Mode",
       "artist": "Travis Scott",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 14
       }
@@ -174,7 +175,12 @@
     {
       "rank": 18,
       "title": "Don't Come Out The House",
-      "artist": "Metro Boomin Featuring 21 Savage"
+      "artist": "Metro Boomin Featuring 21 Savage",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 19,
@@ -189,7 +195,12 @@
     {
       "rank": 20,
       "title": "10 Freaky Girls",
-      "artist": "Metro Boomin Featuring 21 Savage"
+      "artist": "Metro Boomin Featuring 21 Savage",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 21,
@@ -204,7 +215,12 @@
     {
       "rank": 22,
       "title": "Space Cadet",
-      "artist": "Metro Boomin Featuring Gunna"
+      "artist": "Metro Boomin Featuring Gunna",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 23,
@@ -279,7 +295,12 @@
     {
       "rank": 30,
       "title": "Overdue",
-      "artist": "Metro Boomin Featuring Travis Scott"
+      "artist": "Metro Boomin Featuring Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,
@@ -334,7 +355,12 @@
     {
       "rank": 36,
       "title": "Dreamcatcher",
-      "artist": "Metro Boomin Featuring Swae Lee & Travis Scott"
+      "artist": "Metro Boomin Featuring Swae Lee & Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -348,7 +374,7 @@
     },
     {
       "rank": 38,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "33",
@@ -369,7 +395,12 @@
     {
       "rank": 40,
       "title": "No More",
-      "artist": "Metro Boomin Featuring Travis Scott, Kodak Black & 21 Savage"
+      "artist": "Metro Boomin Featuring Travis Scott, Kodak Black & 21 Savage",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 41,
@@ -464,7 +495,12 @@
     {
       "rank": 50,
       "title": "Casper",
-      "artist": "TakeOff"
+      "artist": "TakeOff",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

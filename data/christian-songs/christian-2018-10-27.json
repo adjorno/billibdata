@@ -7,6 +7,7 @@
       "title": "You Say",
       "artist": "Lauren Daigle",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 15
       }
@@ -233,7 +234,7 @@
     },
     {
       "rank": 24,
-      "title": "Scars                         ",
+      "title": "Scars",
       "artist": "tobyMac",
       "position": {
         "Last Week": "50",
@@ -264,12 +265,17 @@
     {
       "rank": 27,
       "title": "The Elements",
-      "artist": "tobyMac"
+      "artist": "tobyMac",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 27,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 28,
       "title": "Forever On Your Side",
-      "artist": "NEEDTOBREATHE Featuring JOHNNYSWIM",
+      "artist": "NEEDTOBREATHE",
       "position": {
         "Last Week": "33",
         "Peak Position": 19,
@@ -349,7 +355,12 @@
     {
       "rank": 36,
       "title": "Starts With Me",
-      "artist": "tobyMac Featuring Aaron Cole"
+      "artist": "tobyMac Featuring Aaron Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -474,7 +485,12 @@
     {
       "rank": 49,
       "title": "Best News Ever",
-      "artist": "MercyMe"
+      "artist": "MercyMe",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,

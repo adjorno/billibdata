@@ -18,7 +18,7 @@
       "artist": "Audio Playground",
       "position": {
         "Last Week": "3",
-        "Peak Position": 1,
+        "Peak Position": 2,
         "Wks on Chart": 8
       }
     },
@@ -28,7 +28,7 @@
       "artist": "Beyonce",
       "position": {
         "Last Week": "7",
-        "Peak Position": 1,
+        "Peak Position": 3,
         "Wks on Chart": 5
       }
     },
@@ -38,7 +38,7 @@
       "artist": "Rokelle Featuring Dave Aude",
       "position": {
         "Last Week": "6",
-        "Peak Position": 1,
+        "Peak Position": 4,
         "Wks on Chart": 8
       }
     },
@@ -58,7 +58,7 @@
       "artist": "Kimberly Davis",
       "position": {
         "Last Week": "8",
-        "Peak Position": 4,
+        "Peak Position": 6,
         "Wks on Chart": 8
       }
     },
@@ -108,7 +108,7 @@
       "artist": "Tiesto",
       "position": {
         "Last Week": "21",
-        "Peak Position": 2,
+        "Peak Position": 11,
         "Wks on Chart": 4
       }
     },
@@ -128,7 +128,7 @@
       "artist": "Claire",
       "position": {
         "Last Week": "16",
-        "Peak Position": 6,
+        "Peak Position": 13,
         "Wks on Chart": 7
       }
     },
@@ -138,7 +138,7 @@
       "artist": "Shakira Featuring Rihanna",
       "position": {
         "Last Week": "39",
-        "Peak Position": 1,
+        "Peak Position": 14,
         "Wks on Chart": 2
       }
     },
@@ -175,7 +175,7 @@
     {
       "rank": 18,
       "title": "Now You're Mine",
-      "artist": "Kim Cameron",
+      "artist": "Side FX & Kim Cameron",
       "position": {
         "Last Week": "20",
         "Peak Position": 18,
@@ -188,7 +188,7 @@
       "artist": "Empire Of The Sun",
       "position": {
         "Last Week": "25",
-        "Peak Position": 6,
+        "Peak Position": 19,
         "Wks on Chart": 4
       }
     },
@@ -198,7 +198,7 @@
       "artist": "Malea",
       "position": {
         "Last Week": "23",
-        "Peak Position": 17,
+        "Peak Position": 20,
         "Wks on Chart": 6
       }
     },
@@ -218,7 +218,7 @@
       "artist": "Kylie Minogue",
       "position": {
         "Last Week": "40",
-        "Peak Position": 1,
+        "Peak Position": 22,
         "Wks on Chart": 2
       }
     },
@@ -228,7 +228,7 @@
       "artist": "DJ Rockster Featuring Paul Cless",
       "position": {
         "Last Week": "29",
-        "Peak Position": 19,
+        "Peak Position": 23,
         "Wks on Chart": 4
       }
     },
@@ -258,17 +258,17 @@
       "artist": "VenSun Featuring David Vendetta & Sylvia Tosun",
       "position": {
         "Last Week": "32",
-        "Peak Position": 10,
+        "Peak Position": 26,
         "Wks on Chart": 4
       }
     },
     {
       "rank": 27,
-      "title": "Time After Time 2014",
+      "title": "Time After Time (2014)",
       "artist": "Cyndi Lauper",
       "position": {
         "Last Week": "41",
-        "Peak Position": 2,
+        "Peak Position": 27,
         "Wks on Chart": 2
       }
     },
@@ -335,10 +335,10 @@
     {
       "rank": 34,
       "title": "Find You",
-      "artist": "Zedd, Matthew Koma, Miriam Bryant",
+      "artist": "Zedd Featuring Matthew Koma & Miriam Bryant",
       "position": {
         "Last Week": "51",
-        "Peak Position": 1,
+        "Peak Position": 34,
         "Wks on Chart": 1
       }
     },
@@ -365,10 +365,10 @@
     {
       "rank": 37,
       "title": "Mind Blown",
-      "artist": "Noelia Featuring Timbaland",
+      "artist": "Noelia",
       "position": {
         "Last Week": "43",
-        "Peak Position": 16,
+        "Peak Position": 37,
         "Wks on Chart": 3
       }
     },
@@ -378,7 +378,7 @@
       "artist": "Consuelo Costin",
       "position": {
         "Last Week": "44",
-        "Peak Position": 15,
+        "Peak Position": 38,
         "Wks on Chart": 3
       }
     },
@@ -388,7 +388,7 @@
       "artist": "Beyonce Featuring Jay Z",
       "position": {
         "Last Week": "53",
-        "Peak Position": 12,
+        "Peak Position": 39,
         "Wks on Chart": 1
       }
     },
@@ -398,7 +398,7 @@
       "artist": "Starling Glow",
       "position": {
         "Last Week": "45",
-        "Peak Position": 19,
+        "Peak Position": 40,
         "Wks on Chart": 3
       }
     },
@@ -438,7 +438,7 @@
       "artist": "Guy Sebastian",
       "position": {
         "Last Week": "48",
-        "Peak Position": 20,
+        "Peak Position": 44,
         "Wks on Chart": 2
       }
     },
@@ -458,7 +458,7 @@
       "artist": "Liam Keegan Featuring Julia Schlippert",
       "position": {
         "Last Week": "50",
-        "Peak Position": 37,
+        "Peak Position": 46,
         "Wks on Chart": 2
       }
     },
@@ -468,7 +468,7 @@
       "artist": "Jason Derulo Featuring 2 Chainz",
       "position": {
         "Last Week": "55",
-        "Peak Position": 17,
+        "Peak Position": 47,
         "Wks on Chart": 1
       }
     },
@@ -477,8 +477,8 @@
       "title": "Legacy",
       "artist": "Nicky Romero VS Krewella",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 45,
+        "Last Week": "-",
+        "Peak Position": 48,
         "Wks on Chart": 1
       }
     },
@@ -497,9 +497,54 @@
       "title": "Memory",
       "artist": "Asher Monroe Featuring Chris Brown",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 5,
+        "Last Week": "-",
+        "Peak Position": 50,
         "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Shiny Disco Balls",
+      "artist": "Scotty Boy Featuring Sue Cho",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Ten Feet Tall",
+      "artist": "Afrojack Featuring Wrabel",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52
+      }
+    },
+    {
+      "rank": 53,
+      "title": "The Girl Can't Help It",
+      "artist": "Katia Nicole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53
+      }
+    },
+    {
+      "rank": 54,
+      "title": "World Around Me",
+      "artist": "Nexus",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Say Something",
+      "artist": "A Great Big World & Christina Aguilera",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55
       }
     }
   ]

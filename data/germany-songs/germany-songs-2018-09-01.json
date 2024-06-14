@@ -7,6 +7,7 @@
       "title": "In My Mind",
       "artist": "Dynoro & Gigi D'Agostino",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 8
       }
@@ -24,7 +25,7 @@
     {
       "rank": 3,
       "title": "500 PS",
-      "artist": "Bonez MC & Raf Camora",
+      "artist": "Bonez MC & RAF Camora",
       "position": {
         "Last Week": "3",
         "Peak Position": 3,
@@ -34,7 +35,12 @@
     {
       "rank": 4,
       "title": "Dior 2001",
-      "artist": "Rin"
+      "artist": "RIN",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 4,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 5,
@@ -79,7 +85,12 @@
     {
       "rank": 9,
       "title": "Girls Like You",
-      "artist": "Maroon 5 Featuring Cardi B"
+      "artist": "Maroon 5 Featuring Cardi B",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 9,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 10,

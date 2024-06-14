@@ -7,6 +7,7 @@
       "title": "Meant To Be",
       "artist": "Bebe Rexha & Florida Georgia Line",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 31
       }
@@ -473,7 +474,7 @@
     },
     {
       "rank": 48,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "-",
@@ -494,7 +495,12 @@
     {
       "rank": 50,
       "title": "What Keeps You Up At Night",
-      "artist": "Dan + Shay"
+      "artist": "Dan + Shay",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

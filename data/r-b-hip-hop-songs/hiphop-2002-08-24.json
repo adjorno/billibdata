@@ -58,7 +58,7 @@
       "artist": "Ludacris Featuring Mystikal & Infamous 2.0",
       "position": {
         "Last Week": "7",
-        "Peak Position": 3,
+        "Peak Position": 6,
         "Wks on Chart": 14
       }
     },
@@ -98,7 +98,7 @@
       "artist": "Eve Featuring Alicia Keys",
       "position": {
         "Last Week": "14",
-        "Peak Position": 2,
+        "Peak Position": 10,
         "Wks on Chart": 8
       }
     },
@@ -118,7 +118,7 @@
       "artist": "Wyclef Jean Featuring Claudette Ortiz",
       "position": {
         "Last Week": "12",
-        "Peak Position": 11,
+        "Peak Position": 12,
         "Wks on Chart": 10
       }
     },
@@ -128,7 +128,7 @@
       "artist": "Styles",
       "position": {
         "Last Week": "17",
-        "Peak Position": 6,
+        "Peak Position": 13,
         "Wks on Chart": 12
       }
     },
@@ -138,7 +138,7 @@
       "artist": "Clipse",
       "position": {
         "Last Week": "11",
-        "Peak Position": 11,
+        "Peak Position": 10,
         "Wks on Chart": 17
       }
     },
@@ -158,7 +158,7 @@
       "artist": "Ginuwine",
       "position": {
         "Last Week": "19",
-        "Peak Position": 7,
+        "Peak Position": 16,
         "Wks on Chart": 10
       }
     },
@@ -178,7 +178,7 @@
       "artist": "Ashanti",
       "position": {
         "Last Week": "21",
-        "Peak Position": 7,
+        "Peak Position": 18,
         "Wks on Chart": 11
       }
     },
@@ -195,7 +195,7 @@
     {
       "rank": 20,
       "title": "Oh Boy",
-      "artist": "Cam'ron Featuring Juelz Santana",
+      "artist": "Cam'Ron Featuring Juelz Santana",
       "position": {
         "Last Week": "13",
         "Peak Position": 1,
@@ -208,7 +208,7 @@
       "artist": "Faith Evans Featuring Missy \"Misdemeanor\" Elliott",
       "position": {
         "Last Week": "22",
-        "Peak Position": 19,
+        "Peak Position": 21,
         "Wks on Chart": 8
       }
     },
@@ -218,7 +218,7 @@
       "artist": "Aaliyah",
       "position": {
         "Last Week": "24",
-        "Peak Position": 3,
+        "Peak Position": 22,
         "Wks on Chart": 13
       }
     },
@@ -258,7 +258,7 @@
       "artist": "Fabolous Featuring P. Diddy & Jagged Edge",
       "position": {
         "Last Week": "29",
-        "Peak Position": 14,
+        "Peak Position": 26,
         "Wks on Chart": 19
       }
     },
@@ -268,7 +268,7 @@
       "artist": "Eminem",
       "position": {
         "Last Week": "34",
-        "Peak Position": 11,
+        "Peak Position": 27,
         "Wks on Chart": 4
       }
     },
@@ -318,7 +318,7 @@
       "artist": "Nappy Roots Featuring Anthony Hamilton",
       "position": {
         "Last Week": "38",
-        "Peak Position": 13,
+        "Peak Position": 32,
         "Wks on Chart": 10
       }
     },
@@ -348,7 +348,7 @@
       "artist": "Beenie Man Featuring Janet",
       "position": {
         "Last Week": "36",
-        "Peak Position": 31,
+        "Peak Position": 35,
         "Wks on Chart": 6
       }
     },
@@ -358,7 +358,7 @@
       "artist": "Angie Martinez Featuring Lil' Mo & Sacario",
       "position": {
         "Last Week": "39",
-        "Peak Position": 26,
+        "Peak Position": 36,
         "Wks on Chart": 13
       }
     },
@@ -375,7 +375,7 @@
     {
       "rank": 38,
       "title": "Luv U Better",
-      "artist": "LL Cool J Featuring Marc Dorsey",
+      "artist": "LL Cool J",
       "position": {
         "Last Week": "41",
         "Peak Position": 38,
@@ -398,17 +398,17 @@
       "artist": "Nivea Featuring Brian & Brandon Casey",
       "position": {
         "Last Week": "40",
-        "Peak Position": 25,
+        "Peak Position": 40,
         "Wks on Chart": 8
       }
     },
     {
       "rank": 41,
       "title": "Hey Ma",
-      "artist": "Cam'ron Featuring Juelz Santana, Freekey Zekey & Toya",
+      "artist": "Cam'Ron Featuring Juelz Santana, Freekey Zekey & Toya",
       "position": {
         "Last Week": "53",
-        "Peak Position": 7,
+        "Peak Position": 41,
         "Wks on Chart": 4
       }
     },
@@ -418,7 +418,7 @@
       "artist": "Sean Paul",
       "position": {
         "Last Week": "55",
-        "Peak Position": 3,
+        "Peak Position": 37,
         "Wks on Chart": 19
       }
     },
@@ -428,7 +428,7 @@
       "artist": "Tank",
       "position": {
         "Last Week": "52",
-        "Peak Position": 25,
+        "Peak Position": 43,
         "Wks on Chart": 6
       }
     },
@@ -444,11 +444,11 @@
     },
     {
       "rank": 45,
-      "title": "Dontchange",
+      "title": "dontchange",
       "artist": "Musiq",
       "position": {
         "Last Week": "57",
-        "Peak Position": 3,
+        "Peak Position": 45,
         "Wks on Chart": 3
       }
     },
@@ -458,7 +458,7 @@
       "artist": "Keith Sweat Featuring Lola Troy & Lade Bac",
       "position": {
         "Last Week": "54",
-        "Peak Position": 44,
+        "Peak Position": 46,
         "Wks on Chart": 7
       }
     },
@@ -497,9 +497,509 @@
       "title": "The Truth",
       "artist": "Truth Hurts",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 47,
+        "Last Week": "-",
+        "Peak Position": 50,
         "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Good Man",
+      "artist": "RL",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 50,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Love Of My Life (An Ode To Hip Hop)",
+      "artist": "Erykah Badu Featuring Common",
+      "position": {
+        "Last Week": "71",
+        "Peak Position": 52,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 53,
+      "title": "On My Block",
+      "artist": "Scarface",
+      "position": {
+        "Last Week": "56",
+        "Peak Position": 53,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Basketball",
+      "artist": "Lil Bow Wow Featuring Jermaine Durpri, Fabolous & Fundisha",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 44,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 55,
+      "title": "I Do (Wanna Get Close To You)",
+      "artist": "3LW Featuring P. Diddy & Loon",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 55,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 56,
+      "title": "In The Morning",
+      "artist": "Mary Mary",
+      "position": {
+        "Last Week": "63",
+        "Peak Position": 54,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 57,
+      "title": "Don't Say No, Just Say Yes",
+      "artist": "Avant",
+      "position": {
+        "Last Week": "64",
+        "Peak Position": 57,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 58,
+      "title": "Blue Jeans",
+      "artist": "Yasmeen Featuring Ghostface Killah",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 58,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 59,
+      "title": "I'm Gonna Be Alright",
+      "artist": "Jennifer Lopez Featuring Nas",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 32,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 60,
+      "title": "Connected For Life",
+      "artist": "Mack 10 Featuring Ice Cube, WC & Butch Cassidy",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 60,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 61,
+      "title": "Funny",
+      "artist": "Gerald Levert",
+      "position": {
+        "Last Week": "67",
+        "Peak Position": 61,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 62,
+      "title": "When The Last Time",
+      "artist": "Clipse",
+      "position": {
+        "Last Week": "77",
+        "Peak Position": 62,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 63,
+      "title": "Keep Lovin' You",
+      "artist": "Dave Hollister",
+      "position": {
+        "Last Week": "58",
+        "Peak Position": 47,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 64,
+      "title": "Can U Help Me",
+      "artist": "Usher",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 57,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 65,
+      "title": "Relax Your Mind",
+      "artist": "Boyz II Men Featuring Faith Evans",
+      "position": {
+        "Last Week": "70",
+        "Peak Position": 65,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 66,
+      "title": "Oh Yeah!",
+      "artist": "Big Tymers Featuring Tateeze, Boo & Gotti",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 66,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 67,
+      "title": "Are We Cuttin'",
+      "artist": "Pastor Troy Featuring Ms. Jade",
+      "position": {
+        "Last Week": "73",
+        "Peak Position": 67,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 68,
+      "title": "Ching, Ching",
+      "artist": "Ms. Jade Featuring Timbaland & Nelly Furtado",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 68,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 69,
+      "title": "Get Up & Get It",
+      "artist": "Bone Thugs-N-Harmony Featuring 3LW",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 69,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 70,
+      "title": "The Pledge",
+      "artist": "Irv Gotti Presents The Inc Featuring Ashanti & Caddillac Tah",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 70,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 71,
+      "title": "It's Obvious",
+      "artist": "Rell Featuring Jay-Z",
+      "position": {
+        "Last Week": "76",
+        "Peak Position": 71,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 72,
+      "title": "Sex, Money, & Music",
+      "artist": "Above The Law",
+      "position": {
+        "Last Week": "72",
+        "Peak Position": 72,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 73,
+      "title": "Guess Who's Back",
+      "artist": "Scarface Featuring Jay-Z & Beanie Sigel",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 28,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 74,
+      "title": "Rock It",
+      "artist": "Master P Featuring Weebie & Krazy",
+      "position": {
+        "Last Week": "74",
+        "Peak Position": 74,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 75,
+      "title": "We Ready",
+      "artist": "Archie Eversole Featuring Bubba Sparxxx",
+      "position": {
+        "Last Week": "75",
+        "Peak Position": 64,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 76,
+      "title": "Braid My Hair",
+      "artist": "Mario",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 76,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 77,
+      "title": "Most High",
+      "artist": "Jerzee Monet",
+      "position": {
+        "Last Week": "65",
+        "Peak Position": 54,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 78,
+      "title": "Whatchulookinat",
+      "artist": "Whitney Houston",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 78,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 79,
+      "title": "The Streets",
+      "artist": "WC Featuring Nate Dogg",
+      "position": {
+        "Last Week": "86",
+        "Peak Position": 79,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 80,
+      "title": "I'm Gonna Be Ready",
+      "artist": "Yolanda Adams",
+      "position": {
+        "Last Week": "80",
+        "Peak Position": 74,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 81,
+      "title": "Mother",
+      "artist": "Ray Charles",
+      "position": {
+        "Last Week": "81",
+        "Peak Position": 81,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 82,
+      "title": "Rep Yo City",
+      "artist": "E-40 Featuring Petey Pablo, Bun B, Eightball, Lil' Jon & The Eastside Boyz",
+      "position": {
+        "Last Week": "79",
+        "Peak Position": 73,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 83,
+      "title": "Who Wants This?",
+      "artist": "Smilez & Southstar",
+      "position": {
+        "Last Week": "78",
+        "Peak Position": 65,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 84,
+      "title": "How It's Gonna Be",
+      "artist": "LovHer",
+      "position": {
+        "Last Week": "83",
+        "Peak Position": 60,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 85,
+      "title": "I'm Back",
+      "artist": "AZ Featuring El Shaber",
+      "position": {
+        "Last Week": "84",
+        "Peak Position": 63,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 86,
+      "title": "Move On",
+      "artist": "4th Avenue Jones'",
+      "position": {
+        "Last Week": "91",
+        "Peak Position": 86,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 87,
+      "title": "I Don't Really Know",
+      "artist": "Brandy Moss-Scott",
+      "position": {
+        "Last Week": "90",
+        "Peak Position": 79,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 88,
+      "title": "Whoa Now",
+      "artist": "B Rich",
+      "position": {
+        "Last Week": "68",
+        "Peak Position": 53,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 89,
+      "title": "Business",
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "82",
+        "Peak Position": 77,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 90,
+      "title": "Trouble",
+      "artist": "DJ Quik Featuring AMG",
+      "position": {
+        "Last Week": "98",
+        "Peak Position": 55,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 91,
+      "title": "Rule",
+      "artist": "Nas Featuring Amerie",
+      "position": {
+        "Last Week": "88",
+        "Peak Position": 67,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 92,
+      "title": "BBQ",
+      "artist": "Lathun",
+      "position": {
+        "Last Week": "96",
+        "Peak Position": 92,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 93,
+      "title": "Automatic",
+      "artist": "E-40 Featuring Fabolous",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 72,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 94,
+      "title": "Song Cry",
+      "artist": "JAY-Z",
+      "position": {
+        "Last Week": "85",
+        "Peak Position": 45,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 95,
+      "title": "The Color Of Love",
+      "artist": "Boyz II Men",
+      "position": {
+        "Last Week": "99",
+        "Peak Position": 51,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 96,
+      "title": "Day + Night",
+      "artist": "Isyss Featuring Jadakiss",
+      "position": {
+        "Last Week": "97",
+        "Peak Position": 52,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 97,
+      "title": "Young & Sexy",
+      "artist": "Lyric Featuring Loon",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 97,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 98,
+      "title": "Money Owners",
+      "artist": "Shade Sheist Featuring Timbaland",
+      "position": {
+        "Last Week": "89",
+        "Peak Position": 81,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 99,
+      "title": "No Panties",
+      "artist": "Trina Featuring Tweet",
+      "position": {
+        "Last Week": "100",
+        "Peak Position": 88,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 100,
+      "title": "On My Momma!",
+      "artist": "True Enuff Featuring Swing & Big Huss",
+      "position": {
+        "Last Week": "87",
+        "Peak Position": 87,
+        "Wks on Chart": 6
       }
     }
   ]

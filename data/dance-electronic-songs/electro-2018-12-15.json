@@ -7,6 +7,7 @@
       "title": "Happier",
       "artist": "Marshmello & Bastille",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 16
       }
@@ -154,7 +155,7 @@
     {
       "rank": 16,
       "title": "I Found You",
-      "artist": "Benny Blanco & Calvin Harris",
+      "artist": "benny blanco & Calvin Harris",
       "position": {
         "Last Week": "13",
         "Peak Position": 13,
@@ -224,7 +225,12 @@
     {
       "rank": 23,
       "title": "Feeling Of Falling",
-      "artist": "Cheat Codes x Kim Petras"
+      "artist": "Cheat Codes x Kim Petras",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
@@ -269,7 +275,12 @@
     {
       "rank": 28,
       "title": "Mama",
-      "artist": "Clean Bandit Featuring Ellie Goulding"
+      "artist": "Clean Bandit Featuring Ellie Goulding",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 28,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 29,
@@ -324,12 +335,22 @@
     {
       "rank": 34,
       "title": "Play",
-      "artist": "Jax Jones And Years & Years"
+      "artist": "Jax Jones And Years & Years",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 34,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 35,
       "title": "Bye Bye",
-      "artist": "Gryffin Featuring Ivy Adara"
+      "artist": "Gryffin Featuring Ivy Adara",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
@@ -344,12 +365,17 @@
     {
       "rank": 37,
       "title": "Different World",
-      "artist": "Alan Walker, K-391 & Sofia Carson Featuring CORSAK"
+      "artist": "Alan Walker, K-391 & Sofia Carson Featuring CORSAK",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
       "title": "Just Got Paid",
-      "artist": "Sigala, Meghan Trainor, Ella Eyre & French Montana",
+      "artist": "Sigala., Meghan Trainor, Ella Eyre & French Montana",
       "position": {
         "Last Week": "40",
         "Peak Position": 24,
@@ -429,7 +455,12 @@
     {
       "rank": 46,
       "title": "Love Sensation",
-      "artist": "SuSu Bobien"
+      "artist": "SuSu Bobien",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
@@ -464,7 +495,7 @@
     {
       "rank": 50,
       "title": "Take You Down",
-      "artist": "Illenium",
+      "artist": "ILLENIUM",
       "position": {
         "Last Week": "49",
         "Peak Position": 23,

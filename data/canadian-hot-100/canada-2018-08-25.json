@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 7
       }
@@ -234,7 +235,7 @@
     {
       "rank": 24,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "26",
         "Peak Position": 24,
@@ -424,12 +425,22 @@
     {
       "rank": 43,
       "title": "Barbie Dreams",
-      "artist": "Nicki Minaj"
+      "artist": "Nicki Minaj",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 44,
       "title": "Majesty",
-      "artist": "Nicki Minaj Featuring Eminem & Labrinth"
+      "artist": "Nicki Minaj Featuring Eminem & Labrinth",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 45,
@@ -454,7 +465,12 @@
     {
       "rank": 47,
       "title": "Ganja Burns",
-      "artist": "Nicki Minaj"
+      "artist": "Nicki Minaj",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,
@@ -469,7 +485,12 @@
     {
       "rank": 49,
       "title": "Taking A Walk",
-      "artist": "Trippie Redd"
+      "artist": "Trippie Redd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,
@@ -664,7 +685,12 @@
     {
       "rank": 69,
       "title": "Thought I Knew You",
-      "artist": "Nicki Minaj Featuring The Weeknd"
+      "artist": "Nicki Minaj Featuring The Weeknd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 69,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 70,
@@ -758,8 +784,13 @@
     },
     {
       "rank": 79,
-      "title": "W O R K I N  M E",
-      "artist": "Quavo"
+      "title": "W O R K I N M E",
+      "artist": "Quavo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 79,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 80,
@@ -804,7 +835,12 @@
     {
       "rank": 84,
       "title": "Album Of The Year (Freestyle)",
-      "artist": "J. Cole"
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 84,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 85,

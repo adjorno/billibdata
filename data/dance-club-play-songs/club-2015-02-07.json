@@ -18,7 +18,7 @@
       "artist": "Beyonce",
       "position": {
         "Last Week": "3",
-        "Peak Position": 1,
+        "Peak Position": 2,
         "Wks on Chart": 6
       }
     },
@@ -38,7 +38,7 @@
       "artist": "Betty Who",
       "position": {
         "Last Week": "4",
-        "Peak Position": 1,
+        "Peak Position": 4,
         "Wks on Chart": 9
       }
     },
@@ -58,7 +58,7 @@
       "artist": "Mary J. Blige",
       "position": {
         "Last Week": "9",
-        "Peak Position": 1,
+        "Peak Position": 6,
         "Wks on Chart": 7
       }
     },
@@ -68,7 +68,7 @@
       "artist": "Iggy Azalea Featuring M0",
       "position": {
         "Last Week": "10",
-        "Peak Position": 3,
+        "Peak Position": 7,
         "Wks on Chart": 7
       }
     },
@@ -108,7 +108,7 @@
       "artist": "Madonna",
       "position": {
         "Last Week": "18",
-        "Peak Position": 1,
+        "Peak Position": 11,
         "Wks on Chart": 3
       }
     },
@@ -138,7 +138,7 @@
       "artist": "Wolfgang Gartner Featuring Bobby Saint",
       "position": {
         "Last Week": "19",
-        "Peak Position": 7,
+        "Peak Position": 14,
         "Wks on Chart": 5
       }
     },
@@ -148,7 +148,7 @@
       "artist": "Axwell & Ingrosso",
       "position": {
         "Last Week": "22",
-        "Peak Position": 1,
+        "Peak Position": 15,
         "Wks on Chart": 4
       }
     },
@@ -188,7 +188,7 @@
       "artist": "The Ting Tings",
       "position": {
         "Last Week": "27",
-        "Peak Position": 2,
+        "Peak Position": 19,
         "Wks on Chart": 3
       }
     },
@@ -218,7 +218,7 @@
       "artist": "Pitbull & Ne-Yo",
       "position": {
         "Last Week": "40",
-        "Peak Position": 1,
+        "Peak Position": 22,
         "Wks on Chart": 3
       }
     },
@@ -228,7 +228,7 @@
       "artist": "Ariana Grande & The Weeknd",
       "position": {
         "Last Week": "24",
-        "Peak Position": 20,
+        "Peak Position": 23,
         "Wks on Chart": 6
       }
     },
@@ -238,7 +238,7 @@
       "artist": "Bea Miller",
       "position": {
         "Last Week": "30",
-        "Peak Position": 4,
+        "Peak Position": 24,
         "Wks on Chart": 3
       }
     },
@@ -278,7 +278,7 @@
       "artist": "Taylor Swift",
       "position": {
         "Last Week": "26",
-        "Peak Position": 23,
+        "Peak Position": 26,
         "Wks on Chart": 6
       }
     },
@@ -288,7 +288,7 @@
       "artist": "Jenevieve X",
       "position": {
         "Last Week": "33",
-        "Peak Position": 9,
+        "Peak Position": 29,
         "Wks on Chart": 3
       }
     },
@@ -308,7 +308,7 @@
       "artist": "Breanna Rubio Featuring Fat Joe",
       "position": {
         "Last Week": "38",
-        "Peak Position": 22,
+        "Peak Position": 31,
         "Wks on Chart": 3
       }
     },
@@ -328,7 +328,7 @@
       "artist": "Sariah",
       "position": {
         "Last Week": "39",
-        "Peak Position": 23,
+        "Peak Position": 33,
         "Wks on Chart": 3
       }
     },
@@ -338,7 +338,7 @@
       "artist": "Aneesh Gera & Lisa Williams",
       "position": {
         "Last Week": "43",
-        "Peak Position": 24,
+        "Peak Position": 34,
         "Wks on Chart": 3
       }
     },
@@ -348,7 +348,7 @@
       "artist": "Calvin Harris Featuring Ellie Goulding",
       "position": {
         "Last Week": "48",
-        "Peak Position": 5,
+        "Peak Position": 35,
         "Wks on Chart": 2
       }
     },
@@ -358,7 +358,7 @@
       "artist": "Natalia Safran",
       "position": {
         "Last Week": "45",
-        "Peak Position": 18,
+        "Peak Position": 36,
         "Wks on Chart": 3
       }
     },
@@ -378,7 +378,7 @@
       "artist": "Naughty Boy Featuring Sam Romans",
       "position": {
         "Last Week": "50",
-        "Peak Position": 28,
+        "Peak Position": 38,
         "Wks on Chart": 2
       }
     },
@@ -388,17 +388,17 @@
       "artist": "Selena Gomez",
       "position": {
         "Last Week": "49",
-        "Peak Position": 35,
+        "Peak Position": 39,
         "Wks on Chart": 2
       }
     },
     {
       "rank": 40,
       "title": "Take U There",
-      "artist": "Jack U Featuring Kiesza",
+      "artist": "Skrillex & Diplo Featuring Kiesza",
       "position": {
         "Last Week": "44",
-        "Peak Position": 37,
+        "Peak Position": 40,
         "Wks on Chart": 4
       }
     },
@@ -448,7 +448,7 @@
       "artist": "Marlon Roudette",
       "position": {
         "Last Week": "51",
-        "Peak Position": 17,
+        "Peak Position": 45,
         "Wks on Chart": 1
       }
     },
@@ -458,7 +458,7 @@
       "artist": "Gwen Stefani",
       "position": {
         "Last Week": "52",
-        "Peak Position": 29,
+        "Peak Position": 46,
         "Wks on Chart": 1
       }
     },
@@ -497,9 +497,54 @@
       "title": "Back To You",
       "artist": "Natasha Ashworth",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 24,
+        "Last Week": "-",
+        "Peak Position": 50,
         "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 51,
+      "title": "I'm Gonna Get You",
+      "artist": "Dave Aude Featuring Jessica Sutta",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Spell",
+      "artist": "Noelia Featuring Timbaland",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52
+      }
+    },
+    {
+      "rank": 53,
+      "title": "The Nights",
+      "artist": "Avicii",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Don't",
+      "artist": "Ed Sheeran",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Baby Don't Lie",
+      "artist": "Gwen Stefani",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55
       }
     }
   ]

@@ -7,13 +7,14 @@
       "title": "Speechless",
       "artist": "Dan + Shay",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 29
       }
     },
     {
       "rank": 2,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "3",
@@ -434,7 +435,12 @@
     {
       "rank": 44,
       "title": "Tomorrow",
-      "artist": "Kirk Jay"
+      "artist": "Kirk Jay",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 45,
@@ -469,7 +475,12 @@
     {
       "rank": 48,
       "title": "Stronger Than Me",
-      "artist": "Garth Brooks"
+      "artist": "Garth Brooks",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,

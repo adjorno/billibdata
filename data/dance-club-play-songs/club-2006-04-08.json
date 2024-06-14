@@ -18,7 +18,7 @@
       "artist": "Yello",
       "position": {
         "Last Week": "3",
-        "Peak Position": 1,
+        "Peak Position": 2,
         "Wks on Chart": 8
       }
     },
@@ -28,7 +28,7 @@
       "artist": "Goldfrapp",
       "position": {
         "Last Week": "8",
-        "Peak Position": 1,
+        "Peak Position": 3,
         "Wks on Chart": 5
       }
     },
@@ -38,13 +38,13 @@
       "artist": "Carl Cox Featuring Hannah Robinson",
       "position": {
         "Last Week": "7",
-        "Peak Position": 1,
+        "Peak Position": 4,
         "Wks on Chart": 6
       }
     },
     {
       "rank": 5,
-      "title": "Hello",
+      "title": "Hello?",
       "artist": "Alex Santer",
       "position": {
         "Last Week": "6",
@@ -64,7 +64,7 @@
     },
     {
       "rank": 7,
-      "title": "Talk (Junkie XL/Francois K/J. Lu Cont Mixes)",
+      "title": "Talk",
       "artist": "Coldplay",
       "position": {
         "Last Week": "1",
@@ -78,7 +78,7 @@
       "artist": "Bette Midler",
       "position": {
         "Last Week": "10",
-        "Peak Position": 4,
+        "Peak Position": 8,
         "Wks on Chart": 5
       }
     },
@@ -88,7 +88,7 @@
       "artist": "Kim English",
       "position": {
         "Last Week": "11",
-        "Peak Position": 1,
+        "Peak Position": 9,
         "Wks on Chart": 5
       }
     },
@@ -98,7 +98,7 @@
       "artist": "Saint Etienne",
       "position": {
         "Last Week": "13",
-        "Peak Position": 6,
+        "Peak Position": 10,
         "Wks on Chart": 7
       }
     },
@@ -118,7 +118,7 @@
       "artist": "Amuka",
       "position": {
         "Last Week": "16",
-        "Peak Position": 1,
+        "Peak Position": 12,
         "Wks on Chart": 4
       }
     },
@@ -148,7 +148,7 @@
       "artist": "Jenna Drey",
       "position": {
         "Last Week": "17",
-        "Peak Position": 10,
+        "Peak Position": 15,
         "Wks on Chart": 6
       }
     },
@@ -158,7 +158,7 @@
       "artist": "Jessica Vale",
       "position": {
         "Last Week": "18",
-        "Peak Position": 15,
+        "Peak Position": 16,
         "Wks on Chart": 7
       }
     },
@@ -178,7 +178,7 @@
       "artist": "Vernessa Mitchell",
       "position": {
         "Last Week": "20",
-        "Peak Position": 5,
+        "Peak Position": 18,
         "Wks on Chart": 4
       }
     },
@@ -208,7 +208,7 @@
       "artist": "Rihanna",
       "position": {
         "Last Week": "32",
-        "Peak Position": 1,
+        "Peak Position": 21,
         "Wks on Chart": 3
       }
     },
@@ -218,7 +218,7 @@
       "artist": "Gustavo Santaolalla",
       "position": {
         "Last Week": "31",
-        "Peak Position": 3,
+        "Peak Position": 22,
         "Wks on Chart": 3
       }
     },
@@ -228,7 +228,7 @@
       "artist": "iio",
       "position": {
         "Last Week": "36",
-        "Peak Position": 3,
+        "Peak Position": 23,
         "Wks on Chart": 2
       }
     },
@@ -238,7 +238,7 @@
       "artist": "Blondie Vs. The Doors",
       "position": {
         "Last Week": "27",
-        "Peak Position": 10,
+        "Peak Position": 24,
         "Wks on Chart": 4
       }
     },
@@ -258,7 +258,7 @@
       "artist": "Danielle Bollinger",
       "position": {
         "Last Week": "28",
-        "Peak Position": 5,
+        "Peak Position": 26,
         "Wks on Chart": 5
       }
     },
@@ -298,7 +298,7 @@
       "artist": "Kelly Clarkson",
       "position": {
         "Last Week": "38",
-        "Peak Position": 5,
+        "Peak Position": 30,
         "Wks on Chart": 2
       }
     },
@@ -314,11 +314,11 @@
     },
     {
       "rank": 32,
-      "title": "So Special",
+      "title": "So Special (Strobe/Euphoria/MW Project Mixes)",
       "artist": "Judge Jules",
       "position": {
         "Last Week": "37",
-        "Peak Position": 28,
+        "Peak Position": 32,
         "Wks on Chart": 3
       }
     },
@@ -338,7 +338,7 @@
       "artist": "LL Cool J Featuring Jennifer Lopez",
       "position": {
         "Last Week": "40",
-        "Peak Position": 14,
+        "Peak Position": 34,
         "Wks on Chart": 2
       }
     },
@@ -358,7 +358,7 @@
       "artist": "Deep Dish Featuring Stevie Nicks",
       "position": {
         "Last Week": "42",
-        "Peak Position": 26,
+        "Peak Position": 36,
         "Wks on Chart": 4
       }
     },
@@ -387,8 +387,8 @@
       "title": "Never Ending",
       "artist": "Ronnie Ventura Featuring Latrice Verrett",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 25,
+        "Last Week": "-",
+        "Peak Position": 39,
         "Wks on Chart": 1
       }
     },
@@ -437,18 +437,18 @@
       "title": "You Know How To Love Me",
       "artist": "Lori Jenaire",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 19,
+        "Last Week": "-",
+        "Peak Position": 44,
         "Wks on Chart": 1
       }
     },
     {
       "rank": 45,
-      "title": "Cha Cha",
+      "title": "Cha Cha (L.E.X./D. Aude Mixes)",
       "artist": "Chelo",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 36,
+        "Last Week": "-",
+        "Peak Position": 45,
         "Wks on Chart": 1
       }
     },
@@ -500,6 +500,51 @@
         "Last Week": "45",
         "Peak Position": 37,
         "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Suffer Well",
+      "artist": "Depeche Mode",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Shake Me",
+      "artist": "Austin Leeds & Terranova",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Say Somethin' (D. Morales Mixes)",
+      "artist": "Mariah Carey Featuring Snoop Dogg",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Fire",
+      "artist": "Ferry Corsten",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Everytime We Touch",
+      "artist": "Cascada",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55
       }
     }
   ]

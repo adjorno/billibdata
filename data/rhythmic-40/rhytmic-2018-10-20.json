@@ -275,7 +275,7 @@
     {
       "rank": 28,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "28",
         "Peak Position": 28,
@@ -335,7 +335,12 @@
     {
       "rank": 34,
       "title": "Better",
-      "artist": "Khalid"
+      "artist": "Khalid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 34,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 35,
@@ -350,7 +355,12 @@
     {
       "rank": 36,
       "title": "No Stylist",
-      "artist": "French Montana Featuring Drake"
+      "artist": "French Montana Featuring Drake",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -375,12 +385,22 @@
     {
       "rank": 39,
       "title": "Lil Bebe",
-      "artist": "DaniLeigh"
+      "artist": "DaniLeigh",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "Dip",
-      "artist": "Tyga & Nicki Minaj"
+      "artist": "Tyga & Nicki Minaj",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

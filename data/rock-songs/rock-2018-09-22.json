@@ -7,6 +7,7 @@
       "title": "Natural",
       "artist": "Imagine Dragons",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 9
       }
@@ -114,7 +115,7 @@
     {
       "rank": 12,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "9",
         "Peak Position": 9,
@@ -124,12 +125,17 @@
     {
       "rank": 13,
       "title": "Nina Cried Power",
-      "artist": "Hozier Featuring Mavis Staples"
+      "artist": "Hozier Featuring Mavis Staples",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 14,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "13",
         "Peak Position": 6,
@@ -219,7 +225,7 @@
     {
       "rank": 23,
       "title": "Nico And The Niners",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "17",
         "Peak Position": 7,
@@ -229,7 +235,12 @@
     {
       "rank": 24,
       "title": "She's A Rainbow",
-      "artist": "The Rolling Stones"
+      "artist": "The Rolling Stones",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
@@ -264,7 +275,7 @@
     {
       "rank": 28,
       "title": "Blue On Black",
-      "artist": "Five Finger Death Punch",
+      "artist": "Five Finger Death Punch Featuring Kenny Wayne Shepherd, Brantley Gilbert & Brian May",
       "position": {
         "Last Week": "22",
         "Peak Position": 18,
@@ -284,7 +295,12 @@
     {
       "rank": 30,
       "title": "Shrike",
-      "artist": "Hozier"
+      "artist": "Hozier",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,
@@ -319,7 +335,12 @@
     {
       "rank": 34,
       "title": "NFWMB",
-      "artist": "Hozier"
+      "artist": "Hozier",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 34,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 35,
@@ -344,12 +365,22 @@
     {
       "rank": 37,
       "title": "Fuh You",
-      "artist": "Paul McCartney"
+      "artist": "Paul McCartney",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
       "title": "Moment's Silence (Common Tongue)",
-      "artist": "Hozier"
+      "artist": "Hozier",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
@@ -374,7 +405,12 @@
     {
       "rank": 41,
       "title": "Watching Over",
-      "artist": "Greta Van Fleet"
+      "artist": "Greta Van Fleet",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 42,
@@ -429,7 +465,7 @@
     {
       "rank": 47,
       "title": "Levitate",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "35",
         "Peak Position": 14,

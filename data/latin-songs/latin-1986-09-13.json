@@ -5,7 +5,12 @@
     {
       "rank": 1,
       "title": "Yo no se que me paso",
-      "artist": "Juan Gabriel"
+      "artist": "Juan Gabriel",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 1,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

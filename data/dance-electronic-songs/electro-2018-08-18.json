@@ -7,6 +7,7 @@
       "title": "The Middle",
       "artist": "Zedd, Maren Morris & Grey",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 29
       }
@@ -174,7 +175,12 @@
     {
       "rank": 18,
       "title": "Missing U",
-      "artist": "Robyn"
+      "artist": "Robyn",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 19,
@@ -199,7 +205,12 @@
     {
       "rank": 21,
       "title": "Tie Me Down",
-      "artist": "Gryffin With Elley Duhe"
+      "artist": "Gryffin With Elley Duhe",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,
@@ -214,7 +225,12 @@
     {
       "rank": 23,
       "title": "Take You Down",
-      "artist": "Illenium"
+      "artist": "ILLENIUM",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
@@ -369,7 +385,12 @@
     {
       "rank": 39,
       "title": "Loud",
-      "artist": "Silk City, GoldLink & Desiigner"
+      "artist": "Silk City, GoldLink & Desiigner",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
@@ -394,7 +415,12 @@
     {
       "rank": 42,
       "title": "Lift Me From The Ground",
-      "artist": "San Holo Featuring Sofie Winterson"
+      "artist": "San Holo Featuring Sofie Winterson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 43,
@@ -469,7 +495,12 @@
     {
       "rank": 50,
       "title": "Just For A Moment",
-      "artist": "Gryffin Featuring Iselin"
+      "artist": "Gryffin Featuring Iselin",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 7
       }
@@ -124,7 +125,12 @@
     {
       "rank": 13,
       "title": "Barbie Dreams",
-      "artist": "Nicki Minaj"
+      "artist": "Nicki Minaj",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 14,
@@ -209,7 +215,12 @@
     {
       "rank": 22,
       "title": "Taking A Walk",
-      "artist": "Trippie Redd"
+      "artist": "Trippie Redd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 23,
@@ -234,7 +245,12 @@
     {
       "rank": 25,
       "title": "Majesty",
-      "artist": "Nicki Minaj Featuring Eminem & Labrinth"
+      "artist": "Nicki Minaj Featuring Eminem & Labrinth",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 26,
@@ -249,7 +265,12 @@
     {
       "rank": 27,
       "title": "Ganja Burns",
-      "artist": "Nicki Minaj"
+      "artist": "Nicki Minaj",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 27,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 28,
@@ -313,8 +334,13 @@
     },
     {
       "rank": 34,
-      "title": "W O R K I N  M E",
-      "artist": "Quavo"
+      "title": "W O R K I N M E",
+      "artist": "Quavo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 34,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 35,
@@ -409,7 +435,12 @@
     {
       "rank": 44,
       "title": "Album Of The Year (Freestyle)",
-      "artist": "J. Cole"
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 45,
@@ -454,7 +485,12 @@
     {
       "rank": 49,
       "title": "Thought I Knew You",
-      "artist": "Nicki Minaj Featuring The Weeknd"
+      "artist": "Nicki Minaj Featuring The Weeknd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,

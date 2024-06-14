@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 6
       }
@@ -244,12 +245,22 @@
     {
       "rank": 25,
       "title": "Sicko Mode",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 26,
       "title": "Barbie Dreams",
-      "artist": "Nicki Minaj"
+      "artist": "Nicki Minaj",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 26,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 27,
@@ -344,12 +355,22 @@
     {
       "rank": 36,
       "title": "Womp Womp",
-      "artist": "Valee Featuring Jeremih"
+      "artist": "Valee Featuring Jeremih",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
       "title": "Bigger > You",
-      "artist": "2 Chainz, Drake & Quavo"
+      "artist": "2 Chainz, Drake & Quavo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
@@ -374,7 +395,12 @@
     {
       "rank": 40,
       "title": "God Is A Woman",
-      "artist": "Ariana Grande"
+      "artist": "Ariana Grande",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

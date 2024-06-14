@@ -125,7 +125,7 @@
     {
       "rank": 13,
       "title": "Flavor",
-      "artist": "Niiko x SWAE + Alicia Madison",
+      "artist": "NIIKO x SWAE + Alicia Madison",
       "position": {
         "Last Week": "20",
         "Peak Position": 13,
@@ -345,7 +345,7 @@
     {
       "rank": 35,
       "title": "Your Kiss",
-      "artist": "DJ Head Featuring Nikki Valentine ",
+      "artist": "DJ Head Featuring Nikki Valentine",
       "position": {
         "Last Week": "41",
         "Peak Position": 35,
@@ -365,7 +365,12 @@
     {
       "rank": 37,
       "title": "Made For Now",
-      "artist": "Janet & Daddy Yankee"
+      "artist": "Janet & Daddy Yankee",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
@@ -460,7 +465,12 @@
     {
       "rank": 47,
       "title": "Don't Go Breaking My Heart",
-      "artist": "Backstreet Boys"
+      "artist": "Backstreet Boys",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,
@@ -475,7 +485,12 @@
     {
       "rank": 49,
       "title": "Busted",
-      "artist": "Bowie Jane"
+      "artist": "Bowie Jane",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,
@@ -485,6 +500,51 @@
         "Last Week": "44",
         "Peak Position": 1,
         "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Promises",
+      "artist": "Calvin Harris & Sam Smith",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Summer Of Love",
+      "artist": "U2",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Low",
+      "artist": "Lenny Kravitz",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Dopamine Machine",
+      "artist": "Camelphat & Ali Love",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Lost In Translation",
+      "artist": "Youngr",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55
       }
     }
   ]

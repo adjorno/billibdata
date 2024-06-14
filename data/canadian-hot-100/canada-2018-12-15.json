@@ -7,6 +7,7 @@
       "title": "Thank U, Next",
       "artist": "Ariana Grande",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 5
       }
@@ -24,7 +25,12 @@
     {
       "rank": 3,
       "title": "Going Bad",
-      "artist": "Meek Mill Featuring Drake"
+      "artist": "Meek Mill Featuring Drake",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 3,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 4,
@@ -89,7 +95,7 @@
     {
       "rank": 10,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "10",
         "Peak Position": 6,
@@ -229,7 +235,12 @@
     {
       "rank": 24,
       "title": "Nothing Breaks Like A Heart",
-      "artist": "Mark Ronson Featuring Miley Cyrus"
+      "artist": "Mark Ronson Featuring Miley Cyrus",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
@@ -444,7 +455,12 @@
     {
       "rank": 46,
       "title": "Good Form",
-      "artist": "Nicki Minaj Featuring Lil Wayne"
+      "artist": "Nicki Minaj Featuring Lil Wayne",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
@@ -539,7 +555,12 @@
     {
       "rank": 56,
       "title": "Pure Cocaine",
-      "artist": "Lil Baby"
+      "artist": "Lil Baby",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 56,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 57,
@@ -564,7 +585,7 @@
     {
       "rank": 59,
       "title": "Saturday Nights",
-      "artist": "Khalid",
+      "artist": "Khalid & Kane Brown",
       "position": {
         "Last Week": "66",
         "Peak Position": 37,
@@ -634,7 +655,12 @@
     {
       "rank": 66,
       "title": "What's Free",
-      "artist": "Meek Mill Featuring Rick Ross & JAY-Z"
+      "artist": "Meek Mill Featuring Rick Ross & JAY-Z",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 66,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 67,
@@ -689,12 +715,22 @@
     {
       "rank": 72,
       "title": "Foot Fungus",
-      "artist": "Ski Mask The Slump God"
+      "artist": "Ski Mask The Slump God",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 72,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 73,
       "title": "Uptown Vibes",
-      "artist": "Meek Mill Featuring Fabolous & Anuel AA"
+      "artist": "Meek Mill Featuring Fabolous & Anuel AA",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 73,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 74,
@@ -708,7 +744,7 @@
     },
     {
       "rank": 75,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "69",
@@ -719,7 +755,12 @@
     {
       "rank": 76,
       "title": "KANGA",
-      "artist": "6ix9ine Featuring Kanye West"
+      "artist": "6ix9ine Featuring Kanye West",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 76,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 77,
@@ -874,7 +915,12 @@
     {
       "rank": 92,
       "title": "Nuketown",
-      "artist": "Ski Mask The Slump God Featuring Juice WRLD"
+      "artist": "Ski Mask The Slump God Featuring Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 92,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 93,
@@ -919,7 +965,12 @@
     {
       "rank": 97,
       "title": "On Me",
-      "artist": "Meek Mill Featuring Cardi B"
+      "artist": "Meek Mill Featuring Cardi B",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 97,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 98,
@@ -944,7 +995,12 @@
     {
       "rank": 100,
       "title": "FEEFA",
-      "artist": "6ix9ine Featuring Gunna"
+      "artist": "6ix9ine Featuring Gunna",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 100,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

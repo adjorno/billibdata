@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 9
       }
@@ -173,7 +174,7 @@
     },
     {
       "rank": 18,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "39",
@@ -234,7 +235,12 @@
     {
       "rank": 24,
       "title": "I Am Who They Say I Am",
-      "artist": "YoungBoy Never Broke Again Featuring Kevin Gates & Quando Rondo"
+      "artist": "YoungBoy Never Broke Again Featuring Kevin Gates & Quando Rondo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
@@ -319,7 +325,12 @@
     {
       "rank": 33,
       "title": "Mo Bamba",
-      "artist": "Sheck Wes"
+      "artist": "Sheck Wes",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 34,
@@ -434,7 +445,12 @@
     {
       "rank": 45,
       "title": "TTG",
-      "artist": "YoungBoy Never Broke Again Featuring Kevin Gates"
+      "artist": "YoungBoy Never Broke Again Featuring Kevin Gates",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,
@@ -459,7 +475,12 @@
     {
       "rank": 48,
       "title": "Tribe",
-      "artist": "Bas & J. Cole"
+      "artist": "Bas & J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,

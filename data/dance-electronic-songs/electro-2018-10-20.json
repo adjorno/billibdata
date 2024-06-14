@@ -7,6 +7,7 @@
       "title": "Happier",
       "artist": "Marshmello & Bastille",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 8
       }
@@ -194,7 +195,12 @@
     {
       "rank": 20,
       "title": "Polaroid",
-      "artist": "Jonas Blue, Liam Payne & Lennon Stella"
+      "artist": "Jonas Blue, Liam Payne & Lennon Stella",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 21,
@@ -309,7 +315,7 @@
     {
       "rank": 32,
       "title": "Take You Down",
-      "artist": "Illenium",
+      "artist": "ILLENIUM",
       "position": {
         "Last Week": "36",
         "Peak Position": 23,
@@ -319,7 +325,7 @@
     {
       "rank": 33,
       "title": "Just Got Paid",
-      "artist": "Sigala, Meghan Trainor, Ella Eyre & French Montana",
+      "artist": "Sigala., Meghan Trainor, Ella Eyre & French Montana",
       "position": {
         "Last Week": "34",
         "Peak Position": 24,
@@ -449,17 +455,27 @@
     {
       "rank": 46,
       "title": "(It Happens) Sometimes",
-      "artist": "Jack Back"
+      "artist": "Jack Back",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
       "title": "Infinity 2018",
-      "artist": "Sean Finn X Guru Josh"
+      "artist": "Sean Finn X Guru Josh",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,
       "title": "We Don't Care",
-      "artist": "Sigala & The Vamps",
+      "artist": "Sigala. & The Vamps",
       "position": {
         "Last Week": "43",
         "Peak Position": 27,

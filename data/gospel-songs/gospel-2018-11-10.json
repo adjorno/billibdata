@@ -7,6 +7,7 @@
       "title": "Won't He Do It",
       "artist": "Koryn Hawthorne",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 60
       }
@@ -224,12 +225,22 @@
     {
       "rank": 23,
       "title": "Everything Will Be Alright",
-      "artist": "Isaiah Templeton"
+      "artist": "Isaiah Templeton",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
       "title": "Victory",
-      "artist": "Fred Jerkins Featuring Last Call"
+      "artist": "Fred Jerkins Featuring Last Call",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,

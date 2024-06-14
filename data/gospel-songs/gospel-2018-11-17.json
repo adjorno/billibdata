@@ -7,6 +7,7 @@
       "title": "Won't He Do It",
       "artist": "Koryn Hawthorne",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 61
       }
@@ -194,7 +195,12 @@
     {
       "rank": 20,
       "title": "Settle Here",
-      "artist": "William Murphy"
+      "artist": "William Murphy",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 21,
@@ -219,12 +225,22 @@
     {
       "rank": 23,
       "title": "Open Your Mouth And Say Something",
-      "artist": "Brent Jones"
+      "artist": "Brent Jones",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
       "title": "You Know My Name (Live)",
-      "artist": "Tasha Cobbs Leonard"
+      "artist": "Tasha Cobbs Leonard",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,

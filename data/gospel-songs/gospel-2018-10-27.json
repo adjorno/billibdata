@@ -7,6 +7,7 @@
       "title": "Won't He Do It",
       "artist": "Koryn Hawthorne",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 58
       }
@@ -204,7 +205,12 @@
     {
       "rank": 21,
       "title": "Pour Your Oil",
-      "artist": "Joshua Rogers"
+      "artist": "Joshua Rogers",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,

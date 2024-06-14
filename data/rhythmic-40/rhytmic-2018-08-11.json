@@ -255,7 +255,12 @@
     {
       "rank": 26,
       "title": "Nonstop",
-      "artist": "Drake"
+      "artist": "Drake",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 26,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 27,
@@ -320,7 +325,12 @@
     {
       "rank": 33,
       "title": "All Mine",
-      "artist": "Kanye West"
+      "artist": "Kanye West",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 34,
@@ -345,7 +355,12 @@
     {
       "rank": 36,
       "title": "Dangerous",
-      "artist": "Meek Mill Featuring Jeremih & PnB Rock"
+      "artist": "Meek Mill Featuring Jeremih & PnB Rock",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -370,12 +385,22 @@
     {
       "rank": 39,
       "title": "Got Friends",
-      "artist": "GoldLink Featuring Miguel"
+      "artist": "GoldLink Featuring Miguel",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "Champion",
-      "artist": "NAV Featuring Travis Scott"
+      "artist": "NAV Featuring Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

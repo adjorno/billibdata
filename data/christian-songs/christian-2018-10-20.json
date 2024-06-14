@@ -7,6 +7,7 @@
       "title": "You Say",
       "artist": "Lauren Daigle",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 14
       }
@@ -284,7 +285,12 @@
     {
       "rank": 29,
       "title": "Fight On, Fighter",
-      "artist": "for KING & COUNTRY"
+      "artist": "for KING & COUNTRY",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 29,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 30,
@@ -319,7 +325,7 @@
     {
       "rank": 33,
       "title": "Forever On Your Side",
-      "artist": "NEEDTOBREATHE Featuring JOHNNYSWIM",
+      "artist": "NEEDTOBREATHE",
       "position": {
         "Last Week": "38",
         "Peak Position": 19,
@@ -369,7 +375,12 @@
     {
       "rank": 38,
       "title": "Changed",
-      "artist": "Jordan Feliz"
+      "artist": "Jordan Feliz",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
@@ -483,7 +494,7 @@
     },
     {
       "rank": 50,
-      "title": "Scars                         ",
+      "title": "Scars",
       "artist": "tobyMac",
       "position": {
         "Last Week": "35",

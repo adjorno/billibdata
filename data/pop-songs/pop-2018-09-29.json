@@ -7,6 +7,7 @@
       "title": "Love Lies",
       "artist": "Khalid & Normani",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 25
       }
@@ -184,7 +185,7 @@
     {
       "rank": 19,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "21",
         "Peak Position": 19,
@@ -354,7 +355,12 @@
     {
       "rank": 36,
       "title": "Thunderclouds",
-      "artist": "Labrinth, Sia & Diplo Present... LSD"
+      "artist": "Labrinth, Sia & Diplo Present... LSD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -369,17 +375,32 @@
     {
       "rank": 38,
       "title": "Only You",
-      "artist": "Cheat Codes & Little Mix"
+      "artist": "Cheat Codes & Little Mix",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
       "title": "Sicko Mode",
-      "artist": "Travis Scott"
+      "artist": "Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "Song About You",
-      "artist": "Mike Posner"
+      "artist": "Mike Posner",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

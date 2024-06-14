@@ -7,6 +7,7 @@
       "title": "Trip",
       "artist": "Ella Mai",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 14
       }
@@ -74,7 +75,12 @@
     {
       "rank": 8,
       "title": "Borrowed Love",
-      "artist": "Metro Boomin Featuring Swae Lee & WizKid"
+      "artist": "Metro Boomin Featuring Swae Lee & WizKid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 8,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 9,
@@ -89,7 +95,7 @@
     {
       "rank": 10,
       "title": "Girls Need Love",
-      "artist": "Summer Walker",
+      "artist": "Summer Walker X Drake",
       "position": {
         "Last Week": "11",
         "Peak Position": 10,
@@ -129,7 +135,7 @@
     {
       "rank": 14,
       "title": "Saturday Nights",
-      "artist": "Khalid",
+      "artist": "Khalid & Kane Brown",
       "position": {
         "Last Week": "10",
         "Peak Position": 4,
@@ -149,7 +155,12 @@
     {
       "rank": 16,
       "title": "Only You",
-      "artist": "Metro Boomin Featuring WizKid, Offset & J Balvin"
+      "artist": "Metro Boomin Featuring WizKid, Offset & J Balvin",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 16,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 17,
@@ -204,7 +215,12 @@
     {
       "rank": 22,
       "title": "Carried Away",
-      "artist": "H.E.R."
+      "artist": "H.E.R.",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 23,

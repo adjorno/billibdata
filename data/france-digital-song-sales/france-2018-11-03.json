@@ -7,6 +7,7 @@
       "title": "Shallow",
       "artist": "Lady Gaga & Bradley Cooper",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 4
       }
@@ -14,12 +15,22 @@
     {
       "rank": 2,
       "title": "J'En Parlerai Au Diable",
-      "artist": "Johnny Hallyday"
+      "artist": "Johnny Hallyday",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 2,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 3,
       "title": "Pardonne-moi",
-      "artist": "Johnny Hallyday"
+      "artist": "Johnny Hallyday",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 3,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 4,

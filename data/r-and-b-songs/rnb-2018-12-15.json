@@ -7,6 +7,7 @@
       "title": "Trip",
       "artist": "Ella Mai",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 18
       }
@@ -104,7 +105,7 @@
     {
       "rank": 11,
       "title": "Girls Need Love",
-      "artist": "Summer Walker",
+      "artist": "Summer Walker X Drake",
       "position": {
         "Last Week": "11",
         "Peak Position": 8,
@@ -144,7 +145,7 @@
     {
       "rank": 15,
       "title": "Saturday Nights",
-      "artist": "Khalid",
+      "artist": "Khalid & Kane Brown",
       "position": {
         "Last Week": "15",
         "Peak Position": 4,
@@ -204,7 +205,12 @@
     {
       "rank": 21,
       "title": "Ride Good",
-      "artist": "LightSkinKeisha & BSmyth"
+      "artist": "LightSkinKeisha & BSmyth",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,

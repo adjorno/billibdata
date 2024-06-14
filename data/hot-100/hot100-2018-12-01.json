@@ -7,6 +7,7 @@
       "title": "Thank U, Next",
       "artist": "Ariana Grande",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 3
       }
@@ -164,7 +165,7 @@
     {
       "rank": 17,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "21",
         "Peak Position": 17,
@@ -333,7 +334,7 @@
     },
     {
       "rank": 34,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "35",
@@ -804,7 +805,12 @@
     {
       "rank": 81,
       "title": "Take One",
-      "artist": "Kodak Black"
+      "artist": "Kodak Black",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 81,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 82,
@@ -848,7 +854,7 @@
     },
     {
       "rank": 86,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "82",
@@ -909,7 +915,12 @@
     {
       "rank": 92,
       "title": "Twerk",
-      "artist": "City Girls Featuring Cardi B"
+      "artist": "City Girls Featuring Cardi B",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 92,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 93,
@@ -954,22 +965,42 @@
     {
       "rank": 97,
       "title": "Ocean Eyes",
-      "artist": "Billie Eilish"
+      "artist": "Billie Eilish",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 97,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 98,
       "title": "Close To Me",
-      "artist": "Ellie Goulding X Diplo Featuring Swae Lee"
+      "artist": "Ellie Goulding X Diplo Featuring Swae Lee",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 98,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 99,
       "title": "Girl Like You",
-      "artist": "Jason Aldean"
+      "artist": "Jason Aldean",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 99,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 100,
       "title": "Burn The House Down",
-      "artist": "AJR"
+      "artist": "AJR",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 100,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

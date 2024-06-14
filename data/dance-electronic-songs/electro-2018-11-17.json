@@ -7,6 +7,7 @@
       "title": "Happier",
       "artist": "Marshmello & Bastille",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 12
       }
@@ -124,12 +125,22 @@
     {
       "rank": 13,
       "title": "Baby",
-      "artist": "Clean Bandit Featuring Marina And The Diamonds & Luis Fonsi"
+      "artist": "Clean Bandit Featuring Marina And The Diamonds & Luis Fonsi",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 14,
       "title": "I Found You",
-      "artist": "Benny Blanco & Calvin Harris"
+      "artist": "benny blanco & Calvin Harris",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 14,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 15,
@@ -294,7 +305,12 @@
     {
       "rank": 31,
       "title": "Dreamer",
-      "artist": "Martin Garrix Featuring Mike Yung"
+      "artist": "Martin Garrix Featuring Mike Yung",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
@@ -339,7 +355,12 @@
     {
       "rank": 36,
       "title": "So Close",
-      "artist": "NOTD & Felix Jaehn Featuring Georgia Ku & Captain Cuts"
+      "artist": "NOTD & Felix Jaehn Featuring Georgia Ku & Captain Cuts",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -354,7 +375,7 @@
     {
       "rank": 38,
       "title": "Just Got Paid",
-      "artist": "Sigala, Meghan Trainor, Ella Eyre & French Montana",
+      "artist": "Sigala., Meghan Trainor, Ella Eyre & French Montana",
       "position": {
         "Last Week": "46",
         "Peak Position": 24,
@@ -374,7 +395,7 @@
     {
       "rank": 40,
       "title": "Take You Down",
-      "artist": "Illenium",
+      "artist": "ILLENIUM",
       "position": {
         "Last Week": "48",
         "Peak Position": 23,
@@ -394,7 +415,12 @@
     {
       "rank": 42,
       "title": "Emoji",
-      "artist": "Galantis"
+      "artist": "Galantis",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 43,

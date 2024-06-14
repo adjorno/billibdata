@@ -7,6 +7,7 @@
       "title": "Happier",
       "artist": "Marshmello & Bastille",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 14
       }
@@ -94,7 +95,12 @@
     {
       "rank": 10,
       "title": "Beach House",
-      "artist": "The Chainsmokers"
+      "artist": "The Chainsmokers",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 11,
@@ -149,7 +155,7 @@
     {
       "rank": 16,
       "title": "I Found You",
-      "artist": "Benny Blanco & Calvin Harris",
+      "artist": "benny blanco & Calvin Harris",
       "position": {
         "Last Week": "14",
         "Peak Position": 14,
@@ -349,7 +355,12 @@
     {
       "rank": 36,
       "title": "Crab Rave",
-      "artist": "Noisestorm"
+      "artist": "Noisestorm",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
@@ -374,7 +385,7 @@
     {
       "rank": 39,
       "title": "Just Got Paid",
-      "artist": "Sigala, Meghan Trainor, Ella Eyre & French Montana",
+      "artist": "Sigala., Meghan Trainor, Ella Eyre & French Montana",
       "position": {
         "Last Week": "40",
         "Peak Position": 24,
@@ -434,7 +445,7 @@
     {
       "rank": 45,
       "title": "God Damnit",
-      "artist": "Illenium & Call Me Karizma",
+      "artist": "ILLENIUM & Call Me Karizma",
       "position": {
         "Last Week": "33",
         "Peak Position": 33,
@@ -444,7 +455,12 @@
     {
       "rank": 46,
       "title": "Drama Free",
-      "artist": "deadmau5 Featuring Lights"
+      "artist": "deadmau5 Featuring Lights",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
@@ -469,7 +485,7 @@
     {
       "rank": 49,
       "title": "Take You Down",
-      "artist": "Illenium",
+      "artist": "ILLENIUM",
       "position": {
         "Last Week": "42",
         "Peak Position": 23,
@@ -479,7 +495,12 @@
     {
       "rank": 50,
       "title": "UCLA",
-      "artist": "RL Grime Featuring 24hrs"
+      "artist": "RL Grime Featuring 24hrs",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

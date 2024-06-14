@@ -55,7 +55,12 @@
     {
       "rank": 6,
       "title": "In My Feelings",
-      "artist": "Drake"
+      "artist": "Drake",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 6,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 7,
@@ -90,7 +95,12 @@
     {
       "rank": 10,
       "title": "Ballin",
-      "artist": "Luciano"
+      "artist": "Luciano",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

@@ -7,6 +7,7 @@
       "title": "Natural",
       "artist": "Imagine Dragons",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 7
       }
@@ -94,7 +95,7 @@
     {
       "rank": 10,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "11",
         "Peak Position": 6,
@@ -124,7 +125,12 @@
     {
       "rank": 13,
       "title": "My Blood",
-      "artist": "twenty one pilots"
+      "artist": "Twenty One Pilots",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 14,
@@ -149,7 +155,7 @@
     {
       "rank": 16,
       "title": "Nico And The Niners",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "18",
         "Peak Position": 7,
@@ -169,7 +175,12 @@
     {
       "rank": 18,
       "title": "Lake Effect Kid",
-      "artist": "Fall Out Boy"
+      "artist": "Fall Out Boy",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 19,
@@ -204,7 +215,7 @@
     {
       "rank": 22,
       "title": "Blue On Black",
-      "artist": "Five Finger Death Punch",
+      "artist": "Five Finger Death Punch Featuring Kenny Wayne Shepherd, Brantley Gilbert & Brian May",
       "position": {
         "Last Week": "22",
         "Peak Position": 18,
@@ -234,7 +245,7 @@
     {
       "rank": 25,
       "title": "Levitate",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "19",
         "Peak Position": 14,
@@ -484,7 +495,12 @@
     {
       "rank": 50,
       "title": "City In A Garden",
-      "artist": "Fall Out Boy"
+      "artist": "Fall Out Boy",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

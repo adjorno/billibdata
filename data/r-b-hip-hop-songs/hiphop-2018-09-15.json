@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 10
       }
@@ -44,7 +45,12 @@
     {
       "rank": 5,
       "title": "Lucky You",
-      "artist": "Eminem Featuring Joyner Lucas"
+      "artist": "Eminem Featuring Joyner Lucas",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 5,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 6,
@@ -59,7 +65,12 @@
     {
       "rank": 7,
       "title": "The Ringer",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 8,
@@ -84,7 +95,12 @@
     {
       "rank": 10,
       "title": "Fall",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 11,
@@ -109,7 +125,12 @@
     {
       "rank": 13,
       "title": "Kamikaze",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 14,
@@ -134,12 +155,22 @@
     {
       "rank": 16,
       "title": "Greatest",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 16,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 17,
       "title": "Not Alike",
-      "artist": "Eminem Featuring Royce Da 5'9"
+      "artist": "Eminem Featuring Royce Da 5'9",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 17,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 18,
@@ -174,17 +205,32 @@
     {
       "rank": 21,
       "title": "Normal",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,
       "title": "Stepping Stone",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 23,
       "title": "Venom",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
@@ -199,7 +245,12 @@
     {
       "rank": 25,
       "title": "Feels Like Summer",
-      "artist": "Childish Gambino"
+      "artist": "Childish Gambino",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 26,
@@ -243,7 +294,7 @@
     },
     {
       "rank": 30,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "18",
@@ -254,12 +305,22 @@
     {
       "rank": 31,
       "title": "Nice Guy",
-      "artist": "Eminem & Jessie Reyez"
+      "artist": "Eminem & Jessie Reyez",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
       "title": "Good Guy",
-      "artist": "Eminem Featuring Jessie Reyez"
+      "artist": "Eminem Featuring Jessie Reyez",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,

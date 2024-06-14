@@ -7,6 +7,7 @@
       "title": "Trip",
       "artist": "Ella Mai",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 11
       }
@@ -104,7 +105,12 @@
     {
       "rank": 11,
       "title": "Gut Feeling",
-      "artist": "Ella Mai Featuring H.E.R."
+      "artist": "Ella Mai Featuring H.E.R.",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 11,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 12,
@@ -129,12 +135,17 @@
     {
       "rank": 14,
       "title": "Everything",
-      "artist": "Ella Mai Featuring John Legend"
+      "artist": "Ella Mai Featuring John Legend",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 14,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 15,
       "title": "Girls Need Love",
-      "artist": "Summer Walker",
+      "artist": "Summer Walker X Drake",
       "position": {
         "Last Week": "13",
         "Peak Position": 13,
@@ -164,7 +175,12 @@
     {
       "rank": 18,
       "title": "Good Bad",
-      "artist": "Ella Mai"
+      "artist": "Ella Mai",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 19,
@@ -179,7 +195,12 @@
     {
       "rank": 20,
       "title": "Shot Clock",
-      "artist": "Ella Mai"
+      "artist": "Ella Mai",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 21,
@@ -194,12 +215,22 @@
     {
       "rank": 22,
       "title": "Stay At Home",
-      "artist": "Usher x Zaytoven Featuring Future"
+      "artist": "Usher x Zaytoven Featuring Future",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 23,
       "title": "Sauce",
-      "artist": "Ella Mai"
+      "artist": "Ella Mai",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,

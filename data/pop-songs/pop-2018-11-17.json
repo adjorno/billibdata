@@ -105,7 +105,7 @@
     {
       "rank": 11,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "10",
         "Peak Position": 10,
@@ -325,7 +325,12 @@
     {
       "rank": 33,
       "title": "Thank U, Next",
-      "artist": "Ariana Grande"
+      "artist": "Ariana Grande",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 34,
@@ -380,7 +385,7 @@
     {
       "rank": 39,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "40",
         "Peak Position": 39,
@@ -390,7 +395,12 @@
     {
       "rank": 40,
       "title": "Close To Me",
-      "artist": "Ellie Goulding X Diplo Featuring Swae Lee"
+      "artist": "Ellie Goulding X Diplo Featuring Swae Lee",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

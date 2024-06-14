@@ -7,6 +7,7 @@
       "title": "Meant To Be",
       "artist": "Bebe Rexha & Florida Georgia Line",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 46
       }
@@ -33,7 +34,7 @@
     },
     {
       "rank": 4,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "4",
@@ -304,7 +305,12 @@
     {
       "rank": 31,
       "title": "Neon Church",
-      "artist": "Tim McGraw"
+      "artist": "Tim McGraw",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
@@ -419,7 +425,12 @@
     {
       "rank": 43,
       "title": "Make It Sweet",
-      "artist": "Old Dominion"
+      "artist": "Old Dominion",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 44,

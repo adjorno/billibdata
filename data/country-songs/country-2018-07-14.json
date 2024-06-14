@@ -7,6 +7,7 @@
       "title": "Meant To Be",
       "artist": "Bebe Rexha & Florida Georgia Line",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 32
       }
@@ -404,7 +405,12 @@
     {
       "rank": 41,
       "title": "Take Me Home, Country Roads",
-      "artist": "Copilot Music + Sound"
+      "artist": "Copilot Music + Sound",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 42,
@@ -459,11 +465,16 @@
     {
       "rank": 47,
       "title": "I Don't Know About You",
-      "artist": "Chris Lane"
+      "artist": "Chris Lane",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "48",

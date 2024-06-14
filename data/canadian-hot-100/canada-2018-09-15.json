@@ -7,6 +7,7 @@
       "title": "Girls Like You",
       "artist": "Maroon 5 Featuring Cardi B",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 14
       }
@@ -24,17 +25,32 @@
     {
       "rank": 3,
       "title": "Lucky You",
-      "artist": "Eminem Featuring Joyner Lucas"
+      "artist": "Eminem Featuring Joyner Lucas",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 3,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 4,
       "title": "Fall",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 4,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 5,
       "title": "The Ringer",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 5,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 6,
@@ -69,7 +85,12 @@
     {
       "rank": 9,
       "title": "Kamikaze",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 9,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 10,
@@ -134,12 +155,17 @@
     {
       "rank": 16,
       "title": "Greatest",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 16,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 17,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "15",
         "Peak Position": 15,
@@ -149,7 +175,12 @@
     {
       "rank": 18,
       "title": "Not Alike",
-      "artist": "Eminem Featuring Royce Da 5'9"
+      "artist": "Eminem Featuring Royce Da 5'9",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 19,
@@ -214,7 +245,12 @@
     {
       "rank": 25,
       "title": "BEBE",
-      "artist": "6ix9ine Featuring Anuel AA"
+      "artist": "6ix9ine Featuring Anuel AA",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 26,
@@ -229,7 +265,12 @@
     {
       "rank": 27,
       "title": "Normal",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 27,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 28,
@@ -254,7 +295,12 @@
     {
       "rank": 30,
       "title": "Stepping Stone",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,
@@ -329,7 +375,12 @@
     {
       "rank": 38,
       "title": "Venom",
-      "artist": "Eminem"
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
@@ -354,7 +405,12 @@
     {
       "rank": 41,
       "title": "Good Guy",
-      "artist": "Eminem Featuring Jessie Reyez"
+      "artist": "Eminem Featuring Jessie Reyez",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 42,
@@ -409,7 +465,12 @@
     {
       "rank": 47,
       "title": "Feels Like Summer",
-      "artist": "Childish Gambino"
+      "artist": "Childish Gambino",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,
@@ -464,7 +525,12 @@
     {
       "rank": 53,
       "title": "Nice Guy",
-      "artist": "Eminem & Jessie Reyez"
+      "artist": "Eminem & Jessie Reyez",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 54,
@@ -529,7 +595,12 @@
     {
       "rank": 60,
       "title": "Love No More",
-      "artist": "Loud Luxury x Anders"
+      "artist": "Loud Luxury x Anders",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 60,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 61,
@@ -553,7 +624,7 @@
     },
     {
       "rank": 63,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "48",
@@ -624,7 +695,12 @@
     {
       "rank": 70,
       "title": "Thunderclouds",
-      "artist": "Labrinth, Sia & Diplo Present... LSD"
+      "artist": "Labrinth, Sia & Diplo Present... LSD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 70,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 71,
@@ -708,7 +784,7 @@
     },
     {
       "rank": 79,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "88",
@@ -819,7 +895,12 @@
     {
       "rank": 90,
       "title": "Mo Bamba",
-      "artist": "Sheck Wes"
+      "artist": "Sheck Wes",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 90,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 91,
@@ -894,7 +975,12 @@
     {
       "rank": 98,
       "title": "Te Bote",
-      "artist": "Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny"
+      "artist": "Casper Magico, Nio Garcia, Darell, Nicky Jam, Ozuna & Bad Bunny",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 98,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 99,

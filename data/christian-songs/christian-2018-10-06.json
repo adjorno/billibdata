@@ -7,6 +7,7 @@
       "title": "You Say",
       "artist": "Lauren Daigle",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 12
       }
@@ -284,7 +285,12 @@
     {
       "rank": 29,
       "title": "Red Letters",
-      "artist": "Crowder"
+      "artist": "Crowder",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 29,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 30,
@@ -359,7 +365,7 @@
     {
       "rank": 37,
       "title": "Forever On Your Side",
-      "artist": "NEEDTOBREATHE Featuring JOHNNYSWIM",
+      "artist": "NEEDTOBREATHE",
       "position": {
         "Last Week": "39",
         "Peak Position": 19,
@@ -379,7 +385,12 @@
     {
       "rank": 39,
       "title": "Friends",
-      "artist": "Andy Mineo"
+      "artist": "Andy Mineo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
@@ -464,12 +475,22 @@
     {
       "rank": 48,
       "title": "...There",
-      "artist": "Andy Mineo"
+      "artist": "Andy Mineo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,
       "title": "None Of My Business",
-      "artist": "Andy Mineo"
+      "artist": "Andy Mineo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,

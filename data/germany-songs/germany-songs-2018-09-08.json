@@ -7,6 +7,7 @@
       "title": "In My Mind",
       "artist": "Dynoro & Gigi D'Agostino",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 9
       }
@@ -14,12 +15,17 @@
     {
       "rank": 2,
       "title": "Risiko",
-      "artist": "Bonez MC & Raf Camora"
+      "artist": "Bonez MC & RAF Camora",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 2,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 3,
       "title": "500 PS",
-      "artist": "Bonez MC & Raf Camora",
+      "artist": "Bonez MC & RAF Camora",
       "position": {
         "Last Week": "3",
         "Peak Position": 3,
@@ -49,7 +55,7 @@
     {
       "rank": 6,
       "title": "Dior 2001",
-      "artist": "Rin",
+      "artist": "RIN",
       "position": {
         "Last Week": "4",
         "Peak Position": 4,
@@ -89,7 +95,12 @@
     {
       "rank": 10,
       "title": "Vagabund",
-      "artist": "Bausa"
+      "artist": "Bausa",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

@@ -7,6 +7,7 @@
       "title": "Happier",
       "artist": "Marshmello & Bastille",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 12
       }
@@ -104,7 +105,7 @@
     {
       "rank": 11,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "11",
         "Peak Position": 10,
@@ -364,7 +365,7 @@
     {
       "rank": 37,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "39",
         "Peak Position": 37,
@@ -384,7 +385,12 @@
     {
       "rank": 39,
       "title": "Ruin My Life",
-      "artist": "Zara Larsson"
+      "artist": "Zara Larsson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,

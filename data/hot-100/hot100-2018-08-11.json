@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 5
       }
@@ -44,7 +45,12 @@
     {
       "rank": 5,
       "title": "No Brainer",
-      "artist": "DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo"
+      "artist": "DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 5,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 6,
@@ -429,7 +435,7 @@
     {
       "rank": 44,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "52",
         "Peak Position": 44,
@@ -789,7 +795,12 @@
     {
       "rank": 80,
       "title": "One Day",
-      "artist": "Logic Featuring Ryan Tedder"
+      "artist": "Logic Featuring Ryan Tedder",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 80,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 81,
@@ -854,7 +865,12 @@
     {
       "rank": 87,
       "title": "Side Effects",
-      "artist": "The Chainsmokers Featuring Emily Warren"
+      "artist": "The Chainsmokers Featuring Emily Warren",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 87,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 88,
@@ -899,7 +915,12 @@
     {
       "rank": 92,
       "title": "That's On Me",
-      "artist": "Yella Beezy"
+      "artist": "Yella Beezy",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 92,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 93,
@@ -964,12 +985,22 @@
     {
       "rank": 99,
       "title": "Handgun",
-      "artist": "YG Featuring A$AP Rocky"
+      "artist": "YG Featuring A$AP Rocky",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 99,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 100,
       "title": "Drunk Me",
-      "artist": "Mitchell Tenpenny"
+      "artist": "Mitchell Tenpenny",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 100,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

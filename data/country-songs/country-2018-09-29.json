@@ -7,6 +7,7 @@
       "title": "Meant To Be",
       "artist": "Bebe Rexha & Florida Georgia Line",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 43
       }
@@ -53,7 +54,7 @@
     },
     {
       "rank": 6,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "9",
@@ -314,7 +315,12 @@
     {
       "rank": 32,
       "title": "Here Tonight",
-      "artist": "Brett Young"
+      "artist": "Brett Young",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,
@@ -359,7 +365,12 @@
     {
       "rank": 37,
       "title": "Here I Am",
-      "artist": "Dolly Parton & Sia"
+      "artist": "Dolly Parton & Sia",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
@@ -474,7 +485,12 @@
     {
       "rank": 49,
       "title": "Drinking Alone",
-      "artist": "Carrie Underwood"
+      "artist": "Carrie Underwood",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,

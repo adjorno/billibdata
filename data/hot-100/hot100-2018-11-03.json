@@ -7,6 +7,7 @@
       "title": "Girls Like You",
       "artist": "Maroon 5 Featuring Cardi B",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 22
       }
@@ -84,7 +85,12 @@
     {
       "rank": 9,
       "title": "Sunflower (Spider-Man: Into The Spider-Verse)",
-      "artist": "Post Malone & Swae Lee"
+      "artist": "Post Malone & Swae Lee",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 9,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 10,
@@ -189,7 +195,7 @@
     {
       "rank": 20,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "22",
         "Peak Position": 20,
@@ -249,7 +255,12 @@
     {
       "rank": 26,
       "title": "Fine China",
-      "artist": "Future & Juice WRLD"
+      "artist": "Future & Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 26,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 27,
@@ -353,7 +364,7 @@
     },
     {
       "rank": 37,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "44",
@@ -524,7 +535,12 @@
     {
       "rank": 54,
       "title": "Money",
-      "artist": "Cardi B"
+      "artist": "Cardi B",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 55,
@@ -568,7 +584,7 @@
     },
     {
       "rank": 59,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "53",
@@ -629,7 +645,12 @@
     {
       "rank": 65,
       "title": "When The Party's Over",
-      "artist": "Billie Eilish"
+      "artist": "Billie Eilish",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 65,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 66,
@@ -694,7 +715,12 @@
     {
       "rank": 72,
       "title": "Jet Lag",
-      "artist": "Future & Juice WRLD Featuring Young Scooter"
+      "artist": "Future & Juice WRLD Featuring Young Scooter",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 72,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 73,
@@ -789,12 +815,22 @@
     {
       "rank": 82,
       "title": "Astronauts",
-      "artist": "Future & Juice WRLD"
+      "artist": "Future & Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 82,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 83,
       "title": "Saturday Nights",
-      "artist": "Khalid"
+      "artist": "Khalid & Kane Brown",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 83,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 84,
@@ -839,12 +875,22 @@
     {
       "rank": 88,
       "title": "Suncity",
-      "artist": "Khalid Featuring Empress Of"
+      "artist": "Khalid Featuring Empress Of",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 88,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 89,
       "title": "Vertigo",
-      "artist": "Khalid"
+      "artist": "Khalid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 89,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 90,
@@ -859,17 +905,32 @@
     {
       "rank": 91,
       "title": "Yacht Club",
-      "artist": "Lil Yachty Featuring Juice WRLD"
+      "artist": "Lil Yachty Featuring Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 91,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 92,
       "title": "Make It Back",
-      "artist": "Juice WRLD"
+      "artist": "Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 92,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 93,
       "title": "Kiss And Make Up",
-      "artist": "Dua Lipa & BLACKPINK"
+      "artist": "Dua Lipa & BLACKPINK",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 93,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 94,
@@ -914,7 +975,12 @@
     {
       "rank": 98,
       "title": "Get Dripped",
-      "artist": "Lil Yachty Featuring Playboi Carti"
+      "artist": "Lil Yachty Featuring Playboi Carti",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 98,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 99,
@@ -929,7 +995,12 @@
     {
       "rank": 100,
       "title": "Burning Man",
-      "artist": "Dierks Bentley Featuring Brothers Osborne"
+      "artist": "Dierks Bentley Featuring Brothers Osborne",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 100,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

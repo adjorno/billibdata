@@ -45,7 +45,7 @@
     {
       "rank": 5,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "7",
         "Peak Position": 5,
@@ -325,7 +325,12 @@
     {
       "rank": 33,
       "title": "Nothing Breaks Like A Heart",
-      "artist": "Mark Ronson Featuring Miley Cyrus"
+      "artist": "Mark Ronson Featuring Miley Cyrus",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 34,
@@ -350,7 +355,7 @@
     {
       "rank": 36,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "35",
         "Peak Position": 35,
@@ -380,12 +385,22 @@
     {
       "rank": 39,
       "title": "Sweet But Psycho",
-      "artist": "Ava Max"
+      "artist": "Ava Max",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "Wake Up In The Sky",
-      "artist": "Gucci Mane X Bruno Mars X Kodak Black"
+      "artist": "Gucci Mane X Bruno Mars X Kodak Black",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

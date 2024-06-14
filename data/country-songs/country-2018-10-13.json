@@ -7,6 +7,7 @@
       "title": "Meant To Be",
       "artist": "Bebe Rexha & Florida Georgia Line",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 45
       }
@@ -33,7 +34,7 @@
     },
     {
       "rank": 4,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "4",
@@ -304,7 +305,12 @@
     {
       "rank": 31,
       "title": "Back To Life",
-      "artist": "Rascal Flatts"
+      "artist": "Rascal Flatts",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
@@ -409,7 +415,12 @@
     {
       "rank": 42,
       "title": "Short Skirt Weather",
-      "artist": "Kane Brown"
+      "artist": "Kane Brown",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 43,

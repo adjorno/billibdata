@@ -28,7 +28,7 @@
       "artist": "Enrique Iglesias",
       "position": {
         "Last Week": "3",
-        "Peak Position": 1,
+        "Peak Position": 3,
         "Wks on Chart": 7
       }
     },
@@ -58,7 +58,7 @@
       "artist": "Shakira",
       "position": {
         "Last Week": "9",
-        "Peak Position": 1,
+        "Peak Position": 6,
         "Wks on Chart": 7
       }
     },
@@ -105,17 +105,17 @@
     {
       "rank": 11,
       "title": "La Chica Sexy",
-      "artist": "Los Tucanes De Tijuana",
+      "artist": "Los Tucanes de Tijuana",
       "position": {
         "Last Week": "16",
-        "Peak Position": 10,
+        "Peak Position": 11,
         "Wks on Chart": 14
       }
     },
     {
       "rank": 12,
       "title": "La Reina Del Sur",
-      "artist": "Los Tigres Del Norte",
+      "artist": "Los Tigres del Norte",
       "position": {
         "Last Week": "21",
         "Peak Position": 9,
@@ -138,7 +138,7 @@
       "artist": "Limite",
       "position": {
         "Last Week": "15",
-        "Peak Position": 6,
+        "Peak Position": 14,
         "Wks on Chart": 8
       }
     },
@@ -198,7 +198,7 @@
       "artist": "India",
       "position": {
         "Last Week": "37",
-        "Peak Position": 1,
+        "Peak Position": 20,
         "Wks on Chart": 6
       }
     },
@@ -218,17 +218,17 @@
       "artist": "Olga Tanon",
       "position": {
         "Last Week": "18",
-        "Peak Position": 1,
+        "Peak Position": 18,
         "Wks on Chart": 6
       }
     },
     {
       "rank": 23,
       "title": "Corazon Chiquito",
-      "artist": "Adolfo Urias Y Su Lobo Norteno",
+      "artist": "Adolfo Urias y Su Lobo Norteno",
       "position": {
         "Last Week": "31",
-        "Peak Position": 19,
+        "Peak Position": 23,
         "Wks on Chart": 10
       }
     },
@@ -258,7 +258,7 @@
       "artist": "Palomo",
       "position": {
         "Last Week": "25",
-        "Peak Position": 4,
+        "Peak Position": 23,
         "Wks on Chart": 5
       }
     },
@@ -278,7 +278,7 @@
       "artist": "Alejandro Montaner",
       "position": {
         "Last Week": "38",
-        "Peak Position": 18,
+        "Peak Position": 28,
         "Wks on Chart": 3
       }
     },
@@ -318,7 +318,7 @@
       "artist": "Joan Sebastian",
       "position": {
         "Last Week": "24",
-        "Peak Position": 21,
+        "Peak Position": 24,
         "Wks on Chart": 3
       }
     },
@@ -335,7 +335,7 @@
     {
       "rank": 34,
       "title": "Las Vias Del Amor",
-      "artist": "Banda El Recodo",
+      "artist": "Banda El Recodo de Cruz Lizarraga",
       "position": {
         "Last Week": "28",
         "Peak Position": 23,
@@ -348,14 +348,14 @@
       "artist": "Banda Machos",
       "position": {
         "Last Week": "40",
-        "Peak Position": 23,
+        "Peak Position": 35,
         "Wks on Chart": 4
       }
     },
     {
       "rank": 36,
       "title": "Capricho Maldito",
-      "artist": "Los Rieleros Del Norte",
+      "artist": "Los Rieleros del Norte",
       "position": {
         "Last Week": "36",
         "Peak Position": 23,
@@ -369,7 +369,7 @@
       "position": {
         "Last Week": "32",
         "Peak Position": 9,
-        "Wks on Chart": 12
+        "Wks on Chart": 11
       }
     },
     {
@@ -378,7 +378,7 @@
       "artist": "Marco Antonio Solis",
       "position": {
         "Last Week": "27",
-        "Peak Position": 22,
+        "Peak Position": 25,
         "Wks on Chart": 11
       }
     },
@@ -388,7 +388,7 @@
       "artist": "Nico Flores Y Su Banda Puro Mazatlan",
       "position": {
         "Last Week": "34",
-        "Peak Position": 32,
+        "Peak Position": 34,
         "Wks on Chart": 3
       }
     },
@@ -398,7 +398,7 @@
       "artist": "Bacilos",
       "position": {
         "Last Week": "47",
-        "Peak Position": 18,
+        "Peak Position": 40,
         "Wks on Chart": 2
       }
     },
@@ -425,10 +425,10 @@
     {
       "rank": 43,
       "title": "Tu Forma De Ser",
-      "artist": "Alberto Y Roberto",
+      "artist": "Alberto y Roberto",
       "position": {
         "Last Week": "41",
-        "Peak Position": 27,
+        "Peak Position": 26,
         "Wks on Chart": 26
       }
     },
@@ -438,14 +438,14 @@
       "artist": "Gilberto Santa Rosa",
       "position": {
         "Last Week": "42",
-        "Peak Position": 18,
+        "Peak Position": 42,
         "Wks on Chart": 2
       }
     },
     {
       "rank": 45,
       "title": "Eres Imposible De Olvidar",
-      "artist": "Cuisillos De Arturo Macias",
+      "artist": "Cuisillos",
       "position": {
         "Last Week": "48",
         "Peak Position": 45,
@@ -455,10 +455,10 @@
     {
       "rank": 46,
       "title": "Arranca En Fa!",
-      "artist": "Limi-t 21",
+      "artist": "Limi-T 21",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 41,
+        "Last Week": "-",
+        "Peak Position": 46,
         "Wks on Chart": 2
       }
     },
@@ -495,9 +495,9 @@
     {
       "rank": 50,
       "title": "Mi Derrota",
-      "artist": "Beto Y Sus Canarios",
+      "artist": "Beto y Sus Canarios",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 46,
         "Wks on Chart": 7
       }

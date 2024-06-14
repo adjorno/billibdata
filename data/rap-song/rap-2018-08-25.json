@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 7
       }
@@ -104,7 +105,12 @@
     {
       "rank": 11,
       "title": "Barbie Dreams",
-      "artist": "Nicki Minaj"
+      "artist": "Nicki Minaj",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 11,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 12,
@@ -189,7 +195,12 @@
     {
       "rank": 20,
       "title": "Taking A Walk",
-      "artist": "Trippie Redd"
+      "artist": "Trippie Redd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 21,
@@ -204,12 +215,22 @@
     {
       "rank": 22,
       "title": "Rich Sex",
-      "artist": "Nicki Minaj Featuring Lil Wayne"
+      "artist": "Nicki Minaj Featuring Lil Wayne",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 23,
       "title": "Majesty",
-      "artist": "Nicki Minaj Featuring Eminem & Labrinth"
+      "artist": "Nicki Minaj Featuring Eminem & Labrinth",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
@@ -224,7 +245,12 @@
     {
       "rank": 25,
       "title": "Ganja Burns",
-      "artist": "Nicki Minaj"
+      "artist": "Nicki Minaj",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

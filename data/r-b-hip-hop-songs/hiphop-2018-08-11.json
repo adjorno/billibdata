@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 5
       }
@@ -34,7 +35,12 @@
     {
       "rank": 4,
       "title": "No Brainer",
-      "artist": "DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo"
+      "artist": "DJ Khaled Featuring Justin Bieber, Chance The Rapper & Quavo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 4,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 5,
@@ -299,7 +305,12 @@
     {
       "rank": 31,
       "title": "One Day",
-      "artist": "Logic Featuring Ryan Tedder"
+      "artist": "Logic Featuring Ryan Tedder",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
@@ -414,12 +425,22 @@
     {
       "rank": 43,
       "title": "Handgun",
-      "artist": "YG Featuring A$AP Rocky"
+      "artist": "YG Featuring A$AP Rocky",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 44,
       "title": "SWISH",
-      "artist": "Tyga"
+      "artist": "Tyga",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 45,
@@ -464,7 +485,12 @@
     {
       "rank": 49,
       "title": "Butterflies",
-      "artist": "Queen Naija"
+      "artist": "Queen Naija",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,

@@ -7,6 +7,7 @@
       "title": "Shallow",
       "artist": "Lady Gaga & Bradley Cooper",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 7
       }
@@ -44,7 +45,12 @@
     {
       "rank": 5,
       "title": "Longtemps",
-      "artist": "Amir"
+      "artist": "Amir",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 5,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 6,
@@ -59,7 +65,12 @@
     {
       "rank": 7,
       "title": "Ma Derniere Lettre",
-      "artist": "David Hallyday"
+      "artist": "David Hallyday",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 8,

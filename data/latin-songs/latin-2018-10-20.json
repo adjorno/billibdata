@@ -7,6 +7,7 @@
       "title": "Taki Taki",
       "artist": "DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 2
       }
@@ -84,7 +85,12 @@
     {
       "rank": 9,
       "title": "MIA",
-      "artist": "Bad Bunny Featuring Drake"
+      "artist": "Bad Bunny Featuring Drake",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 9,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 10,
@@ -229,7 +235,12 @@
     {
       "rank": 24,
       "title": "Jaleo",
-      "artist": "Nicky Jam & Steve Aoki"
+      "artist": "Nicky Jam & Steve Aoki",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
@@ -384,7 +395,12 @@
     {
       "rank": 40,
       "title": "Calma",
-      "artist": "Pedro Capo"
+      "artist": "Pedro Capo X Farruko",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 41,
@@ -439,7 +455,12 @@
     {
       "rank": 46,
       "title": "Hola",
-      "artist": "Zion & Lennox"
+      "artist": "Zion & Lennox",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,

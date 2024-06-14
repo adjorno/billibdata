@@ -7,6 +7,7 @@
       "title": "Psycho",
       "artist": "Post Malone Featuring Ty Dolla $ign",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 17
       }
@@ -294,7 +295,12 @@
     {
       "rank": 30,
       "title": "Remind Me To Forget",
-      "artist": "Kygo Featuring Miguel"
+      "artist": "Kygo Featuring Miguel",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,
@@ -309,7 +315,12 @@
     {
       "rank": 32,
       "title": "Bed",
-      "artist": "Nicki Minaj Featuring Ariana Grande"
+      "artist": "Nicki Minaj Featuring Ariana Grande",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,
@@ -364,17 +375,32 @@
     {
       "rank": 38,
       "title": "I'm A Mess",
-      "artist": "Bebe Rexha"
+      "artist": "Bebe Rexha",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
       "title": "Almost Love",
-      "artist": "Sabrina Carpenter"
+      "artist": "Sabrina Carpenter",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "Team",
-      "artist": "Noah Cyrus & MAX"
+      "artist": "Noah Cyrus & MAX",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

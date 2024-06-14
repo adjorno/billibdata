@@ -407,7 +407,7 @@
       "title": "I Don't Know",
       "artist": "E.J.",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 41,
         "Wks on Chart": 1
       }
@@ -477,7 +477,7 @@
       "title": "I Miss You",
       "artist": "Clean Bandit Featuring Julia Michaels",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 48,
         "Wks on Chart": 1
       }
@@ -497,9 +497,54 @@
       "title": "Wasted",
       "artist": "Ally Ryan",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 50,
         "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 51,
+      "title": "What We Remember",
+      "artist": "Anggun",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Too Late",
+      "artist": "Azure",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Blaze The Dance Floor",
+      "artist": "JoAnna Michelle",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Perfect",
+      "artist": "Ed Sheeran",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Faking It",
+      "artist": "Calvin Harris Featuring Kehlani & Lil Yachty",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55
       }
     }
   ]

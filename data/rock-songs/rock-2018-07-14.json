@@ -7,6 +7,7 @@
       "title": "Whatever It Takes",
       "artist": "Imagine Dragons",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 53
       }
@@ -124,7 +125,12 @@
     {
       "rank": 13,
       "title": "Sweet Child O' Mine",
-      "artist": "Guns N' Roses"
+      "artist": "Guns N' Roses",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 14,
@@ -159,7 +165,12 @@
     {
       "rank": 17,
       "title": "Welcome To The Jungle",
-      "artist": "Guns N' Roses"
+      "artist": "Guns N' Roses",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 17,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 18,
@@ -174,7 +185,12 @@
     {
       "rank": 19,
       "title": "Paradise City",
-      "artist": "Guns N' Roses"
+      "artist": "Guns N' Roses",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,
@@ -239,7 +255,12 @@
     {
       "rank": 26,
       "title": "Hollywood",
-      "artist": "Gorillaz Featuring Snoop Dogg & Jamie Principle"
+      "artist": "Gorillaz Featuring Snoop Dogg & Jamie Principle",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 26,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 27,
@@ -253,7 +274,7 @@
     },
     {
       "rank": 28,
-      "title": "King Of The Clouds            ",
+      "title": "King Of The Clouds",
       "artist": "Panic! At The Disco",
       "position": {
         "Last Week": "11",
@@ -263,8 +284,13 @@
     },
     {
       "rank": 29,
-      "title": "Tranz                         ",
-      "artist": "Gorillaz"
+      "title": "Tranz",
+      "artist": "Gorillaz",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 29,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 30,
@@ -298,7 +324,7 @@
     },
     {
       "rank": 33,
-      "title": "Dying In LA                ",
+      "title": "Dying In LA",
       "artist": "Panic! At The Disco",
       "position": {
         "Last Week": "17",
@@ -318,7 +344,7 @@
     },
     {
       "rank": 35,
-      "title": "Dancing's Not A Crime         ",
+      "title": "Dancing's Not A Crime",
       "artist": "Panic! At The Disco",
       "position": {
         "Last Week": "16",
@@ -339,7 +365,12 @@
     {
       "rank": 37,
       "title": "Kansas",
-      "artist": "Gorillaz"
+      "artist": "Gorillaz",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
@@ -364,12 +395,22 @@
     {
       "rank": 40,
       "title": "Patricia",
-      "artist": "Florence + The Machine"
+      "artist": "Florence + The Machine",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 41,
       "title": "June",
-      "artist": "Florence + The Machine"
+      "artist": "Florence + The Machine",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 42,
@@ -404,7 +445,7 @@
     {
       "rank": 45,
       "title": "Blue On Black",
-      "artist": "Five Finger Death Punch",
+      "artist": "Five Finger Death Punch Featuring Kenny Wayne Shepherd, Brantley Gilbert & Brian May",
       "position": {
         "Last Week": "38",
         "Peak Position": 19,
@@ -444,7 +485,12 @@
     {
       "rank": 49,
       "title": "South London Forever",
-      "artist": "Florence + The Machine"
+      "artist": "Florence + The Machine",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,

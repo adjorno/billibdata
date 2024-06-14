@@ -7,6 +7,7 @@
       "title": "High Hopes",
       "artist": "Panic! At The Disco",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 25
       }
@@ -94,7 +95,12 @@
     {
       "rank": 10,
       "title": "The Greatest Show",
-      "artist": "Panic! At The Disco"
+      "artist": "Panic! At The Disco",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 11,
@@ -109,7 +115,7 @@
     {
       "rank": 12,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "7",
         "Peak Position": 6,
@@ -129,7 +135,12 @@
     {
       "rank": 14,
       "title": "Killer Queen",
-      "artist": "Queen"
+      "artist": "Queen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 14,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 15,
@@ -154,27 +165,52 @@
     {
       "rank": 17,
       "title": "Machine",
-      "artist": "Imagine Dragons"
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 17,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 18,
       "title": "Crazy Little Thing Called Love",
-      "artist": "Queen"
+      "artist": "Queen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 19,
       "title": "Fat Bottomed Girls",
-      "artist": "Queen"
+      "artist": "Queen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,
       "title": "I Want To Break Free",
-      "artist": "Queen"
+      "artist": "Queen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 21,
       "title": "Radio Ga Ga",
-      "artist": "Queen"
+      "artist": "Queen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,
@@ -189,17 +225,32 @@
     {
       "rank": 23,
       "title": "Hammer To Fall (Live Aid)",
-      "artist": "Queen"
+      "artist": "Queen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 24,
       "title": "You're My Best Friend",
-      "artist": "Queen"
+      "artist": "Queen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
       "title": "Love Of My Life",
-      "artist": "Queen"
+      "artist": "Queen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 26,
@@ -284,7 +335,7 @@
     {
       "rank": 34,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "24",
         "Peak Position": 6,
@@ -314,7 +365,7 @@
     {
       "rank": 37,
       "title": "Chlorine",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "29",
         "Peak Position": 10,
@@ -344,7 +395,7 @@
     {
       "rank": 40,
       "title": "Nico And The Niners",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "30",
         "Peak Position": 7,
@@ -394,12 +445,17 @@
     {
       "rank": 45,
       "title": "Bad Liar",
-      "artist": "Imagine Dragons"
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,
       "title": "Morph",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "32",
         "Peak Position": 9,

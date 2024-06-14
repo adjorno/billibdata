@@ -7,6 +7,7 @@
       "title": "The Middle",
       "artist": "Zedd, Maren Morris & Grey",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 23
       }
@@ -164,7 +165,12 @@
     {
       "rank": 17,
       "title": "Only You",
-      "artist": "Cheat Codes & Little Mix"
+      "artist": "Cheat Codes & Little Mix",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 17,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 18,
@@ -189,7 +195,12 @@
     {
       "rank": 20,
       "title": "More Than A Stranger",
-      "artist": "Justin Caruso Featuring Cappa & Ryan Hicari"
+      "artist": "Justin Caruso Featuring Cappa & Ryan Hicari",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 21,
@@ -244,7 +255,12 @@
     {
       "rank": 26,
       "title": "Rooftops",
-      "artist": "Marshmello"
+      "artist": "Marshmello",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 26,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 27,
@@ -289,7 +305,12 @@
     {
       "rank": 31,
       "title": "Stars",
-      "artist": "Marshmello"
+      "artist": "Marshmello",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
@@ -344,7 +365,12 @@
     {
       "rank": 37,
       "title": "Together",
-      "artist": "Marshmello"
+      "artist": "Marshmello",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
@@ -389,7 +415,12 @@
     {
       "rank": 42,
       "title": "Power",
-      "artist": "Marshmello"
+      "artist": "Marshmello",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 43,
@@ -414,17 +445,32 @@
     {
       "rank": 45,
       "title": "Let's Get Ill",
-      "artist": "DJ Snake & Mercer"
+      "artist": "DJ Snake & Mercer",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,
       "title": "Oh Child",
-      "artist": "Robin Schulz & Piso 21"
+      "artist": "Robin Schulz & Piso 21",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
       "title": "Paralyzed",
-      "artist": "Marshmello"
+      "artist": "Marshmello",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,
@@ -449,7 +495,12 @@
     {
       "rank": 50,
       "title": "Flashbacks",
-      "artist": "Marshmello"
+      "artist": "Marshmello",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

@@ -7,6 +7,7 @@
       "title": "You Say",
       "artist": "Lauren Daigle",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 7
       }
@@ -194,7 +195,12 @@
     {
       "rank": 20,
       "title": "Here Again",
-      "artist": "Elevation Worship"
+      "artist": "Elevation Worship",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 21,
@@ -309,7 +315,12 @@
     {
       "rank": 32,
       "title": "Nobody Loves Me Like You",
-      "artist": "Chris Tomlin"
+      "artist": "Chris Tomlin",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,
@@ -323,7 +334,7 @@
     },
     {
       "rank": 34,
-      "title": "Let Go                     ",
+      "title": "Let Go",
       "artist": "Hillsong Young & Free",
       "position": {
         "Last Week": "33",
@@ -354,7 +365,7 @@
     {
       "rank": 37,
       "title": "Forever On Your Side",
-      "artist": "NEEDTOBREATHE Featuring JOHNNYSWIM",
+      "artist": "NEEDTOBREATHE",
       "position": {
         "Last Week": "35",
         "Peak Position": 19,

@@ -7,6 +7,7 @@
       "title": "You Say",
       "artist": "Lauren Daigle",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 13
       }
@@ -343,8 +344,13 @@
     },
     {
       "rank": 35,
-      "title": "Scars                         ",
-      "artist": "tobyMac"
+      "title": "Scars",
+      "artist": "tobyMac",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
@@ -369,7 +375,7 @@
     {
       "rank": 38,
       "title": "Forever On Your Side",
-      "artist": "NEEDTOBREATHE Featuring JOHNNYSWIM",
+      "artist": "NEEDTOBREATHE",
       "position": {
         "Last Week": "37",
         "Peak Position": 19,
@@ -389,12 +395,22 @@
     {
       "rank": 40,
       "title": "Burn The Ships",
-      "artist": "for KING & COUNTRY"
+      "artist": "for KING & COUNTRY",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 41,
       "title": "Hallelujah Here Below",
-      "artist": "Elevation Worship"
+      "artist": "Elevation Worship",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 42,

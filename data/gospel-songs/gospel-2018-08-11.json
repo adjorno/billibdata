@@ -7,6 +7,7 @@
       "title": "Won't He Do It",
       "artist": "Koryn Hawthorne",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 47
       }
@@ -14,7 +15,7 @@
     {
       "rank": 2,
       "title": "I'm Blessed",
-      "artist": "Charlie Wilson Featuring T.I.",
+      "artist": "Charlie Wilson",
       "position": {
         "Last Week": "2",
         "Peak Position": 1,
@@ -54,7 +55,12 @@
     {
       "rank": 6,
       "title": "Forever",
-      "artist": "Jason Nelson"
+      "artist": "Jason Nelson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 6,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 7,
@@ -179,7 +185,12 @@
     {
       "rank": 19,
       "title": "Live!",
-      "artist": "Tye Tribbett"
+      "artist": "Tye Tribbett",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,
@@ -204,7 +215,12 @@
     {
       "rank": 22,
       "title": "He Got Up",
-      "artist": "VaShawn Mitchell Featuring Dorinda Clark-Cole, Sean Tillery & Changed"
+      "artist": "VaShawn Mitchell Featuring Dorinda Clark-Cole, Sean Tillery & Changed",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 23,

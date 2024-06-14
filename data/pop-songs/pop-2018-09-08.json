@@ -225,7 +225,7 @@
     {
       "rank": 23,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "27",
         "Peak Position": 23,
@@ -315,7 +315,12 @@
     {
       "rank": 32,
       "title": "Happier",
-      "artist": "Marshmello & Bastille"
+      "artist": "Marshmello & Bastille",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,
@@ -360,7 +365,12 @@
     {
       "rank": 37,
       "title": "Africa",
-      "artist": "Weezer"
+      "artist": "Weezer",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
@@ -385,7 +395,12 @@
     {
       "rank": 40,
       "title": "One Day",
-      "artist": "Logic Featuring Ryan Tedder"
+      "artist": "Logic Featuring Ryan Tedder",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

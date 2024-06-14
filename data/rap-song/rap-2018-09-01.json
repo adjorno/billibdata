@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 8
       }
@@ -204,7 +205,12 @@
     {
       "rank": 21,
       "title": "Lean Wit Me",
-      "artist": "Juice WRLD"
+      "artist": "Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,
@@ -229,12 +235,22 @@
     {
       "rank": 24,
       "title": "That's On Me",
-      "artist": "Yella Beezy"
+      "artist": "Yella Beezy",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
       "title": "Chanel (Go Get It)",
-      "artist": "Young Thug Featuring Gunna & Lil Baby"
+      "artist": "Young Thug Featuring Gunna & Lil Baby",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

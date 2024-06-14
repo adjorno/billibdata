@@ -185,7 +185,7 @@
     {
       "rank": 19,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "19",
         "Peak Position": 19,
@@ -345,7 +345,12 @@
     {
       "rank": 35,
       "title": "Good Form",
-      "artist": "Nicki Minaj Featuring Lil Wayne"
+      "artist": "Nicki Minaj Featuring Lil Wayne",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 36,
@@ -380,12 +385,22 @@
     {
       "rank": 39,
       "title": "Creep On Me",
-      "artist": "GASHI Featuring French Montana & DJ Snake"
+      "artist": "GASHI Featuring French Montana & DJ Snake",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "Whistle",
-      "artist": "Jonn Hart Featuring Too $hort"
+      "artist": "Jonn Hart Featuring Too $hort",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

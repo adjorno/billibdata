@@ -7,6 +7,7 @@
       "title": "Girls Like You",
       "artist": "Maroon 5 Featuring Cardi B",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 11
       }
@@ -274,7 +275,7 @@
     {
       "rank": 28,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "30",
         "Peak Position": 28,
@@ -364,7 +365,12 @@
     {
       "rank": 37,
       "title": "Beautiful",
-      "artist": "Bazzi Featuring Camila Cabello"
+      "artist": "Bazzi Featuring Camila Cabello",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
@@ -389,7 +395,12 @@
     {
       "rank": 40,
       "title": "2002",
-      "artist": "Anne-Marie"
+      "artist": "Anne-Marie",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

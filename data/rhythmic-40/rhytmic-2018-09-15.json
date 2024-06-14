@@ -7,6 +7,7 @@
       "title": "Taste",
       "artist": "Tyga Featuring Offset",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 12
       }
@@ -313,7 +314,7 @@
     },
     {
       "rank": 32,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "32",
@@ -374,7 +375,7 @@
     {
       "rank": 38,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "-",
         "Peak Position": 38,
@@ -394,7 +395,12 @@
     {
       "rank": 40,
       "title": "Goodbye",
-      "artist": "Jason Derulo X David Guetta Featuring Nicki Minaj & Willy William"
+      "artist": "Jason Derulo X David Guetta Featuring Nicki Minaj & Willy William",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

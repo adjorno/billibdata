@@ -7,6 +7,7 @@
       "title": "Meant To Be",
       "artist": "Bebe Rexha & Florida Georgia Line",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 42
       }
@@ -83,7 +84,7 @@
     },
     {
       "rank": 9,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "12",
@@ -234,7 +235,12 @@
     {
       "rank": 24,
       "title": "Homesick",
-      "artist": "Kane Brown"
+      "artist": "Kane Brown",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
@@ -359,7 +365,12 @@
     {
       "rank": 37,
       "title": "End Up With You",
-      "artist": "Carrie Underwood"
+      "artist": "Carrie Underwood",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,

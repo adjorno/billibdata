@@ -205,7 +205,7 @@
     {
       "rank": 21,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "22",
         "Peak Position": 21,
@@ -375,17 +375,32 @@
     {
       "rank": 38,
       "title": "Breathin",
-      "artist": "Ariana Grande"
+      "artist": "Ariana Grande",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
       "title": "Electricity",
-      "artist": "Silk City x Dua Lipa"
+      "artist": "Silk City x Dua Lipa",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "Body",
-      "artist": "Loud Luxury Featuring Brando"
+      "artist": "Loud Luxury Featuring Brando",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

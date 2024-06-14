@@ -7,6 +7,7 @@
       "title": "Natural",
       "artist": "Imagine Dragons",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 10
       }
@@ -114,7 +115,7 @@
     {
       "rank": 12,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "15",
         "Peak Position": 12,
@@ -264,7 +265,7 @@
     {
       "rank": 27,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "17",
         "Peak Position": 1,
@@ -294,7 +295,12 @@
     {
       "rank": 30,
       "title": "Guiding Light",
-      "artist": "Mumford & Sons"
+      "artist": "Mumford & Sons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,
@@ -379,7 +385,12 @@
     {
       "rank": 39,
       "title": "Nina Cried Power",
-      "artist": "Hozier Featuring Mavis Staples"
+      "artist": "Hozier Featuring Mavis Staples",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,

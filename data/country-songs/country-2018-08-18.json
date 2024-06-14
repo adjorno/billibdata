@@ -7,6 +7,7 @@
       "title": "Meant To Be",
       "artist": "Bebe Rexha & Florida Georgia Line",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 37
       }
@@ -253,7 +254,7 @@
     },
     {
       "rank": 26,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "28",
@@ -384,7 +385,12 @@
     {
       "rank": 39,
       "title": "Goodbye Summer",
-      "artist": "Danielle Bradbery With Thomas Rhett"
+      "artist": "Danielle Bradbery With Thomas Rhett",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
@@ -469,7 +475,12 @@
     {
       "rank": 48,
       "title": "Weekend",
-      "artist": "Kane Brown"
+      "artist": "Kane Brown",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,

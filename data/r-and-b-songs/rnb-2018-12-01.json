@@ -7,6 +7,7 @@
       "title": "Trip",
       "artist": "Ella Mai",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 16
       }
@@ -94,7 +95,7 @@
     {
       "rank": 10,
       "title": "Girls Need Love",
-      "artist": "Summer Walker",
+      "artist": "Summer Walker X Drake",
       "position": {
         "Last Week": "8",
         "Peak Position": 8,
@@ -154,7 +155,7 @@
     {
       "rank": 16,
       "title": "Saturday Nights",
-      "artist": "Khalid",
+      "artist": "Khalid & Kane Brown",
       "position": {
         "Last Week": "15",
         "Peak Position": 4,
@@ -184,7 +185,12 @@
     {
       "rank": 19,
       "title": "Waves",
-      "artist": "Normani Featuring 6LACK"
+      "artist": "Normani Featuring 6LACK",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,
@@ -199,7 +205,12 @@
     {
       "rank": 21,
       "title": "What Christmas Means To Me",
-      "artist": "John Legend Featuring Stevie Wonder"
+      "artist": "John Legend Featuring Stevie Wonder",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,

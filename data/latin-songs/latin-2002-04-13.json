@@ -18,7 +18,7 @@
       "artist": "Chayanne",
       "position": {
         "Last Week": "5",
-        "Peak Position": 1,
+        "Peak Position": 2,
         "Wks on Chart": 3
       }
     },
@@ -34,17 +34,17 @@
     },
     {
       "rank": 4,
-      "title": "Escapar",
+      "title": "Escapar [Escape]",
       "artist": "Enrique Iglesias",
       "position": {
         "Last Week": "9",
-        "Peak Position": 2,
+        "Peak Position": 4,
         "Wks on Chart": 9
       }
     },
     {
       "rank": 5,
-      "title": "Suerte",
+      "title": "Suerte [Whenever, Wherever]",
       "artist": "Shakira",
       "position": {
         "Last Week": "2",
@@ -78,7 +78,7 @@
       "artist": "Pablo Montero",
       "position": {
         "Last Week": "8",
-        "Peak Position": 5,
+        "Peak Position": 8,
         "Wks on Chart": 10
       }
     },
@@ -148,7 +148,7 @@
       "artist": "Intocable",
       "position": {
         "Last Week": "27",
-        "Peak Position": 6,
+        "Peak Position": 15,
         "Wks on Chart": 2
       }
     },
@@ -198,7 +198,7 @@
       "artist": "Brenda K. Starr Con Tito Nieves & Victor Manuelle",
       "position": {
         "Last Week": "23",
-        "Peak Position": 11,
+        "Peak Position": 20,
         "Wks on Chart": 4
       }
     },
@@ -215,7 +215,7 @@
     {
       "rank": 22,
       "title": "Como Pudiste",
-      "artist": "Banda El Recodo",
+      "artist": "Banda El Recodo de Cruz Lizarraga",
       "position": {
         "Last Week": "18",
         "Peak Position": 9,
@@ -228,7 +228,7 @@
       "artist": "Monchy & Alexandra",
       "position": {
         "Last Week": "32",
-        "Peak Position": 21,
+        "Peak Position": 23,
         "Wks on Chart": 9
       }
     },
@@ -238,14 +238,14 @@
       "artist": "Marc Anthony",
       "position": {
         "Last Week": "22",
-        "Peak Position": 21,
+        "Peak Position": 22,
         "Wks on Chart": 5
       }
     },
     {
       "rank": 25,
       "title": "Dejate Querer",
-      "artist": "Los Tucanes De Tijuana",
+      "artist": "Los Tucanes de Tijuana",
       "position": {
         "Last Week": "28",
         "Peak Position": 25,
@@ -278,7 +278,7 @@
       "artist": "Yolandita Monge",
       "position": {
         "Last Week": "36",
-        "Peak Position": 24,
+        "Peak Position": 28,
         "Wks on Chart": 2
       }
     },
@@ -308,7 +308,7 @@
       "artist": "Alejandro Fernandez",
       "position": {
         "Last Week": "34",
-        "Peak Position": 27,
+        "Peak Position": 29,
         "Wks on Chart": 9
       }
     },
@@ -318,17 +318,17 @@
       "artist": "Celia Cruz",
       "position": {
         "Last Week": "45",
-        "Peak Position": 30,
+        "Peak Position": 32,
         "Wks on Chart": 10
       }
     },
     {
       "rank": 33,
       "title": "Del Otro Lado Del Porton",
-      "artist": "Ramon Ayala Y Sus Bravos Del Norte",
+      "artist": "Ramon Ayala y Sus Bravos del Norte",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 12,
+        "Last Week": "-",
+        "Peak Position": 33,
         "Wks on Chart": 1
       }
     },
@@ -365,7 +365,7 @@
     {
       "rank": 37,
       "title": "La Playa",
-      "artist": "La Oreja De Van Gogh",
+      "artist": "La Oreja de Van Gogh",
       "position": {
         "Last Week": "37",
         "Peak Position": 30,
@@ -375,10 +375,10 @@
     {
       "rank": 38,
       "title": "Como Decirte No",
-      "artist": "Franco De Vita",
+      "artist": "Franco de Vita",
       "position": {
         "Last Week": "47",
-        "Peak Position": 20,
+        "Peak Position": 38,
         "Wks on Chart": 2
       }
     },
@@ -418,7 +418,7 @@
       "artist": "Sin Bandera",
       "position": {
         "Last Week": "48",
-        "Peak Position": 3,
+        "Peak Position": 42,
         "Wks on Chart": 2
       }
     },
@@ -435,7 +435,7 @@
     {
       "rank": 44,
       "title": "Para Estar A Mano",
-      "artist": "El Coyote Y Su Banda Tierra Santa",
+      "artist": "El Coyote y Su Banda Tierra Santa",
       "position": {
         "Last Week": "38",
         "Peak Position": 34,
@@ -448,16 +448,16 @@
       "artist": "Pesado",
       "position": {
         "Last Week": "44",
-        "Peak Position": 35,
+        "Peak Position": 43,
         "Wks on Chart": 5
       }
     },
     {
       "rank": 46,
       "title": "No Me Morire",
-      "artist": "Rogelio Martinez",
+      "artist": "Rogelio Martinez \"EL RM\"",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 46,
         "Wks on Chart": 2
       }
@@ -465,9 +465,9 @@
     {
       "rank": 47,
       "title": "Pequena Amante",
-      "artist": "El Poder Del Norte",
+      "artist": "El Poder del Norte",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 31,
         "Wks on Chart": 17
       }
@@ -477,7 +477,7 @@
       "title": "Quedate",
       "artist": "Lara Fabian",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 48,
         "Wks on Chart": 1
       }
@@ -497,8 +497,8 @@
       "title": "Al Que Me Siga",
       "artist": "Luis Miguel",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 21,
+        "Last Week": "-",
+        "Peak Position": 50,
         "Wks on Chart": 1
       }
     }

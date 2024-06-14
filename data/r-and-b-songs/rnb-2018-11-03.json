@@ -7,6 +7,7 @@
       "title": "Trip",
       "artist": "Ella Mai",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 12
       }
@@ -34,7 +35,12 @@
     {
       "rank": 4,
       "title": "Saturday Nights",
-      "artist": "Khalid"
+      "artist": "Khalid & Kane Brown",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 4,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 5,
@@ -49,12 +55,22 @@
     {
       "rank": 6,
       "title": "Suncity",
-      "artist": "Khalid Featuring Empress Of"
+      "artist": "Khalid Featuring Empress Of",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 6,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 7,
       "title": "Vertigo",
-      "artist": "Khalid"
+      "artist": "Khalid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 7,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 8,
@@ -89,7 +105,7 @@
     {
       "rank": 11,
       "title": "Girls Need Love",
-      "artist": "Summer Walker",
+      "artist": "Summer Walker X Drake",
       "position": {
         "Last Week": "15",
         "Peak Position": 11,
@@ -99,7 +115,12 @@
     {
       "rank": 12,
       "title": "Motion",
-      "artist": "Khalid"
+      "artist": "Khalid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 12,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 13,
@@ -164,12 +185,22 @@
     {
       "rank": 19,
       "title": "9.13",
-      "artist": "Khalid"
+      "artist": "Khalid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,
       "title": "Salem's Interlude",
-      "artist": "Khalid"
+      "artist": "Khalid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 21,

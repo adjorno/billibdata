@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 9
       }
@@ -104,7 +105,12 @@
     {
       "rank": 11,
       "title": "IDOL",
-      "artist": "BTS Featuring Nicki Minaj"
+      "artist": "BTS Featuring Nicki Minaj",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 11,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 12,
@@ -269,7 +275,7 @@
     {
       "rank": 28,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "31",
         "Peak Position": 28,
@@ -508,7 +514,7 @@
     },
     {
       "rank": 52,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "96",
@@ -638,7 +644,7 @@
     },
     {
       "rank": 65,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "74",
@@ -679,7 +685,12 @@
     {
       "rank": 69,
       "title": "I Am Who They Say I Am",
-      "artist": "YoungBoy Never Broke Again Featuring Kevin Gates & Quando Rondo"
+      "artist": "YoungBoy Never Broke Again Featuring Kevin Gates & Quando Rondo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 69,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 70,
@@ -704,7 +715,12 @@
     {
       "rank": 72,
       "title": "Unica",
-      "artist": "Ozuna"
+      "artist": "Ozuna",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 72,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 73,
@@ -799,12 +815,22 @@
     {
       "rank": 82,
       "title": "Mo Bamba",
-      "artist": "Sheck Wes"
+      "artist": "Sheck Wes",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 82,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 83,
       "title": "Smile (Living My Best Life)",
-      "artist": "Lil' Duval Featuring Snoop Dogg & Ball Greezy"
+      "artist": "Lil' Duval Featuring Snoop Dogg & Ball Greezy",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 83,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 84,
@@ -829,12 +855,22 @@
     {
       "rank": 86,
       "title": "Drunk Girl",
-      "artist": "Chris Janson"
+      "artist": "Chris Janson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 86,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 87,
       "title": "The Way I Am",
-      "artist": "Charlie Puth"
+      "artist": "Charlie Puth",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 87,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 88,
@@ -859,7 +895,12 @@
     {
       "rank": 90,
       "title": "Happy Now",
-      "artist": "Zedd & Elley Duhe"
+      "artist": "Zedd & Elley Duhe",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 90,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 91,

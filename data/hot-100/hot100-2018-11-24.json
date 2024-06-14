@@ -7,6 +7,7 @@
       "title": "Thank U, Next",
       "artist": "Ariana Grande",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 2
       }
@@ -154,7 +155,12 @@
     {
       "rank": 16,
       "title": "BAD!",
-      "artist": "XXXTENTACION"
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 16,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 17,
@@ -199,7 +205,7 @@
     {
       "rank": 21,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "18",
         "Peak Position": 18,
@@ -338,7 +344,7 @@
     },
     {
       "rank": 35,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "39",
@@ -429,7 +435,12 @@
     {
       "rank": 44,
       "title": "Armed And Dangerous",
-      "artist": "Juice WRLD"
+      "artist": "Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 45,
@@ -534,7 +545,12 @@
     {
       "rank": 55,
       "title": "1400 / 999 Freestyle",
-      "artist": "Trippie Redd Featuring Juice WRLD"
+      "artist": "Trippie Redd Featuring Juice WRLD",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 56,
@@ -709,7 +725,12 @@
     {
       "rank": 73,
       "title": "Love Scars 3",
-      "artist": "Trippie Redd"
+      "artist": "Trippie Redd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 73,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 74,
@@ -764,7 +785,12 @@
     {
       "rank": 79,
       "title": "Bad Liar",
-      "artist": "Imagine Dragons"
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 79,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 80,
@@ -788,7 +814,7 @@
     },
     {
       "rank": 82,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "75",
@@ -859,7 +885,12 @@
     {
       "rank": 89,
       "title": "Negative Energy",
-      "artist": "Trippie Redd Featuring Kodie Shane"
+      "artist": "Trippie Redd Featuring Kodie Shane",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 89,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 90,
@@ -874,7 +905,12 @@
     {
       "rank": 91,
       "title": "Sixteen",
-      "artist": "Thomas Rhett"
+      "artist": "Thomas Rhett",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 91,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 92,
@@ -889,7 +925,12 @@
     {
       "rank": 93,
       "title": "Good Girl",
-      "artist": "Dustin Lynch"
+      "artist": "Dustin Lynch",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 93,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 94,
@@ -904,12 +945,22 @@
     {
       "rank": 95,
       "title": "Last Shot",
-      "artist": "Kip Moore"
+      "artist": "Kip Moore",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 95,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 96,
       "title": "Millionaire",
-      "artist": "Chris Stapleton"
+      "artist": "Chris Stapleton",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 96,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 97,
@@ -924,7 +975,12 @@
     {
       "rank": 98,
       "title": "Toxic Waste",
-      "artist": "Trippie Redd"
+      "artist": "Trippie Redd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 98,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 99,

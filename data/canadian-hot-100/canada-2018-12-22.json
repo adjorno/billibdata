@@ -7,6 +7,7 @@
       "title": "Thank U, Next",
       "artist": "Ariana Grande",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 6
       }
@@ -74,7 +75,7 @@
     {
       "rank": 8,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "10",
         "Peak Position": 6,
@@ -314,7 +315,12 @@
     {
       "rank": 32,
       "title": "whoa (mind in awe)",
-      "artist": "XXXTENTACION"
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,
@@ -329,7 +335,12 @@
     {
       "rank": 34,
       "title": "Do They Know It's Christmas?",
-      "artist": "Band-Aid"
+      "artist": "Band Aid",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 34,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 35,
@@ -414,7 +425,12 @@
     {
       "rank": 43,
       "title": "Guardian Angel",
-      "artist": "XXXTENTACION"
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 43,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 44,
@@ -438,18 +454,33 @@
     },
     {
       "rank": 46,
-      "title": "Let It Snow, Let It Snow, Let It Snow",
-      "artist": "Dean Martin"
+      "title": "Let It Snow, Let It Snow, Let It Snow!",
+      "artist": "Dean Martin",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
       "title": "Rudolph The Red-Nosed Reindeer",
-      "artist": "Gene Autry"
+      "artist": "Gene Autry & The Pinafores",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,
       "title": "Feliz Navidad",
-      "artist": "Jose Feliciano"
+      "artist": "Jose Feliciano",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,
@@ -534,7 +565,12 @@
     {
       "rank": 57,
       "title": "I Don't Let Go",
-      "artist": "XXXTENTACION"
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 57,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 58,
@@ -639,7 +675,7 @@
     {
       "rank": 68,
       "title": "Saturday Nights",
-      "artist": "Khalid",
+      "artist": "Khalid & Kane Brown",
       "position": {
         "Last Week": "59",
         "Peak Position": 37,
@@ -649,7 +685,12 @@
     {
       "rank": 69,
       "title": "One Minute",
-      "artist": "XXXTENTACION Featuring Kanye West & Travis Barker"
+      "artist": "XXXTENTACION Featuring Kanye West & Travis Barker",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 69,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 70,
@@ -664,12 +705,22 @@
     {
       "rank": 71,
       "title": "What Are You So Afraid Of",
-      "artist": "XXXTENTACION"
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 71,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 72,
       "title": "Train Food",
-      "artist": "XXXTENTACION"
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 72,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 73,
@@ -713,7 +764,7 @@
     },
     {
       "rank": 77,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "75",
@@ -794,7 +845,12 @@
     {
       "rank": 85,
       "title": "Staring At The Sky",
-      "artist": "XXXTENTACION"
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 85,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 86,
@@ -879,7 +935,12 @@
     {
       "rank": 94,
       "title": "Look Back At It",
-      "artist": "A Boogie Wit da Hoodie"
+      "artist": "A Boogie Wit da Hoodie",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 94,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 95,
@@ -894,7 +955,12 @@
     {
       "rank": 96,
       "title": "Difference (Interlude)",
-      "artist": "XXXTENTACION"
+      "artist": "XXXTENTACION",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 96,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 97,
@@ -929,7 +995,12 @@
     {
       "rank": 100,
       "title": "Say My Name",
-      "artist": "David Guetta, Bebe Rexha & J Balvin"
+      "artist": "David Guetta, Bebe Rexha & J Balvin",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 100,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

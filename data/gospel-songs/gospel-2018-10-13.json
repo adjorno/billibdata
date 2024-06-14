@@ -7,6 +7,7 @@
       "title": "Won't He Do It",
       "artist": "Koryn Hawthorne",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 56
       }
@@ -234,7 +235,12 @@
     {
       "rank": 24,
       "title": "Secrets",
-      "artist": "Israel Houghton Featuring Adrienne Houghton"
+      "artist": "Israel Houghton Featuring Adrienne Houghton",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,

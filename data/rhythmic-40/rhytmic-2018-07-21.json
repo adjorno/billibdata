@@ -7,6 +7,7 @@
       "title": "I Like It",
       "artist": "Cardi B, Bad Bunny & J Balvin",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 12
       }
@@ -104,7 +105,12 @@
     {
       "rank": 11,
       "title": "In My Feelings",
-      "artist": "Drake"
+      "artist": "Drake",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 11,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 12,
@@ -319,7 +325,12 @@
     {
       "rank": 33,
       "title": "Girls Like You",
-      "artist": "Maroon 5 Featuring Cardi B"
+      "artist": "Maroon 5 Featuring Cardi B",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 34,

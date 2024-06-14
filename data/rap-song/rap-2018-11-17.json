@@ -7,6 +7,7 @@
       "title": "Sicko Mode",
       "artist": "Travis Scott",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 14
       }
@@ -174,7 +175,12 @@
     {
       "rank": 18,
       "title": "Don't Come Out The House",
-      "artist": "Metro Boomin Featuring 21 Savage"
+      "artist": "Metro Boomin Featuring 21 Savage",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 18,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 19,
@@ -189,7 +195,12 @@
     {
       "rank": 20,
       "title": "10 Freaky Girls",
-      "artist": "Metro Boomin Featuring 21 Savage"
+      "artist": "Metro Boomin Featuring 21 Savage",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 20,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 21,
@@ -204,7 +215,12 @@
     {
       "rank": 22,
       "title": "Space Cadet",
-      "artist": "Metro Boomin Featuring Gunna"
+      "artist": "Metro Boomin Featuring Gunna",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 23,

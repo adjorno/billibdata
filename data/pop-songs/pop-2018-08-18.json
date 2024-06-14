@@ -7,6 +7,7 @@
       "title": "Girls Like You",
       "artist": "Maroon 5 Featuring Cardi B",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 10
       }
@@ -294,7 +295,7 @@
     {
       "rank": 30,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "35",
         "Peak Position": 30,
@@ -354,12 +355,22 @@
     {
       "rank": 36,
       "title": "Broken",
-      "artist": "lovelytheband"
+      "artist": "lovelytheband",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,
       "title": "Natural",
-      "artist": "Imagine Dragons"
+      "artist": "Imagine Dragons",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
@@ -384,7 +395,12 @@
     {
       "rank": 40,
       "title": "Happy Now",
-      "artist": "Zedd & Elley Duhe"
+      "artist": "Zedd & Elley Duhe",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

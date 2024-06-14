@@ -7,6 +7,7 @@
       "title": "Taki Taki",
       "artist": "DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 7
       }
@@ -104,12 +105,22 @@
     {
       "rank": 11,
       "title": "Adictiva",
-      "artist": "Daddy Yankee & Anuel AA"
+      "artist": "Daddy Yankee & Anuel AA",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 11,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 12,
       "title": "Te Guste",
-      "artist": "JLo & Bad Bunny"
+      "artist": "JLo & Bad Bunny",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 12,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 13,
@@ -354,7 +365,7 @@
     {
       "rank": 37,
       "title": "Calma",
-      "artist": "Pedro Capo",
+      "artist": "Pedro Capo X Farruko",
       "position": {
         "Last Week": "40",
         "Peak Position": 33,
@@ -394,7 +405,7 @@
     {
       "rank": 41,
       "title": "A Traves del Vaso",
-      "artist": "Banda Los Sebastianes",
+      "artist": "Banda Los Sebastianes de Mazatlan, Sinaloa.",
       "position": {
         "Last Week": "50",
         "Peak Position": 41,
@@ -404,7 +415,12 @@
     {
       "rank": 42,
       "title": "Llegaste Tu",
-      "artist": "CNCO + Prince Royce"
+      "artist": "CNCO + Prince Royce",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 43,
@@ -419,7 +435,12 @@
     {
       "rank": 44,
       "title": "Dolor y Amor",
-      "artist": "El Fantasma"
+      "artist": "El Fantasma",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 45,

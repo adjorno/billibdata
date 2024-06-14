@@ -95,7 +95,7 @@
     {
       "rank": 10,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "11",
         "Peak Position": 10,
@@ -365,7 +365,12 @@
     {
       "rank": 37,
       "title": "Taki Taki",
-      "artist": "DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+      "artist": "DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
@@ -380,12 +385,17 @@
     {
       "rank": 39,
       "title": "8 Letters",
-      "artist": "Why Don't We"
+      "artist": "Why Don't We",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "40",
         "Peak Position": 40,

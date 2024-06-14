@@ -7,6 +7,7 @@
       "title": "Sicko Mode",
       "artist": "Travis Scott",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 11
       }
@@ -234,7 +235,12 @@
     {
       "rank": 24,
       "title": "Sunflower (Spider-Man: Into The Spider-Verse)",
-      "artist": "Post Malone & Swae Lee"
+      "artist": "Post Malone & Swae Lee",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
@@ -259,7 +265,7 @@
     {
       "rank": 27,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "28",
         "Peak Position": 27,
@@ -289,7 +295,12 @@
     {
       "rank": 30,
       "title": "ZEZE",
-      "artist": "Kodak Black Featuring Travis Scott & Offset"
+      "artist": "Kodak Black Featuring Travis Scott & Offset",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,

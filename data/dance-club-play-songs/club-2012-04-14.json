@@ -38,7 +38,7 @@
       "artist": "Madonna",
       "position": {
         "Last Week": "7",
-        "Peak Position": 1,
+        "Peak Position": 4,
         "Wks on Chart": 4
       }
     },
@@ -48,7 +48,7 @@
       "artist": "Dave Aude Featuring Lena Katina",
       "position": {
         "Last Week": "8",
-        "Peak Position": 1,
+        "Peak Position": 5,
         "Wks on Chart": 6
       }
     },
@@ -58,7 +58,7 @@
       "artist": "Jack Back Featuring David Guetta, Nicky Romero & Sia",
       "position": {
         "Last Week": "9",
-        "Peak Position": 1,
+        "Peak Position": 6,
         "Wks on Chart": 5
       }
     },
@@ -88,7 +88,7 @@
       "artist": "Katy Perry",
       "position": {
         "Last Week": "18",
-        "Peak Position": 1,
+        "Peak Position": 9,
         "Wks on Chart": 4
       }
     },
@@ -128,7 +128,7 @@
       "artist": "Audio Playground",
       "position": {
         "Last Week": "16",
-        "Peak Position": 10,
+        "Peak Position": 13,
         "Wks on Chart": 6
       }
     },
@@ -138,7 +138,7 @@
       "artist": "Karmin",
       "position": {
         "Last Week": "23",
-        "Peak Position": 1,
+        "Peak Position": 14,
         "Wks on Chart": 4
       }
     },
@@ -148,7 +148,7 @@
       "artist": "Nicki Minaj",
       "position": {
         "Last Week": "26",
-        "Peak Position": 2,
+        "Peak Position": 15,
         "Wks on Chart": 3
       }
     },
@@ -168,7 +168,7 @@
       "artist": "Phil B Featuring Debby Holiday",
       "position": {
         "Last Week": "22",
-        "Peak Position": 9,
+        "Peak Position": 17,
         "Wks on Chart": 5
       }
     },
@@ -178,7 +178,7 @@
       "artist": "Eva",
       "position": {
         "Last Week": "21",
-        "Peak Position": 15,
+        "Peak Position": 18,
         "Wks on Chart": 5
       }
     },
@@ -198,7 +198,7 @@
       "artist": "The Wanted",
       "position": {
         "Last Week": "33",
-        "Peak Position": 5,
+        "Peak Position": 20,
         "Wks on Chart": 11
       }
     },
@@ -208,7 +208,7 @@
       "artist": "Gotye Featuring Kimbra",
       "position": {
         "Last Week": "37",
-        "Peak Position": 1,
+        "Peak Position": 21,
         "Wks on Chart": 3
       }
     },
@@ -218,7 +218,7 @@
       "artist": "Jessie And The Toy Boys",
       "position": {
         "Last Week": "27",
-        "Peak Position": 19,
+        "Peak Position": 22,
         "Wks on Chart": 5
       }
     },
@@ -248,7 +248,7 @@
       "artist": "David Guetta Featuring Sia",
       "position": {
         "Last Week": "39",
-        "Peak Position": 3,
+        "Peak Position": 25,
         "Wks on Chart": 18
       }
     },
@@ -288,7 +288,7 @@
       "artist": "Rye Rye",
       "position": {
         "Last Week": "43",
-        "Peak Position": 8,
+        "Peak Position": 29,
         "Wks on Chart": 2
       }
     },
@@ -298,7 +298,7 @@
       "artist": "Afrojack & Shermanology",
       "position": {
         "Last Week": "38",
-        "Peak Position": 24,
+        "Peak Position": 30,
         "Wks on Chart": 3
       }
     },
@@ -318,7 +318,7 @@
       "artist": "Amannda",
       "position": {
         "Last Week": "40",
-        "Peak Position": 21,
+        "Peak Position": 32,
         "Wks on Chart": 4
       }
     },
@@ -368,14 +368,14 @@
       "artist": "Paulina Rubio",
       "position": {
         "Last Week": "46",
-        "Peak Position": 16,
+        "Peak Position": 37,
         "Wks on Chart": 2
       }
     },
     {
       "rank": 38,
       "title": "I'm Free",
-      "artist": "Hayla",
+      "artist": "HAYLA",
       "position": {
         "Last Week": "31",
         "Peak Position": 23,
@@ -407,8 +407,8 @@
       "title": "Kiss Me!",
       "artist": "Noelia Featuring Baby Boy",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 14,
+        "Last Week": "-",
+        "Peak Position": 41,
         "Wks on Chart": 1
       }
     },
@@ -458,7 +458,7 @@
       "artist": "M83.",
       "position": {
         "Last Week": "51",
-        "Peak Position": 19,
+        "Peak Position": 46,
         "Wks on Chart": 1
       }
     },
@@ -467,8 +467,8 @@
       "title": "Changin'",
       "artist": "Chris Cox & DJ Tommy Rogers Featuring Peyton",
       "position": {
-        "Last Week": "--",
-        "Peak Position": 34,
+        "Last Week": "-",
+        "Peak Position": 47,
         "Wks on Chart": 1
       }
     },
@@ -478,7 +478,7 @@
       "artist": "Taio Cruz",
       "position": {
         "Last Week": "53",
-        "Peak Position": 31,
+        "Peak Position": 48,
         "Wks on Chart": 1
       }
     },
@@ -488,7 +488,7 @@
       "artist": "Sahara Davenport",
       "position": {
         "Last Week": "50",
-        "Peak Position": 35,
+        "Peak Position": 49,
         "Wks on Chart": 2
       }
     },
@@ -497,9 +497,54 @@
       "title": "Feel So Close",
       "artist": "Calvin Harris",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 33,
         "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Greyhound",
+      "artist": "Swedish House Mafia",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Zero Gravity",
+      "artist": "Kerli",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Takes All Night",
+      "artist": "Skye Stevens",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53
+      }
+    },
+    {
+      "rank": 54,
+      "title": "Don't Stop (Color On The Walls)",
+      "artist": "Foster The People",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "My Face",
+      "artist": "Tom Noize Featuring ST",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55
       }
     }
   ]

@@ -7,6 +7,7 @@
       "title": "Happier",
       "artist": "Marshmello & Bastille",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 11
       }
@@ -94,7 +95,12 @@
     {
       "rank": 10,
       "title": "Close To Me",
-      "artist": "Ellie Goulding X Diplo Featuring Swae Lee"
+      "artist": "Ellie Goulding X Diplo Featuring Swae Lee",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 11,
@@ -109,7 +115,12 @@
     {
       "rank": 12,
       "title": "Happy Now",
-      "artist": "Kygo Featuring Sandro Cavazza"
+      "artist": "Kygo Featuring Sandro Cavazza",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 12,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 13,
@@ -274,7 +285,12 @@
     {
       "rank": 29,
       "title": "Siren",
-      "artist": "The Chainsmokers & Aazar"
+      "artist": "The Chainsmokers & Aazar",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 29,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 30,
@@ -289,7 +305,12 @@
     {
       "rank": 31,
       "title": "Ever Again",
-      "artist": "Robyn"
+      "artist": "Robyn",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
@@ -384,7 +405,12 @@
     {
       "rank": 41,
       "title": "Remember",
-      "artist": "Gryffin With Zohara"
+      "artist": "Gryffin With Zohara",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 42,
@@ -419,12 +445,17 @@
     {
       "rank": 45,
       "title": "Breaking News",
-      "artist": "Louis The Child Featuring RAYE"
+      "artist": "Louis The Child Featuring RAYE",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,
       "title": "Just Got Paid",
-      "artist": "Sigala, Meghan Trainor, Ella Eyre & French Montana",
+      "artist": "Sigala., Meghan Trainor, Ella Eyre & French Montana",
       "position": {
         "Last Week": "40",
         "Peak Position": 24,
@@ -444,7 +475,7 @@
     {
       "rank": 48,
       "title": "Take You Down",
-      "artist": "Illenium",
+      "artist": "ILLENIUM",
       "position": {
         "Last Week": "38",
         "Peak Position": 23,
@@ -454,7 +485,12 @@
     {
       "rank": 49,
       "title": "Human Being",
-      "artist": "Robyn Featuring Zhala"
+      "artist": "Robyn Featuring Zhala",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 49,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 50,

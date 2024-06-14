@@ -7,6 +7,7 @@
       "title": "Natural",
       "artist": "Imagine Dragons",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 14
       }
@@ -44,7 +45,7 @@
     {
       "rank": 5,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "6",
         "Peak Position": 5,
@@ -234,7 +235,12 @@
     {
       "rank": 24,
       "title": "Can't Knock The Hustle",
-      "artist": "Weezer"
+      "artist": "Weezer",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 25,
@@ -279,7 +285,12 @@
     {
       "rank": 29,
       "title": "Pressure",
-      "artist": "Muse"
+      "artist": "Muse",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 29,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 30,
@@ -324,7 +335,7 @@
     {
       "rank": 34,
       "title": "Jumpsuit",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "26",
         "Peak Position": 1,
@@ -344,7 +355,12 @@
     {
       "rank": 36,
       "title": "Superposition",
-      "artist": "Young The Giant"
+      "artist": "Young The Giant",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 36,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 37,

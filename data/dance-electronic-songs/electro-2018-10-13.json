@@ -7,6 +7,7 @@
       "title": "Happier",
       "artist": "Marshmello & Bastille",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 7
       }
@@ -14,7 +15,12 @@
     {
       "rank": 2,
       "title": "Taki Taki",
-      "artist": "DJ Snake Featuring Selena Gomez, Ozuna & Cardi B"
+      "artist": "DJ Snake Featuring Selena Gomez, Ozuna & Cardi B",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 2,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 3,
@@ -289,17 +295,32 @@
     {
       "rank": 30,
       "title": "Tied Up",
-      "artist": "Major Lazer Featuring Mr. Eazi, RAYE & Jake Gosling"
+      "artist": "Major Lazer Featuring Mr. Eazi, RAYE & Jake Gosling",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,
       "title": "Diamond Heart",
-      "artist": "Alan Walker & Sophia Somajo"
+      "artist": "Alan Walker & Sophia Somajo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
       "title": "Honey",
-      "artist": "Robyn"
+      "artist": "Robyn",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 33,
@@ -314,7 +335,7 @@
     {
       "rank": 34,
       "title": "Just Got Paid",
-      "artist": "Sigala, Meghan Trainor, Ella Eyre & French Montana",
+      "artist": "Sigala., Meghan Trainor, Ella Eyre & French Montana",
       "position": {
         "Last Week": "31",
         "Peak Position": 24,
@@ -334,7 +355,7 @@
     {
       "rank": 36,
       "title": "Take You Down",
-      "artist": "Illenium",
+      "artist": "ILLENIUM",
       "position": {
         "Last Week": "36",
         "Peak Position": 23,
@@ -364,7 +385,12 @@
     {
       "rank": 39,
       "title": "I Want Your Love",
-      "artist": "Chic Featuring Lady Gaga"
+      "artist": "Chic Featuring Lady Gaga",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
@@ -399,7 +425,7 @@
     {
       "rank": 43,
       "title": "We Don't Care",
-      "artist": "Sigala & The Vamps",
+      "artist": "Sigala. & The Vamps",
       "position": {
         "Last Week": "48",
         "Peak Position": 27,
@@ -429,17 +455,32 @@
     {
       "rank": 46,
       "title": "Dancing With Strangers",
-      "artist": "Jaki Nelson"
+      "artist": "Jaki Nelson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
       "title": "Lay With Me",
-      "artist": "Phantoms Featuring Vanessa Hudgens"
+      "artist": "Phantoms Featuring Vanessa Hudgens",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,
       "title": "Jaleo",
-      "artist": "Nicky Jam & Steve Aoki"
+      "artist": "Nicky Jam & Steve Aoki",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 49,

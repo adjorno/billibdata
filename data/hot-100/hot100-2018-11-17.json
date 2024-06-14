@@ -7,6 +7,7 @@
       "title": "Thank U, Next",
       "artist": "Ariana Grande",
       "position": {
+        "Last Week": "-",
         "Peak Position": 1,
         "Wks on Chart": 1
       }
@@ -174,7 +175,7 @@
     {
       "rank": 18,
       "title": "Eastside",
-      "artist": "Benny Blanco, Halsey & Khalid",
+      "artist": "benny blanco, Halsey & Khalid",
       "position": {
         "Last Week": "18",
         "Peak Position": 18,
@@ -374,11 +375,16 @@
     {
       "rank": 38,
       "title": "Don't Come Out The House",
-      "artist": "Metro Boomin Featuring 21 Savage"
+      "artist": "Metro Boomin Featuring 21 Savage",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "37",
@@ -409,7 +415,12 @@
     {
       "rank": 42,
       "title": "10 Freaky Girls",
-      "artist": "Metro Boomin Featuring 21 Savage"
+      "artist": "Metro Boomin Featuring 21 Savage",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 43,
@@ -494,7 +505,12 @@
     {
       "rank": 51,
       "title": "Space Cadet",
-      "artist": "Metro Boomin Featuring Gunna"
+      "artist": "Metro Boomin Featuring Gunna",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 52,
@@ -599,7 +615,12 @@
     {
       "rank": 62,
       "title": "Overdue",
-      "artist": "Metro Boomin Featuring Travis Scott"
+      "artist": "Metro Boomin Featuring Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 62,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 63,
@@ -694,7 +715,12 @@
     {
       "rank": 72,
       "title": "Dreamcatcher",
-      "artist": "Metro Boomin Featuring Swae Lee & Travis Scott"
+      "artist": "Metro Boomin Featuring Swae Lee & Travis Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 72,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 73,
@@ -718,7 +744,7 @@
     },
     {
       "rank": 75,
-      "title": "W O R K I N  M E",
+      "title": "W O R K I N M E",
       "artist": "Quavo",
       "position": {
         "Last Week": "68",
@@ -759,7 +785,12 @@
     {
       "rank": 79,
       "title": "No More",
-      "artist": "Metro Boomin Featuring Travis Scott, Kodak Black & 21 Savage"
+      "artist": "Metro Boomin Featuring Travis Scott, Kodak Black & 21 Savage",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 79,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 80,
@@ -824,7 +855,12 @@
     {
       "rank": 86,
       "title": "Ella Quiere Beber",
-      "artist": "Anuel AA & Romeo Santos"
+      "artist": "Anuel AA & Romeo Santos",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 86,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 87,
@@ -929,7 +965,12 @@
     {
       "rank": 97,
       "title": "Consequences",
-      "artist": "Camila Cabello"
+      "artist": "Camila Cabello",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 97,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 98,
@@ -944,12 +985,22 @@
     {
       "rank": 99,
       "title": "Casper",
-      "artist": "TakeOff"
+      "artist": "TakeOff",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 99,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 100,
       "title": "Up To Something",
-      "artist": "Metro Boomin Featuring Travis Scott & Young Thug"
+      "artist": "Metro Boomin Featuring Travis Scott & Young Thug",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 100,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

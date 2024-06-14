@@ -7,6 +7,7 @@
       "title": "Trip",
       "artist": "Ella Mai",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 13
       }
@@ -14,7 +15,12 @@
     {
       "rank": 2,
       "title": "Arms Around You",
-      "artist": "XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee"
+      "artist": "XXXTENTACION x Lil Pump Featuring Maluma & Swae Lee",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 2,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 3,
@@ -89,7 +95,7 @@
     {
       "rank": 10,
       "title": "Saturday Nights",
-      "artist": "Khalid",
+      "artist": "Khalid & Kane Brown",
       "position": {
         "Last Week": "4",
         "Peak Position": 4,
@@ -99,7 +105,7 @@
     {
       "rank": 11,
       "title": "Girls Need Love",
-      "artist": "Summer Walker",
+      "artist": "Summer Walker X Drake",
       "position": {
         "Last Week": "11",
         "Peak Position": 11,
@@ -179,7 +185,12 @@
     {
       "rank": 19,
       "title": "Test Drive",
-      "artist": "Joji"
+      "artist": "Joji",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 20,

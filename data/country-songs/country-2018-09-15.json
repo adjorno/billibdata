@@ -7,6 +7,7 @@
       "title": "Meant To Be",
       "artist": "Bebe Rexha & Florida Georgia Line",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 41
       }
@@ -113,7 +114,7 @@
     },
     {
       "rank": 12,
-      "title": "She Got The Best Of Me ",
+      "title": "She Got The Best Of Me",
       "artist": "Luke Combs",
       "position": {
         "Last Week": "13",
@@ -294,7 +295,12 @@
     {
       "rank": 30,
       "title": "Love Wins",
-      "artist": "Carrie Underwood"
+      "artist": "Carrie Underwood",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,
@@ -429,7 +435,12 @@
     {
       "rank": 44,
       "title": "Rumor",
-      "artist": "Lee Brice"
+      "artist": "Lee Brice",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 45,

@@ -7,6 +7,7 @@
       "title": "In My Feelings",
       "artist": "Drake",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 3
       }
@@ -204,7 +205,12 @@
     {
       "rank": 21,
       "title": "Summertime Magic",
-      "artist": "Childish Gambino"
+      "artist": "Childish Gambino",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 22,
@@ -269,7 +275,12 @@
     {
       "rank": 28,
       "title": "Wasted",
-      "artist": "Juice WRLD Featuring Lil Uzi Vert"
+      "artist": "Juice WRLD Featuring Lil Uzi Vert",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 28,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 29,
@@ -284,12 +295,22 @@
     {
       "rank": 30,
       "title": "Hopeless Romantic",
-      "artist": "Wiz Khalifa Featuring Swae Lee"
+      "artist": "Wiz Khalifa Featuring Swae Lee",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 31,
       "title": "Fr Fr",
-      "artist": "Wiz Khalifa Featuring Lil Skies"
+      "artist": "Wiz Khalifa Featuring Lil Skies",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 32,
@@ -364,7 +385,12 @@
     {
       "rank": 39,
       "title": "1942",
-      "artist": "G-Eazy Featuring Yo Gotti & YBN Nahmir"
+      "artist": "G-Eazy Featuring Yo Gotti & YBN Nahmir",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 39,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 40,
@@ -439,7 +465,12 @@
     {
       "rank": 47,
       "title": "Lie",
-      "artist": "NF"
+      "artist": "NF",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 47,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 48,

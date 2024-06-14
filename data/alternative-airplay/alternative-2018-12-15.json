@@ -7,6 +7,7 @@
       "title": "High Hopes",
       "artist": "Panic! At The Disco",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 20
       }
@@ -24,7 +25,7 @@
     {
       "rank": 3,
       "title": "My Blood",
-      "artist": "twenty one pilots",
+      "artist": "Twenty One Pilots",
       "position": {
         "Last Week": "3",
         "Peak Position": 3,
@@ -324,7 +325,12 @@
     {
       "rank": 33,
       "title": "Trampoline",
-      "artist": "SHAED"
+      "artist": "SHAED",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 33,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 34,
@@ -389,7 +395,12 @@
     {
       "rank": 40,
       "title": "Thru These Tears",
-      "artist": "LANY"
+      "artist": "LANY",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 40,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

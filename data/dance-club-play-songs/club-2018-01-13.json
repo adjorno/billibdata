@@ -447,7 +447,7 @@
       "title": "Love Dealer",
       "artist": "Ryan Brahms",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 45,
         "Wks on Chart": 1
       }
@@ -475,9 +475,9 @@
     {
       "rank": 48,
       "title": "We Can Feel It",
-      "artist": "DaDa NaDa",
+      "artist": "Dada Nada",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 48,
         "Wks on Chart": 1
       }
@@ -487,7 +487,7 @@
       "title": "Blaze The Dance Floor",
       "artist": "JoAnna Michelle",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 49,
         "Wks on Chart": 1
       }
@@ -497,9 +497,54 @@
       "title": "Too Late",
       "artist": "Azure",
       "position": {
-        "Last Week": "--",
+        "Last Week": "-",
         "Peak Position": 50,
         "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Crazy Enough",
+      "artist": "Joe Bermudez Featuring Louise Carver",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 51
+      }
+    },
+    {
+      "rank": 52,
+      "title": "Breathe",
+      "artist": "Jax Jones Featuring Ina Wroldsen",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 52
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Personal",
+      "artist": "WesT",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 53
+      }
+    },
+    {
+      "rank": 54,
+      "title": "A Love Bizarre",
+      "artist": "Russ Rich Featuring Debby Holiday",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 54
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Take Her Place",
+      "artist": "Don Diablo Featuring A R I Z O N A",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 55
       }
     }
   ]

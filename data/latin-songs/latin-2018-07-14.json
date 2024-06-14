@@ -85,7 +85,12 @@
     {
       "rank": 9,
       "title": "Estamos Bien",
-      "artist": "Bad Bunny"
+      "artist": "Bad Bunny",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 9,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 10,
@@ -130,7 +135,7 @@
     {
       "rank": 14,
       "title": "Dame Tu Cosita",
-      "artist": "El Chombo Featuring Cutty Ranks",
+      "artist": "Pitbull x El Chombo x Karol G Featuring Cutty Ranks",
       "position": {
         "Last Week": "8",
         "Peak Position": 1,
@@ -160,7 +165,7 @@
     {
       "rank": 17,
       "title": "Mi Cama",
-      "artist": "Karol G & J Balvin Feauring Nicky Jam",
+      "artist": "Karol G & J Balvin Featuring Nicky Jam",
       "position": {
         "Last Week": "17",
         "Peak Position": 17,
@@ -180,7 +185,7 @@
     {
       "rank": 19,
       "title": "El Clavo",
-      "artist": "Prince Royce",
+      "artist": "Prince Royce Featuring Maluma",
       "position": {
         "Last Week": "20",
         "Peak Position": 15,
@@ -230,7 +235,7 @@
     {
       "rank": 24,
       "title": "Asesina",
-      "artist": "Brytiago X Darell",
+      "artist": "Brytiago / Darell / Daddy Yankee / Ozuna / Anuel AA",
       "position": {
         "Last Week": "26",
         "Peak Position": 24,
@@ -260,7 +265,7 @@
     {
       "rank": 27,
       "title": "Calypso",
-      "artist": "Luis Fonsi & Stefflon Don",
+      "artist": "Luis Fonsi & Stefflon Don Or Karol G",
       "position": {
         "Last Week": "30",
         "Peak Position": 23,
@@ -280,7 +285,12 @@
     {
       "rank": 29,
       "title": "Vaina Loca",
-      "artist": "Ozuna x Manuel Turizo"
+      "artist": "Ozuna x Manuel Turizo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 29,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 30,
@@ -355,7 +365,12 @@
     {
       "rank": 37,
       "title": "Original",
-      "artist": "Arcangel X Bad Bunny"
+      "artist": "Arcangel X Bad Bunny",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 38,
@@ -420,17 +435,32 @@
     {
       "rank": 44,
       "title": "En El Camino",
-      "artist": "El Fantasma"
+      "artist": "El Fantasma",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 44,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 45,
       "title": "Pa Dentro",
-      "artist": "Juanes"
+      "artist": "Juanes",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 46,
       "title": "El Que A Ti Te Gusta",
-      "artist": "Voz de Mando"
+      "artist": "Voz de Mando",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 47,
@@ -465,7 +495,12 @@
     {
       "rank": 50,
       "title": "Privilegio",
-      "artist": "Banda Rancho Viejo de Julio Aramburo La Bandononon Desde El Ion de Los Peraza"
+      "artist": "Banda Rancho Viejo de Julio Aramburo La Bandononon Desde El Ion de Los Peraza",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 50,
+        "Wks on Chart": 1
+      }
     }
   ]
 }

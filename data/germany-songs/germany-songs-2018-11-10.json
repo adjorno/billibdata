@@ -15,17 +15,32 @@
     {
       "rank": 2,
       "title": "Allein",
-      "artist": "Capital Bra"
+      "artist": "Capital Bra",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 2,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 3,
       "title": "Meer",
-      "artist": "Luciano"
+      "artist": "Luciano",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 3,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 4,
       "title": "Ich liebe es",
-      "artist": "Capital Bra Featuring XATAR & Samy"
+      "artist": "Capital Bra Featuring XATAR & Samy",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 4,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 5,
@@ -50,7 +65,7 @@
     {
       "rank": 7,
       "title": "500 PS",
-      "artist": "Bonez MC & Raf Camora",
+      "artist": "Bonez MC & RAF Camora",
       "position": {
         "Last Week": "5",
         "Peak Position": 1,

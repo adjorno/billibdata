@@ -7,6 +7,7 @@
       "title": "You Say",
       "artist": "Lauren Daigle",
       "position": {
+        "Last Week": "1",
         "Peak Position": 1,
         "Wks on Chart": 11
       }
@@ -44,7 +45,12 @@
     {
       "rank": 5,
       "title": "Head Above Water",
-      "artist": "Avril Lavigne"
+      "artist": "Avril Lavigne",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 5,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 6,
@@ -279,7 +285,12 @@
     {
       "rank": 29,
       "title": "Cover The Earth",
-      "artist": "Kari Jobe & Cody Carnes"
+      "artist": "Kari Jobe & Cody Carnes",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 29,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 30,
@@ -364,12 +375,17 @@
     {
       "rank": 38,
       "title": "Survivor",
-      "artist": "Zach Williams"
+      "artist": "Zach Williams",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
     },
     {
       "rank": 39,
       "title": "Forever On Your Side",
-      "artist": "NEEDTOBREATHE Featuring JOHNNYSWIM",
+      "artist": "NEEDTOBREATHE",
       "position": {
         "Last Week": "41",
         "Peak Position": 19,
