@@ -1,0 +1,906 @@
+{
+  "name": "Canada",
+  "chart_date": "2025-07-12",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 21
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Pink Pony Club",
+      "artist": "Chappell Roan",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 44
+      }
+    },
+    {
+      "rank": 3,
+      "title": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 64
+      }
+    },
+    {
+      "rank": 4,
+      "title": "What I Want",
+      "artist": "Morgan Wallen Featuring Tate McRae",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 7
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Manchild",
+      "artist": "Sabrina Carpenter",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 4
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 76
+      }
+    },
+    {
+      "rank": 7,
+      "title": "I Had Some Help",
+      "artist": "Post Malone Featuring Morgan Wallen",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 60
+      }
+    },
+    {
+      "rank": 8,
+      "title": "At Peace",
+      "artist": "Karan Aujla",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 9,
+      "title": "APT.",
+      "artist": "ROSE & Bruno Mars",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 37
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Sorry I'm Here For Someone Else",
+      "artist": "Benson Boone",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 18
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Just In Case",
+      "artist": "Morgan Wallen",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 15
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Love Me Not",
+      "artist": "Ravyn Lenae",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 18
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 46
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Azizam",
+      "artist": "Ed Sheeran",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 13
+      }
+    },
+    {
+      "rank": 15,
+      "title": "That's So True",
+      "artist": "Gracie Abrams",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 37
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Lose Control",
+      "artist": "Teddy Swims",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 91
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Messy",
+      "artist": "Lola Young",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 32
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Good News",
+      "artist": "Shaboozey",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 33
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Sports Car",
+      "artist": "Tate McRae",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 23
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Birds Of A Feather",
+      "artist": "Billie Eilish",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 59
+      }
+    },
+    {
+      "rank": 21,
+      "title": "I'm The Problem",
+      "artist": "Morgan Wallen",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 22
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 67
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Golden",
+      "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 2
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Just Keep Watching",
+      "artist": "Tate McRae",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 5
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Nokia",
+      "artist": "Drake",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 20
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Mystical Magical",
+      "artist": "Benson Boone",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 10
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Blue Strips",
+      "artist": "jessie murph",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 12
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Shake It To The Max (Fly)",
+      "artist": "MOLIY, Silent Addy, Skillibeng & Shenseea",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 12
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Worst Way",
+      "artist": "Riley Green",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 34
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Luther",
+      "artist": "Kendrick Lamar & SZA",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 32
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Love Somebody",
+      "artist": "Morgan Wallen",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 37
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Back To Friends",
+      "artist": "sombr",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 15
+      }
+    },
+    {
+      "rank": 33,
+      "title": "All The Way",
+      "artist": "BigXthaPlug Featuring Bailey Zimmerman",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 13
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Your Idol",
+      "artist": "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 2
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Bad Dreams",
+      "artist": "Teddy Swims",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 40
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Weren't For The Wind",
+      "artist": "Ella Langley",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 27
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Undressed",
+      "artist": "sombr",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 15
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Abracadabra",
+      "artist": "Lady Gaga",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 22
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Backup Plan",
+      "artist": "Bailey Zimmerman & Luke Combs",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 9
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Quitter",
+      "artist": "Cameron Whitcomb",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 34
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Rock That Body",
+      "artist": "The Black Eyed Peas",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 23
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Nice To Meet You",
+      "artist": "Myles Smith",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 23
+      }
+    },
+    {
+      "rank": 43,
+      "title": "How It's Done",
+      "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 2
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Soda Pop",
+      "artist": "Saja Boys: Andrew Choi, Neckwav, Danny Chung, Kevin Woo & samUIL Lee",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 2
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Bloodline",
+      "artist": "Alex Warren With Jelly Roll",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 6
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Anxiety",
+      "artist": "Doechii",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 17
+      }
+    },
+    {
+      "rank": 47,
+      "title": "I Got Better",
+      "artist": "Morgan Wallen",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 7
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Timeless",
+      "artist": "The Weeknd & Playboi Carti",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 40
+      }
+    },
+    {
+      "rank": 49,
+      "title": "No Broke Boys",
+      "artist": "Disco Lines & Tinashe",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 4
+      }
+    },
+    {
+      "rank": 50,
+      "title": "What It Sounds Like",
+      "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 2
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Sapphire",
+      "artist": "Ed Sheeran",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 4
+      }
+    },
+    {
+      "rank": 52,
+      "title": "6 Months Later",
+      "artist": "Megan Moroney",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 2
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Twilight Zone",
+      "artist": "Ariana Grande",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 14
+      }
+    },
+    {
+      "rank": 54,
+      "title": "After All The Bars Are Closed",
+      "artist": "Thomas Rhett",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 8
+      }
+    },
+    {
+      "rank": 55,
+      "title": "Free",
+      "artist": "Rumi, JINU, EJAE & Andrew Choi",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 56,
+      "title": "Party 4 U",
+      "artist": "Charli xcx",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 11
+      }
+    },
+    {
+      "rank": 57,
+      "title": "Happen To Me",
+      "artist": "Russell Dickerson",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 7
+      }
+    },
+    {
+      "rank": 58,
+      "title": "Show Me Love",
+      "artist": "WizTheMc",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 17
+      }
+    },
+    {
+      "rank": 59,
+      "title": "Amen",
+      "artist": "Shaboozey & Jelly Roll",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 10
+      }
+    },
+    {
+      "rank": 60,
+      "title": "On My Mind",
+      "artist": "Alex Warren & ROSE",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 61,
+      "title": "Takedown",
+      "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 62,
+      "title": "I Ain't Coming Back",
+      "artist": "Morgan Wallen Featuring Post Malone",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 11
+      }
+    },
+    {
+      "rank": 63,
+      "title": "Gabriela",
+      "artist": "KATSEYE",
+      "position": {
+        "Last Week": "57",
+        "Peak Position": 2
+      }
+    },
+    {
+      "rank": 64,
+      "title": "20 Cigarettes",
+      "artist": "Morgan Wallen",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 7
+      }
+    },
+    {
+      "rank": 65,
+      "title": "Revolving Door",
+      "artist": "Tate McRae",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 19
+      }
+    },
+    {
+      "rank": 66,
+      "title": "Superman",
+      "artist": "Morgan Wallen",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 8
+      }
+    },
+    {
+      "rank": 67,
+      "title": "Drunk Right Now (Na Na Na)",
+      "artist": "Josh Ross & Akon",
+      "position": {
+        "Last Week": "67",
+        "Peak Position": 5
+      }
+    },
+    {
+      "rank": 68,
+      "title": "What Was That",
+      "artist": "Lorde",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 7
+      }
+    },
+    {
+      "rank": 69,
+      "title": "Dark Thoughts",
+      "artist": "Lil Tecca",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 16
+      }
+    },
+    {
+      "rank": 70,
+      "title": "Better Me For You (Brown Eyes)",
+      "artist": "Max McNown",
+      "position": {
+        "Last Week": "66",
+        "Peak Position": 11
+      }
+    },
+    {
+      "rank": 71,
+      "title": "TN",
+      "artist": "Morgan Wallen",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 7
+      }
+    },
+    {
+      "rank": 72,
+      "title": "Check",
+      "artist": "bbno$",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 15
+      }
+    },
+    {
+      "rank": 73,
+      "title": "Courtside",
+      "artist": "Karan Aujla X SB",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 8
+      }
+    },
+    {
+      "rank": 74,
+      "title": "Gnarly",
+      "artist": "KATSEYE",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 9
+      }
+    },
+    {
+      "rank": 75,
+      "title": "Mutt",
+      "artist": "Leon Thomas",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 19
+      }
+    },
+    {
+      "rank": 76,
+      "title": "OWA OWA",
+      "artist": "Lil Tecca",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 5
+      }
+    },
+    {
+      "rank": 77,
+      "title": "Cliche",
+      "artist": "MGK",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 6
+      }
+    },
+    {
+      "rank": 78,
+      "title": "One Thing",
+      "artist": "Lola Young",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 6
+      }
+    },
+    {
+      "rank": 79,
+      "title": "Shapeshifter",
+      "artist": "Lorde",
+      "position": {
+        "Last Week": "79",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 80,
+      "title": "Sparks",
+      "artist": "Coldplay",
+      "position": {
+        "Last Week": "73",
+        "Peak Position": 4
+      }
+    },
+    {
+      "rank": 81,
+      "title": "Touch Me Like A Gangster",
+      "artist": "jessie murph",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 4
+      }
+    },
+    {
+      "rank": 82,
+      "title": "FWU",
+      "artist": "Don Toliver",
+      "position": {
+        "Last Week": "82",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 83,
+      "title": "Takedown",
+      "artist": "JEONGYEON, JIHYO & CHAEYOUNG Of TWICE",
+      "position": {
+        "Last Week": "83",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 84,
+      "title": "Brunette",
+      "artist": "Tucker Wetmore",
+      "position": {
+        "Last Week": "73",
+        "Peak Position": 10
+      }
+    },
+    {
+      "rank": 85,
+      "title": "Fame Is A Gun",
+      "artist": "Addison Rae",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 5
+      }
+    },
+    {
+      "rank": 86,
+      "title": "I'm A Little Crazy",
+      "artist": "Morgan Wallen",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 15
+      }
+    },
+    {
+      "rank": 87,
+      "title": "Never Met Anyone Like You.. .",
+      "artist": "Ella Langley & HARDY",
+      "position": {
+        "Last Week": "87",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 88,
+      "title": "Illegal",
+      "artist": "PinkPantheress",
+      "position": {
+        "Last Week": "88",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 89,
+      "title": "Die Trying",
+      "artist": "PARTYNEXTDOOR, Drake & Yebba",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 20
+      }
+    },
+    {
+      "rank": 90,
+      "title": "Gameboy",
+      "artist": "KATSEYE",
+      "position": {
+        "Last Week": "90",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 91,
+      "title": "Body.",
+      "artist": "Shawn Desman x Jamie Fine",
+      "position": {
+        "Last Week": "85",
+        "Peak Position": 7
+      }
+    },
+    {
+      "rank": 92,
+      "title": "Survive",
+      "artist": "Lewis Capaldi",
+      "position": {
+        "Last Week": "92",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 93,
+      "title": "His Problem Instead",
+      "artist": "Alexander Stewart",
+      "position": {
+        "Last Week": "72",
+        "Peak Position": 15
+      }
+    },
+    {
+      "rank": 94,
+      "title": "Home",
+      "artist": "BigXthaPlug Featuring Shaboozey",
+      "position": {
+        "Last Week": "94",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 95,
+      "title": "Fix What You Didn't Break",
+      "artist": "Nate Smith",
+      "position": {
+        "Last Week": "83",
+        "Peak Position": 7
+      }
+    },
+    {
+      "rank": 96,
+      "title": "Lose My Mind",
+      "artist": "Don Toliver Featuring Doja Cat",
+      "position": {
+        "Last Week": "96",
+        "Peak Position": 2
+      }
+    },
+    {
+      "rank": 97,
+      "title": "Victory Lap",
+      "artist": "Fred again.., Skepta, PlaqueBoyMax",
+      "position": {
+        "Last Week": "75",
+        "Peak Position": 2
+      }
+    },
+    {
+      "rank": 98,
+      "title": "Dark Til Daylight",
+      "artist": "Morgan Wallen",
+      "position": {
+        "Last Week": "54",
+        "Peak Position": 7
+      }
+    },
+    {
+      "rank": 99,
+      "title": "Park",
+      "artist": "Tyler Hubbard",
+      "position": {
+        "Last Week": "89",
+        "Peak Position": 2
+      }
+    },
+    {
+      "rank": 100,
+      "title": "Let Down",
+      "artist": "Radiohead",
+      "position": {
+        "Last Week": "82",
+        "Peak Position": 4
+      }
+    }
+  ]
+}
