@@ -1,0 +1,506 @@
+{
+  "name": "Rock",
+  "chart_date": "2025-05-10",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Birds Of A Feather",
+      "artist": "Billie Eilish",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 50
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Messy",
+      "artist": "Lola Young",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 2,
+        "Wks on Chart": 27
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 58
+      }
+    },
+    {
+      "rank": 4,
+      "title": "No One Noticed",
+      "artist": "The Marias",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 4,
+        "Wks on Chart": 40
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Stargazing",
+      "artist": "Myles Smith",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 51
+      }
+    },
+    {
+      "rank": 6,
+      "title": "What Was That",
+      "artist": "Lorde",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 6,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Liar",
+      "artist": "Jelly Roll",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 5,
+        "Wks on Chart": 39
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Sailor Song",
+      "artist": "Gigi Perez",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 3,
+        "Wks on Chart": 40
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Wildflower",
+      "artist": "Billie Eilish",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 4,
+        "Wks on Chart": 50
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Hard Fought Hallelujah",
+      "artist": "Brandon Lake X Jelly Roll",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Damocles",
+      "artist": "Sleep Token",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 11,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Back To Friends",
+      "artist": "sombr",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 9,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Undressed",
+      "artist": "sombr",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 11,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Steve's Lava Chicken",
+      "artist": "Jack Black",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Caramel",
+      "artist": "Sleep Token",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 6,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Ribs",
+      "artist": "Lorde",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 16,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Headlock",
+      "artist": "Imogen Heap",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 9,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Emergence",
+      "artist": "Sleep Token",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 7,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Champagne Coast",
+      "artist": "Blood Orange",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Nice To Meet You",
+      "artist": "Myles Smith",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 13,
+        "Wks on Chart": 25
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Chest Pain (I Love)",
+      "artist": "Malcolm Todd",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 10,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Spring Into Summer",
+      "artist": "Lizzy McAlpine",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 18,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 23,
+      "title": "We Are The People",
+      "artist": "Empire Of The Sun",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 16,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Nobody New",
+      "artist": "The Marias",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 18,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 25,
+      "title": "We Hug Now",
+      "artist": "Sydney Rose",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 12,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 26,
+      "title": "A Lot More Free",
+      "artist": "Max McNown",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 15,
+        "Wks on Chart": 36
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Sally, When The Wine Runs Out",
+      "artist": "Role Model",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 18,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Back To Me",
+      "artist": "The Marias",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 13,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Dear Miss",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 12,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Bad State Of Mind",
+      "artist": "Treaty Oak Revival",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 10,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Peacefield",
+      "artist": "Ghost",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Doubt",
+      "artist": "Twenty One Pilots",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 23,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Up From The Bottom",
+      "artist": "Linkin Park",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 15,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Heart Of Stone",
+      "artist": "Jelly Roll",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 32,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Blue Jean Baby",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 10,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Blue",
+      "artist": "yung kai",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 26,
+        "Wks on Chart": 18
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Can't Slow Down",
+      "artist": "almost monday",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 37,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Unshatter",
+      "artist": "Linkin Park",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Pushing It Down And Praying",
+      "artist": "Lizzy McAlpine",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 37,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Do I Wanna Know? (Live At The BBC)",
+      "artist": "Hozier",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 13,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Is This Really Love?",
+      "artist": "d4vd",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 41,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Three Six Five",
+      "artist": "Shinedown",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 34,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Afterlife",
+      "artist": "Evanescence",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 29,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Crashing",
+      "artist": "d4vd & Kali Uchis",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 16,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Neverender",
+      "artist": "Justice & Tame Impala",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 36,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Henry, Come On",
+      "artist": "Lana Del Rey",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 14,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Lachryma",
+      "artist": "Ghost",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Satanized",
+      "artist": "Ghost",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 49,
+      "title": "August 10",
+      "artist": "Julie Doiron",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 15,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Lejos de Ti",
+      "artist": "The Marias",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 44,
+        "Wks on Chart": 9
+      }
+    }
+  ]
+}
