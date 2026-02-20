@@ -1,0 +1,506 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "2026-02-21",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "I Just Might",
+      "artist": "Bruno Mars",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Folded",
+      "artist": "Kehlani",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 35
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Two Six",
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 3,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Yukon",
+      "artist": "Justin Bieber",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 3,
+        "Wks on Chart": 31
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Mutt",
+      "artist": "Leon Thomas",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 1,
+        "Wks on Chart": 57
+      }
+    },
+    {
+      "rank": 6,
+      "title": "E85",
+      "artist": "Don Toliver",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Body",
+      "artist": "Don Toliver",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 8,
+      "title": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Safety",
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 9,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Poor Thang",
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 10,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Who TF Iz U",
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 11,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Run A Train",
+      "artist": "J. Cole & Future",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 12,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Bunce Road Blues",
+      "artist": "J. Cole, Tems & Future",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 13,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Legacy",
+      "artist": "J. Cole & PJ",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 14,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 15,
+      "title": "The Let Out",
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 15,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 16,
+      "title": "It Depends",
+      "artist": "Chris Brown Featuring Bryson Tiller",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 3,
+        "Wks on Chart": 29
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Drum N Bass",
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 17,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Let 'Em Know",
+      "artist": "T.I.",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 18,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Bombs In The Ville/Hit The Gas",
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 19,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Secondhand",
+      "artist": "Don Toliver Featuring Rema",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 9,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 21,
+      "title": "ATM",
+      "artist": "Don Toliver",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Old Dog",
+      "artist": "J. Cole & Petey Pablo",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 22,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 23,
+      "title": "The Fall-Off Is Inevitable",
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 23,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 24,
+      "title": "The Villest",
+      "artist": "J. Cole & Erykah Badu",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 24,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Life Sentence",
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 25,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Lonely At The Top",
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 26,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Rendezvous",
+      "artist": "Don Toliver Featuring Yeat",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 10,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Only You",
+      "artist": "J. Cole & Burna Boy",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 28,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Tiramisu",
+      "artist": "Don Toliver",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 12,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Gemstone",
+      "artist": "Don Toliver",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 16,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 31,
+      "title": "I Love Her Again",
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 31,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Call Back",
+      "artist": "Don Toliver",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Excavator",
+      "artist": "Don Toliver",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 34,
+      "title": "4 Raws",
+      "artist": "EsDeeKid",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 8,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 35,
+      "title": "FDO",
+      "artist": "Pooh Shiesty",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 1,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Rosary",
+      "artist": "Don Toliver Featuring Travis Scott",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 13,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Man Up Above",
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Quik Stop",
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 38,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Who Knows",
+      "artist": "Daniel Caesar",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 15,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Pop Dat Thang",
+      "artist": "DaBaby",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 23,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Opposite",
+      "artist": "Don Toliver",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 18,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 42,
+      "title": "What If",
+      "artist": "J. Cole & Morray",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 42,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Mrs. Trendsetter",
+      "artist": "Lil Baby",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 20,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Stay Here 4 Life",
+      "artist": "A$AP Rocky Featuring Brent Faiyaz",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 7,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 45,
+      "title": "And The Whole World Is The Ville",
+      "artist": "J. Cole",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Tuition",
+      "artist": "Don Toliver",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 47,
+      "title": "BOO",
+      "artist": "H3adband",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 19,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Bruce Wayne",
+      "artist": "YoungBoy Never Broke Again",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 16,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 49,
+      "title": "TMU",
+      "artist": "Don Toliver",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 27,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Feeling On My Body (Remix)",
+      "artist": "Taffy & PLUTO",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 31,
+        "Wks on Chart": 4
+      }
+    }
+  ]
+}
