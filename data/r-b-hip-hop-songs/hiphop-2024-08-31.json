@@ -1,0 +1,506 @@
+{
+  "name": "Hip-Hop",
+  "chart_date": "2024-08-31",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Million Dollar Baby",
+      "artist": "Tommy Richman",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Saturn",
+      "artist": "SZA",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 26
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Like That",
+      "artist": "Future, Metro Boomin & Kendrick Lamar",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Kehlani",
+      "artist": "Jordan Adetunji",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 5,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Big Dawgs",
+      "artist": "Hanumankind X Kalmi",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Houdini",
+      "artist": "Eminem",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 1,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Wanna Be",
+      "artist": "GloRilla & Megan Thee Stallion",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 5,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 9,
+      "title": "TGIF",
+      "artist": "GloRilla",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 7,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 10,
+      "title": "It's Up",
+      "artist": "Drake, Young Thug & 21 Savage",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Mamushi",
+      "artist": "Megan Thee Stallion Featuring Yuki Chiba",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 7,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 12,
+      "title": "One Of Wun",
+      "artist": "Gunna",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 9,
+        "Wks on Chart": 15
+      }
+    },
+    {
+      "rank": 13,
+      "title": "BAND4BAND",
+      "artist": "Central Cee & Lil Baby",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 6,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Help Me",
+      "artist": "Real Boston Richey",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 14,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 15,
+      "title": "Type Shit",
+      "artist": "Future, Metro Boomin, Travis Scott & Playboi Carti",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 2,
+        "Wks on Chart": 22
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Nasty",
+      "artist": "Tinashe",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 15,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Devil Is A Lie",
+      "artist": "Tommy Richman",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 9,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Get It Sexyy",
+      "artist": "Sexyy Red",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 6,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 19,
+      "title": "U My Everything",
+      "artist": "Sexyy Red & Drake",
+      "position": {
+        "Last Week": "21",
+        "Peak Position": 12,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Hate Me",
+      "artist": "Lil Yachty & ian",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 18,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Parking Lot",
+      "artist": "Mustard & Travis Scott",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 17,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Residuals",
+      "artist": "Chris Brown",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 22,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Blue Green Red",
+      "artist": "Drake",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 15,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Field Trip",
+      "artist": "¥$: Kanye West & Ty Dolla $ign Featuring Playboi Carti, Kodak Black & Don Toliver",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 10,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Prove It",
+      "artist": "21 Savage & Summer Walker",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 19,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Euphoria",
+      "artist": "Kendrick Lamar",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 3,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Sorry Not Sorry",
+      "artist": "Lil Yachty & Veeze",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 27,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Okay",
+      "artist": "JT",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 22,
+        "Wks on Chart": 17
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Did It First",
+      "artist": "Ice Spice & Central Cee",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 10,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Big Mama",
+      "artist": "Latto",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 31,
+      "title": "No Chill",
+      "artist": "PARTYNEXTDOOR",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 30,
+        "Wks on Chart": 12
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Shake Dat Ass (Twerk Song)",
+      "artist": "BossMan DLow",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 30,
+        "Wks on Chart": 7
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Magic Johnson",
+      "artist": "ian",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 25,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Housekeeping Knows",
+      "artist": "Drake Featuring Latto",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Brokey",
+      "artist": "Latto",
+      "position": {
+        "Last Week": "43",
+        "Peak Position": 35,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 36,
+      "title": "Highjack",
+      "artist": "A$AP Rocky Featuring Jessica Pratt",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 26,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 37,
+      "title": "After Hours",
+      "artist": "Kehlani",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 21,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Texas",
+      "artist": "BigXthaPlug",
+      "position": {
+        "Last Week": "39",
+        "Peak Position": 38,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Slut Me Out 2",
+      "artist": "NLE Choppa",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 37,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Here We Go (Uh Oh)",
+      "artist": "Coco Jones",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 40,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Tobey",
+      "artist": "Eminem, Big Sean & BabyTron",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 7,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Levels",
+      "artist": "BigXthaPlug",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 42,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Back On My BS",
+      "artist": "BigXthaPlug",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 35,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 44,
+      "title": "PJ",
+      "artist": "BossMan DLow & Lil Baby",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 28,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 45,
+      "title": "2 Slippery",
+      "artist": "Luh Tyler Featuring BossMan DLow",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 45,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Drink Don't Need No Mix",
+      "artist": "Shaboozey Featuring BigXthaPlug",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 45,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 47,
+      "title": "ss",
+      "artist": "Ken Carson",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 27,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Nani",
+      "artist": "Saweetie",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 49,
+      "title": "I Smoked Away My Brain (I'm God X Demons Mashup)",
+      "artist": "A$AP Rocky Featuring Imogen Heap & Clams Casino",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 46,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Talk My Shit",
+      "artist": "BossMan DLow",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 30,
+        "Wks on Chart": 16
+      }
+    }
+  ]
+}
