@@ -1,0 +1,506 @@
+{
+  "name": "Country",
+  "chart_date": "2024-07-27",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 1,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 2,
+      "title": "I Had Some Help",
+      "artist": "Post Malone Featuring Morgan Wallen",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 1,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Lies Lies Lies",
+      "artist": "Morgan Wallen",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 3,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Cowgirls",
+      "artist": "Morgan Wallen Featuring ERNEST",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 3,
+        "Wks on Chart": 42
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Pink Skies",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 3,
+        "Wks on Chart": 8
+      }
+    },
+    {
+      "rank": 6,
+      "title": "28",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 5,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Miles On It",
+      "artist": "Marshmello & Kane Brown",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 4,
+        "Wks on Chart": 11
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Austin",
+      "artist": "Dasha",
+      "position": {
+        "Last Week": "10",
+        "Peak Position": 3,
+        "Wks on Chart": 20
+      }
+    },
+    {
+      "rank": 9,
+      "title": "High Road",
+      "artist": "Koe Wetzel & Jessie Murph",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 8,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 10,
+      "title": "I Remember Everything",
+      "artist": "Zach Bryan Featuring Kacey Musgraves",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 1,
+        "Wks on Chart": 47
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Ain't No Love In Oklahoma",
+      "artist": "Luke Combs",
+      "position": {
+        "Last Week": "13",
+        "Peak Position": 4,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Pour Me A Drink",
+      "artist": "Post Malone Featuring Blake Shelton",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 3,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 13,
+      "title": "Whiskey Whiskey",
+      "artist": "Moneybagg Yo Featuring Morgan Wallen",
+      "position": {
+        "Last Week": "12",
+        "Peak Position": 6,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 14,
+      "title": "I Am Not Okay",
+      "artist": "Jelly Roll",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 10,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 15,
+      "title": "You Look Like You Love Me",
+      "artist": "Ella Langley Featuring Riley Green",
+      "position": {
+        "Last Week": "16",
+        "Peak Position": 13,
+        "Wks on Chart": 4
+      }
+    },
+    {
+      "rank": 16,
+      "title": "Bulletproof",
+      "artist": "Nate Smith",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 10,
+        "Wks on Chart": 23
+      }
+    },
+    {
+      "rank": 17,
+      "title": "American Nights",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 8,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Dirt Cheap",
+      "artist": "Cody Johnson",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 14,
+        "Wks on Chart": 37
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Wind Up Missin' You",
+      "artist": "Tucker Wetmore",
+      "position": {
+        "Last Week": "29",
+        "Peak Position": 11,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 20,
+      "title": "Better Days",
+      "artist": "Zach Bryan Featuring John Mayer",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 17,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Indifferent",
+      "artist": "Megan Moroney",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 21,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Chevrolet",
+      "artist": "Dustin Lynch Featuring Jelly Roll",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 22,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Hang Tight Honey",
+      "artist": "Lainey Wilson",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 23,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 24,
+      "title": "Oak Island",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 18,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Bass Boat",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 24,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 26,
+      "title": "Think I'm In Love With You",
+      "artist": "Chris Stapleton",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 12,
+        "Wks on Chart": 35
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Beautiful As You",
+      "artist": "Thomas Rhett",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 22,
+        "Wks on Chart": 10
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Sweet Dreams",
+      "artist": "Koe Wetzel",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 10,
+        "Wks on Chart": 9
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Sandpaper",
+      "artist": "Zach Bryan Featuring Bruce Springsteen",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 26,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Am I Okay?",
+      "artist": "Megan Moroney",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Cowboys Cry Too",
+      "artist": "Kelsea Ballerini & Noah Kahan",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 16,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 32,
+      "title": "The Way Back",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 22,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 33,
+      "title": "The Great American Bar Scene",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "23",
+        "Peak Position": 23,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Holy Smokes",
+      "artist": "Bailey Zimmerman",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 13,
+        "Wks on Chart": 21
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Love You, Miss You, Mean It",
+      "artist": "Luke Bryan",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 36,
+      "title": "New To Country",
+      "artist": "Bailey Zimmerman",
+      "position": {
+        "Last Week": "46",
+        "Peak Position": 27,
+        "Wks on Chart": 3
+      }
+    },
+    {
+      "rank": 37,
+      "title": "She's Somebody's Daughter (Reimagined)",
+      "artist": "Drew Baldridge",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 37,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 38,
+      "title": "Worst Way",
+      "artist": "Riley Green",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 32,
+        "Wks on Chart": 13
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Love You Again",
+      "artist": "Chase Matthew",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 29,
+        "Wks on Chart": 38
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Young Love & Saturday Nights",
+      "artist": "Chris Young",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 29,
+        "Wks on Chart": 16
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Purple Gas",
+      "artist": "Zach Bryan & Noeline Hofmann",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 19,
+        "Wks on Chart": 6
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Devil You Know",
+      "artist": "Tyler Braden",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 30,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Remember Him That Way",
+      "artist": "Luke Combs",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 12,
+        "Wks on Chart": 5
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Boons",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 28,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 45,
+      "title": "Nine Ball",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "47",
+        "Peak Position": 15,
+        "Wks on Chart": 19
+      }
+    },
+    {
+      "rank": 46,
+      "title": "What He'll Never Have",
+      "artist": "Dylan Scott",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 35,
+        "Wks on Chart": 14
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Mechanical Bull",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 27,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Mama I Lied",
+      "artist": "Megan Moroney",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 48,
+        "Wks on Chart": 1
+      }
+    },
+    {
+      "rank": 49,
+      "title": "Northern Thunder",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 38,
+        "Wks on Chart": 2
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Relapse",
+      "artist": "Warren Zeiders",
+      "position": {
+        "Last Week": "-",
+        "Peak Position": 30,
+        "Wks on Chart": 5
+      }
+    }
+  ]
+}
