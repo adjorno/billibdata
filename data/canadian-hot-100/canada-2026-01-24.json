@@ -1,0 +1,906 @@
+{
+  "name": "Canada",
+  "chart_date": "2026-01-24",
+  "tracks": [
+    {
+      "rank": 1,
+      "title": "The Fate Of Ophelia",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 15
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 21
+      }
+    },
+    {
+      "rank": 3,
+      "title": "I Just Might",
+      "artist": "Bruno Mars",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 48
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Golden",
+      "artist": "HUNTR/X: EJAE, Audrey Nuna & REI AMI",
+      "position": {
+        "Last Week": "1",
+        "Peak Position": 29
+      }
+    },
+    {
+      "rank": 6,
+      "title": "End Of Beginning",
+      "artist": "Djo",
+      "position": {
+        "Last Week": "5",
+        "Peak Position": 24
+      }
+    },
+    {
+      "rank": 7,
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 13
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Where Is My Husband!",
+      "artist": "RAYE",
+      "position": {
+        "Last Week": "8",
+        "Peak Position": 17
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Back To Friends",
+      "artist": "sombr",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 32
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Opalite",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 15
+      }
+    },
+    {
+      "rank": 11,
+      "title": "Plastic Cigarette",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "11",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 12,
+      "title": "Daisies",
+      "artist": "Justin Bieber",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 26
+      }
+    },
+    {
+      "rank": 13,
+      "title": "No Broke Boys",
+      "artist": "Disco Lines & Tinashe",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 30
+      }
+    },
+    {
+      "rank": 14,
+      "title": "Sleepless In A Hotel Room",
+      "artist": "Luke Combs",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 2
+      }
+    },
+    {
+      "rank": 15,
+      "title": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "position": {
+        "Last Week": "14",
+        "Peak Position": 16
+      }
+    },
+    {
+      "rank": 16,
+      "title": "I Got Better",
+      "artist": "Morgan Wallen",
+      "position": {
+        "Last Week": "9",
+        "Peak Position": 31
+      }
+    },
+    {
+      "rank": 17,
+      "title": "Lush Life",
+      "artist": "Zara Larsson",
+      "position": {
+        "Last Week": "17",
+        "Peak Position": 24
+      }
+    },
+    {
+      "rank": 18,
+      "title": "Say Why",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "18",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 19,
+      "title": "Gone Gone Gone",
+      "artist": "David Guetta, Teddy Swims & Tones And I",
+      "position": {
+        "Last Week": "15",
+        "Peak Position": 14
+      }
+    },
+    {
+      "rank": 20,
+      "title": "What I Want",
+      "artist": "Morgan Wallen Featuring Tate McRae",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 30
+      }
+    },
+    {
+      "rank": 21,
+      "title": "Better Me For You (Brown Eyes)",
+      "artist": "Max McNown",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 23
+      }
+    },
+    {
+      "rank": 22,
+      "title": "Manchild",
+      "artist": "Sabrina Carpenter",
+      "position": {
+        "Last Week": "2",
+        "Peak Position": 29
+      }
+    },
+    {
+      "rank": 23,
+      "title": "Love Me Not",
+      "artist": "Ravyn Lenae",
+      "position": {
+        "Last Week": "7",
+        "Peak Position": 41
+      }
+    },
+    {
+      "rank": 24,
+      "title": "What You Saying",
+      "artist": "Lil Uzi Vert",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 3
+      }
+    },
+    {
+      "rank": 25,
+      "title": "Appetite",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 26,
+      "title": "4 Raws",
+      "artist": "EsDeeKid",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 9
+      }
+    },
+    {
+      "rank": 27,
+      "title": "Bad News",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "27",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 28,
+      "title": "Tit For Tat",
+      "artist": "Tate McRae",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 16
+      }
+    },
+    {
+      "rank": 29,
+      "title": "Purple Rain",
+      "artist": "Prince And The Revolution",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 3
+      }
+    },
+    {
+      "rank": 30,
+      "title": "Runny Eggs",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 31,
+      "title": "Die On This Hill",
+      "artist": "Sienna Spiro",
+      "position": {
+        "Last Week": "31",
+        "Peak Position": 9
+      }
+    },
+    {
+      "rank": 32,
+      "title": "Skin",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 33,
+      "title": "Dry Deserts",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 34,
+      "title": "Amen",
+      "artist": "Shaboozey & Jelly Roll",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 23
+      }
+    },
+    {
+      "rank": 35,
+      "title": "Gabriela",
+      "artist": "KATSEYE",
+      "position": {
+        "Last Week": "20",
+        "Peak Position": 26
+      }
+    },
+    {
+      "rank": 36,
+      "title": "12 To 12",
+      "artist": "sombr",
+      "position": {
+        "Last Week": "25",
+        "Peak Position": 23
+      }
+    },
+    {
+      "rank": 37,
+      "title": "Chanel",
+      "artist": "Tyla",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 9
+      }
+    },
+    {
+      "rank": 38,
+      "title": "6 Months Later",
+      "artist": "Megan Moroney",
+      "position": {
+        "Last Week": "34",
+        "Peak Position": 23
+      }
+    },
+    {
+      "rank": 39,
+      "title": "Folded",
+      "artist": "Kehlani",
+      "position": {
+        "Last Week": "24",
+        "Peak Position": 23
+      }
+    },
+    {
+      "rank": 40,
+      "title": "Deann's Denim",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "40",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 41,
+      "title": "Drowning",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "41",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 42,
+      "title": "Santa Fe",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "42",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 43,
+      "title": "Tears",
+      "artist": "Sabrina Carpenter",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 20
+      }
+    },
+    {
+      "rank": 44,
+      "title": "Raindance",
+      "artist": "Dave & Tems",
+      "position": {
+        "Last Week": "44",
+        "Peak Position": 5
+      }
+    },
+    {
+      "rank": 45,
+      "title": "I Run",
+      "artist": "HAVEN. Featuring Kaitlin Aragon",
+      "position": {
+        "Last Week": "45",
+        "Peak Position": 8
+      }
+    },
+    {
+      "rank": 46,
+      "title": "Hate How You Look",
+      "artist": "Josh Ross",
+      "position": {
+        "Last Week": "28",
+        "Peak Position": 18
+      }
+    },
+    {
+      "rank": 47,
+      "title": "Don't Mind If I Do",
+      "artist": "Riley Green Featuring Ella Langley",
+      "position": {
+        "Last Week": "30",
+        "Peak Position": 23
+      }
+    },
+    {
+      "rank": 48,
+      "title": "Anyways",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "48",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 49,
+      "title": "I Thought I Saw Your Face Today",
+      "artist": "She & Him",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 6
+      }
+    },
+    {
+      "rank": 50,
+      "title": "Slicked Back",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "50",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 51,
+      "title": "Cannonball",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 52,
+      "title": "South And Pine",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 53,
+      "title": "Camera",
+      "artist": "Ed Sheeran",
+      "position": {
+        "Last Week": "36",
+        "Peak Position": 17
+      }
+    },
+    {
+      "rank": 54,
+      "title": "A Couple Minutes",
+      "artist": "Olivia Dean",
+      "position": {
+        "Last Week": "38",
+        "Peak Position": 12
+      }
+    },
+    {
+      "rank": 55,
+      "title": "With Heaven On Top",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 56,
+      "title": "Phantom",
+      "artist": "EsDeeKid & Rico Ace",
+      "position": {
+        "Last Week": "35",
+        "Peak Position": 10
+      }
+    },
+    {
+      "rank": 57,
+      "title": "Girls Like You",
+      "artist": "Sofia Camara",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 18
+      }
+    },
+    {
+      "rank": 58,
+      "title": "Don't Kill The Party",
+      "artist": "Ty Dolla $ign Featuring Quavo & Juicy J",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 5
+      }
+    },
+    {
+      "rank": 59,
+      "title": "20 Cigarettes",
+      "artist": "Morgan Wallen",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 23
+      }
+    },
+    {
+      "rank": 60,
+      "title": "Rivers And Creeks",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 61,
+      "title": "Stateside",
+      "artist": "PinkPantheress With Zara Larsson",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 3
+      }
+    },
+    {
+      "rank": 62,
+      "title": "You Can Still Come Home",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "62",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 63,
+      "title": "Turn The Lights Off",
+      "artist": "KATO Featuring Jon",
+      "position": {
+        "Last Week": "33",
+        "Peak Position": 6
+      }
+    },
+    {
+      "rank": 64,
+      "title": "Internet Girl",
+      "artist": "KATSEYE",
+      "position": {
+        "Last Week": "32",
+        "Peak Position": 2
+      }
+    },
+    {
+      "rank": 65,
+      "title": "If They Come Lookin'",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "65",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 66,
+      "title": "homesick",
+      "artist": "Jamie Fine",
+      "position": {
+        "Last Week": "53",
+        "Peak Position": 12
+      }
+    },
+    {
+      "rank": 67,
+      "title": "Zoo",
+      "artist": "Shakira",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 4
+      }
+    },
+    {
+      "rank": 68,
+      "title": "Travelin' Soldier",
+      "artist": "Cody Johnson",
+      "position": {
+        "Last Week": "26",
+        "Peak Position": 10
+      }
+    },
+    {
+      "rank": 69,
+      "title": "Aeroplane",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "69",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 70,
+      "title": "I Hope",
+      "artist": "Tedy",
+      "position": {
+        "Last Week": "52",
+        "Peak Position": 8
+      }
+    },
+    {
+      "rank": 71,
+      "title": "Taillight This Town",
+      "artist": "Owen Riegling",
+      "position": {
+        "Last Week": "71",
+        "Peak Position": 3
+      }
+    },
+    {
+      "rank": 72,
+      "title": "Days Like These",
+      "artist": "Luke Combs",
+      "position": {
+        "Last Week": "61",
+        "Peak Position": 5
+      }
+    },
+    {
+      "rank": 73,
+      "title": "Nice To Each Other",
+      "artist": "Olivia Dean",
+      "position": {
+        "Last Week": "55",
+        "Peak Position": 18
+      }
+    },
+    {
+      "rank": 74,
+      "title": "Always Willin'",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "74",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 75,
+      "title": "Elizabeth Taylor",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "3",
+        "Peak Position": 15
+      }
+    },
+    {
+      "rank": 76,
+      "title": "Rather Be",
+      "artist": "The Kid Laroi Featuring Lithe",
+      "position": {
+        "Last Week": "76",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 77,
+      "title": "Miles",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "77",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 78,
+      "title": "Come N Go",
+      "artist": "Yeat",
+      "position": {
+        "Last Week": "51",
+        "Peak Position": 15
+      }
+    },
+    {
+      "rank": 79,
+      "title": "Favorite Country Song",
+      "artist": "HARDY",
+      "position": {
+        "Last Week": "68",
+        "Peak Position": 6
+      }
+    },
+    {
+      "rank": 80,
+      "title": "When Did You Get Hot?",
+      "artist": "Sabrina Carpenter",
+      "position": {
+        "Last Week": "19",
+        "Peak Position": 20
+      }
+    },
+    {
+      "rank": 81,
+      "title": "Who Knows",
+      "artist": "Daniel Caesar",
+      "position": {
+        "Last Week": "73",
+        "Peak Position": 10
+      }
+    },
+    {
+      "rank": 82,
+      "title": "All Good Things Past",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "82",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 83,
+      "title": "Father Figure",
+      "artist": "Taylor Swift",
+      "position": {
+        "Last Week": "4",
+        "Peak Position": 15
+      }
+    },
+    {
+      "rank": 84,
+      "title": "Punk Rocky",
+      "artist": "A$AP Rocky",
+      "position": {
+        "Last Week": "84",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 85,
+      "title": "Century",
+      "artist": "EsDeeKid",
+      "position": {
+        "Last Week": "75",
+        "Peak Position": 7
+      }
+    },
+    {
+      "rank": 86,
+      "title": "Dracula",
+      "artist": "Tame Impala",
+      "position": {
+        "Last Week": "37",
+        "Peak Position": 16
+      }
+    },
+    {
+      "rank": 87,
+      "title": "3,2,1",
+      "artist": "Tucker Wetmore",
+      "position": {
+        "Last Week": "60",
+        "Peak Position": 11
+      }
+    },
+    {
+      "rank": 88,
+      "title": "Brunette",
+      "artist": "Tucker Wetmore",
+      "position": {
+        "Last Week": "71",
+        "Peak Position": 22
+      }
+    },
+    {
+      "rank": 89,
+      "title": "Fame Is A Gun",
+      "artist": "Addison Rae",
+      "position": {
+        "Last Week": "59",
+        "Peak Position": 9
+      }
+    },
+    {
+      "rank": 90,
+      "title": "No Batidao",
+      "artist": "ZXKAI & slxughter",
+      "position": {
+        "Last Week": "85",
+        "Peak Position": 4
+      }
+    },
+    {
+      "rank": 91,
+      "title": "Let Alone The One You Love",
+      "artist": "Olivia Dean",
+      "position": {
+        "Last Week": "68",
+        "Peak Position": 13
+      }
+    },
+    {
+      "rank": 92,
+      "title": "Breakin' Dishes",
+      "artist": "Rihanna",
+      "position": {
+        "Last Week": "49",
+        "Peak Position": 18
+      }
+    },
+    {
+      "rank": 93,
+      "title": "Camper",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "93",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 94,
+      "title": "The Life Of A Showgirl",
+      "artist": "Taylor Swift Featuring Sabrina Carpenter",
+      "position": {
+        "Last Week": "6",
+        "Peak Position": 15
+      }
+    },
+    {
+      "rank": 95,
+      "title": "Sundown Girls",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "95",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 96,
+      "title": "Anything But Love",
+      "artist": "Tate McRae",
+      "position": {
+        "Last Week": "22",
+        "Peak Position": 7
+      }
+    },
+    {
+      "rank": 97,
+      "title": "You Stole The Show",
+      "artist": "Sienna Spiro",
+      "position": {
+        "Last Week": "97",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 98,
+      "title": "Down, Down, Stream",
+      "artist": "Zach Bryan",
+      "position": {
+        "Last Week": "98",
+        "Peak Position": 1
+      }
+    },
+    {
+      "rank": 99,
+      "title": "I've Seen It",
+      "artist": "Olivia Dean",
+      "position": {
+        "Last Week": "74",
+        "Peak Position": 7
+      }
+    },
+    {
+      "rank": 100,
+      "title": "Cowgirl",
+      "artist": "Parmalee",
+      "position": {
+        "Last Week": "100",
+        "Peak Position": 1
+      }
+    }
+  ]
+}
